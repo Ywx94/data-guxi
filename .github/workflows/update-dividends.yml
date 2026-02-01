@@ -1,0 +1,175 @@
+name: 📈 更新股息数据
+
+on:
+  # 定时触发 - 每天北京时间早上 6 点 (UTC 22:00)
+  schedule:
+    - cron: '0 22 * * *'
+  
+  # 手动触发
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: '手动触发原因'
+        required: false
+        default: '手动更新'
+
+# 防止同时运行多个
+concurrency:
+  group: update-dividends
+  cancel-in-progress: true
+
+jobs:
+  fetch-and-update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    
+    permissions:
+      contents: write
+    
+    steps:
+      - name: 📥 检出仓库
+        uses: actions/checkout@v4
+      
+      - name: 🟢 设置 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      
+      - name: 📦 安装依赖
+        run: npm install
+      
+      - name: 🔄 获取股息数据
+        run: npm run fetch
+        env:
+          NODE_ENV: production
+      
+      - name: 📊 显示统计
+        run: |
+          echo "=== 数据统计 ==="
+          if [ -f data/dividends.json ]; then
+            echo "文件大小: $(du -h data/dividends.json | cut -f1)"
+            echo "股票数量: $(jq '.metadata.dividendStocksCount' data/dividends.json)"
+            echo "更新时间: $(jq -r '.lastUpdated' data/dividends.json)"
+            echo ""
+            echo "=== Top 5 高股息股票 ==="
+            jq -r '.statistics.top10ByYield[:5][] | "\(.symbol): \(.yield)"' data/dividends.json
+          else
+            echo "❌ 数据文件未生成"
+            exit 1
+          fi
+      
+      - name: 💾 提交并推送
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          
+          git add data/
+          
+          if git diff --staged --quiet; then
+            echo "📭 没有数据变化"
+          else
+            STOCK_COUNT=$(jq '.metadata.dividendStocksCount' data/dividends.json)
+            git commit -m "📈 更新股息数据: ${STOCK_COUNT} 只股票 [$(date +'%Y-%m-%d')]"
+            git push
+            echo "✅ 数据已更新并推送"
+          fi
+      
+      - name: 📝 生成运行摘要
+        run: |
+          echo "## 📈 股息数据更新报告" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "| 指标 | 值 |" >> $GITHUB_STEP_SUMMARY
+          echo "|------|-----|" >> $GITHUB_STEP_SUMMARY
+          echo "| 更新时间 | $(jq -r '.lastUpdated' data/dividends.json) |" >> $GITHUB_STEP_SUMMARY
+          echo "| 扫描股票数 | $(jq '.metadata.totalScanned' data/dividends.json) |" >> $GITHUB_STEP_SUMMARY
+          echo "| 股息股票数 | $(jq '.metadata.dividendStocksCount' data/dividends.json) |" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### 🏆 Top 10 高股息" >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
+          jq -r '.statistics.top10ByYield[] | "\(.symbol) - \(.name): \(.yield)"' data/dividends.json >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
+
+  deploy-pages:
+    needs: fetch-and-update
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    
+    steps:
+      - name: 📥 检出仓库
+        uses: actions/checkout@v4
+        with:
+          ref: main
+      
+      - name: 🔄 拉取最新更改
+        run: git pull origin main
+      
+      - name: 📄 创建 index.html
+        run: |
+          cat > data/index.html << 'EOF'
+          <!DOCTYPE html>
+          <html>
+          <head>
+            <title>Data Guxi API</title>
+            <meta charset="UTF-8">
+            <style>
+              body { font-family: -apple-system, sans-serif; max-width: 800px; margin: 50px auto; padding: 20px; }
+              code { background: #f4f4f4; padding: 2px 6px; border-radius: 4px; }
+              pre { background: #f4f4f4; padding: 15px; border-radius: 8px; overflow-x: auto; }
+              a { color: #0066cc; }
+              h1 { color: #333; }
+            </style>
+          </head>
+          <body>
+            <h1>📈 Data Guxi - 美股股息数据 API</h1>
+            <p>每日自动更新的美股股息股票数据</p>
+            
+            <h2>📡 API 端点</h2>
+            <ul>
+              <li><a href="./dividends.json">dividends.json</a> - 完整股息数据</li>
+            </ul>
+            
+            <h2>💻 使用示例</h2>
+            <pre>
+          fetch('https://你的用户名.github.io/data-guxi/dividends.json')
+            .then(res => res.json())
+            .then(data => {
+              console.log('股息股票数量:', data.metadata.dividendStocksCount);
+              console.log('Top 10:', data.statistics.top10ByYield);
+            });
+            </pre>
+            
+            <h2>📊 数据结构</h2>
+            <pre>
+          {
+            "lastUpdated": "ISO时间戳",
+            "metadata": { ... },
+            "statistics": { ... },
+            "stocks": [ ... ]
+          }
+            </pre>
+            
+            <p>⏰ 数据更新时间：每天北京时间 6:00</p>
+          </body>
+          </html>
+          EOF
+      
+      - name: ⚙️ 配置 Pages
+        uses: actions/configure-pages@v4
+      
+      - name: 📤 上传到 Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'data'
+      
+      - name: 🚀 部署 Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

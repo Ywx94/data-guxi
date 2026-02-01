@@ -1,0 +1,11 @@
+{
+  "name": "data-guxi",
+  "version": "1.0.0",
+  "description": "自动追踪美股股息数据",
+  "scripts": {
+    "fetch": "node scripts/fetch-dividends.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
