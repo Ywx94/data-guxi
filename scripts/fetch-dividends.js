@@ -31,22 +31,47 @@ function parseRevenue(str) {
   return isNaN(num) ? null : num;
 }
 
-// 解析股息历史记录
+// 解析股息历史 - 按年合并
 function parseDividendHistory(dividends) {
   if (!dividends || !dividends.rows || !Array.isArray(dividends.rows)) {
     return [];
   }
 
-  return dividends.rows.map(row => {
-    return {
-      exDate: row.exOrEffDate || '',           // 除息日
-      type: row.type || '',                     // 类型 (Cash, Stock, etc.)
-      amount: row.amount || '',                 // 股息金额
-      declarationDate: row.declarationDate || '', // 宣布日
-      recordDate: row.recordDate || '',         // 登记日
-      paymentDate: row.paymentDate || '',       // 派息日
-    };
-  }).filter(item => item.exDate && item.amount); // 过滤无效记录
+  // 按年份分组累加
+  const byYear = {};
+  
+  dividends.rows.forEach(row => {
+    const exDate = row.exOrEffDate || '';
+    const amountStr = row.amount || '';
+    
+    if (!exDate || !amountStr) return;
+    
+    // 提取年份 (支持 MM/DD/YYYY 或 YYYY-MM-DD 格式)
+    let year = null;
+    if (exDate.includes('/')) {
+      const parts = exDate.split('/');
+      year = parts[2]; // MM/DD/YYYY
+    } else if (exDate.includes('-')) {
+      year = exDate.split('-')[0]; // YYYY-MM-DD
+    }
+    
+    if (!year || year.length !== 4) return;
+    
+    // 解析金额
+    const amount = parseFloat(amountStr.replace('$', '')) || 0;
+    if (amount <= 0) return;
+    
+    // 累加到对应年份
+    byYear[year] = (byYear[year] || 0) + amount;
+  });
+
+  // 转换为数组，按年份升序排列（老的在前）
+return Object.entries(byYear)
+  .map(([year, amount]) => ({
+    year: year,
+    amount: `$${amount.toFixed(2)}`
+  }))
+  .sort((a, b) => parseInt(a.year) - parseInt(b.year));  // ← a 和 b 交换
 }
 
 // 计算股息增长率
@@ -55,44 +80,22 @@ function calculateDividendGrowth(history) {
     return { rate: 'N/A', years: 0 };
   }
 
-  // 按年份分组，计算每年总股息
-  const byYear = {};
-  history.forEach(item => {
-    if (!item.exDate) return;
-    const year = item.exDate.split('/')[2] || item.exDate.split('-')[0];
-    if (!year || year.length !== 4) return;
-    
-    const amount = parseFloat(item.amount.replace('$', '')) || 0;
-    if (amount > 0) {
-      byYear[year] = (byYear[year] || 0) + amount;
-    }
-  });
-
-  const years = Object.keys(byYear).sort();
-  if (years.length < 2) {
-    return { rate: 'N/A', years: years.length };
-  }
-
-  // 计算年化增长率 (最早年 vs 最近年)
-  const oldestYear = years[0];
-  const latestYear = years[years.length - 1];
-  const oldestAmount = byYear[oldestYear];
-  const latestAmount = byYear[latestYear];
+  // history 按年份升序排列，最老在前，最新在后
+  const oldestYear = history[0].year;                        // 第一个是最老
+  const latestYear = history[history.length - 1].year;       // 最后一个是最新
+  const oldestAmount = parseFloat(history[0].amount.replace('$', ''));
+  const latestAmount = parseFloat(history[history.length - 1].amount.replace('$', ''));
   const yearSpan = parseInt(latestYear) - parseInt(oldestYear);
 
-  if (yearSpan > 0 && oldestAmount > 0) {
+  if (yearSpan > 0 && oldestAmount > 0 && latestAmount > 0) {
     const cagr = (Math.pow(latestAmount / oldestAmount, 1 / yearSpan) - 1) * 100;
     return {
       rate: `${cagr.toFixed(1)}%`,
       years: yearSpan,
-      oldestYear,
-      latestYear,
-      oldestAmount: `$${oldestAmount.toFixed(2)}`,
-      latestAmount: `$${latestAmount.toFixed(2)}`,
     };
   }
 
-  return { rate: 'N/A', years: years.length };
+  return { rate: 'N/A', years: 0 };
 }
 
 // ============== 主函数 ==============
@@ -144,7 +147,7 @@ async function main() {
               return null;
             }
 
-            // ★ 获取历史股息记录
+            // ★ 获取年度股息历史（已合并）
             const dividendHistory = parseDividendHistory(divData?.dividends);
             const dividendGrowth = calculateDividendGrowth(dividendHistory);
 
@@ -253,10 +256,10 @@ async function main() {
               growthRate: growthRate || 'N/A',
               growthSource: growthSource || '',
               description: description || '',
-              // ★ 新增：股息历史相关字段
-              dividendHistory: dividendHistory,           // 所有历史股息记录
-              dividendHistoryCount: dividendHistory.length, // 历史记录数量
-              dividendGrowth: dividendGrowth,             // 股息增长率统计
+              // ★ 年度股息历史
+              dividendHistory: dividendHistory,
+              dividendYears: dividendHistory.length,
+              dividendGrowth: dividendGrowth,
             };
           } catch {
             return null;
@@ -293,14 +296,12 @@ async function main() {
       industries[ind] = (industries[ind] || 0) + 1;
     });
 
-    // 增长率统计
+    // 统计
     const withGrowth = dividendStocks.filter(s => s.growthRate !== 'N/A').length;
     const withoutGrowth = dividendStocks.filter(s => s.growthRate === 'N/A').length;
-
-    // ★ 股息历史统计
-    const withDividendHistory = dividendStocks.filter(s => s.dividendHistoryCount > 0).length;
-    const avgHistoryCount = dividendStocks.length > 0 
-      ? (dividendStocks.reduce((sum, s) => sum + s.dividendHistoryCount, 0) / dividendStocks.length).toFixed(1)
+    const withDividendHistory = dividendStocks.filter(s => s.dividendYears > 0).length;
+    const avgYears = dividendStocks.length > 0 
+      ? (dividendStocks.reduce((sum, s) => sum + s.dividendYears, 0) / dividendStocks.length).toFixed(1)
       : 0;
 
     const duration = ((Date.now() - startTime) / 1000 / 60).toFixed(2);
@@ -316,7 +317,7 @@ async function main() {
         withGrowthData: withGrowth,
         withoutGrowthData: withoutGrowth,
         withDividendHistory: withDividendHistory,
-        avgHistoryRecords: avgHistoryCount,
+        avgDividendYears: avgYears,
         durationMinutes: duration,
       },
       sectors: Object.entries(sectors)
@@ -338,22 +339,22 @@ async function main() {
     console.log(`📊 总扫描: ${allStocks.length}`);
     console.log(`💰 股息股: ${dividendStocks.length}`);
     console.log(`📈 有增长率: ${withGrowth}`);
-    console.log(`❓ 无增长率: ${withoutGrowth}`);
     console.log(`📜 有历史记录: ${withDividendHistory}`);
-    console.log(`📊 平均历史记录数: ${avgHistoryCount}`);
+    console.log(`📊 平均派息年数: ${avgYears} 年`);
     console.log(`⏱️ 耗时: ${duration} 分钟`);
     console.log('═'.repeat(50));
     
     // 显示示例
     if (dividendStocks.length > 0) {
-      const sample = dividendStocks.find(s => s.dividendHistoryCount > 5) || dividendStocks[0];
-      console.log('\n📋 示例数据 (' + sample.symbol + '):');
+      const sample = dividendStocks.find(s => s.dividendYears >= 5) || dividendStocks[0];
+      console.log('\n📋 示例 (' + sample.symbol + '):');
       console.log(`   股息率: ${sample.dividendYield}`);
-      console.log(`   历史记录数: ${sample.dividendHistoryCount}`);
+      console.log(`   派息年数: ${sample.dividendYears} 年`);
       console.log(`   股息增长率: ${sample.dividendGrowth.rate}`);
-      if (sample.dividendHistory.length > 0) {
-        console.log(`   最近派息: ${sample.dividendHistory[0].exDate} - ${sample.dividendHistory[0].amount}`);
-      }
+      console.log('   年度股息:');
+      sample.dividendHistory.slice(0, 5).forEach(h => {
+        console.log(`     ${h.year}: ${h.amount}`);
+      });
     }
 
   } catch (error) {
