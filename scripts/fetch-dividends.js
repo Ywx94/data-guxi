@@ -10,7 +10,9 @@ const HEADERS = {
   'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
 };
 
-const FILTER_NA = false; // 是否过滤没有增长率的股票
+const BATCH_SIZE = 5;
+const DELAY_MS = 150;
+const STOCK_LIMIT = 10000; // 改成 100 可以快速测试
 
 // ============== 路径设置 ==============
 const DATA_DIR = path.join(__dirname, '../data');
@@ -22,7 +24,6 @@ if (!fs.existsSync(DATA_DIR)) {
 
 // ============== 工具函数 ==============
 
-// 解析收入字符串 "$416,161,000" -> 416161000
 function parseRevenue(str) {
   if (!str) return null;
   const cleaned = str.replace(/[$,]/g, '');
@@ -34,12 +35,12 @@ function parseRevenue(str) {
 
 async function main() {
   const startTime = Date.now();
-  
+
   try {
     console.log('Fetching all stocks...');
     
     const screenerRes = await fetch(
-      'https://api.nasdaq.com/api/screener/stocks?tableonly=true&limit=10000',
+      `https://api.nasdaq.com/api/screener/stocks?tableonly=true&limit=${STOCK_LIMIT}`,
       { headers: HEADERS }
     );
     
@@ -49,10 +50,9 @@ async function main() {
     console.log(`Total stocks: ${allStocks.length}`);
 
     const dividendStocks = [];
-    const batchSize = 5;
 
-    for (let i = 0; i < allStocks.length; i += batchSize) {
-      const batch = allStocks.slice(i, i + batchSize);
+    for (let i = 0; i < allStocks.length; i += BATCH_SIZE) {
+      const batch = allStocks.slice(i, i + BATCH_SIZE);
       
       const results = await Promise.all(
         batch.map(async (stock) => {
@@ -80,7 +80,7 @@ async function main() {
               return null;
             }
 
-            // 2. 获取公司简介
+            // 2. 获取公司简介 + Sector/Industry
             let description = '';
             let sector = '';
             let industry = '';
@@ -101,11 +101,28 @@ async function main() {
               }
             } catch {}
 
-            // 3. 获取增长率（多个来源）
+            // 3. 如果 profile 没有 sector，从 summary 获取
+            if (!sector) {
+              try {
+                const summaryRes = await fetch(
+                  `https://api.nasdaq.com/api/quote/${stock.symbol}/summary?assetclass=stocks`,
+                  { headers: HEADERS }
+                );
+                
+                if (summaryRes.ok) {
+                  const summaryJson = await summaryRes.json();
+                  const summaryData = summaryJson?.data?.summaryData;
+                  
+                  sector = summaryData?.Sector?.value || '';
+                  industry = summaryData?.Industry?.value || '';
+                }
+              } catch {}
+            }
+
+            // 4. 获取增长率
             let growthRate = '';
             let growthSource = '';
 
-            // 来源1: PEG Ratio API（分析师预测）
             try {
               const pegRes = await fetch(
                 `https://api.nasdaq.com/api/analyst/${stock.symbol}/peg-ratio`,
@@ -124,7 +141,7 @@ async function main() {
               }
             } catch {}
 
-            // 来源2: 如果没有，用财务数据计算历史增长率
+            // 5. 如果没有增长率，计算历史收入增长
             if (!growthRate) {
               try {
                 const finRes = await fetch(
@@ -136,18 +153,15 @@ async function main() {
                   const finJson = await finRes.json();
                   const rows = finJson?.data?.incomeStatementTable?.rows || [];
                   
-                  // 找到 Total Revenue 行
                   const revenueRow = rows.find((r) => 
                     r.value1?.toLowerCase().includes('total revenue')
                   );
                   
                   if (revenueRow) {
-                    // 解析收入数据 (value2 是最新, value5 是4年前)
                     const latestRevenue = parseRevenue(revenueRow.value2);
                     const oldestRevenue = parseRevenue(revenueRow.value5);
                     
                     if (latestRevenue && oldestRevenue && oldestRevenue !== 0) {
-                      // 计算年化增长率 (CAGR over 4 years)
                       const cagr = (Math.pow(latestRevenue / oldestRevenue, 1/4) - 1) * 100;
                       growthRate = `${cagr.toFixed(1)}%`;
                       growthSource = '4yr Revenue CAGR';
@@ -162,15 +176,15 @@ async function main() {
               name: stock.name,
               price: stock.lastsale,
               marketCap: stock.marketCap,
-              sector: sector || stock.sector || '',
-              industry: industry || stock.industry || '',
+              sector: sector || 'N/A',
+              industry: industry || 'N/A',
               dividendYield: yieldStr,
               annualDividend: `$${annualDiv}`,
               exDividendDate: divData.exDividendDate || '',
               paymentDate: divData.dividendPaymentDate || '',
               growthRate: growthRate || 'N/A',
               growthSource: growthSource || '',
-              description: description,
+              description: description || '',
             };
           } catch {
             return null;
@@ -180,53 +194,83 @@ async function main() {
 
       results.forEach(r => { if (r) dividendStocks.push(r); });
       
-      const progress = Math.min(i + batchSize, allStocks.length);
+      const progress = Math.min(i + BATCH_SIZE, allStocks.length);
       console.log(`Progress: ${progress}/${allStocks.length} | Found: ${dividendStocks.length}`);
       
-      await new Promise(r => setTimeout(r, 150));
+      await new Promise(r => setTimeout(r, DELAY_MS));
     }
 
-    // 按股息率排序
+    // 排序
     dividendStocks.sort((a, b) => {
       const yA = parseFloat(a.dividendYield) || 0;
       const yB = parseFloat(b.dividendYield) || 0;
       return yB - yA;
     });
 
-    // 如果需要过滤 N/A
-    const finalStocks = FILTER_NA 
-      ? dividendStocks.filter(s => s.growthRate !== 'N/A')
-      : dividendStocks;
+    // 统计所有行业
+    const sectors = {};
+    dividendStocks.forEach(s => {
+      const sec = s.sector || 'N/A';
+      sectors[sec] = (sectors[sec] || 0) + 1;
+    });
 
-    // 统计
+    // 统计所有产业
+    const industries = {};
+    dividendStocks.forEach(s => {
+      const ind = s.industry || 'N/A';
+      industries[ind] = (industries[ind] || 0) + 1;
+    });
+
+    // 增长率统计
     const withGrowth = dividendStocks.filter(s => s.growthRate !== 'N/A').length;
     const withoutGrowth = dividendStocks.filter(s => s.growthRate === 'N/A').length;
+
+    const duration = ((Date.now() - startTime) / 1000 / 60).toFixed(2);
 
     // 构建输出数据
     const outputData = {
       success: true,
       lastUpdated: new Date().toISOString(),
-      count: finalStocks.length,
+      count: dividendStocks.length,
       totalScanned: allStocks.length,
       stats: {
         totalDividendStocks: dividendStocks.length,
         withGrowthData: withGrowth,
         withoutGrowthData: withoutGrowth,
-        durationMinutes: ((Date.now() - startTime) / 1000 / 60).toFixed(2),
+        durationMinutes: duration,
       },
-      stocks: finalStocks,
+      sectors: Object.entries(sectors)
+        .sort((a, b) => b[1] - a[1])
+        .map(([name, count]) => ({ name, count })),
+      industries: Object.entries(industries)
+        .sort((a, b) => b[1] - a[1])
+        .map(([name, count]) => ({ name, count })),
+      stocks: dividendStocks,
     };
 
     // 保存到文件
     fs.writeFileSync(OUTPUT_FILE, JSON.stringify(outputData, null, 2));
 
+    // 输出统计
     console.log('\n✅ 完成！');
+    console.log('═'.repeat(50));
     console.log(`📁 保存至: ${OUTPUT_FILE}`);
     console.log(`📊 总扫描: ${allStocks.length}`);
     console.log(`💰 股息股: ${dividendStocks.length}`);
     console.log(`📈 有增长率: ${withGrowth}`);
     console.log(`❓ 无增长率: ${withoutGrowth}`);
-    console.log(`⏱️ 耗时: ${outputData.stats.durationMinutes} 分钟`);
+    console.log(`⏱️ 耗时: ${duration} 分钟`);
+    console.log('═'.repeat(50));
+    
+    console.log('\n📊 行业分布 (Top 10):');
+    outputData.sectors.slice(0, 10).forEach((s, i) => {
+      console.log(`   ${i + 1}. ${s.name}: ${s.count}`);
+    });
+
+    console.log('\n🏭 产业分布 (Top 10):');
+    outputData.industries.slice(0, 10).forEach((s, i) => {
+      console.log(`   ${i + 1}. ${s.name}: ${s.count}`);
+    });
 
   } catch (error) {
     console.error('Error:', error);
@@ -234,5 +278,4 @@ async function main() {
   }
 }
 
-// 执行
 main();
