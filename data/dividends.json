@@ -1,14 +1,522 @@
 {
   "success": true,
-  "lastUpdated": "2026-02-01T22:52:36.647Z",
-  "count": 836,
+  "lastUpdated": "2026-02-02T06:56:57.432Z",
+  "count": 835,
   "totalScanned": 7056,
   "stats": {
-    "totalDividendStocks": 836,
-    "withGrowthData": 799,
+    "totalDividendStocks": 835,
+    "withGrowthData": 798,
     "withoutGrowthData": 37,
-    "durationMinutes": "6.51"
+    "durationMinutes": "11.37"
   },
+  "sectors": [
+    {
+      "name": "Finance",
+      "count": 390
+    },
+    {
+      "name": "Consumer Discretionary",
+      "count": 123
+    },
+    {
+      "name": "Technology",
+      "count": 79
+    },
+    {
+      "name": "Industrials",
+      "count": 71
+    },
+    {
+      "name": "Real Estate",
+      "count": 55
+    },
+    {
+      "name": "Health Care",
+      "count": 23
+    },
+    {
+      "name": "Energy",
+      "count": 22
+    },
+    {
+      "name": "Consumer Staples",
+      "count": 19
+    },
+    {
+      "name": "Utilities",
+      "count": 18
+    },
+    {
+      "name": "N/A",
+      "count": 15
+    },
+    {
+      "name": "Telecommunications",
+      "count": 13
+    },
+    {
+      "name": "Basic Materials",
+      "count": 5
+    },
+    {
+      "name": "Miscellaneous",
+      "count": 2
+    }
+  ],
+  "industries": [
+    {
+      "name": "Major Banks",
+      "count": 210
+    },
+    {
+      "name": "Real Estate Investment Trusts",
+      "count": 46
+    },
+    {
+      "name": "Finance: Consumer Services",
+      "count": 35
+    },
+    {
+      "name": "Investment Managers",
+      "count": 34
+    },
+    {
+      "name": "Savings Institutions",
+      "count": 20
+    },
+    {
+      "name": "Computer Software: Prepackaged Software",
+      "count": 19
+    },
+    {
+      "name": "Semiconductors",
+      "count": 19
+    },
+    {
+      "name": "Property-Casualty Insurers",
+      "count": 17
+    },
+    {
+      "name": "Real Estate",
+      "count": 15
+    },
+    {
+      "name": "N/A",
+      "count": 15
+    },
+    {
+      "name": "Industrial Machinery/Components",
+      "count": 15
+    },
+    {
+      "name": "EDP Services",
+      "count": 13
+    },
+    {
+      "name": "Restaurants",
+      "count": 12
+    },
+    {
+      "name": "Investment Bankers/Brokers/Service",
+      "count": 12
+    },
+    {
+      "name": "Banks",
+      "count": 12
+    },
+    {
+      "name": "Marine Transportation",
+      "count": 11
+    },
+    {
+      "name": "Oil & Gas Production",
+      "count": 11
+    },
+    {
+      "name": "Telecommunications Equipment",
+      "count": 11
+    },
+    {
+      "name": "Finance Companies",
+      "count": 10
+    },
+    {
+      "name": "Professional Services",
+      "count": 9
+    },
+    {
+      "name": "Biotechnology: Pharmaceutical Preparations",
+      "count": 9
+    },
+    {
+      "name": "Farming/Seeds/Milling",
+      "count": 8
+    },
+    {
+      "name": "Industrial Specialties",
+      "count": 8
+    },
+    {
+      "name": "Trucking Freight/Courier Services",
+      "count": 8
+    },
+    {
+      "name": "Finance/Investors Services",
+      "count": 7
+    },
+    {
+      "name": "Water Supply",
+      "count": 7
+    },
+    {
+      "name": "Broadcasting",
+      "count": 7
+    },
+    {
+      "name": "Computer Software: Programming, Data Processing",
+      "count": 7
+    },
+    {
+      "name": "Electronic Components",
+      "count": 7
+    },
+    {
+      "name": "Trusts, Except Educational, Religious, and Charitable",
+      "count": 6
+    },
+    {
+      "name": "Auto Parts:O.E.M.",
+      "count": 6
+    },
+    {
+      "name": "Power Generation",
+      "count": 6
+    },
+    {
+      "name": "Life Insurance",
+      "count": 6
+    },
+    {
+      "name": "Commercial Banks",
+      "count": 6
+    },
+    {
+      "name": "Diversified Commercial Services",
+      "count": 6
+    },
+    {
+      "name": "Beverages (Production/Distribution)",
+      "count": 6
+    },
+    {
+      "name": "Hotels/Resorts",
+      "count": 6
+    },
+    {
+      "name": "Apparel",
+      "count": 5
+    },
+    {
+      "name": "Medical/Dental Instruments",
+      "count": 5
+    },
+    {
+      "name": "Other Consumer Services",
+      "count": 5
+    },
+    {
+      "name": "Recreational Games/Products/Toys",
+      "count": 5
+    },
+    {
+      "name": "Services-Misc. Amusement & Recreation",
+      "count": 5
+    },
+    {
+      "name": "Major Chemicals",
+      "count": 5
+    },
+    {
+      "name": "Electrical Products",
+      "count": 5
+    },
+    {
+      "name": "Coal Mining",
+      "count": 4
+    },
+    {
+      "name": "Misc Corporate Leasing Services",
+      "count": 4
+    },
+    {
+      "name": "Plastic Products",
+      "count": 4
+    },
+    {
+      "name": "Packaged Foods",
+      "count": 4
+    },
+    {
+      "name": "Home Furnishings",
+      "count": 4
+    },
+    {
+      "name": "Food Chains",
+      "count": 4
+    },
+    {
+      "name": "Metal Fabrications",
+      "count": 4
+    },
+    {
+      "name": "Other Specialty Stores",
+      "count": 4
+    },
+    {
+      "name": "Electric Utilities: Central",
+      "count": 4
+    },
+    {
+      "name": "Specialty Insurers",
+      "count": 4
+    },
+    {
+      "name": "Textiles",
+      "count": 3
+    },
+    {
+      "name": "Computer peripheral equipment",
+      "count": 3
+    },
+    {
+      "name": "Steel/Iron Ore",
+      "count": 3
+    },
+    {
+      "name": "Biotechnology: Biological Products (No Diagnostic Substances)",
+      "count": 3
+    },
+    {
+      "name": "Retail: Computer Software & Peripheral Equipment",
+      "count": 3
+    },
+    {
+      "name": "Retail-Auto Dealers and Gas Stations",
+      "count": 3
+    },
+    {
+      "name": "Military/Government/Technical",
+      "count": 3
+    },
+    {
+      "name": "Catalog/Specialty Distribution",
+      "count": 2
+    },
+    {
+      "name": "Air Freight/Delivery Services",
+      "count": 2
+    },
+    {
+      "name": "Medical/Nursing Services",
+      "count": 2
+    },
+    {
+      "name": "Ordnance And Accessories",
+      "count": 2
+    },
+    {
+      "name": "Natural Gas Distribution",
+      "count": 2
+    },
+    {
+      "name": "Cable & Other Pay Television Services",
+      "count": 2
+    },
+    {
+      "name": "Package Goods/Cosmetics",
+      "count": 2
+    },
+    {
+      "name": "Containers/Packaging",
+      "count": 2
+    },
+    {
+      "name": "Biotechnology: Laboratory Analytical Instruments",
+      "count": 2
+    },
+    {
+      "name": "Motor Vehicles",
+      "count": 2
+    },
+    {
+      "name": "Specialty Foods",
+      "count": 2
+    },
+    {
+      "name": "Clothing/Shoe/Accessory Stores",
+      "count": 2
+    },
+    {
+      "name": "Radio And Television Broadcasting And Communications Equipment",
+      "count": 2
+    },
+    {
+      "name": "RETAIL: Building Materials",
+      "count": 2
+    },
+    {
+      "name": "Oil Refining/Marketing",
+      "count": 2
+    },
+    {
+      "name": "Shoe Manufacturing",
+      "count": 2
+    },
+    {
+      "name": "Oil and Gas Field Machinery",
+      "count": 2
+    },
+    {
+      "name": "Construction/Ag Equipment/Trucks",
+      "count": 2
+    },
+    {
+      "name": "Integrated Freight & Logistics",
+      "count": 2
+    },
+    {
+      "name": "Water, Sewer, Pipeline, Comm & Power Line Construction",
+      "count": 2
+    },
+    {
+      "name": "Precious Metals",
+      "count": 2
+    },
+    {
+      "name": "Department/Specialty Retail Stores",
+      "count": 2
+    },
+    {
+      "name": "Multi-Sector Companies",
+      "count": 2
+    },
+    {
+      "name": "Transportation Services",
+      "count": 2
+    },
+    {
+      "name": "Newspapers/Magazines",
+      "count": 2
+    },
+    {
+      "name": "Consumer Specialties",
+      "count": 1
+    },
+    {
+      "name": "Blank Checks",
+      "count": 1
+    },
+    {
+      "name": "Paper",
+      "count": 1
+    },
+    {
+      "name": "Homebuilding",
+      "count": 1
+    },
+    {
+      "name": "Movies/Entertainment",
+      "count": 1
+    },
+    {
+      "name": "Automotive Aftermarket",
+      "count": 1
+    },
+    {
+      "name": "Meat/Poultry/Fish",
+      "count": 1
+    },
+    {
+      "name": "Office Equipment/Supplies/Services",
+      "count": 1
+    },
+    {
+      "name": "Accident &Health Insurance",
+      "count": 1
+    },
+    {
+      "name": "Advertising",
+      "count": 1
+    },
+    {
+      "name": "Biotechnology: Commercial Physical & Biological Resarch",
+      "count": 1
+    },
+    {
+      "name": "Books",
+      "count": 1
+    },
+    {
+      "name": "Publishing",
+      "count": 1
+    },
+    {
+      "name": "Computer Communications Equipment",
+      "count": 1
+    },
+    {
+      "name": "Aerospace",
+      "count": 1
+    },
+    {
+      "name": "Food Distributors",
+      "count": 1
+    },
+    {
+      "name": "Railroads",
+      "count": 1
+    },
+    {
+      "name": "Forest Products",
+      "count": 1
+    },
+    {
+      "name": "Metal Mining",
+      "count": 1
+    },
+    {
+      "name": "Garments and Clothing",
+      "count": 1
+    },
+    {
+      "name": "Building Products",
+      "count": 1
+    },
+    {
+      "name": "Auto Manufacturing",
+      "count": 1
+    },
+    {
+      "name": "Specialty Chemicals",
+      "count": 1
+    },
+    {
+      "name": "Computer Manufacturing",
+      "count": 1
+    },
+    {
+      "name": "Mining & Quarrying of Nonmetallic Minerals (No Fuels)",
+      "count": 1
+    },
+    {
+      "name": "Medical Electronics",
+      "count": 1
+    },
+    {
+      "name": "Hospital/Nursing Management",
+      "count": 1
+    }
+  ],
   "stocks": [
     {
       "symbol": "FATBP",
@@ -285,8 +793,8 @@
       "name": "Bio Green Med Solution, Inc. 6% Convertible Preferred Stock",
       "price": "$3.52",
       "marketCap": "NA",
-      "sector": "",
-      "industry": "",
+      "sector": "N/A",
+      "industry": "N/A",
       "dividendYield": "17.05%",
       "annualDividend": "$0.6",
       "exDividendDate": "01/22/2026",
@@ -540,8 +1048,8 @@
       "name": "Strive, Inc. Variable Rate Series A Perpetual Preferred Stock",
       "price": "$94.84",
       "marketCap": "118,306,907,440",
-      "sector": "",
-      "industry": "",
+      "sector": "N/A",
+      "industry": "N/A",
       "dividendYield": "12.73%",
       "annualDividend": "$12.2496",
       "exDividendDate": "01/30/2026",
@@ -615,8 +1123,8 @@
       "name": "AGNC Investment Corp. Depositary Shares Each Representing a 1/1,000th Interest in a Share of 8.75% Series H Fixed-Rate Cumulative Redeemable Preferred Stock",
       "price": "$25.95",
       "marketCap": "27,837,189,617",
-      "sector": "",
-      "industry": "",
+      "sector": "N/A",
+      "industry": "N/A",
       "dividendYield": "11.73%",
       "annualDividend": "$3.0382",
       "exDividendDate": "12/31/2025",
@@ -1005,8 +1513,8 @@
       "name": "Star Equity Holdings, Inc. 10% Series A Cumulative Perpetual Preferred Stock",
       "price": "$9.70",
       "marketCap": "33,328,259",
-      "sector": "",
-      "industry": "",
+      "sector": "N/A",
+      "industry": "N/A",
       "dividendYield": "10.31%",
       "annualDividend": "$1",
       "exDividendDate": "12/01/2025",
@@ -1560,8 +2068,8 @@
       "name": "SWK Holdings Corporation 9.00% Senior Notes due 2027",
       "price": "$25.53",
       "marketCap": "310,122,892",
-      "sector": "",
-      "industry": "",
+      "sector": "N/A",
+      "industry": "N/A",
       "dividendYield": "8.81%",
       "annualDividend": "$2.25",
       "exDividendDate": "12/15/2025",
@@ -1800,8 +2308,8 @@
       "name": "Oxford Lane Capital Corp. 8.75% Notes due 2030",
       "price": "$25.75",
       "marketCap": "NA",
-      "sector": "",
-      "industry": "",
+      "sector": "N/A",
+      "industry": "N/A",
       "dividendYield": "8.45%",
       "annualDividend": "$2.1875",
       "exDividendDate": "12/15/2025",
@@ -2010,8 +2518,8 @@
       "name": "Great Elm Capital Corp. 8.125% Notes Due 2029",
       "price": "$25.25",
       "marketCap": "NA",
-      "sector": "",
-      "industry": "",
+      "sector": "N/A",
+      "industry": "N/A",
       "dividendYield": "8.13%",
       "annualDividend": "$2.0538",
       "exDividendDate": "12/15/2025",
@@ -2055,8 +2563,8 @@
       "name": "New Mountain Finance Corporation 8.250% Notes due 2028",
       "price": "$25.14",
       "marketCap": "2,673,914,560",
-      "sector": "",
-      "industry": "",
+      "sector": "N/A",
+      "industry": "N/A",
       "dividendYield": "8.07%",
       "annualDividend": "$2.0625",
       "exDividendDate": "01/30/2026",
@@ -2250,8 +2758,8 @@
       "name": "OFS Credit Company, Inc. 7.875% Series F Term Preferred Stock",
       "price": "$25.20",
       "marketCap": "NA",
-      "sector": "",
-      "industry": "",
+      "sector": "N/A",
+      "industry": "N/A",
       "dividendYield": "7.81%",
       "annualDividend": "$1.96875",
       "exDividendDate": "01/15/2026",
@@ -2310,8 +2818,8 @@
       "name": "WhiteHorse Finance, Inc. 7.875% Notes due 2028",
       "price": "$25.41",
       "marketCap": "590,606,866",
-      "sector": "",
-      "industry": "",
+      "sector": "N/A",
+      "industry": "N/A",
       "dividendYield": "7.75%",
       "annualDividend": "$1.96875",
       "exDividendDate": "12/01/2025",
@@ -3015,8 +3523,8 @@
       "name": "TPG Operating Group II, L.P. 6.950% Fixed-Rate Junior Subordinated Notes due 2064",
       "price": "$25.23",
       "marketCap": "9,204,554,303",
-      "sector": "",
-      "industry": "",
+      "sector": "N/A",
+      "industry": "N/A",
       "dividendYield": "6.87%",
       "annualDividend": "$1.7375",
       "exDividendDate": "12/01/2025",
@@ -7410,8 +7918,8 @@
       "name": "Aura Minerals Inc. Common Shares",
       "price": "$63.69",
       "marketCap": "5,320,312,687",
-      "sector": "",
-      "industry": "",
+      "sector": "N/A",
+      "industry": "N/A",
       "dividendYield": "2.57%",
       "annualDividend": "$1.92",
       "exDividendDate": "11/17/2025",
@@ -11235,8 +11743,8 @@
       "name": "International General Insurance Holdings Ltd. Ordinary Share",
       "price": "$24.92",
       "marketCap": "1,124,114,685",
-      "sector": "",
-      "industry": "",
+      "sector": "Finance",
+      "industry": "Property-Casualty Insurers",
       "dividendYield": "0.79%",
       "annualDividend": "$0.2",
       "exDividendDate": "12/17/2025",
@@ -11666,21 +12174,6 @@
       "description": "HealthStream (Nasdaq: HSTM) is the healthcare industry's largest ecosystem of platform-delivered workforce solutions that empowers healthcare professionals to do what they do best: deliver excellence in patient care."
     },
     {
-      "symbol": "COST",
-      "name": "Costco Wholesale Corporation Common Stock",
-      "price": "$940.25",
-      "marketCap": "417,348,213,693",
-      "sector": "Consumer Discretionary",
-      "industry": "Department/Specialty Retail Stores",
-      "dividendYield": "0.55%",
-      "annualDividend": "$5.2",
-      "exDividendDate": "01/30/2026",
-      "paymentDate": "02/13/2026",
-      "growthRate": "11.98%",
-      "growthSource": "Analyst Forecast",
-      "description": "Costco Wholesale currently operates 931 warehouses worldwide and 114 warehouses across Canada. The first Canadian Costco Wholesale location opened in Burnaby, BC in October 1985. Costco Wholesale employs over 50,000 people in Canada. Its Canadian head office is located at 415 West Hunt Club Road in Ottawa. Revenues from corporate sales for the fiscal year ending August 31, 2025, were of $269.9 billion (US) (COST - NASDAQ)."
-    },
-    {
       "symbol": "CLMB",
       "name": "Climb Global Solutions, Inc. Common Stock",
       "price": "$118.59",
@@ -11805,8 +12298,8 @@
       "name": "Alico, Inc. Common Stock",
       "price": "$41.31",
       "marketCap": "316,296,046",
-      "sector": "",
-      "industry": "",
+      "sector": "N/A",
+      "industry": "N/A",
       "dividendYield": "0.49%",
       "annualDividend": "$0.2",
       "exDividendDate": "01/02/2026",
@@ -12480,8 +12973,8 @@
       "name": "Bel Fuse Inc. Class B Common Stock",
       "price": "$201.19",
       "marketCap": "2,547,178,670",
-      "sector": "",
-      "industry": "",
+      "sector": "N/A",
+      "industry": "N/A",
       "dividendYield": "0.13%",
       "annualDividend": "$0.28",
       "exDividendDate": "01/15/2026",
@@ -12495,8 +12988,8 @@
       "name": "Bel Fuse Inc. Class A Common Stock",
       "price": "$183.75",
       "marketCap": "2,326,378,451",
-      "sector": "",
-      "industry": "",
+      "sector": "N/A",
+      "industry": "N/A",
       "dividendYield": "0.12%",
       "annualDividend": "$0.24",
       "exDividendDate": "01/15/2026",
