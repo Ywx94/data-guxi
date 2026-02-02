@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>股票查询</title>
+  <style>
+    body { font-family: -apple-system, sans-serif; max-width: 800px; margin: 50px auto; padding: 20px; background: #f5f5f5; }
+    .container { background: white; padding: 30px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+    pre { background: #1e1e1e; color: #d4d4d4; padding: 20px; border-radius: 8px; overflow-x: auto; }
+    .success { border-left: 4px solid #4caf50; }
+    .error { border-left: 4px solid #f44336; }
+    .info { background: #e3f2fd; padding: 15px; border-radius: 8px; margin: 20px 0; }
+    a { color: #1976d2; }
+    table { width: 100%; border-collapse: collapse; }
+    td { padding: 8px; border-bottom: 1px solid #eee; }
+    td:first-child { color: #666; width: 120px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>📈 股票查询</h1>
+    <div id="content"><p>加载中...</p></div>
+  </div>
+
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const symbol = params.get('symbol');
+    const symbols = params.get('symbols');
+    const sector = params.get('sector');
+    const format = params.get('format') || 'html';
+
+    async function main() {
+      try {
+        const res = await fetch('./dividends.json');
+        if (!res.ok) throw new Error('数据加载失败');
+        const data = await res.json();
+
+        let result;
+
+        if (symbol) {
+          result = queryStock(data, symbol.toUpperCase());
+        } else if (symbols) {
+          result = queryMultiple(data, symbols.toUpperCase().split(',').map(s => s.trim()));
+        } else if (sector) {
+          result = querySector(data, sector);
+        } else {
+          result = showHelp(data);
+        }
+
+        displayResult(result);
+      } catch (error) {
+        displayResult({ success: false, error: 'FETCH_ERROR', message: error.message, code: 500 });
+      }
+    }
+
+    function queryStock(data, sym) {
+      const stock = data.stocks.find(s => s.symbol.toUpperCase() === sym);
+      if (!stock) {
+        return { success: false, error: 'STOCK_NOT_FOUND', message: `未找到: ${sym}`, code: 404 };
+      }
+      return { success: true, code: 200, data: stock, meta: { lastUpdated: data.lastUpdated } };
+    }
+
+    function queryMultiple(data, list) {
+      const results = {}, notFound = [];
+      list.forEach(sym => {
+        const stock = data.stocks.find(s => s.symbol.toUpperCase() === sym);
+        if (stock) results[sym] = stock;
+        else notFound.push(sym);
+      });
+      return { success: true, code: 200, found: Object.keys(results).length, notFound, data: results };
+    }
+
+    function querySector(data, name) {
+      const stocks = data.stocks.filter(s => s.sector.toLowerCase().includes(name.toLowerCase()));
+      return { success: true, code: 200, sector: name, count: stocks.length, data: stocks };
+    }
+
+    function showHelp(data) {
+      const base = location.origin + location.pathname;
+      return {
+        success: true,
+        message: '股票股息查询 API',
+        usage: {
+          '查询单个': `${base}?symbol=AAPL`,
+          '查询多个': `${base}?symbols=AAPL,MSFT`,
+          '按行业': `${base}?sector=Technology`,
+          '纯JSON': `${base}?symbol=AAPL&format=json`,
+        },
+        stats: { lastUpdated: data.lastUpdated, totalStocks: data.count },
+        code: 200
+      };
+    }
+
+    function displayResult(result) {
+      if (format === 'json') {
+        document.body.innerHTML = '<pre>' + JSON.stringify(result, null, 2) + '</pre>';
+        document.body.style = 'background:#1e1e1e;margin:0;padding:20px';
+        return;
+      }
+
+      const container = document.getElementById('content');
+      const cls = result.success ? 'success' : 'error';
+
+      if (result.success && result.data && symbol) {
+        const s = result.data;
+        container.innerHTML = `
+          <div class="info">
+            <h2>${s.symbol} - ${s.name}</h2>
+            <table>
+              <tr><td>💰 股息率</td><td><strong>${s.dividendYield}</strong></td></tr>
+              <tr><td>📈 年化股息</td><td>${s.annualDividend}</td></tr>
+              <tr><td>💵 价格</td><td>${s.price}</td></tr>
+              <tr><td>🏢 行业</td><td>${s.sector}</td></tr>
+              <tr><td>🏭 产业</td><td>${s.industry}</td></tr>
+              <tr><td>📊 增长率</td><td>${s.growthRate}</td></tr>
+              <tr><td>📅 除息日</td><td>${s.exDividendDate || 'N/A'}</td></tr>
+            </table>
+          </div>
+          <pre class="${cls}">${JSON.stringify(result, null, 2)}</pre>
+        `;
+      } else if (!symbol && !symbols && !sector) {
+        container.innerHTML = `
+          <div class="info">
+            <strong>使用方法：</strong><br><br>
+            <a href="?symbol=AAPL">?symbol=AAPL</a> - 查询单个<br>
+            <a href="?symbols=AAPL,MSFT">?symbols=AAPL,MSFT</a> - 查询多个<br>
+            <a href="?sector=Technology">?sector=Technology</a> - 按行业<br>
+            <a href="?symbol=AAPL&format=json">?format=json</a> - 纯JSON
+          </div>
+          <pre class="${cls}">${JSON.stringify(result, null, 2)}</pre>
+        `;
+      } else {
+        container.innerHTML = `<pre class="${cls}">${JSON.stringify(result, null, 2)}</pre>`;
+      }
+    }
+
+    main();
+  </script>
+</body>
+</html>
