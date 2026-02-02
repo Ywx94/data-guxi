@@ -1,13 +1,13 @@
 {
   "success": true,
-  "lastUpdated": "2026-02-02T06:56:57.432Z",
-  "count": 835,
+  "lastUpdated": "2026-02-02T07:39:59.591Z",
+  "count": 836,
   "totalScanned": 7056,
   "stats": {
-    "totalDividendStocks": 835,
-    "withGrowthData": 798,
+    "totalDividendStocks": 836,
+    "withGrowthData": 799,
     "withoutGrowthData": 37,
-    "durationMinutes": "11.37"
+    "durationMinutes": "13.07"
   },
   "sectors": [
     {
@@ -16,7 +16,7 @@
     },
     {
       "name": "Consumer Discretionary",
-      "count": 123
+      "count": 124
     },
     {
       "name": "Technology",
@@ -305,6 +305,10 @@
       "count": 3
     },
     {
+      "name": "Department/Specialty Retail Stores",
+      "count": 3
+    },
+    {
       "name": "Military/Government/Technical",
       "count": 3
     },
@@ -390,10 +394,6 @@
     },
     {
       "name": "Precious Metals",
-      "count": 2
-    },
-    {
-      "name": "Department/Specialty Retail Stores",
       "count": 2
     },
     {
@@ -12172,6 +12172,21 @@
       "growthRate": "3.79%",
       "growthSource": "Analyst Forecast",
       "description": "HealthStream (Nasdaq: HSTM) is the healthcare industry's largest ecosystem of platform-delivered workforce solutions that empowers healthcare professionals to do what they do best: deliver excellence in patient care."
+    },
+    {
+      "symbol": "COST",
+      "name": "Costco Wholesale Corporation Common Stock",
+      "price": "$940.25",
+      "marketCap": "417,348,213,693",
+      "sector": "Consumer Discretionary",
+      "industry": "Department/Specialty Retail Stores",
+      "dividendYield": "0.55%",
+      "annualDividend": "$5.2",
+      "exDividendDate": "01/30/2026",
+      "paymentDate": "02/13/2026",
+      "growthRate": "11.98%",
+      "growthSource": "Analyst Forecast",
+      "description": "Costco Wholesale currently operates 931 warehouses worldwide and 114 warehouses across Canada. The first Canadian Costco Wholesale location opened in Burnaby, BC in October 1985. Costco Wholesale employs over 50,000 people in Canada. Its Canadian head office is located at 415 West Hunt Club Road in Ottawa. Revenues from corporate sales for the fiscal year ending August 31, 2025, were of $269.9 billion (US) (COST - NASDAQ)."
     },
     {
       "symbol": "CLMB",
