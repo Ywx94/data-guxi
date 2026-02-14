@@ -1,20 +1,20 @@
 {
   "success": true,
-  "lastUpdated": "2026-02-13T22:52:20.158Z",
-  "count": 833,
+  "lastUpdated": "2026-02-14T22:42:17.417Z",
+  "count": 832,
   "totalScanned": 7088,
   "stats": {
-    "totalDividendStocks": 833,
-    "withGrowthData": 796,
+    "totalDividendStocks": 832,
+    "withGrowthData": 795,
     "withoutGrowthData": 37,
-    "withDividendHistory": 833,
+    "withDividendHistory": 832,
     "avgDividendYears": "12.9",
-    "durationMinutes": "13.34"
+    "durationMinutes": "12.09"
   },
   "sectors": [
     {
       "name": "Finance",
-      "count": 390
+      "count": 389
     },
     {
       "name": "Consumer Discretionary",
@@ -199,10 +199,6 @@
       "count": 6
     },
     {
-      "name": "Commercial Banks",
-      "count": 6
-    },
-    {
       "name": "Diversified Commercial Services",
       "count": 6
     },
@@ -213,6 +209,10 @@
     {
       "name": "Hotels/Resorts",
       "count": 6
+    },
+    {
+      "name": "Commercial Banks",
+      "count": 5
     },
     {
       "name": "Apparel",
@@ -42807,7 +42807,7 @@
       "annualDividend": "$0.3",
       "exDividendDate": "11/19/2025",
       "paymentDate": "12/03/2025",
-      "growthRate": "-3.1%",
+      "growthRate": "-3.8%",
       "growthSource": "4yr Revenue CAGR",
       "description": "Kelly Services, Inc. (Nasdaq: KELYA, KELYB) helps companies recruit and manage skilled workers and helps job seekers find great work. Since inventing the staffing industry in 1946, we have become experts in the many industries and local and global markets we serve. With a network of suppliers and partners around the world, we connect more than 400,000 people with work every year. Our suite of outsourcing and consulting services and solutions ensures companies have the people they need, when and where they are needed most. Headquartered in Troy, Michigan, we empower businesses and individuals to access limitless opportunities in industries such as science, engineering, technology, education, manufacturing, retail, finance, and energy. Revenue in 2024 was $4.3 billion. Learn more at kellyservices.com.",
       "dividendHistory": [
@@ -53420,36 +53420,6 @@
       "dividendGrowth": {
         "rate": "0.0%",
         "years": 11
-      }
-    },
-    {
-      "symbol": "INTR",
-      "name": "Inter & Co. Inc. Class A Common Shares",
-      "price": "$8.73",
-      "marketCap": "3,838,617,413",
-      "sector": "Finance",
-      "industry": "Commercial Banks",
-      "dividendYield": "0.89%",
-      "annualDividend": "$0.08",
-      "exDividendDate": "02/14/2025",
-      "paymentDate": "02/26/2025",
-      "growthRate": "41.51%",
-      "growthSource": "Analyst Forecast",
-      "description": "Inter ( Inter&Co Inc. /NASDAQ: INTR) is a financial technology company providing financial and lifestyle solutions to 41 million consumers. It leverages technology to unlock simplicity, offering mortgages, credit, gift cards, investments and international payments through a broad network of companies in multiple countries, including Banco Inter S.A., Brazil's first digital bank. Inter customers also enjoy access to a dynamic marketplace of shopping discounts, cashback rewards, and exclusive access to marquee events. Recognized as one of the world's leading FinTechs and digital banks by Forbes, CNBC and others, Inter leads with human innovation to empower the new economy.",
-      "dividendHistory": [
-        {
-          "year": "2024",
-          "amount": "$0.03"
-        },
-        {
-          "year": "2025",
-          "amount": "$0.08"
-        }
-      ],
-      "dividendYears": 2,
-      "dividendGrowth": {
-        "rate": "166.7%",
-        "years": 1
       }
     },
     {
