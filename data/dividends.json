@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": "2026-02-15T22:42:44.504Z",
+  "lastUpdated": "2026-02-16T22:48:22.481Z",
   "count": 832,
   "totalScanned": 7088,
   "stats": {
@@ -9,7 +9,7 @@
     "withoutGrowthData": 37,
     "withDividendHistory": 832,
     "avgDividendYears": "12.9",
-    "durationMinutes": "12.19"
+    "durationMinutes": "13.38"
   },
   "sectors": [
     {
@@ -2203,12 +2203,12 @@
         },
         {
           "year": "2026",
-          "amount": "$1.02"
+          "amount": "$2.06"
         }
       ],
       "dividendYears": 2,
       "dividendGrowth": {
-        "rate": "-52.6%",
+        "rate": "-4.2%",
         "years": 1
       }
     },
@@ -2779,12 +2779,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.12"
+          "amount": "$0.24"
         }
       ],
       "dividendYears": 15,
       "dividendGrowth": {
-        "rate": "-15.4%",
+        "rate": "-11.1%",
         "years": 14
       }
     },
@@ -4446,12 +4446,16 @@
         {
           "year": "2025",
           "amount": "$0.28"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.25"
         }
       ],
-      "dividendYears": 1,
+      "dividendYears": 2,
       "dividendGrowth": {
-        "rate": "N/A",
-        "years": 0
+        "rate": "-10.7%",
+        "years": 1
       }
     },
     {
@@ -5515,13 +5519,17 @@
         },
         {
           "year": "2026",
-          "amount": "$0.50"
+          "amount": "$2.00"
+        },
+        {
+          "year": "2027",
+          "amount": "$2.00"
         }
       ],
-      "dividendYears": 8,
+      "dividendYears": 9,
       "dividendGrowth": {
-        "rate": "27.8%",
-        "years": 7
+        "rate": "47.3%",
+        "years": 8
       }
     },
     {
@@ -6596,12 +6604,16 @@
         {
           "year": "2025",
           "amount": "$1.00"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.25"
         }
       ],
-      "dividendYears": 14,
+      "dividendYears": 15,
       "dividendGrowth": {
-        "rate": "-3.8%",
-        "years": 13
+        "rate": "-12.6%",
+        "years": 14
       }
     },
     {
@@ -9119,7 +9131,7 @@
       "annualDividend": "$0.56",
       "exDividendDate": "12/01/2025",
       "paymentDate": "12/15/2025",
-      "growthRate": "-13.16%",
+      "growthRate": "-34.09%",
       "growthSource": "Analyst Forecast",
       "description": "The Wendy's Company and Wendy's ® franchisees employ hundreds of thousands of people across more than 7,250 restaurants worldwide, with more than 1,350 of these located outside of the United States. Founded in 1969, Wendy's is committed to the promise of Fresh Famous Food, Made Right, For You, delivered to customers through its craveable menu including made-to-order square hamburgers using fresh beef*, and fan favorites like the Spicy Chicken Sandwich and nuggets, Baconator®, and Wendy's Frosty® dessert.",
       "dividendHistory": [
@@ -9214,12 +9226,16 @@
         {
           "year": "2025",
           "amount": "$0.67"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.14"
         }
       ],
-      "dividendYears": 23,
+      "dividendYears": 24,
       "dividendGrowth": {
-        "rate": "7.1%",
-        "years": 25
+        "rate": "0.6%",
+        "years": 26
       }
     },
     {
@@ -12013,7 +12029,7 @@
       "annualDividend": "$1.6",
       "exDividendDate": "11/28/2025",
       "paymentDate": "12/26/2025",
-      "growthRate": "-21.54%",
+      "growthRate": "-21.72%",
       "growthSource": "Analyst Forecast",
       "description": "We are driving transformation at The Kraft Heinz Company (Nasdaq: KHC), inspired by our Purpose, Let's Make Life Delicious. Consumers are at the center of everything we do. With 2024 net sales of approximately $26 billion, we are committed to growing our iconic and emerging food and beverage brands on a global scale. We leverage our scale and agility to unleash the full power of Kraft Heinz across a portfolio of eight consumer-driven product platforms. As global citizens, we're dedicated to making a sustainable, ethical impact while helping feed the world in healthy, responsible ways.",
       "dividendHistory": [
@@ -12060,12 +12076,16 @@
         {
           "year": "2025",
           "amount": "$1.60"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.40"
         }
       ],
-      "dividendYears": 11,
+      "dividendYears": 12,
       "dividendGrowth": {
-        "rate": "-0.6%",
-        "years": 10
+        "rate": "-12.3%",
+        "years": 11
       }
     },
     {
@@ -17636,12 +17656,16 @@
         {
           "year": "2025",
           "amount": "$1.12"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.28"
         }
       ],
-      "dividendYears": 13,
+      "dividendYears": 14,
       "dividendGrowth": {
-        "rate": "14.5%",
-        "years": 12
+        "rate": "1.9%",
+        "years": 13
       }
     },
     {
@@ -19428,12 +19452,16 @@
         {
           "year": "2025",
           "amount": "$1.08"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.27"
         }
       ],
-      "dividendYears": 22,
+      "dividendYears": 23,
       "dividendGrowth": {
-        "rate": "8.6%",
-        "years": 30
+        "rate": "3.6%",
+        "years": 31
       }
     },
     {
@@ -19605,7 +19633,7 @@
       "annualDividend": "$0.48",
       "exDividendDate": "12/01/2025",
       "paymentDate": "12/15/2025",
-      "growthRate": "4.24%",
+      "growthRate": "4.55%",
       "growthSource": "Analyst Forecast",
       "description": "GCM Grosvenor (Nasdaq: GCMG) is a global alternative asset management solutions provider with approximately $87 billion in assets under management across private equity, infrastructure, real estate, credit, and absolute return investment strategies. The firm has specialized in alternatives for more than 50 years and is dedicated to delivering value for clients by leveraging its cross-asset class and flexible investment platform. GCM Grosvenor's experienced team of approximately 560 professionals serves a global client base of institutional and individual investors. The firm is headquartered in Chicago, with offices in New York, Toronto, London, Frankfurt, Tokyo, Hong Kong, Seoul and Sydney.",
       "dividendHistory": [
@@ -19628,12 +19656,16 @@
         {
           "year": "2025",
           "amount": "$0.45"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.12"
         }
       ],
-      "dividendYears": 5,
+      "dividendYears": 6,
       "dividendGrowth": {
-        "rate": "8.1%",
-        "years": 4
+        "rate": "-18.3%",
+        "years": 5
       }
     },
     {
@@ -19756,12 +19788,16 @@
         {
           "year": "2025",
           "amount": "$0.60"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.15"
         }
       ],
-      "dividendYears": 6,
+      "dividendYears": 7,
       "dividendGrowth": {
-        "rate": "32.0%",
-        "years": 5
+        "rate": "0.0%",
+        "years": 6
       }
     },
     {
@@ -19963,12 +19999,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.33"
+          "amount": "$0.66"
         }
       ],
       "dividendYears": 26,
       "dividendGrowth": {
-        "rate": "6.5%",
+        "rate": "8.5%",
         "years": 38
       }
     },
@@ -20459,7 +20495,7 @@
       "annualDividend": "$0.8",
       "exDividendDate": "09/30/2025",
       "paymentDate": "10/15/2025",
-      "growthRate": "4.37%",
+      "growthRate": "3.15%",
       "growthSource": "Analyst Forecast",
       "description": "Host Hotels & Resorts, Inc. is an S&P 500 company and is the largest lodging real estate investment trust and one of the largest owners of luxury and upper-upscale hotels. The Company currently owns 74 properties in the United States and five properties internationally totaling approximately 42,500 rooms. The Company also holds non-controlling interests in seven domestic joint ventures.",
       "dividendHistory": [
@@ -22272,12 +22308,16 @@
         {
           "year": "2025",
           "amount": "$2.64"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.67"
         }
       ],
-      "dividendYears": 18,
+      "dividendYears": 19,
       "dividendGrowth": {
-        "rate": "5.9%",
-        "years": 17
+        "rate": "-2.1%",
+        "years": 18
       }
     },
     {
@@ -22878,12 +22918,16 @@
         {
           "year": "2025",
           "amount": "$3.16"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.80"
         }
       ],
-      "dividendYears": 13,
+      "dividendYears": 14,
       "dividendGrowth": {
-        "rate": "12.1%",
-        "years": 12
+        "rate": "0.0%",
+        "years": 13
       }
     },
     {
@@ -23422,12 +23466,16 @@
         {
           "year": "2025",
           "amount": "$1.24"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.32"
         }
       ],
-      "dividendYears": 18,
+      "dividendYears": 19,
       "dividendGrowth": {
-        "rate": "8.2%",
-        "years": 26
+        "rate": "2.6%",
+        "years": 27
       }
     },
     {
@@ -23585,7 +23633,7 @@
       "annualDividend": "$0.62",
       "exDividendDate": "12/18/2025",
       "paymentDate": "01/02/2026",
-      "growthRate": "10.9%",
+      "growthRate": "10.51%",
       "growthSource": "Analyst Forecast",
       "description": "Huntington Bancshares Incorporated (Nasdaq: HBAN) is a $196 billion asset regional bank holding company headquartered in Columbus, Ohio. Founded in 1866, The Huntington National Bank and its affiliates provide consumers, small and middle-market businesses, corporations, municipalities, and other organizations with a comprehensive suite of banking, payments, wealth management, and risk management products and services. Huntington operates approximately 970 branches in 11 states, with certain businesses operating in extended geographies. Visit Huntington.com for more information.",
       "dividendHistory": [
@@ -24844,12 +24892,16 @@
         {
           "year": "2025",
           "amount": "$1.43"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.36"
         }
       ],
-      "dividendYears": 28,
+      "dividendYears": 29,
       "dividendGrowth": {
-        "rate": "3.0%",
-        "years": 36
+        "rate": "-0.9%",
+        "years": 37
       }
     },
     {
@@ -25373,12 +25425,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.22"
+          "amount": "$0.54"
         }
       ],
       "dividendYears": 6,
       "dividendGrowth": {
-        "rate": "-9.4%",
+        "rate": "8.4%",
         "years": 5
       }
     },
@@ -26416,12 +26468,16 @@
         {
           "year": "2025",
           "amount": "$1.60"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.42"
         }
       ],
-      "dividendYears": 24,
+      "dividendYears": 25,
       "dividendGrowth": {
-        "rate": "3.6%",
-        "years": 25
+        "rate": "-1.7%",
+        "years": 26
       }
     },
     {
@@ -26800,12 +26856,16 @@
         {
           "year": "2025",
           "amount": "$2.00"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.53"
         }
       ],
-      "dividendYears": 29,
+      "dividendYears": 30,
       "dividendGrowth": {
-        "rate": "6.0%",
-        "years": 37
+        "rate": "2.2%",
+        "years": 38
       }
     },
     {
@@ -29594,12 +29654,16 @@
         {
           "year": "2025",
           "amount": "$2.11"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.57"
         }
       ],
-      "dividendYears": 14,
+      "dividendYears": 15,
       "dividendGrowth": {
-        "rate": "17.5%",
-        "years": 13
+        "rate": "5.8%",
+        "years": 14
       }
     },
     {
@@ -29613,7 +29677,7 @@
       "annualDividend": "$0.92",
       "exDividendDate": "01/02/2026",
       "paymentDate": "01/16/2026",
-      "growthRate": "6.41%",
+      "growthRate": "6.33%",
       "growthSource": "Analyst Forecast",
       "description": "Keurig Dr Pepper (Nasdaq: KDP) is a leading beverage company in North America, with a portfolio of more than 125 owned, licensed and partner brands and powerful distribution capabilities to provide a beverage for every need, anytime, anywhere. With annual revenue of more than $15 billion, we hold leadership positions in beverage categories including carbonated soft drinks, coffee, tea, water, juice and mixers, and have the #1 single serve coffee brewing system in the U.S. and Canada. Our innovative partnership model builds emerging growth platforms in categories such as premium coffee, energy, sports hydration and ready-to-drink coffee. Our brands include Keurig®, Dr Pepper®, Canada Dry®, Mott's®, A&W®, Peñafiel®, Snapple®, 7UP®, Green Mountain Coffee Roasters®, GHOST®, Clamato®, Core Hydration® and The Original Donut Shop®. Driven by a purpose to Drink Well. Do Good.",
       "dividendHistory": [
@@ -30975,7 +31039,7 @@
       "annualDividend": "$0.62",
       "exDividendDate": "02/13/2026",
       "paymentDate": "02/27/2026",
-      "growthRate": "6.06%",
+      "growthRate": "6.93%",
       "growthSource": "Analyst Forecast",
       "description": "Headquartered in Defiance, Ohio, SB Financial is a diversified financial services holding company for the State Bank & Trust Company ( State Bank ) and SBFG Title, LLC dba Peak Title (Peak Title). State Bank provides a full range of financial services for consumers and small businesses, including wealth management, private client services, mortgage banking and commercial and agricultural lending, operating through a total of 27 offices: 25 in eleven Ohio counties and two in Northeast Indiana, and 27 ATMs. State Bank has four loan production offices located throughout the Tri-State region of Ohio, Indiana and Michigan. Peak Title provides title insurance and title opinions throughout the Tri-State and Kentucky. SB Financial's common stock is listed on the NASDAQ Capital Market with the ticker symbol \"SBFG\".",
       "dividendHistory": [
@@ -33899,7 +33963,7 @@
       "annualDividend": "$0.6",
       "exDividendDate": "12/15/2025",
       "paymentDate": "12/31/2025",
-      "growthRate": "3.18%",
+      "growthRate": "4.83%",
       "growthSource": "Analyst Forecast",
       "description": "Iridium® is the only mobile voice, data, and PNT satellite network that spans the entire globe. Iridium enables connections between people, organizations, and assets to and from anywhere, in real time. Together with its ecosystem of partner companies, Iridium delivers an innovative and rich portfolio of reliable solutions for markets that require truly global communications. In 2024, Iridium acquired Satelles, Inc. and its positioning, navigation, and timing (PNT) service. Iridium is headquartered in McLean, Va., and its common stock trades on the Nasdaq Global Select Market under the ticker symbol IRDM. For more information about Iridium products, services, and partner solutions, visit www.iridium.com.",
       "dividendHistory": [
@@ -35075,7 +35139,7 @@
       "annualDividend": "$1.4",
       "exDividendDate": "02/13/2026",
       "paymentDate": "02/20/2026",
-      "growthRate": "15.61%",
+      "growthRate": "15.49%",
       "growthSource": "Analyst Forecast",
       "description": "Carlyle (\"Carlyle,\" or the \"Adviser\") (NASDAQ: CG) is a global investment firm with deep industry expertise that deploys private capital across three business segments: Global Private Equity, Global Credit and Global Investment Solutions. With $425 billion of assets under management as of March 31, 2024, Carlyle's purpose is to invest wisely and create value on behalf of its investors, portfolio companies and the communities in which we live and invest. Carlyle employs more than 2,200 people in 28 offices across four continents. Further information is available at www.carlyle.com.",
       "dividendHistory": [
@@ -35958,12 +36022,16 @@
         {
           "year": "2025",
           "amount": "$3.85"
+        },
+        {
+          "year": "2026",
+          "amount": "$1.00"
         }
       ],
-      "dividendYears": 29,
+      "dividendYears": 30,
       "dividendGrowth": {
-        "rate": "8.6%",
-        "years": 37
+        "rate": "4.6%",
+        "years": 38
       }
     },
     {
@@ -36358,12 +36426,16 @@
         {
           "year": "2025",
           "amount": "$0.64"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.17"
         }
       ],
-      "dividendYears": 7,
+      "dividendYears": 8,
       "dividendGrowth": {
-        "rate": "15.5%",
-        "years": 6
+        "rate": "-6.4%",
+        "years": 7
       }
     },
     {
@@ -36456,12 +36528,16 @@
         {
           "year": "2025",
           "amount": "$0.72"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.19"
         }
       ],
-      "dividendYears": 19,
+      "dividendYears": 20,
       "dividendGrowth": {
-        "rate": "5.3%",
-        "years": 27
+        "rate": "0.2%",
+        "years": 28
       }
     },
     {
@@ -38125,7 +38201,7 @@
       "annualDividend": "$1",
       "exDividendDate": "11/17/2025",
       "paymentDate": "11/24/2025",
-      "growthRate": "-46.94%",
+      "growthRate": "-47.04%",
       "growthSource": "Analyst Forecast",
       "description": "Golar LNG Ltd is a midstream LNG company operates in the transportation, regasification, liquefaction, and trading of LNG. The segment in which the group operates includes Shipping, FLNG (Floating Liquefaction Natural Gas vessels), Power, and Corporate and other. It generates maximum revenue from the FLNG segment.",
       "dividendHistory": [
@@ -38907,7 +38983,7 @@
       "annualDividend": "$3.2",
       "exDividendDate": "12/05/2025",
       "paymentDate": "01/01/2026",
-      "growthRate": "9.05%",
+      "growthRate": "9.84%",
       "growthSource": "Analyst Forecast",
       "description": "Northern Trust Corporation (Nasdaq: NTRS) is a leading provider of wealth management, asset servicing, asset management and banking services to corporations, institutions, affluent families and individuals. Founded in Chicago in 1889, Northern Trust has a global presence with offices in 24 U.S. states and Washington, D.C., and across 22 locations in Canada, Europe, the Middle East and the Asia-Pacific region. As of September 30, 2025, Northern Trust had assets under custody/administration of US$18.2 trillion, and assets under management of US$1.8 trillion. For more than 135 years, Northern Trust has earned distinction as an industry leader for exceptional service, financial expertise, integrity and innovation. Visit us on northerntrust.com. Follow us on Instagram @northerntrustcompany or Northern Trust on LinkedIn.",
       "dividendHistory": [
@@ -39091,7 +39167,7 @@
       "annualDividend": "$3.08",
       "exDividendDate": "01/23/2026",
       "paymentDate": "02/13/2026",
-      "growthRate": "137.85%",
+      "growthRate": "142.43%",
       "growthSource": "Analyst Forecast",
       "description": "Kaiser Aluminum Corporation, headquartered in Franklin, Tenn., is a leading producer of semi-fabricated specialty aluminum products, serving customers worldwide with highly-engineered solutions for aerospace and high-strength, packaging, general engineering, automotive extrusions, and other industrial applications. The Company's North American facilities produce value-added plate, sheet, coil, extrusions, rod, bar, tube, and wire products, adhering to traditions of quality, innovation, and service that have been key components of the culture since the Company was founded in 1946. The Company's stock is included in the Russell 2000® index and the S&P Small Cap 600® index.",
       "dividendHistory": [
@@ -39169,7 +39245,7 @@
       "annualDividend": "$1.64",
       "exDividendDate": "01/02/2026",
       "paymentDate": "01/21/2026",
-      "growthRate": "7.49%",
+      "growthRate": "12.05%",
       "growthSource": "Analyst Forecast",
       "description": "Cisco (NASDAQ: CSCO) is the worldwide technology leader that is revolutionizing the way organizations connect and protect in the AI era. For more than 40 years, Cisco has securely connected the world. With its industry leading AI-powered solutions and services, Cisco enables its customers, partners and communities to unlock innovation, enhance productivity and strengthen digital resilience. Cisco remains committed to creating a more connected and inclusive future for all.",
       "dividendHistory": [
@@ -39227,12 +39303,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.41"
+          "amount": "$0.83"
         }
       ],
       "dividendYears": 14,
       "dividendGrowth": {
-        "rate": "1.5%",
+        "rate": "7.1%",
         "years": 13
       }
     },
@@ -39765,7 +39841,7 @@
       "annualDividend": "$2.08",
       "exDividendDate": "01/02/2026",
       "paymentDate": "01/21/2026",
-      "growthRate": "10.31%",
+      "growthRate": "10.11%",
       "growthSource": "Analyst Forecast",
       "description": "For more than three decades, NetApp has helped the world's leading organizations navigate change - from the rise of enterprise storage to the intelligent era defined by data and AI. Today, NetApp is the Intelligent Data Infrastructure company, helping customers turn data into a catalyst for innovation, resilience, and growth. At the heart of that infrastructure is the NetApp data platform - the unified, enterprise-grade, intelligent foundation that connects, protects, and activates data across every cloud, workload, and environment. Built on the proven power of NetApp ONTAP, our leading data management software and OS, and enhanced by automation through the AI Data Engine and AFX, it delivers observability, resilience, and intelligence at scale. Disaggregated by design, the NetApp data platform separates storage, services, and control so enterprises can modernize faster, scale efficiently, and innovate without lock-in.",
       "dividendHistory": [
@@ -40311,7 +40387,7 @@
       "annualDividend": "$3.48",
       "exDividendDate": "12/22/2025",
       "paymentDate": "01/15/2026",
-      "growthRate": "6.38%",
+      "growthRate": "5.95%",
       "growthSource": "Analyst Forecast",
       "description": "Cincinnati Financial Corporation offers primarily business, home and auto insurance through The Cincinnati Insurance Company and its two standard market property casualty companies. The same local independent insurance agencies that market those policies may offer products of our other subsidiaries, including life insurance, fixed annuities and surplus lines property and casualty insurance.",
       "dividendHistory": [
@@ -40673,7 +40749,7 @@
       "annualDividend": "$3.16",
       "exDividendDate": "12/15/2025",
       "paymentDate": "12/30/2025",
-      "growthRate": "6.55%",
+      "growthRate": "6.54%",
       "growthSource": "Analyst Forecast",
       "description": "Gilead Sciences, Inc. is a biopharmaceutical company that has pursued and achieved breakthroughs in medicine for more than three decades, with the goal of creating a healthier world for all people. The company is committed to advancing innovative medicines to prevent and treat life-threatening diseases, including HIV, viral hepatitis, COVID-19, and cancer. Gilead operates in more than 35 countries worldwide, with headquarters in Foster City, California.",
       "dividendHistory": [
@@ -40720,12 +40796,16 @@
         {
           "year": "2025",
           "amount": "$3.16"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.82"
         }
       ],
-      "dividendYears": 11,
+      "dividendYears": 12,
       "dividendGrowth": {
-        "rate": "9.4%",
-        "years": 10
+        "rate": "-4.0%",
+        "years": 11
       }
     },
     {
@@ -42372,12 +42452,16 @@
         {
           "year": "2025",
           "amount": "$18.76"
+        },
+        {
+          "year": "2026",
+          "amount": "$5.16"
         }
       ],
-      "dividendYears": 12,
+      "dividendYears": 13,
       "dividendGrowth": {
-        "rate": "8.6%",
-        "years": 11
+        "rate": "-3.1%",
+        "years": 12
       }
     },
     {
@@ -42391,7 +42475,7 @@
       "annualDividend": "$0.88",
       "exDividendDate": "11/14/2025",
       "paymentDate": "12/10/2025",
-      "growthRate": "4.76%",
+      "growthRate": "3.67%",
       "growthSource": "Analyst Forecast",
       "description": "Founded in 1996, Royalty Pharma is the largest buyer of biopharmaceutical royalties and a leading funder of innovation across the biopharmaceutical industry, collaborating with innovators from academic institutions, research hospitals and non-profits through small and mid-cap biotechnology companies to leading global pharmaceutical companies. Royalty Pharma has assembled a portfolio of royalties which entitles it to payments based directly on the top-line sales of many of the industry's leading therapies. Royalty Pharma funds innovation in the biopharmaceutical industry both directly and indirectly - directly when it partners with companies to co fund late-stage clinical trials and new product launches in exchange for future royalties, and indirectly when it acquires existing royalties from the original innovators.",
       "dividendHistory": [
@@ -42788,12 +42872,16 @@
         {
           "year": "2025",
           "amount": "$1.20"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.30"
         }
       ],
-      "dividendYears": 13,
+      "dividendYears": 14,
       "dividendGrowth": {
-        "rate": "8.1%",
-        "years": 12
+        "rate": "-3.4%",
+        "years": 13
       }
     },
     {
@@ -42926,12 +43014,16 @@
         {
           "year": "2025",
           "amount": "$0.30"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.07"
         }
       ],
-      "dividendYears": 29,
+      "dividendYears": 30,
       "dividendGrowth": {
-        "rate": "1.7%",
-        "years": 37
+        "rate": "-2.2%",
+        "years": 38
       }
     },
     {
@@ -43213,7 +43305,7 @@
       "annualDividend": "$4.08",
       "exDividendDate": "11/26/2025",
       "paymentDate": "12/11/2025",
-      "growthRate": "10.46%",
+      "growthRate": "5.47%",
       "growthSource": "Analyst Forecast",
       "description": "T-Mobile US, Inc. (NASDAQ: TMUS) is America's supercharged Un-carrier, delivering an advanced 4G LTE and transformative nationwide 5G network that will offer reliable connectivity for all. T-Mobile's customers benefit from its unmatched combination of value and quality, unwavering obsession with offering them the best possible service experience and undisputable drive for disruption that creates competition and innovation in wireless and beyond. Based in Bellevue, Wash., T-Mobile provides services through its subsidiaries and operates its flagship brands, T-Mobile, Metro by T-Mobile and Mint Mobile. For more information please visit: https://www.t-mobile.com.",
       "dividendHistory": [
@@ -43305,7 +43397,7 @@
       "annualDividend": "$1.24",
       "exDividendDate": "11/18/2025",
       "paymentDate": "11/26/2025",
-      "growthRate": "7.2%",
+      "growthRate": "7.13%",
       "growthSource": "Analyst Forecast",
       "description": "Cognizant (Nasdaq: CTSH) engineers modern businesses. We help our clients modernize technology, reimagine processes and transform experiences so they can stay ahead in our fast-changing world. Together, we're improving everyday life. See how at www.cognizant.com or @cognizant.",
       "dividendHistory": [
@@ -43821,7 +43913,7 @@
       "annualDividend": "$1.08",
       "exDividendDate": "11/10/2025",
       "paymentDate": "11/25/2025",
-      "growthRate": "8.87%",
+      "growthRate": "9.01%",
       "growthSource": "Analyst Forecast",
       "description": "The Cheesecake Factory Incorporated is a leader in experiential dining. We are culinary forward and relentlessly focused on hospitality. Delicious, memorable experiences created by passionate people-this defines who we are and where we are going. We currently own and operate 368 restaurants throughout the United States and Canada under brands including The Cheesecake Factory ®, North Italia®, Flower Child ® and a collection of other FRC brands. Internationally, 35 The Cheesecake Factory ® restaurants operate under licensing agreements. Our bakery division operates two facilities that produce quality cheesecakes and other baked products for our restaurants, international licensees and third-party bakery customers. In 2025, we were named to the FORTUNE Magazine \"100 Best Companies to Work For®\" list for the twelfth consecutive year. To learn more, visit www.thecheesecakefactory.com, www.northitalia.com, www.iamaflowerchild.com and www.foxrc.com.",
       "dividendHistory": [
@@ -45161,7 +45253,7 @@
       "annualDividend": "$3.04",
       "exDividendDate": "11/19/2025",
       "paymentDate": "12/03/2025",
-      "growthRate": "9.72%",
+      "growthRate": "9.75%",
       "growthSource": "Analyst Forecast",
       "description": "MarketAxess (Nasdaq: MKTX) operates a leading electronic trading platform that delivers greater trading efficiency, a diversified pool of liquidity and significant cost savings to institutional investors and broker-dealers across the global fixed-income markets. Approximately 2,100 firms leverage MarketAxess' patented technology to efficiently trade fixed-income securities. Our automated and algorithmic trading solutions, combined with our integrated and actionable data offerings, help our clients make faster, better-informed decisions on when and how to trade on our platform. MarketAxess' award-winning Open Trading® marketplace is widely regarded as the preferred all-to-all trading solution in the global credit markets. Founded in 2000, MarketAxess connects a robust network of market participants through an advanced full trading lifecycle solution that includes automated trading solutions, intelligent data and index products and a range of post-trade services. Learn more at www.",
       "dividendHistory": [
@@ -45967,7 +46059,7 @@
       "annualDividend": "$4.056",
       "exDividendDate": "12/10/2025",
       "paymentDate": "01/07/2026",
-      "growthRate": "21.49%",
+      "growthRate": "22.11%",
       "growthSource": "Analyst Forecast",
       "description": "NXP Semiconductors N.V. (NASDAQ: NXPI) is the trusted partner for innovative solutions in the automotive, industrial & IoT, mobile, and communications infrastructure markets. NXP's \"Brighter Together\" approach combines leading-edge technology with pioneering people to develop system solutions that make the connected world better, safer, and more secure. The company has operations in more than 30 countries and posted revenue of $12.61 billion in 2024.",
       "dividendHistory": [
@@ -46021,7 +46113,7 @@
       "annualDividend": "$5",
       "exDividendDate": "12/12/2025",
       "paymentDate": "12/30/2025",
-      "growthRate": "4.76%",
+      "growthRate": "4.98%",
       "growthSource": "Analyst Forecast",
       "description": "As the world's leading derivatives marketplace, CME Group ( www.cmegroup.com ) enables clients to trade futures, options, cash and OTC markets, optimize portfolios, and analyze data - empowering market participants worldwide to efficiently manage risk and capture opportunities. CME Group exchanges offer the widest range of global benchmark products across all major asset classes based on interest rates, equity indexes, foreign exchange, cryptocurrencies, energy, agricultural products and metals. The company offers futures and options on futures trading through the CME Globex platform, fixed income trading via BrokerTec and foreign exchange trading on the EBS platform. In addition, it operates one of the world's leading central counterparty clearing providers, CME Clearing.",
       "dividendHistory": [
@@ -46096,12 +46188,16 @@
         {
           "year": "2025",
           "amount": "$5.00"
+        },
+        {
+          "year": "2026",
+          "amount": "$7.45"
         }
       ],
-      "dividendYears": 18,
+      "dividendYears": 19,
       "dividendGrowth": {
-        "rate": "11.4%",
-        "years": 21
+        "rate": "12.9%",
+        "years": 22
       }
     },
     {
@@ -46185,7 +46281,7 @@
       "annualDividend": "$0.64",
       "exDividendDate": "12/05/2025",
       "paymentDate": "12/19/2025",
-      "growthRate": "-22.83%",
+      "growthRate": "-20.65%",
       "growthSource": "Analyst Forecast",
       "description": "Founded in 1946 as United Fire & Casualty Company, UFG, through its insurance company subsidiaries, is engaged in the business of writing property and casualty insurance. The company is licensed as a property and casualty insurer in 50 states and the District of Columbia, and is represented by approximately 850 independent agencies. A.M. Best Company assigns a rating of \"A-\" (Excellent) for members of the United Fire & Casualty Group.",
       "dividendHistory": [
@@ -46382,12 +46478,16 @@
         {
           "year": "2025",
           "amount": "$1.28"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.34"
         }
       ],
-      "dividendYears": 13,
+      "dividendYears": 14,
       "dividendGrowth": {
-        "rate": "9.1%",
-        "years": 12
+        "rate": "-2.1%",
+        "years": 13
       }
     },
     {
@@ -48435,7 +48535,7 @@
       "annualDividend": "$1.08",
       "exDividendDate": "12/05/2025",
       "paymentDate": "12/19/2025",
-      "growthRate": "9.04%",
+      "growthRate": "9.37%",
       "growthSource": "Analyst Forecast",
       "description": "Nasdaq (Nasdaq: NDAQ) is a leading global technology company serving corporate clients, investment managers, banks, brokers, and exchange operators as they navigate and interact with the global capital markets and the broader financial system. We aspire to deliver world-leading platforms that improve the liquidity, transparency, and integrity of the global economy. Our diverse offering of data, analytics, software, exchange capabilities, and client-centric services enables clients to optimize and execute their business vision with confidence. To learn more about the company, technology solutions, and career opportunities, visit us on LinkedIn, on X @Nasdaq, or at www.nasdaq.com.",
       "dividendHistory": [
@@ -49392,12 +49492,16 @@
         {
           "year": "2025",
           "amount": "$0.12"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.03"
         }
       ],
-      "dividendYears": 13,
+      "dividendYears": 14,
       "dividendGrowth": {
-        "rate": "-2.0%",
-        "years": 25
+        "rate": "-7.0%",
+        "years": 26
       }
     },
     {
@@ -50226,12 +50330,16 @@
         {
           "year": "2025",
           "amount": "$1.40"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.36"
         }
       ],
-      "dividendYears": 24,
+      "dividendYears": 25,
       "dividendGrowth": {
-        "rate": "12.8%",
-        "years": 32
+        "rate": "7.8%",
+        "years": 33
       }
     },
     {
@@ -50649,12 +50757,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.20"
+          "amount": "$0.40"
         }
       ],
       "dividendYears": 23,
       "dividendGrowth": {
-        "rate": "6.5%",
+        "rate": "9.0%",
         "years": 30
       }
     },
@@ -51505,7 +51613,7 @@
       "annualDividend": "$3.16",
       "exDividendDate": "12/31/2025",
       "paymentDate": "01/15/2026",
-      "growthRate": "8.37%",
+      "growthRate": "8.64%",
       "growthSource": "Analyst Forecast",
       "description": "Lincoln Electric is the world leader in the engineering, design, and manufacturing of advanced arc welding solutions, automated joining, assembly and cutting systems, plasma and oxy-fuel cutting equipment, and has a leading global position in brazing and soldering alloys. Lincoln is recognized as the Welding Expert for its leading materials science, software development, automation engineering, and application expertise, which advance customers' fabrication capabilities to help them build a better world. Headquartered in Cleveland, Ohio, Lincoln operates 71 manufacturing and automation system integration locations across 20 countries and maintains a worldwide network of distributors and sales offices serving customers in over 160 countries. For more information about Lincoln Electric and its products and services, visit the Company's website at https://www.lincolnelectric.com.",
       "dividendHistory": [
@@ -51615,7 +51723,7 @@
       "annualDividend": "$1.32",
       "exDividendDate": "02/11/2026",
       "paymentDate": "03/04/2026",
-      "growthRate": "10.35%",
+      "growthRate": "10.38%",
       "growthSource": "Analyst Forecast",
       "description": "Paccar is a leading manufacturer of medium- and heavy-duty trucks under the premium brands Kenworth and Peterbilt, which are primarily sold in the NAFTA region and Australia, and DAF trucks, which are sold in Europe and South America. Its trucks are sold through over 2,200 independent dealers globally. Paccar Financial Services provides retail and wholesale financing for customers and dealers, respectively. The company commands approximately 28% of the Class 8 market share in North America and 16% of the heavy-duty market share in Europe.",
       "dividendHistory": [
@@ -52568,12 +52676,16 @@
         {
           "year": "2025",
           "amount": "$1.00"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.25"
         }
       ],
-      "dividendYears": 11,
+      "dividendYears": 12,
       "dividendGrowth": {
-        "rate": "-15.0%",
-        "years": 12
+        "rate": "-22.6%",
+        "years": 13
       }
     },
     {
@@ -52723,7 +52835,7 @@
       "annualDividend": "$38.4",
       "exDividendDate": "12/05/2025",
       "paymentDate": "12/31/2025",
-      "growthRate": "21.43%",
+      "growthRate": "21.52%",
       "growthSource": "Analyst Forecast",
       "description": "Booking Holdings (NASDAQ: BKNG) is the world's leading provider of online travel and related services, provided to consumers and local partners in more than 220 countries and territories through five primary consumer-facing brands: Booking.com, Priceline, Agoda, KAYAK and OpenTable. The mission of Booking Holdings is to make it easier for everyone to experience the world.",
       "dividendHistory": [
@@ -53856,12 +53968,16 @@
         {
           "year": "2025",
           "amount": "$0.08"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.02"
         }
       ],
-      "dividendYears": 13,
+      "dividendYears": 14,
       "dividendGrowth": {
-        "rate": "-8.7%",
-        "years": 12
+        "rate": "-17.4%",
+        "years": 13
       }
     },
     {
@@ -54913,7 +55029,7 @@
       "annualDividend": "$2.68",
       "exDividendDate": "11/20/2025",
       "paymentDate": "12/31/2025",
-      "growthRate": "15.93%",
+      "growthRate": "15.91%",
       "growthSource": "Analyst Forecast",
       "description": "Marriott International, Inc. (Nasdaq: MAR) is based in Bethesda, Maryland, USA, and encompasses a portfolio of over 9,700 properties across more than 30 leading brands in 143 countries and territories, as of September 30, 2025. Marriott operates, franchises, and licenses hotel, residential, timeshare, and other lodging properties all around the world. The company offers Marriott Bonvoy ®, its highly awarded travel platform.",
       "dividendHistory": [
@@ -55008,12 +55124,16 @@
         {
           "year": "2025",
           "amount": "$2.64"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.67"
         }
       ],
-      "dividendYears": 23,
+      "dividendYears": 24,
       "dividendGrowth": {
-        "rate": "13.2%",
-        "years": 25
+        "rate": "6.8%",
+        "years": 26
       }
     },
     {
@@ -55800,12 +55920,16 @@
         {
           "year": "2025",
           "amount": "$1.60"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.48"
         }
       ],
-      "dividendYears": 9,
+      "dividendYears": 10,
       "dividendGrowth": {
-        "rate": "15.0%",
-        "years": 12
+        "rate": "3.7%",
+        "years": 13
       }
     },
     {
@@ -56145,7 +56269,7 @@
       "annualDividend": "$0.68",
       "exDividendDate": "11/14/2025",
       "paymentDate": "11/25/2025",
-      "growthRate": "9.71%",
+      "growthRate": "10.86%",
       "growthSource": "Analyst Forecast",
       "description": "IRADIMED CORPORATION is a leader in developing innovative MRI compatible medical devices and products. We design, manufacture, market, and distribute MRI-compatible medical devices, accessories, disposables, and related services. We are the only known provider of a non-magnetic IV infusion pump system specifically designed for safe use during MRI procedures. We were the first to develop an infusion delivery system that effectively eliminates many of the risks and complications associated with MRI procedures. Standard infusion pumps contain magnetic and electronic components that can cause radio-frequency interference and are dangerous to operate near the powerful magnet used in an MRI system. Our patented MRidium® MRI-compatible IV infusion pump system has a non-magnetic ultrasonic motor, uniquely designed non-ferrous parts, and other special features to safely and predictably deliver anesthesia and other IV fluids during various MRI procedures.",
       "dividendHistory": [
@@ -56164,12 +56288,16 @@
         {
           "year": "2025",
           "amount": "$1.18"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.20"
         }
       ],
-      "dividendYears": 4,
+      "dividendYears": 5,
       "dividendGrowth": {
-        "rate": "5.7%",
-        "years": 3
+        "rate": "-33.1%",
+        "years": 4
       }
     },
     {
@@ -56888,12 +57016,16 @@
         {
           "year": "2025",
           "amount": "$0.33"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.09"
         }
       ],
-      "dividendYears": 11,
+      "dividendYears": 12,
       "dividendGrowth": {
-        "rate": "4.6%",
-        "years": 10
+        "rate": "-7.4%",
+        "years": 11
       }
     },
     {
@@ -56985,7 +57117,7 @@
       "annualDividend": "$1.84",
       "exDividendDate": "11/20/2025",
       "paymentDate": "12/11/2025",
-      "growthRate": "2.12%",
+      "growthRate": "2.8%",
       "growthSource": "Analyst Forecast",
       "description": "Applied Materials, Inc. (Nasdaq: AMAT) is the leader in materials engineering solutions that are at the foundation of virtually every new semiconductor and advanced display in the world. The technology we create is essential to advancing AI and accelerating the commercialization of next-generation chips. At Applied, we push the boundaries of science and engineering to deliver material innovation that changes the world.",
       "dividendHistory": [
@@ -57159,7 +57291,7 @@
         },
         {
           "year": "2026",
-          "amount": "$5.06"
+          "amount": "$5.08"
         }
       ],
       "dividendYears": 14,
@@ -57515,7 +57647,7 @@
       "annualDividend": "$0.2",
       "exDividendDate": "12/08/2025",
       "paymentDate": "01/02/2026",
-      "growthRate": "16.67%",
+      "growthRate": "15.66%",
       "growthSource": "Analyst Forecast",
       "description": "Bruker is enabling scientists and engineers to make breakthrough post-genomic discoveries and develop new applications that improve the quality of human life. Bruker's high performance scientific instruments and high value analytical and diagnostic solutions enable scientists to explore life and materials at molecular, cellular, and microscopic levels.",
       "dividendHistory": [
@@ -59562,12 +59694,16 @@
         {
           "year": "2025",
           "amount": "$2.10"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.53"
         }
       ],
-      "dividendYears": 2,
+      "dividendYears": 3,
       "dividendGrowth": {
-        "rate": "5.0%",
-        "years": 1
+        "rate": "-48.5%",
+        "years": 2
       }
     },
     {
@@ -59659,7 +59795,7 @@
       "annualDividend": "$0.4",
       "exDividendDate": "01/28/2026",
       "paymentDate": "02/18/2026",
-      "growthRate": "22.38%",
+      "growthRate": "23.84%",
       "growthSource": "Analyst Forecast",
       "description": "Entegris is a leading supplier of critical advanced materials and process solutions for the semiconductor and other high-technology industries. Entegris has approximately 8,000 employees throughout its global operations and is ISO 9001 certified. It has manufacturing, customer service and/or research facilities in the United States, Canada, China, Germany, Israel, Japan, Malaysia, Singapore, South Korea, and Taiwan. Additional information can be found at www.entegris.com.",
       "dividendHistory": [
@@ -59827,7 +59963,7 @@
       "annualDividend": "$0.12",
       "exDividendDate": "01/02/2026",
       "paymentDate": "01/16/2026",
-      "growthRate": "1.06%",
+      "growthRate": "46.48%",
       "growthSource": "Analyst Forecast",
       "description": "Pega provides the leading AI-powered platform for enterprise transformation. The world's most influential organizations trust our technology to reimagine how work gets done by automating workflows, personalizing customer experiences, and modernizing legacy systems. Since 1983, our scalable, flexible architecture has fueled continuous innovation, helping clients accelerate their path to the autonomous enterprise. Ready to Build for Change®? Visit www.pega.com.",
       "dividendHistory": [
@@ -60265,7 +60401,7 @@
       "annualDividend": "$0.3",
       "exDividendDate": "12/31/2025",
       "paymentDate": "01/14/2026",
-      "growthRate": "19.84%",
+      "growthRate": "21.47%",
       "growthSource": "Analyst Forecast",
       "description": "Colliers (NASDAQ, TSX: CIGI) is a global diversified professional services and investment management company. Operating through three industry-leading platforms - Real Estate Services, Engineering, and Investment Management - we have a proven business model, an enterprising culture, and a unique partnership philosophy that drives growth and value creation. For 30 years, Colliers has consistently delivered approximately 20% compound annual returns for shareholders, fuelled by visionary leadership, significant inside ownership and substantial recurring earnings. With $5.5 billion in annual revenues, a team of 24,000 professionals, and $108 billion in assets under management, Colliers remains committed to accelerating the success of our clients, investors, and people worldwide. Learn more at corporate.colliers.com, X @Colliers or LinkedIn.",
       "dividendHistory": [
@@ -60919,12 +61055,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.04"
+          "amount": "$0.07"
         }
       ],
       "dividendYears": 4,
       "dividendGrowth": {
-        "rate": "-23.7%",
+        "rate": "-8.0%",
         "years": 3
       }
     },
@@ -61177,7 +61313,7 @@
       "annualDividend": "$0.4",
       "exDividendDate": "11/24/2025",
       "paymentDate": "12/05/2025",
-      "growthRate": "22.72%",
+      "growthRate": "30.83%",
       "growthSource": "Analyst Forecast",
       "description": "Advanced Energy Industries, Inc. (Nasdaq: AEIS) is a global leader in the design and manufacture of highly engineered, precision power conversion, measurement and control solutions for mission-critical applications and processes. Advanced Energy's power solutions enable customer innovation in complex applications for a wide range of industries including semiconductor equipment, industrial production, medical and life sciences, data center computing, networking and telecommunications. With engineering know-how and responsive service and support for customers around the globe, the company builds collaborative partnerships to meet technology advances, propels growth of its customers and innovates the future of power. Advanced Energy has devoted four decades to perfecting power.",
       "dividendHistory": [
@@ -61395,7 +61531,7 @@
       "annualDividend": "$0.46",
       "exDividendDate": "12/29/2025",
       "paymentDate": "01/14/2026",
-      "growthRate": "322.5%",
+      "growthRate": "330.39%",
       "growthSource": "Analyst Forecast",
       "description": "Micron Technology, Inc. is an industry leader in innovative memory and storage solutions transforming how the world uses information to enrich life for all. With a relentless focus on our customers, technology leadership, and manufacturing and operational excellence, Micron delivers a rich portfolio of high-performance DRAM, NAND, and NOR memory and storage products. Every day, the innovations that our people create fuel the data economy, enabling advances in artificial intelligence (AI) and compute-intensive applications that unleash opportunities - from the data center to the intelligent edge and across the client and mobile user experience.",
       "dividendHistory": [
