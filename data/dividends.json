@@ -1,15 +1,15 @@
 {
   "success": true,
-  "lastUpdated": "2026-02-20T22:44:52.145Z",
+  "lastUpdated": "2026-02-21T22:43:07.042Z",
   "count": 831,
-  "totalScanned": 7039,
+  "totalScanned": 7041,
   "stats": {
     "totalDividendStocks": 831,
     "withGrowthData": 794,
     "withoutGrowthData": 37,
     "withDividendHistory": 831,
     "avgDividendYears": "13.0",
-    "durationMinutes": "12.14"
+    "durationMinutes": "12.72"
   },
   "sectors": [
     {
@@ -2459,7 +2459,7 @@
       "annualDividend": "$10",
       "exDividendDate": "12/15/2025",
       "paymentDate": "12/31/2025",
-      "growthRate": "-2.4%",
+      "growthRate": "-1.1%",
       "growthSource": "4yr Revenue CAGR",
       "description": "Strategy Inc (Nasdaq: STRF/STRC/STRK/STRD/MSTR) is the world's first and largest Bitcoin Treasury Company. We are a publicly traded company that has adopted Bitcoin as our primary treasury reserve asset. By using proceeds from equity and debt financings, as well as cash flows from our operations, we strategically accumulate Bitcoin and advocate for its role as digital capital. Our treasury strategy is designed to provide investors varying degrees of economic exposure to Bitcoin by offering a range of securities, including equity and fixed-income instruments. In addition, we provide industry-leading AI-powered enterprise analytics software, advancing our vision of Intelligence Everywhere. We leverage our development capabilities to explore innovation in Bitcoin applications, integrating analytics expertise with our commitment to digital asset growth.",
       "dividendHistory": [
@@ -2891,7 +2891,7 @@
       "annualDividend": "$0.4",
       "exDividendDate": "02/17/2026",
       "paymentDate": "02/27/2026",
-      "growthRate": "-8.0%",
+      "growthRate": "-5.1%",
       "growthSource": "4yr Revenue CAGR",
       "description": "Natural Health Trends Corp. (NASDAQ: NHTC) is an international direct-selling and e-commerce company operating through its subsidiaries throughout Asia, the Americas, and Europe. The Company markets premium quality personal care products under the NHT Global brand.",
       "dividendHistory": [
@@ -3311,7 +3311,7 @@
       "annualDividend": "$11.25",
       "exDividendDate": "02/13/2026",
       "paymentDate": "02/28/2026",
-      "growthRate": "-2.4%",
+      "growthRate": "-1.1%",
       "growthSource": "4yr Revenue CAGR",
       "description": "Strategy Inc (Nasdaq: STRF/STRC/STRK/STRD/MSTR) is the world's first and largest Bitcoin Treasury Company. We are a publicly traded company that has adopted Bitcoin as our primary treasury reserve asset. By using proceeds from equity and debt financings, as well as cash flows from our operations, we strategically accumulate Bitcoin and advocate for its role as digital capital. Our treasury strategy is designed to provide investors varying degrees of economic exposure to Bitcoin by offering a range of securities, including equity and fixed-income instruments. In addition, we provide industry-leading AI-powered enterprise analytics software, advancing our vision of Intelligence Everywhere. We leverage our development capabilities to explore innovation in Bitcoin applications, integrating analytics expertise with our commitment to digital asset growth.",
       "dividendHistory": [
@@ -4463,7 +4463,7 @@
       "annualDividend": "$8",
       "exDividendDate": "12/15/2025",
       "paymentDate": "12/31/2025",
-      "growthRate": "-2.4%",
+      "growthRate": "-1.1%",
       "growthSource": "4yr Revenue CAGR",
       "description": "Strategy Inc (Nasdaq: STRF/STRC/STRK/STRD/MSTR) is the world's first and largest Bitcoin Treasury Company. We are a publicly traded company that has adopted Bitcoin as our primary treasury reserve asset. By using proceeds from equity and debt financings, as well as cash flows from our operations, we strategically accumulate Bitcoin and advocate for its role as digital capital. Our treasury strategy is designed to provide investors varying degrees of economic exposure to Bitcoin by offering a range of securities, including equity and fixed-income instruments. In addition, we provide industry-leading AI-powered enterprise analytics software, advancing our vision of Intelligence Everywhere. We leverage our development capabilities to explore innovation in Bitcoin applications, integrating analytics expertise with our commitment to digital asset growth.",
       "dividendHistory": [
@@ -4997,7 +4997,7 @@
       "annualDividend": "$10",
       "exDividendDate": "12/15/2025",
       "paymentDate": "12/31/2025",
-      "growthRate": "-2.4%",
+      "growthRate": "-1.1%",
       "growthSource": "4yr Revenue CAGR",
       "description": "Strategy Inc (Nasdaq: STRF/STRC/STRK/STRD/MSTR) is the world's first and largest Bitcoin Treasury Company. We are a publicly traded company that has adopted Bitcoin as our primary treasury reserve asset. By using proceeds from equity and debt financings, as well as cash flows from our operations, we strategically accumulate Bitcoin and advocate for its role as digital capital. Our treasury strategy is designed to provide investors varying degrees of economic exposure to Bitcoin by offering a range of securities, including equity and fixed-income instruments. In addition, we provide industry-leading AI-powered enterprise analytics software, advancing our vision of Intelligence Everywhere. We leverage our development capabilities to explore innovation in Bitcoin applications, integrating analytics expertise with our commitment to digital asset growth.",
       "dividendHistory": [
@@ -5673,7 +5673,7 @@
       "annualDividend": "$1.84375",
       "exDividendDate": "01/02/2026",
       "paymentDate": "01/15/2026",
-      "growthRate": "1.8%",
+      "growthRate": "0.5%",
       "growthSource": "4yr Revenue CAGR",
       "description": "National Healthcare Properties, Inc. (Nasdaq: NHPAP / NHPBP) is a publicly registered real estate investment trust focused on acquiring a diversified portfolio of healthcare real estate, with an emphasis on senior housing and outpatient medical facilities located in the United States.",
       "dividendHistory": [
@@ -5723,7 +5723,7 @@
       "annualDividend": "$1.78125",
       "exDividendDate": "01/02/2026",
       "paymentDate": "01/15/2026",
-      "growthRate": "1.8%",
+      "growthRate": "0.5%",
       "growthSource": "4yr Revenue CAGR",
       "description": "National Healthcare Properties, Inc. (Nasdaq: NHPAP / NHPBP) is a publicly registered real estate investment trust focused on acquiring a diversified portfolio of healthcare real estate, with an emphasis on senior housing and outpatient medical facilities located in the United States.",
       "dividendHistory": [
@@ -7983,7 +7983,7 @@
       "annualDividend": "$6.04872",
       "exDividendDate": "12/04/2025",
       "paymentDate": "12/15/2025",
-      "growthRate": "5.5%",
+      "growthRate": "7.1%",
       "growthSource": "4yr Revenue CAGR",
       "description": "SLM Corp is the largest student lender in the country. It makes and holds student loans through the guaranteed Federal Family Education Loan Program as well as through private channels. It also engages in debt-management operations, including accounts receivable and collections services, and runs college savings programs.",
       "dividendHistory": [
@@ -9067,7 +9067,7 @@
       "annualDividend": "$1.5",
       "exDividendDate": "12/12/2025",
       "paymentDate": "12/15/2025",
-      "growthRate": "5.5%",
+      "growthRate": "7.1%",
       "growthSource": "4yr Revenue CAGR",
       "description": "Navient (Nasdaq: NAVI) creates long-term value for customers and investors with responsible lending, flexible refinancing, trusted servicing oversight, and decades of education finance and portfolio management expertise. Through our Earnest business, we help customers confidently achieve financial success through digital financial services. Our employees thrive in a culture of belonging, where they are supported and proud to deliver meaningful outcomes. Learn more on Navient.com.",
       "dividendHistory": [
