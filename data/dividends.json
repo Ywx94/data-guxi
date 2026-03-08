@@ -1,32 +1,32 @@
 {
   "success": true,
-  "lastUpdated": "2026-03-07T22:44:30.100Z",
-  "count": 789,
+  "lastUpdated": "2026-03-08T22:43:18.792Z",
+  "count": 823,
   "totalScanned": 7062,
   "stats": {
-    "totalDividendStocks": 789,
-    "withGrowthData": 755,
-    "withoutGrowthData": 34,
-    "withDividendHistory": 789,
-    "avgDividendYears": "13.0",
-    "durationMinutes": "15.35"
+    "totalDividendStocks": 823,
+    "withGrowthData": 786,
+    "withoutGrowthData": 37,
+    "withDividendHistory": 823,
+    "avgDividendYears": "13.1",
+    "durationMinutes": "13.22"
   },
   "sectors": [
     {
       "name": "Finance",
-      "count": 369
+      "count": 384
     },
     {
       "name": "Consumer Discretionary",
-      "count": 118
+      "count": 122
     },
     {
       "name": "Technology",
-      "count": 73
+      "count": 77
     },
     {
       "name": "Industrials",
-      "count": 65
+      "count": 70
     },
     {
       "name": "Real Estate",
@@ -38,15 +38,15 @@
     },
     {
       "name": "Energy",
-      "count": 19
+      "count": 21
     },
     {
       "name": "Consumer Staples",
-      "count": 18
+      "count": 19
     },
     {
       "name": "Utilities",
-      "count": 17
+      "count": 18
     },
     {
       "name": "N/A",
@@ -54,11 +54,11 @@
     },
     {
       "name": "Telecommunications",
-      "count": 12
+      "count": 13
     },
     {
       "name": "Basic Materials",
-      "count": 4
+      "count": 5
     },
     {
       "name": "Miscellaneous",
@@ -68,30 +68,34 @@
   "industries": [
     {
       "name": "Major Banks",
-      "count": 200
+      "count": 207
     },
     {
       "name": "Real Estate Investment Trusts",
       "count": 45
     },
     {
-      "name": "Finance: Consumer Services",
-      "count": 33
+      "name": "Investment Managers",
+      "count": 34
     },
     {
-      "name": "Investment Managers",
-      "count": 31
+      "name": "Finance: Consumer Services",
+      "count": 34
+    },
+    {
+      "name": "Savings Institutions",
+      "count": 20
     },
     {
       "name": "Semiconductors",
       "count": 19
     },
     {
-      "name": "Savings Institutions",
+      "name": "Computer Software: Prepackaged Software",
       "count": 18
     },
     {
-      "name": "Computer Software: Prepackaged Software",
+      "name": "Property-Casualty Insurers",
       "count": 17
     },
     {
@@ -99,23 +103,23 @@
       "count": 16
     },
     {
-      "name": "Property-Casualty Insurers",
-      "count": 16
+      "name": "Real Estate",
+      "count": 15
     },
     {
       "name": "Industrial Machinery/Components",
       "count": 15
     },
     {
-      "name": "Real Estate",
-      "count": 14
+      "name": "EDP Services",
+      "count": 12
     },
     {
       "name": "Banks",
       "count": 12
     },
     {
-      "name": "EDP Services",
+      "name": "Marine Transportation",
       "count": 11
     },
     {
@@ -131,20 +135,20 @@
       "count": 11
     },
     {
-      "name": "Marine Transportation",
-      "count": 10
-    },
-    {
       "name": "Finance Companies",
       "count": 10
     },
     {
       "name": "Oil & Gas Production",
-      "count": 9
+      "count": 10
     },
     {
       "name": "Professional Services",
       "count": 9
+    },
+    {
+      "name": "Farming/Seeds/Milling",
+      "count": 8
     },
     {
       "name": "Biotechnology: Pharmaceutical Preparations",
@@ -159,6 +163,10 @@
       "count": 7
     },
     {
+      "name": "Water Supply",
+      "count": 7
+    },
+    {
       "name": "Broadcasting",
       "count": 7
     },
@@ -167,11 +175,11 @@
       "count": 7
     },
     {
-      "name": "Farming/Seeds/Milling",
+      "name": "Electronic Components",
       "count": 7
     },
     {
-      "name": "Electronic Components",
+      "name": "Trucking Freight/Courier Services",
       "count": 7
     },
     {
@@ -179,7 +187,7 @@
       "count": 6
     },
     {
-      "name": "Water Supply",
+      "name": "Auto Parts:O.E.M.",
       "count": 6
     },
     {
@@ -199,15 +207,15 @@
       "count": 6
     },
     {
-      "name": "Trucking Freight/Courier Services",
-      "count": 6
-    },
-    {
       "name": "Hotels/Resorts",
       "count": 6
     },
     {
       "name": "Commercial Banks",
+      "count": 5
+    },
+    {
+      "name": "Apparel",
       "count": 5
     },
     {
@@ -223,11 +231,23 @@
       "count": 5
     },
     {
-      "name": "Auto Parts:O.E.M.",
+      "name": "Services-Misc. Amusement & Recreation",
+      "count": 5
+    },
+    {
+      "name": "Major Chemicals",
+      "count": 5
+    },
+    {
+      "name": "Electrical Products",
       "count": 5
     },
     {
       "name": "Coal Mining",
+      "count": 4
+    },
+    {
+      "name": "Misc Corporate Leasing Services",
       "count": 4
     },
     {
@@ -236,10 +256,6 @@
     },
     {
       "name": "Packaged Foods",
-      "count": 4
-    },
-    {
-      "name": "Apparel",
       "count": 4
     },
     {
@@ -255,15 +271,7 @@
       "count": 4
     },
     {
-      "name": "Services-Misc. Amusement & Recreation",
-      "count": 4
-    },
-    {
       "name": "Electric Utilities: Central",
-      "count": 4
-    },
-    {
-      "name": "Major Chemicals",
       "count": 4
     },
     {
@@ -272,10 +280,6 @@
     },
     {
       "name": "Textiles",
-      "count": 3
-    },
-    {
-      "name": "Misc Corporate Leasing Services",
       "count": 3
     },
     {
@@ -295,15 +299,15 @@
       "count": 3
     },
     {
+      "name": "Retail: Computer Software & Peripheral Equipment",
+      "count": 3
+    },
+    {
       "name": "Retail-Auto Dealers and Gas Stations",
       "count": 3
     },
     {
       "name": "Department/Specialty Retail Stores",
-      "count": 3
-    },
-    {
-      "name": "Electrical Products",
       "count": 3
     },
     {
@@ -319,11 +323,19 @@
       "count": 2
     },
     {
+      "name": "Ordnance And Accessories",
+      "count": 2
+    },
+    {
       "name": "Package Goods/Cosmetics",
       "count": 2
     },
     {
       "name": "Natural Gas Distribution",
+      "count": 2
+    },
+    {
+      "name": "Cable & Other Pay Television Services",
       "count": 2
     },
     {
@@ -360,10 +372,6 @@
     },
     {
       "name": "RETAIL: Building Materials",
-      "count": 2
-    },
-    {
-      "name": "Retail: Computer Software & Peripheral Equipment",
       "count": 2
     },
     {
@@ -431,14 +439,6 @@
       "count": 1
     },
     {
-      "name": "Ordnance And Accessories",
-      "count": 1
-    },
-    {
-      "name": "Cable & Other Pay Television Services",
-      "count": 1
-    },
-    {
       "name": "Meat/Poultry/Fish",
       "count": 1
     },
@@ -471,6 +471,10 @@
       "count": 1
     },
     {
+      "name": "Forest Products",
+      "count": 1
+    },
+    {
       "name": "Railroads",
       "count": 1
     },
@@ -500,6 +504,10 @@
     },
     {
       "name": "Computer Manufacturing",
+      "count": 1
+    },
+    {
+      "name": "Mining & Quarrying of Nonmetallic Minerals (No Fuels)",
       "count": 1
     },
     {
@@ -973,6 +981,112 @@
       }
     },
     {
+      "symbol": "IEP",
+      "name": "Icahn Enterprises, L.P. Common Stock",
+      "price": "$8.11",
+      "marketCap": "5,167,768,656",
+      "sector": "Consumer Discretionary",
+      "industry": "Auto Parts:O.E.M.",
+      "dividendYield": "24.33%",
+      "annualDividend": "$2",
+      "exDividendDate": "11/17/2025",
+      "paymentDate": "12/24/2025",
+      "growthRate": "-9.9%",
+      "growthSource": "4yr Revenue CAGR",
+      "description": "Icahn Enterprises LP is a provider of diversified business services in the United States. The company operates its business through varied segments which include Investment, Automotive, Energy, Food Packaging, Real Estate, Pharma, and Home Fashion. Among these, the Energy segment derives maximum revenue from the company. Geographically, it generates maximum revenue from the United States.",
+      "dividendHistory": [
+        {
+          "year": "2005",
+          "amount": "$0.20"
+        },
+        {
+          "year": "2006",
+          "amount": "$0.40"
+        },
+        {
+          "year": "2007",
+          "amount": "$0.55"
+        },
+        {
+          "year": "2008",
+          "amount": "$1.00"
+        },
+        {
+          "year": "2009",
+          "amount": "$1.00"
+        },
+        {
+          "year": "2010",
+          "amount": "$1.00"
+        },
+        {
+          "year": "2011",
+          "amount": "$0.95"
+        },
+        {
+          "year": "2013",
+          "amount": "$2.50"
+        },
+        {
+          "year": "2014",
+          "amount": "$6.00"
+        },
+        {
+          "year": "2015",
+          "amount": "$6.00"
+        },
+        {
+          "year": "2016",
+          "amount": "$6.00"
+        },
+        {
+          "year": "2017",
+          "amount": "$6.00"
+        },
+        {
+          "year": "2018",
+          "amount": "$7.00"
+        },
+        {
+          "year": "2019",
+          "amount": "$8.00"
+        },
+        {
+          "year": "2020",
+          "amount": "$8.00"
+        },
+        {
+          "year": "2021",
+          "amount": "$8.00"
+        },
+        {
+          "year": "2022",
+          "amount": "$8.00"
+        },
+        {
+          "year": "2023",
+          "amount": "$6.00"
+        },
+        {
+          "year": "2024",
+          "amount": "$3.50"
+        },
+        {
+          "year": "2025",
+          "amount": "$2.00"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.50"
+        }
+      ],
+      "dividendYears": 21,
+      "dividendGrowth": {
+        "rate": "4.5%",
+        "years": 21
+      }
+    },
+    {
       "symbol": "AFCG",
       "name": "Advanced Flower Capital Inc. Common Stock",
       "price": "$2.62",
@@ -1171,6 +1285,84 @@
       "dividendYears": 14,
       "dividendGrowth": {
         "rate": "-5.2%",
+        "years": 13
+      }
+    },
+    {
+      "symbol": "PSEC",
+      "name": "Prospect Capital Corporation Common Stock",
+      "price": "$2.73",
+      "marketCap": "1,317,197,179",
+      "sector": "Finance",
+      "industry": "Finance: Consumer Services",
+      "dividendYield": "19.78%",
+      "annualDividend": "$0.54",
+      "exDividendDate": "02/25/2026",
+      "paymentDate": "03/19/2026",
+      "growthRate": "-1.0%",
+      "growthSource": "4yr Revenue CAGR",
+      "description": "Prospect Capital Corporation is a business development company that primarily lends to and invests in middle market privately-held companies. Prospect Capital Corporation's investment objective is to generate both current income and long-term capital appreciation. Prospect Capital Corporation has elected to be treated as a business development company under the Investment Company Act of 1940. Prospect Capital Corporation has elected to be treated as a regulated investment company under the Internal Revenue Code of 1986.",
+      "dividendHistory": [
+        {
+          "year": "2013",
+          "amount": "$0.44"
+        },
+        {
+          "year": "2014",
+          "amount": "$1.33"
+        },
+        {
+          "year": "2015",
+          "amount": "$1.03"
+        },
+        {
+          "year": "2016",
+          "amount": "$1.00"
+        },
+        {
+          "year": "2017",
+          "amount": "$0.91"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.72"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.72"
+        },
+        {
+          "year": "2020",
+          "amount": "$0.72"
+        },
+        {
+          "year": "2021",
+          "amount": "$0.72"
+        },
+        {
+          "year": "2022",
+          "amount": "$0.72"
+        },
+        {
+          "year": "2023",
+          "amount": "$0.72"
+        },
+        {
+          "year": "2024",
+          "amount": "$0.69"
+        },
+        {
+          "year": "2025",
+          "amount": "$0.54"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.18"
+        }
+      ],
+      "dividendYears": 14,
+      "dividendGrowth": {
+        "rate": "-6.6%",
         "years": 13
       }
     },
@@ -2374,6 +2566,36 @@
       "dividendGrowth": {
         "rate": "-11.1%",
         "years": 14
+      }
+    },
+    {
+      "symbol": "SATA",
+      "name": "Strive, Inc. Variable Rate Series A Perpetual Preferred Stock",
+      "price": "$94.57",
+      "marketCap": "5,898,505,003",
+      "sector": "N/A",
+      "industry": "N/A",
+      "dividendYield": "13.17%",
+      "annualDividend": "$12.5004",
+      "exDividendDate": "02/27/2026",
+      "paymentDate": "03/15/2026",
+      "growthRate": "-6.5%",
+      "growthSource": "4yr Revenue CAGR",
+      "description": "Strive is the first publicly traded asset management Bitcoin treasury company. Strive is focused on increasing Bitcoin per share to outperform Bitcoin over the long run. Strive holds approximately 13,131.82 bitcoin as of January 28, 2026. Since launched its first ETF in August 2022, Strive Asset Management, LLC, a direct, wholly owned subsidiary of Strive and an SEC-registered investment adviser, has grown to manage over $2.3 billion in assets.",
+      "dividendHistory": [
+        {
+          "year": "2025",
+          "amount": "$2.15"
+        },
+        {
+          "year": "2026",
+          "amount": "$2.06"
+        }
+      ],
+      "dividendYears": 2,
+      "dividendGrowth": {
+        "rate": "-4.2%",
+        "years": 1
       }
     },
     {
@@ -3876,6 +4098,100 @@
       "dividendGrowth": {
         "rate": "-3.1%",
         "years": 12
+      }
+    },
+    {
+      "symbol": "CALM",
+      "name": "Cal-Maine Foods, Inc. Common Stock",
+      "price": "$89.84",
+      "marketCap": "4,281,239,493",
+      "sector": "Consumer Staples",
+      "industry": "Farming/Seeds/Milling",
+      "dividendYield": "10.54%",
+      "annualDividend": "$9.416",
+      "exDividendDate": "08/04/2025",
+      "paymentDate": "08/19/2025",
+      "growthRate": "24.4%",
+      "growthSource": "4yr Revenue CAGR",
+      "description": "Cal-Maine Foods, Inc. (NASDAQ: CALM) is the largest egg company in the United States and a leading player in the egg-based food industry. With a strong national footprint, Cal-Maine Foods provides nutritious, affordable, and sustainable protein to millions of households every day. The Company's portfolio spans the full egg value ladder-from conventional to specialty, including cage-free, organic, brown, free-range, pasture-raised, and nutritionally enhanced-serving both retail and foodservice customers nationwide. Cal-Maine Foods also participates in the growing prepared foods sector, with offerings such as pre-cooked egg patties, omelets, folded and scrambled egg formats, hard-cooked eggs, pancakes, waffles, and specialty wraps. Its branded portfolio includes Eggland's Best®, Land O'Lakes®, Farmhouse Eggs®, 4Grain®, Sunups®, Sunny Meadow®, MeadowCreek Foods®, and Crepini®.",
+      "dividendHistory": [
+        {
+          "year": "1998",
+          "amount": "$0.04"
+        },
+        {
+          "year": "1999",
+          "amount": "$0.05"
+        },
+        {
+          "year": "2000",
+          "amount": "$0.05"
+        },
+        {
+          "year": "2001",
+          "amount": "$0.05"
+        },
+        {
+          "year": "2002",
+          "amount": "$0.05"
+        },
+        {
+          "year": "2003",
+          "amount": "$0.03"
+        },
+        {
+          "year": "2013",
+          "amount": "$0.69"
+        },
+        {
+          "year": "2014",
+          "amount": "$1.77"
+        },
+        {
+          "year": "2015",
+          "amount": "$1.90"
+        },
+        {
+          "year": "2016",
+          "amount": "$1.19"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.44"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.42"
+        },
+        {
+          "year": "2021",
+          "amount": "$0.03"
+        },
+        {
+          "year": "2022",
+          "amount": "$1.73"
+        },
+        {
+          "year": "2023",
+          "amount": "$4.31"
+        },
+        {
+          "year": "2024",
+          "amount": "$2.90"
+        },
+        {
+          "year": "2025",
+          "amount": "$8.72"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.72"
+        }
+      ],
+      "dividendYears": 18,
+      "dividendGrowth": {
+        "rate": "10.9%",
+        "years": 28
       }
     },
     {
@@ -5867,6 +6183,52 @@
       }
     },
     {
+      "symbol": "POWWP",
+      "name": "Outdoor Holding Company 8.75% Series A Cumulative Redeemable Perpetual Preferred Stock",
+      "price": "$24.35",
+      "marketCap": "2,855,980,381",
+      "sector": "Industrials",
+      "industry": "Ordnance And Accessories",
+      "dividendYield": "9.01%",
+      "annualDividend": "$2.1875",
+      "exDividendDate": "02/27/2026",
+      "paymentDate": "03/16/2026",
+      "growthRate": "-32.7%",
+      "growthSource": "4yr Revenue CAGR",
+      "description": "Outdoor Holding Company is the publicly traded parent and operator of GunBroker.com, the largest online marketplace dedicated to firearms, hunting, shooting and related products. Third-party sellers list items on the site and federal and state laws govern the sale of firearms and other restricted items. Ownership policies and regulations are followed by using licensed firearms dealers as transfer agents. Launched in 1999, the GunBroker.com website is an informative, secure and safe way to buy and sell firearms, ammunition, shooting accessories and outdoor gear online. GunBroker promotes responsible ownership of firearms. For more information, visit: www.gunbroker.com.",
+      "dividendHistory": [
+        {
+          "year": "2021",
+          "amount": "$1.26"
+        },
+        {
+          "year": "2022",
+          "amount": "$2.22"
+        },
+        {
+          "year": "2023",
+          "amount": "$2.22"
+        },
+        {
+          "year": "2024",
+          "amount": "$2.23"
+        },
+        {
+          "year": "2025",
+          "amount": "$2.19"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.55"
+        }
+      ],
+      "dividendYears": 6,
+      "dividendGrowth": {
+        "rate": "-15.3%",
+        "years": 5
+      }
+    },
+    {
       "symbol": "ADAMI",
       "name": "Adamas Trust, Inc. 9.125% Senior Notes Due 2029",
       "price": "$25.3901",
@@ -6364,6 +6726,44 @@
       "dividendGrowth": {
         "rate": "-12.6%",
         "years": 14
+      }
+    },
+    {
+      "symbol": "FTAIM",
+      "name": "FTAI Aviation Ltd. 9.500% Fixed-Rate Reset Series D Cumulative Perpetual Redeemable Preferred Shares",
+      "price": "$27.21",
+      "marketCap": "2,791,019,030",
+      "sector": "Industrials",
+      "industry": "Misc Corporate Leasing Services",
+      "dividendYield": "8.73%",
+      "annualDividend": "$2.375",
+      "exDividendDate": "12/01/2025",
+      "paymentDate": "12/15/2025",
+      "growthRate": "37.2%",
+      "growthSource": "4yr Revenue CAGR",
+      "description": "FTAI owns and maintains CFM56 and V2500 aircraft engines that power the world's most widely used commercial aircraft. FTAI's differentiated Maintenance, Repair and Exchange (\"MRE\") product offers time and cost savings to airlines and asset owners globally. In addition, FTAI acquires and manages on-lease aircraft and engines in partnership with institutional investors. Additional information is available at https://www.ftaiaviation.com /.",
+      "dividendHistory": [
+        {
+          "year": "2023",
+          "amount": "$1.78"
+        },
+        {
+          "year": "2024",
+          "amount": "$2.38"
+        },
+        {
+          "year": "2025",
+          "amount": "$2.38"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.59"
+        }
+      ],
+      "dividendYears": 4,
+      "dividendGrowth": {
+        "rate": "-30.8%",
+        "years": 3
       }
     },
     {
@@ -7251,6 +7651,80 @@
       }
     },
     {
+      "symbol": "TFSL",
+      "name": "TFS Financial Corporation Common Stock",
+      "price": "$13.90",
+      "marketCap": "3,899,934,106",
+      "sector": "Finance",
+      "industry": "Savings Institutions",
+      "dividendYield": "8.12%",
+      "annualDividend": "$1.13",
+      "exDividendDate": "12/02/2025",
+      "paymentDate": "12/16/2025",
+      "growthRate": "3.13%",
+      "growthSource": "Analyst Forecast",
+      "description": "TFS Financial Corp is the holding company for the Third Federal Savings and Loan Association of Cleveland. The company's ownership in the savings and loan association is its primary business activity. The association's principal business consists of originating and servicing residential real estate mortgage loans and attracting retail savings deposits. It does so by offering products with competitive rates and yields. The company also operates Third Capital, a wholly owned subsidiary that serves as a holding company or as an investor in vehicles such as private equity funds. Third Capital has interests in lease transactions of commercial buildings, title agencies providing escrow and settlement services, and reinsurance of private mortgage insurance on residential loans.",
+      "dividendHistory": [
+        {
+          "year": "2014",
+          "amount": "$0.14"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.34"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.45"
+        },
+        {
+          "year": "2017",
+          "amount": "$0.59"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.84"
+        },
+        {
+          "year": "2019",
+          "amount": "$1.04"
+        },
+        {
+          "year": "2020",
+          "amount": "$1.12"
+        },
+        {
+          "year": "2021",
+          "amount": "$1.13"
+        },
+        {
+          "year": "2022",
+          "amount": "$1.13"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.13"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.13"
+        },
+        {
+          "year": "2025",
+          "amount": "$1.13"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.28"
+        }
+      ],
+      "dividendYears": 13,
+      "dividendGrowth": {
+        "rate": "5.9%",
+        "years": 12
+      }
+    },
+    {
       "symbol": "VLYPP",
       "name": "Valley National Bancorp 6.25% Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series A",
       "price": "$25.20",
@@ -7615,7 +8089,7 @@
       "paymentDate": "03/15/2026",
       "growthRate": "13.6%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "",
+      "description": "MidCap Financial Investment Corporation (NASDAQ: MFIC) is a closed-end, externally managed, diversified management investment company that has elected to be treated as a business development company under the 1940 Act. For tax purposes, the Company has elected to be treated as a regulated investment company under Subchapter M of the Internal Revenue Code of 1986, as amended. The Company is externally managed by the Investment Adviser, an affiliate of Apollo Global Management, Inc. and its consolidated subsidiaries, a high-growth global alternative asset manager. The Company's investment objective is to generate current income and, to a lesser extent, long-term capital appreciation.",
       "dividendHistory": [
         {
           "year": "2024",
@@ -9897,6 +10371,48 @@
       }
     },
     {
+      "symbol": "OXLCN",
+      "name": "Oxford Lane Capital Corp. 7.125% Series 2029 Term Preferred Stock",
+      "price": "$24.25",
+      "marketCap": "4,209,800,000",
+      "sector": "Finance",
+      "industry": "Investment Managers",
+      "dividendYield": "7.35%",
+      "annualDividend": "$1.78125",
+      "exDividendDate": "02/13/2026",
+      "paymentDate": "02/27/2026",
+      "growthRate": "N/A",
+      "growthSource": "",
+      "description": "Oxford Lane Capital Corp is a non-diversified closed-end management investment company. The fund's investment objective is to maximize its portfolio's risk-adjusted total return over its investment horizon. Its current focus is to seek that return by investing in equity and junior tranches of CLO(collateralized loan obligation) vehicles, which are collateralized primarily by a diverse portfolio of senior loans, and which generally have little to no exposure to real estate loans, mortgage loans or pools of consumer-based debt, such as credit card receivables or auto loans. Its investment strategy also includes investing in warehouse facilities, which are financing structures intended to aggregate senior loans that may be used to form the basis of a CLO vehicle.",
+      "dividendHistory": [
+        {
+          "year": "2022",
+          "amount": "$0.95"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.78"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.78"
+        },
+        {
+          "year": "2025",
+          "amount": "$1.78"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.74"
+        }
+      ],
+      "dividendYears": 5,
+      "dividendGrowth": {
+        "rate": "-6.1%",
+        "years": 4
+      }
+    },
+    {
       "symbol": "ADAML",
       "name": "Adamas Trust, Inc. 6.875% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock, $0.01 par value per share",
       "price": "$23.52",
@@ -9936,6 +10452,52 @@
       "dividendGrowth": {
         "rate": "17.6%",
         "years": 4
+      }
+    },
+    {
+      "symbol": "LBRDP",
+      "name": "Liberty Broadband Corporation Series A Cumulative Redeemable Preferred Stock",
+      "price": "$24.02",
+      "marketCap": "3,446,815,475",
+      "sector": "Telecommunications",
+      "industry": "Cable & Other Pay Television Services",
+      "dividendYield": "7.29%",
+      "annualDividend": "$1.75",
+      "exDividendDate": "12/31/2025",
+      "paymentDate": "01/15/2026",
+      "growthRate": "N/A",
+      "growthSource": "",
+      "description": "Liberty Broadband Corporation (Nasdaq: LBRDA, LBRDK, LBRDP) operates and owns interests in a broad range of communications businesses. Liberty Broadband's principal assets consist of its interest in Charter Communications and its subsidiary GCI. GCI is Alaska's largest communications provider, providing data, wireless, video, voice and managed services to consumer and business customers throughout Alaska and nationwide. GCI has delivered services over the past 40 years to some of the most remote communities and in some of the most challenging conditions in North America.",
+      "dividendHistory": [
+        {
+          "year": "2020",
+          "amount": "$0.44"
+        },
+        {
+          "year": "2021",
+          "amount": "$1.75"
+        },
+        {
+          "year": "2022",
+          "amount": "$1.75"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.75"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.75"
+        },
+        {
+          "year": "2025",
+          "amount": "$1.75"
+        }
+      ],
+      "dividendYears": 6,
+      "dividendGrowth": {
+        "rate": "31.8%",
+        "years": 5
       }
     },
     {
@@ -10505,8 +11067,8 @@
       "annualDividend": "$1.67",
       "exDividendDate": "01/30/2026",
       "paymentDate": "02/13/2026",
-      "growthRate": "-6.3%",
-      "growthSource": "4yr Revenue CAGR",
+      "growthRate": "167.97%",
+      "growthSource": "Analyst Forecast",
       "description": "Plains GP Holdings, L.P. is a publicly traded entity that owns an indirect, non-economic controlling general partner interest and an indirect limited partner interest in a midstream energy infrastructure company which provides logistics services for crude oil and natural gas liquids.",
       "dividendHistory": [
         {
@@ -10771,7 +11333,7 @@
       "paymentDate": "12/31/2025",
       "growthRate": "N/A",
       "growthSource": "",
-      "description": "",
+      "description": "Oxford Lane Capital Corp. NasdaqGS: OXLC is a publicly-traded closed-end management investment company that has registered as an investment company under the Investment Company Act of 1940 as amended.Our investment objective is to maximize our portfolios total return. Our current focus is to seek an attractive risk-adjusted total return by investing primarily in debt and equity tranches of CLO vehicles which are collateralized principally by a diverse portfolio of senior loans and which generally have little to no exposure to real estate loans mortgage loans or pools of consumer-based debt such as credit card receivables or auto loans. CLO investments may also include warehouse facilities which are financing structures intended to aggregate loans that may be used to form the basis of a CLO vehicle.",
       "dividendHistory": [
         {
           "year": "2021",
@@ -11779,6 +12341,52 @@
       }
     },
     {
+      "symbol": "ACGLN",
+      "name": "Arch Capital Group Ltd. Depositary Shares, each Representing a 1/1,000th Interest in a 4.550% Non-Cumulative Preferred Share, Series G",
+      "price": "$17.23",
+      "marketCap": "6,130,491,204",
+      "sector": "Finance",
+      "industry": "Property-Casualty Insurers",
+      "dividendYield": "6.52%",
+      "annualDividend": "$1.1375",
+      "exDividendDate": "12/15/2025",
+      "paymentDate": "12/31/2025",
+      "growthRate": "20.0%",
+      "growthSource": "4yr Revenue CAGR",
+      "description": "Arch Capital Group Ltd. (Nasdaq: ACGL) is a publicly listed Bermuda exempted company with approximately $26.4 billion in capital at September 30, 2025. Arch, which is part of the S&P 500 Index, provides insurance, reinsurance and mortgage insurance on a worldwide basis through its wholly owned subsidiaries.",
+      "dividendHistory": [
+        {
+          "year": "2021",
+          "amount": "$0.63"
+        },
+        {
+          "year": "2022",
+          "amount": "$1.14"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.14"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.14"
+        },
+        {
+          "year": "2025",
+          "amount": "$1.14"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.28"
+        }
+      ],
+      "dividendYears": 6,
+      "dividendGrowth": {
+        "rate": "-15.0%",
+        "years": 5
+      }
+    },
+    {
       "symbol": "NWL",
       "name": "Newell Brands Inc. Common Stock",
       "price": "$4.24",
@@ -12151,6 +12759,52 @@
       }
     },
     {
+      "symbol": "OXLCO",
+      "name": "Oxford Lane Capital Corp. Preferred Stock Shares, 6.00% Series 2029",
+      "price": "$23.5184",
+      "marketCap": "4,082,794,240",
+      "sector": "Finance",
+      "industry": "Investment Managers",
+      "dividendYield": "6.4%",
+      "annualDividend": "$1.5",
+      "exDividendDate": "02/13/2026",
+      "paymentDate": "02/27/2026",
+      "growthRate": "N/A",
+      "growthSource": "",
+      "description": "Oxford Lane Capital Corp is a non-diversified closed-end management investment company. The fund's investment objective is to maximize its portfolio's risk-adjusted total return over its investment horizon. Its current focus is to seek that return by investing in equity and junior tranches of CLO(collateralized loan obligation) vehicles, which are collateralized primarily by a diverse portfolio of senior loans, and which generally have little to no exposure to real estate loans, mortgage loans or pools of consumer-based debt, such as credit card receivables or auto loans. Its investment strategy also includes investing in warehouse facilities, which are financing structures intended to aggregate senior loans that may be used to form the basis of a CLO vehicle.",
+      "dividendHistory": [
+        {
+          "year": "2021",
+          "amount": "$0.56"
+        },
+        {
+          "year": "2022",
+          "amount": "$1.50"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.50"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.50"
+        },
+        {
+          "year": "2025",
+          "amount": "$1.50"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.63"
+        }
+      ],
+      "dividendYears": 6,
+      "dividendGrowth": {
+        "rate": "2.4%",
+        "years": 5
+      }
+    },
+    {
       "symbol": "HBANP",
       "name": "Huntington Bancshares Incorporated Depositary Shares 4.500% Series H Non-Cumulative Perpetual Preferred Stock",
       "price": "$17.65",
@@ -12251,7 +12905,7 @@
       "paymentDate": "02/27/2026",
       "growthRate": "N/A",
       "growthSource": "",
-      "description": "",
+      "description": "Oxford Lane Capital Corp is a non-diversified closed-end management investment company. The fund's investment objective is to maximize its portfolio's risk-adjusted total return over its investment horizon. Its current focus is to seek that return by investing in equity and junior tranches of CLO(collateralized loan obligation) vehicles, which are collateralized primarily by a diverse portfolio of senior loans, and which generally have little to no exposure to real estate loans, mortgage loans or pools of consumer-based debt, such as credit card receivables or auto loans. Its investment strategy also includes investing in warehouse facilities, which are financing structures intended to aggregate senior loans that may be used to form the basis of a CLO vehicle.",
       "dividendHistory": [
         {
           "year": "2020",
@@ -13111,7 +13765,7 @@
       "paymentDate": "02/27/2026",
       "growthRate": "0.34%",
       "growthSource": "Analyst Forecast",
-      "description": "",
+      "description": "Sabra Health Care REIT, Inc. (Nasdaq:SBRA), a Maryland corporation, operates as a self-administered, self-managed real estate investment trust (a \"REIT\") that, through its subsidiaries, owns and invests in real estate serving the healthcare industry throughout the United States and Canada.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -14974,6 +15628,84 @@
       "dividendGrowth": {
         "rate": "-13.5%",
         "years": 4
+      }
+    },
+    {
+      "symbol": "FIBK",
+      "name": "First Interstate BancSystem, Inc. Common Stock (DE)",
+      "price": "$34.19",
+      "marketCap": "3,457,234,745",
+      "sector": "Finance",
+      "industry": "Major Banks",
+      "dividendYield": "5.37%",
+      "annualDividend": "$1.88",
+      "exDividendDate": "02/10/2026",
+      "paymentDate": "02/20/2026",
+      "growthRate": "-7.94%",
+      "growthSource": "Analyst Forecast",
+      "description": "First Interstate BancSystem, Inc. is a financial and bank holding company focused on community banking. Incorporated in 1971 and headquartered in Billings, Montana, the Company operates banking offices, including detached drive-up facilities, in communities across Colorado, Idaho, Iowa, Minnesota, Missouri, Montana, Nebraska, North Dakota, Oregon, South Dakota, Washington, and Wyoming, in addition to offering online and mobile banking services. Through our bank subsidiary, First Interstate Bank, the Company delivers a comprehensive range of banking products and services to individuals, businesses, municipalities, and others throughout the Company's market areas.",
+      "dividendHistory": [
+        {
+          "year": "2013",
+          "amount": "$0.28"
+        },
+        {
+          "year": "2014",
+          "amount": "$0.64"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.80"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.88"
+        },
+        {
+          "year": "2017",
+          "amount": "$0.96"
+        },
+        {
+          "year": "2018",
+          "amount": "$1.12"
+        },
+        {
+          "year": "2019",
+          "amount": "$1.24"
+        },
+        {
+          "year": "2020",
+          "amount": "$2.00"
+        },
+        {
+          "year": "2021",
+          "amount": "$1.64"
+        },
+        {
+          "year": "2022",
+          "amount": "$1.70"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.88"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.88"
+        },
+        {
+          "year": "2025",
+          "amount": "$1.88"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.47"
+        }
+      ],
+      "dividendYears": 14,
+      "dividendGrowth": {
+        "rate": "4.1%",
+        "years": 13
       }
     },
     {
@@ -18109,6 +18841,84 @@
       }
     },
     {
+      "symbol": "PTEN",
+      "name": "Patterson-UTI Energy, Inc. Common Stock",
+      "price": "$8.97",
+      "marketCap": "3,404,789,544",
+      "sector": "Energy",
+      "industry": "Oil & Gas Production",
+      "dividendYield": "4.52%",
+      "annualDividend": "$0.4",
+      "exDividendDate": "03/02/2026",
+      "paymentDate": "03/16/2026",
+      "growthRate": "-152.88%",
+      "growthSource": "Analyst Forecast",
+      "description": "Patterson-UTI is a leading provider of drilling and completion services to oil and natural gas exploration and production companies in the United States and other select countries, including contract drilling services, integrated well completion services and directional drilling services in the United States, and specialized drill bit solutions in the United States, Middle East and many other regions around the world.",
+      "dividendHistory": [
+        {
+          "year": "2013",
+          "amount": "$0.10"
+        },
+        {
+          "year": "2014",
+          "amount": "$0.40"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.40"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.16"
+        },
+        {
+          "year": "2017",
+          "amount": "$0.08"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.14"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.16"
+        },
+        {
+          "year": "2020",
+          "amount": "$0.10"
+        },
+        {
+          "year": "2021",
+          "amount": "$0.08"
+        },
+        {
+          "year": "2022",
+          "amount": "$0.20"
+        },
+        {
+          "year": "2023",
+          "amount": "$0.32"
+        },
+        {
+          "year": "2024",
+          "amount": "$0.32"
+        },
+        {
+          "year": "2025",
+          "amount": "$0.32"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.10"
+        }
+      ],
+      "dividendYears": 14,
+      "dividendGrowth": {
+        "rate": "0.0%",
+        "years": 13
+      }
+    },
+    {
       "symbol": "AMSF",
       "name": "AMERISAFE, Inc. Common Stock",
       "price": "$34.37",
@@ -19478,6 +20288,152 @@
       "dividendGrowth": {
         "rate": "-5.7%",
         "years": 13
+      }
+    },
+    {
+      "symbol": "SFNC",
+      "name": "Simmons First National Corporation Class A Common Stock",
+      "price": "$19.44",
+      "marketCap": "2,816,230,926",
+      "sector": "Finance",
+      "industry": "Major Banks",
+      "dividendYield": "4.24%",
+      "annualDividend": "$0.85",
+      "exDividendDate": "12/15/2025",
+      "paymentDate": "01/02/2026",
+      "growthRate": "16.91%",
+      "growthSource": "Analyst Forecast",
+      "description": "Simmons Bank is a wholly owned subsidiary of Simmons First National Corporation (NASDAQ: SFNC), a Mid-South based financial holding company that has paid cash dividends for 116 consecutive years. Simmons Bank operates more than 220 branches in Arkansas, Kansas, Missouri, Oklahoma, Tennessee and Texas. Founded in 1903, Simmons Bank oers comprehensive financial solutions delivered with a client-centric approach. In 2024, Simmons Bank was recognized by Newsweek as one of America's Best Regional Banks 2025 , by U.S. News & World Report as one of the 2024-2025 Best Companies to Work For in the South and by Forbes as one of America's Best-In-State Banks 2024 in Tennessee and America's Best-In-State Employers 2024 in Missouri.",
+      "dividendHistory": [
+        {
+          "year": "1988",
+          "amount": "$0.24"
+        },
+        {
+          "year": "1989",
+          "amount": "$0.60"
+        },
+        {
+          "year": "1990",
+          "amount": "$0.68"
+        },
+        {
+          "year": "1991",
+          "amount": "$0.73"
+        },
+        {
+          "year": "1992",
+          "amount": "$0.40"
+        },
+        {
+          "year": "1993",
+          "amount": "$0.30"
+        },
+        {
+          "year": "1994",
+          "amount": "$0.47"
+        },
+        {
+          "year": "1995",
+          "amount": "$0.59"
+        },
+        {
+          "year": "1996",
+          "amount": "$0.65"
+        },
+        {
+          "year": "1997",
+          "amount": "$0.56"
+        },
+        {
+          "year": "1998",
+          "amount": "$0.64"
+        },
+        {
+          "year": "1999",
+          "amount": "$0.72"
+        },
+        {
+          "year": "2000",
+          "amount": "$0.80"
+        },
+        {
+          "year": "2001",
+          "amount": "$0.88"
+        },
+        {
+          "year": "2002",
+          "amount": "$0.96"
+        },
+        {
+          "year": "2003",
+          "amount": "$0.38"
+        },
+        {
+          "year": "2004",
+          "amount": "$0.14"
+        },
+        {
+          "year": "2013",
+          "amount": "$0.63"
+        },
+        {
+          "year": "2014",
+          "amount": "$0.88"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.92"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.96"
+        },
+        {
+          "year": "2017",
+          "amount": "$1.00"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.60"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.64"
+        },
+        {
+          "year": "2020",
+          "amount": "$0.68"
+        },
+        {
+          "year": "2021",
+          "amount": "$0.72"
+        },
+        {
+          "year": "2022",
+          "amount": "$0.76"
+        },
+        {
+          "year": "2023",
+          "amount": "$0.80"
+        },
+        {
+          "year": "2024",
+          "amount": "$0.84"
+        },
+        {
+          "year": "2025",
+          "amount": "$0.85"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.21"
+        }
+      ],
+      "dividendYears": 31,
+      "dividendGrowth": {
+        "rate": "-0.4%",
+        "years": 38
       }
     },
     {
@@ -25173,6 +26129,132 @@
       }
     },
     {
+      "symbol": "NBTB",
+      "name": "NBT Bancorp Inc. Common Stock",
+      "price": "$41.63",
+      "marketCap": "2,173,269,588",
+      "sector": "Finance",
+      "industry": "Major Banks",
+      "dividendYield": "3.49%",
+      "annualDividend": "$1.48",
+      "exDividendDate": "03/02/2026",
+      "paymentDate": "03/16/2026",
+      "growthRate": "9.16%",
+      "growthSource": "Analyst Forecast",
+      "description": "NBT Bank offers personal banking, business banking and wealth management services from locations in seven states, including New York, Pennsylvania, Vermont, Massachusetts, New Hampshire, Maine and Connecticut. The bank and its parent company, NBT Bancorp Inc., are headquartered in Norwich, NY. NBT Bancorp had assets of $16.11 billion as of September 30, 2025 and is traded on the Nasdaq Global Select Market under the symbol NBTB. More information about NBT is available online at www.nbtbank.com.",
+      "dividendHistory": [
+        {
+          "year": "1992",
+          "amount": "$0.32"
+        },
+        {
+          "year": "1993",
+          "amount": "$0.46"
+        },
+        {
+          "year": "1994",
+          "amount": "$0.46"
+        },
+        {
+          "year": "1995",
+          "amount": "$0.49"
+        },
+        {
+          "year": "1996",
+          "amount": "$0.54"
+        },
+        {
+          "year": "1997",
+          "amount": "$0.64"
+        },
+        {
+          "year": "1998",
+          "amount": "$0.74"
+        },
+        {
+          "year": "1999",
+          "amount": "$0.68"
+        },
+        {
+          "year": "2000",
+          "amount": "$0.68"
+        },
+        {
+          "year": "2001",
+          "amount": "$0.68"
+        },
+        {
+          "year": "2002",
+          "amount": "$0.68"
+        },
+        {
+          "year": "2003",
+          "amount": "$0.34"
+        },
+        {
+          "year": "2013",
+          "amount": "$0.61"
+        },
+        {
+          "year": "2014",
+          "amount": "$0.84"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.87"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.90"
+        },
+        {
+          "year": "2017",
+          "amount": "$0.92"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.99"
+        },
+        {
+          "year": "2019",
+          "amount": "$1.05"
+        },
+        {
+          "year": "2020",
+          "amount": "$1.08"
+        },
+        {
+          "year": "2021",
+          "amount": "$1.10"
+        },
+        {
+          "year": "2022",
+          "amount": "$1.16"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.24"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.32"
+        },
+        {
+          "year": "2025",
+          "amount": "$1.42"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.37"
+        }
+      ],
+      "dividendYears": 26,
+      "dividendGrowth": {
+        "rate": "0.4%",
+        "years": 34
+      }
+    },
+    {
       "symbol": "GDEN",
       "name": "Golden Entertainment, Inc. Common Stock",
       "price": "$28.57",
@@ -27057,6 +28139,120 @@
       }
     },
     {
+      "symbol": "BANR",
+      "name": "Banner Corporation Common Stock",
+      "price": "$60.08",
+      "marketCap": "2,048,599,188",
+      "sector": "Finance",
+      "industry": "Major Banks",
+      "dividendYield": "3.31%",
+      "annualDividend": "$2",
+      "exDividendDate": "02/03/2026",
+      "paymentDate": "02/13/2026",
+      "growthRate": "2.5%",
+      "growthSource": "Analyst Forecast",
+      "description": "Banner Corporation is a $16.35 billion bank holding company operating a commercial bank in four Western states through a network of branches offering a full range of deposit services and business, commercial real estate, construction, residential, agricultural and consumer loans. Visit Banner Bank on the Web at www.bannerbank.com.",
+      "dividendHistory": [
+        {
+          "year": "1995",
+          "amount": "$0.05"
+        },
+        {
+          "year": "1996",
+          "amount": "$0.20"
+        },
+        {
+          "year": "1997",
+          "amount": "$0.28"
+        },
+        {
+          "year": "1998",
+          "amount": "$0.36"
+        },
+        {
+          "year": "1999",
+          "amount": "$0.48"
+        },
+        {
+          "year": "2000",
+          "amount": "$0.56"
+        },
+        {
+          "year": "2001",
+          "amount": "$0.56"
+        },
+        {
+          "year": "2002",
+          "amount": "$0.60"
+        },
+        {
+          "year": "2003",
+          "amount": "$0.15"
+        },
+        {
+          "year": "2013",
+          "amount": "$0.43"
+        },
+        {
+          "year": "2014",
+          "amount": "$0.72"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.72"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.65"
+        },
+        {
+          "year": "2017",
+          "amount": "$1.98"
+        },
+        {
+          "year": "2018",
+          "amount": "$1.83"
+        },
+        {
+          "year": "2019",
+          "amount": "$1.61"
+        },
+        {
+          "year": "2020",
+          "amount": "$2.64"
+        },
+        {
+          "year": "2021",
+          "amount": "$1.64"
+        },
+        {
+          "year": "2022",
+          "amount": "$1.76"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.92"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.92"
+        },
+        {
+          "year": "2025",
+          "amount": "$1.94"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.50"
+        }
+      ],
+      "dividendYears": 23,
+      "dividendGrowth": {
+        "rate": "7.7%",
+        "years": 31
+      }
+    },
+    {
       "symbol": "VTRS",
       "name": "Viatris Inc. Common Stock",
       "price": "$14.16",
@@ -28489,6 +29685,132 @@
       }
     },
     {
+      "symbol": "HTO",
+      "name": "H2O America Common Stock",
+      "price": "$58.205",
+      "marketCap": "2,104,953,908",
+      "sector": "Utilities",
+      "industry": "Water Supply",
+      "dividendYield": "3.12%",
+      "annualDividend": "$1.76",
+      "exDividendDate": "02/09/2026",
+      "paymentDate": "03/02/2026",
+      "growthRate": "-1.17%",
+      "growthSource": "Analyst Forecast",
+      "description": "H2O America (NASDAQ: HTO) is a national investor-owned network of local water and wastewater utilities united by one purpose: delivering clean, high-quality water to the communities we call home. For H2O America, providing water is more than a responsibility - it's a privilege. Every connection we serve helps sustain what matters most: public health, vibrant neighborhoods, and a reliable future. Across approximately 407,000 water and wastewater service connections, we invest in critical infrastructure to strengthen water supply for generations to come. We stay actively engaged in our local communities while focusing on operational excellence and delivering sustainable, long-term value to our investors. Water is local - and so are our roots. Through our four regional water utilities - Connecticut Water, Maine Water, San Jose Water, and Texas Water - we proudly serve more than 1.6 million people across the country. Together, we protect what's precious.",
+      "dividendHistory": [
+        {
+          "year": "1999",
+          "amount": "$0.60"
+        },
+        {
+          "year": "2000",
+          "amount": "$1.29"
+        },
+        {
+          "year": "2001",
+          "amount": "$1.92"
+        },
+        {
+          "year": "2004",
+          "amount": "$0.51"
+        },
+        {
+          "year": "2005",
+          "amount": "$0.80"
+        },
+        {
+          "year": "2006",
+          "amount": "$0.71"
+        },
+        {
+          "year": "2007",
+          "amount": "$0.60"
+        },
+        {
+          "year": "2008",
+          "amount": "$0.65"
+        },
+        {
+          "year": "2009",
+          "amount": "$0.66"
+        },
+        {
+          "year": "2010",
+          "amount": "$0.68"
+        },
+        {
+          "year": "2011",
+          "amount": "$0.69"
+        },
+        {
+          "year": "2012",
+          "amount": "$0.71"
+        },
+        {
+          "year": "2013",
+          "amount": "$0.73"
+        },
+        {
+          "year": "2014",
+          "amount": "$0.75"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.78"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.81"
+        },
+        {
+          "year": "2017",
+          "amount": "$1.04"
+        },
+        {
+          "year": "2018",
+          "amount": "$1.12"
+        },
+        {
+          "year": "2019",
+          "amount": "$1.20"
+        },
+        {
+          "year": "2020",
+          "amount": "$1.28"
+        },
+        {
+          "year": "2021",
+          "amount": "$1.36"
+        },
+        {
+          "year": "2022",
+          "amount": "$1.44"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.52"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.60"
+        },
+        {
+          "year": "2025",
+          "amount": "$1.68"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.44"
+        }
+      ],
+      "dividendYears": 26,
+      "dividendGrowth": {
+        "rate": "-1.1%",
+        "years": 27
+      }
+    },
+    {
       "symbol": "ILPT",
       "name": "Industrial Logistics Properties Trust Common Shares of Beneficial Interest",
       "price": "$6.25",
@@ -29022,6 +30344,136 @@
       "dividendGrowth": {
         "rate": "5.8%",
         "years": 14
+      }
+    },
+    {
+      "symbol": "HWC",
+      "name": "Hancock Whitney Corporation Common Stock",
+      "price": "$62.86",
+      "marketCap": "5,133,332,471",
+      "sector": "Finance",
+      "industry": "Major Banks",
+      "dividendYield": "3.08%",
+      "annualDividend": "$2",
+      "exDividendDate": "03/05/2026",
+      "paymentDate": "03/16/2026",
+      "growthRate": "9.7%",
+      "growthSource": "Analyst Forecast",
+      "description": "Since the late 1800s, Hancock Whitney has embodied core values of Honor & Integrity, Strength & Stability, Commitment to Service, Teamwork, and Personal Responsibility. Hancock Whitney offices and financial centers in Mississippi, Alabama, Florida, Louisiana, and Texas offer comprehensive financial products and services, including traditional and online banking; commercial and small business banking; private banking; trust and investment services; healthcare banking; and mortgage services. The company also operates combined loan and deposit production offices in the greater metropolitan areas of Nashville, Tennessee, and Atlanta, Georgia. More information is available at www.hancockwhitney.com.",
+      "dividendHistory": [
+        {
+          "year": "1991",
+          "amount": "$0.50"
+        },
+        {
+          "year": "1992",
+          "amount": "$0.68"
+        },
+        {
+          "year": "1993",
+          "amount": "$0.51"
+        },
+        {
+          "year": "1994",
+          "amount": "$0.92"
+        },
+        {
+          "year": "1995",
+          "amount": "$0.96"
+        },
+        {
+          "year": "1996",
+          "amount": "$1.00"
+        },
+        {
+          "year": "1997",
+          "amount": "$1.00"
+        },
+        {
+          "year": "1998",
+          "amount": "$1.00"
+        },
+        {
+          "year": "1999",
+          "amount": "$1.00"
+        },
+        {
+          "year": "2000",
+          "amount": "$1.25"
+        },
+        {
+          "year": "2001",
+          "amount": "$1.12"
+        },
+        {
+          "year": "2002",
+          "amount": "$1.00"
+        },
+        {
+          "year": "2003",
+          "amount": "$0.42"
+        },
+        {
+          "year": "2013",
+          "amount": "$0.48"
+        },
+        {
+          "year": "2014",
+          "amount": "$0.96"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.96"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.96"
+        },
+        {
+          "year": "2017",
+          "amount": "$0.96"
+        },
+        {
+          "year": "2018",
+          "amount": "$1.02"
+        },
+        {
+          "year": "2019",
+          "amount": "$1.08"
+        },
+        {
+          "year": "2020",
+          "amount": "$1.08"
+        },
+        {
+          "year": "2021",
+          "amount": "$1.08"
+        },
+        {
+          "year": "2022",
+          "amount": "$1.08"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.20"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.50"
+        },
+        {
+          "year": "2025",
+          "amount": "$1.80"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.50"
+        }
+      ],
+      "dividendYears": 27,
+      "dividendGrowth": {
+        "rate": "0.0%",
+        "years": 35
       }
     },
     {
@@ -32633,9 +34085,9 @@
       "annualDividend": "$1.96",
       "exDividendDate": "12/10/2025",
       "paymentDate": "12/23/2025",
-      "growthRate": "11.5%",
-      "growthSource": "4yr Revenue CAGR",
-      "description": "",
+      "growthRate": "7.03%",
+      "growthSource": "Analyst Forecast",
+      "description": "Victory Capital (NASDAQ: VCTR) is a diversified global asset management firm with $316.6 billion in total client assets, as of December 31, 2025. We serve institutional, intermediary, and individual clients through our Investment Franchises and Solutions Platform, which manage specialized investment strategies across traditional and alternative asset classes. Our differentiated approach combines the power of investment autonomy with the support of a robust, fully integrated operational and distribution platform. Clients have access to focused, top-tier investment talent equipped with comprehensive resources designed to deliver competitive long-term performance.",
       "dividendHistory": [
         {
           "year": "2019",
@@ -33558,6 +35010,52 @@
       "dividendGrowth": {
         "rate": "14.0%",
         "years": 24
+      }
+    },
+    {
+      "symbol": "EBC",
+      "name": "Eastern Bankshares, Inc. Common Stock",
+      "price": "$18.99",
+      "marketCap": "4,455,771,290",
+      "sector": "Finance",
+      "industry": "Savings Institutions",
+      "dividendYield": "2.68%",
+      "annualDividend": "$0.52",
+      "exDividendDate": "03/06/2026",
+      "paymentDate": "03/20/2026",
+      "growthRate": "24.1%",
+      "growthSource": "Analyst Forecast",
+      "description": "Founded in 1818, Eastern Bank is Greater Boston's leading local bank with more than 125 branch locations serving communities in eastern Massachusetts, southern and coastal New Hampshire, and Rhode Island. As of December 31, 2025, Eastern had approximately $30.6 billion in assets. Eastern provides a full range of banking and wealth management solutions for consumers and businesses of all sizes including through its Cambridge Trust Wealth Management and Private Banking Divisions, which include the largest bank-owned independent investment adviser in Massachusetts with $9.6 billion in assets under management. Eastern takes pride in its advocacy and community support that includes more than $240 million in charitable giving since 1994. An inclusive company, Eastern is comprised of deeply committed professionals who value relationships with their customers, colleagues and communities.",
+      "dividendHistory": [
+        {
+          "year": "2021",
+          "amount": "$0.30"
+        },
+        {
+          "year": "2022",
+          "amount": "$0.40"
+        },
+        {
+          "year": "2023",
+          "amount": "$0.41"
+        },
+        {
+          "year": "2024",
+          "amount": "$0.45"
+        },
+        {
+          "year": "2025",
+          "amount": "$0.51"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.13"
+        }
+      ],
+      "dividendYears": 6,
+      "dividendGrowth": {
+        "rate": "-15.4%",
+        "years": 5
       }
     },
     {
@@ -35380,6 +36878,128 @@
       "dividendGrowth": {
         "rate": "2.2%",
         "years": 13
+      }
+    },
+    {
+      "symbol": "FFIN",
+      "name": "First Financial Bankshares, Inc. Common Stock",
+      "price": "$30.08",
+      "marketCap": "4,308,316,348",
+      "sector": "Finance",
+      "industry": "Major Banks",
+      "dividendYield": "2.51%",
+      "annualDividend": "$0.76",
+      "exDividendDate": "12/15/2025",
+      "paymentDate": "01/02/2026",
+      "growthRate": "10.17%",
+      "growthSource": "Analyst Forecast",
+      "description": "First Financial Bank is a wholly owned subsidiary of First Financial Bankshares, Inc. (NASDAQ: FFIN). Headquartered in Abilene, Texas, First Financial Bankshares, Inc. is a financial holding company that through its subsidiary, First Financial Bank, operates multiple banking regions with 79 locations in Texas, including Abilene, Acton, Albany, Aledo, Alvarado, Beaumont, Boyd, Bridgeport, Brock, Bryan, Burleson, College Station, Cisco, Cleburne, Clyde, Conroe, Cut and Shoot, Decatur, Eastland, El Campo, Fort Worth, Franklin, Fulshear, Glen Rose, Granbury, Grapevine, Hereford, Huntsville, Keller, Kingwood, Magnolia, Mauriceville, Merkel, Midlothian, Mineral Wells, Montgomery, Moran, New Waverly, Newton, Odessa, Orange, Palacios, Port Arthur, Ranger, Rising Star, Roby, San Angelo, Southlake, Stephenville, Sweetwater, Tomball, Trent, Trophy Club, Vidor, Waxahachie, Weatherford, Willis, and Willow Park.",
+      "dividendHistory": [
+        {
+          "year": "1993",
+          "amount": "$0.32"
+        },
+        {
+          "year": "1994",
+          "amount": "$1.16"
+        },
+        {
+          "year": "1995",
+          "amount": "$1.21"
+        },
+        {
+          "year": "1996",
+          "amount": "$1.15"
+        },
+        {
+          "year": "1997",
+          "amount": "$1.03"
+        },
+        {
+          "year": "1998",
+          "amount": "$1.08"
+        },
+        {
+          "year": "1999",
+          "amount": "$1.13"
+        },
+        {
+          "year": "2000",
+          "amount": "$1.29"
+        },
+        {
+          "year": "2001",
+          "amount": "$1.23"
+        },
+        {
+          "year": "2002",
+          "amount": "$1.35"
+        },
+        {
+          "year": "2003",
+          "amount": "$0.66"
+        },
+        {
+          "year": "2013",
+          "amount": "$0.77"
+        },
+        {
+          "year": "2014",
+          "amount": "$0.68"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.62"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.70"
+        },
+        {
+          "year": "2017",
+          "amount": "$0.75"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.82"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.57"
+        },
+        {
+          "year": "2020",
+          "amount": "$0.51"
+        },
+        {
+          "year": "2021",
+          "amount": "$0.58"
+        },
+        {
+          "year": "2022",
+          "amount": "$0.66"
+        },
+        {
+          "year": "2023",
+          "amount": "$0.71"
+        },
+        {
+          "year": "2024",
+          "amount": "$0.72"
+        },
+        {
+          "year": "2025",
+          "amount": "$0.75"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.19"
+        }
+      ],
+      "dividendYears": 25,
+      "dividendGrowth": {
+        "rate": "-1.6%",
+        "years": 33
       }
     },
     {
@@ -37797,6 +39417,84 @@
       }
     },
     {
+      "symbol": "EFSC",
+      "name": "Enterprise Financial Services Corporation Common Stock",
+      "price": "$54.57",
+      "marketCap": "2,009,049,775",
+      "sector": "Finance",
+      "industry": "Major Banks",
+      "dividendYield": "2.28%",
+      "annualDividend": "$1.28",
+      "exDividendDate": "12/15/2025",
+      "paymentDate": "12/31/2025",
+      "growthRate": "6.01%",
+      "growthSource": "Analyst Forecast",
+      "description": "Enterprise Financial Services Corp (Nasdaq: EFSC), with approximately $17.3 billion in assets, is a financial holding company headquartered in Clayton, Missouri. Enterprise Bank & Trust, a Missouri state-chartered trust company with banking powers and a wholly-owned subsidiary of EFSC, operates branch offices in Arizona, California, Florida, Kansas, Missouri, Nevada, and New Mexico, and SBA loan and deposit production offices throughout the country. Enterprise Bank & Trust offers a range of business and personal banking services and wealth management services. Enterprise Trust, a division of Enterprise Bank & Trust, provides financial planning, estate planning, investment management and trust services to businesses, individuals, institutions, retirement plans and non-profit organizations. Additional information is available at www.enterprisebank.com.",
+      "dividendHistory": [
+        {
+          "year": "2013",
+          "amount": "$0.21"
+        },
+        {
+          "year": "2014",
+          "amount": "$0.21"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.26"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.41"
+        },
+        {
+          "year": "2017",
+          "amount": "$0.44"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.47"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.62"
+        },
+        {
+          "year": "2020",
+          "amount": "$0.72"
+        },
+        {
+          "year": "2021",
+          "amount": "$0.75"
+        },
+        {
+          "year": "2022",
+          "amount": "$0.90"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.00"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.06"
+        },
+        {
+          "year": "2025",
+          "amount": "$1.22"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.33"
+        }
+      ],
+      "dividendYears": 14,
+      "dividendGrowth": {
+        "rate": "3.5%",
+        "years": 13
+      }
+    },
+    {
       "symbol": "SBAC",
       "name": "SBA Communications Corporation Class A Common Stock",
       "price": "$196.58",
@@ -39390,6 +41088,72 @@
       "dividendGrowth": {
         "rate": "-12.8%",
         "years": 5
+      }
+    },
+    {
+      "symbol": "GLNG",
+      "name": "Golar Lng Ltd",
+      "price": "$47.08",
+      "marketCap": "4,925,626,170",
+      "sector": "Consumer Discretionary",
+      "industry": "Marine Transportation",
+      "dividendYield": "2.16%",
+      "annualDividend": "$1",
+      "exDividendDate": "11/17/2025",
+      "paymentDate": "11/24/2025",
+      "growthRate": "-63.15%",
+      "growthSource": "Analyst Forecast",
+      "description": "Golar LNG Ltd is a midstream LNG company operates in the transportation, regasification, liquefaction, and trading of LNG. The segment in which the group operates includes Shipping, FLNG (Floating Liquefaction Natural Gas vessels), Power, and Corporate and other. It generates maximum revenue from the FLNG segment.",
+      "dividendHistory": [
+        {
+          "year": "2013",
+          "amount": "$1.35"
+        },
+        {
+          "year": "2014",
+          "amount": "$1.80"
+        },
+        {
+          "year": "2015",
+          "amount": "$1.80"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.20"
+        },
+        {
+          "year": "2017",
+          "amount": "$0.20"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.38"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.30"
+        },
+        {
+          "year": "2023",
+          "amount": "$0.75"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.00"
+        },
+        {
+          "year": "2025",
+          "amount": "$1.00"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.25"
+        }
+      ],
+      "dividendYears": 11,
+      "dividendGrowth": {
+        "rate": "-12.2%",
+        "years": 13
       }
     },
     {
@@ -41351,6 +43115,84 @@
       }
     },
     {
+      "symbol": "COLM",
+      "name": "Columbia Sportswear Company Common Stock",
+      "price": "$58.32",
+      "marketCap": "3,053,142,513",
+      "sector": "Consumer Discretionary",
+      "industry": "Apparel",
+      "dividendYield": "2%",
+      "annualDividend": "$1.2",
+      "exDividendDate": "11/20/2025",
+      "paymentDate": "12/04/2025",
+      "growthRate": "-6.23%",
+      "growthSource": "Analyst Forecast",
+      "description": "Columbia, the flagship brand of Portland, Oregon -based Columbia Sportswear Company, has been creating innovative apparel, footwear, accessories, and equipment for outdoor enthusiasts since 1938. Columbia has become a leading global brand by channeling the company's innovative spirit and passion for the outdoors into technologies and performance products that keep people warm, dry, cool and protected year-round.",
+      "dividendHistory": [
+        {
+          "year": "2013",
+          "amount": "$0.47"
+        },
+        {
+          "year": "2014",
+          "amount": "$0.99"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.62"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.69"
+        },
+        {
+          "year": "2017",
+          "amount": "$0.73"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.90"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.96"
+        },
+        {
+          "year": "2020",
+          "amount": "$0.26"
+        },
+        {
+          "year": "2021",
+          "amount": "$1.04"
+        },
+        {
+          "year": "2022",
+          "amount": "$1.20"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.20"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.20"
+        },
+        {
+          "year": "2025",
+          "amount": "$1.20"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.30"
+        }
+      ],
+      "dividendYears": 14,
+      "dividendGrowth": {
+        "rate": "-3.4%",
+        "years": 13
+      }
+    },
+    {
       "symbol": "SFBC",
       "name": "Sound Financial Bancorp, Inc. Common Stock",
       "price": "$41.77",
@@ -41714,6 +43556,68 @@
       "dividendGrowth": {
         "rate": "-4.6%",
         "years": 13
+      }
+    },
+    {
+      "symbol": "HLNE",
+      "name": "Hamilton Lane Incorporated Class A Common Stock",
+      "price": "$106.57",
+      "marketCap": "5,943,953,899",
+      "sector": "Finance",
+      "industry": "Investment Managers",
+      "dividendYield": "1.96%",
+      "annualDividend": "$2.16",
+      "exDividendDate": "12/19/2025",
+      "paymentDate": "01/07/2026",
+      "growthRate": "25%",
+      "growthSource": "Analyst Forecast",
+      "description": "Hamilton Lane (Nasdaq: HLNE) is one of the largest private markets investment firms globally, providing innovative solutions to institutional and private wealth investors around the world. Dedicated exclusively to private markets investing for more than 30 years, the firm currently employs approximately 770 professionals operating in offices throughout North America, Europe, Asia Pacific and the Middle East. Hamilton Lane has $1 trillion in assets under management and supervision, composed of $145.4 billion in discretionary assets and $859.8 billion in non-discretionary assets, as of September 30, 2025. Hamilton Lane specializes in building flexible investment programs that provide clients access to the full spectrum of private markets strategies, sectors and geographies.",
+      "dividendHistory": [
+        {
+          "year": "2017",
+          "amount": "$0.52"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.81"
+        },
+        {
+          "year": "2019",
+          "amount": "$1.04"
+        },
+        {
+          "year": "2020",
+          "amount": "$1.21"
+        },
+        {
+          "year": "2021",
+          "amount": "$1.36"
+        },
+        {
+          "year": "2022",
+          "amount": "$1.55"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.73"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.92"
+        },
+        {
+          "year": "2025",
+          "amount": "$2.11"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.54"
+        }
+      ],
+      "dividendYears": 10,
+      "dividendGrowth": {
+        "rate": "0.4%",
+        "years": 9
       }
     },
     {
@@ -42525,15 +44429,15 @@
       "name": "Universal Display Corporation Common Stock",
       "price": "$97.03",
       "marketCap": "4,569,946,497",
-      "sector": "N/A",
-      "industry": "N/A",
+      "sector": "Technology",
+      "industry": "Electrical Products",
       "dividendYield": "1.8%",
       "annualDividend": "$1.8",
       "exDividendDate": "12/17/2025",
       "paymentDate": "12/31/2025",
       "growthRate": "-0.05%",
       "growthSource": "Analyst Forecast",
-      "description": "",
+      "description": "Universal Display Corporation (Nasdaq: OLED) is a leader in the research, development and commercialization of organic light emitting diode (OLED) technologies and materials for use in display and solid-state lighting applications. Founded in 1994 and with subsidiaries and offices around the world, the Company currently owns, exclusively licenses or has the sole right to sublicense more than 6,500 patents issued and pending worldwide. Universal Display licenses its proprietary technologies, including its breakthrough high-efficiency UniversalPHOLED® phosphorescent OLED technology that can enable the development of energy-efficient and eco-friendly displays and solid-state lighting. The Company also develops and offers high-quality, state-of-the-art UniversalPHOLED materials that are recognized as key ingredients in the fabrication of OLEDs with peak performance.",
       "dividendHistory": [
         {
           "year": "2017",
@@ -43552,6 +45456,148 @@
       "dividendGrowth": {
         "rate": "16.4%",
         "years": 22
+      }
+    },
+    {
+      "symbol": "WDFC",
+      "name": "WD-40 Company Common Stock",
+      "price": "$236.32",
+      "marketCap": "3,187,082,889",
+      "sector": "Industrials",
+      "industry": "Major Chemicals",
+      "dividendYield": "1.73%",
+      "annualDividend": "$4.08",
+      "exDividendDate": "01/16/2026",
+      "paymentDate": "01/30/2026",
+      "growthRate": "3.78%",
+      "growthSource": "Analyst Forecast",
+      "description": "WD-40 Company is a global marketing organization dedicated to creating positive lasting memories by developing and selling products that solve problems in workshops, factories, and homes around the world. The Company owns a wide range of well-known brands that include maintenance products and homecare and cleaning products: WD-40® Multi-Use Product, WD-40 Specialist®, 3-IN-ONE®, GT85®, X-14®, 2000 Flushes®, Carpet Fresh®, no vac®, Spot Shot®, Lava® and Solvol®.",
+      "dividendHistory": [
+        {
+          "year": "1988",
+          "amount": "$0.40"
+        },
+        {
+          "year": "1989",
+          "amount": "$1.93"
+        },
+        {
+          "year": "1990",
+          "amount": "$2.02"
+        },
+        {
+          "year": "1991",
+          "amount": "$2.02"
+        },
+        {
+          "year": "1992",
+          "amount": "$2.03"
+        },
+        {
+          "year": "1993",
+          "amount": "$2.20"
+        },
+        {
+          "year": "1994",
+          "amount": "$2.40"
+        },
+        {
+          "year": "1995",
+          "amount": "$2.44"
+        },
+        {
+          "year": "1996",
+          "amount": "$2.48"
+        },
+        {
+          "year": "1997",
+          "amount": "$2.18"
+        },
+        {
+          "year": "1998",
+          "amount": "$1.28"
+        },
+        {
+          "year": "1999",
+          "amount": "$1.28"
+        },
+        {
+          "year": "2000",
+          "amount": "$1.28"
+        },
+        {
+          "year": "2001",
+          "amount": "$1.13"
+        },
+        {
+          "year": "2002",
+          "amount": "$0.94"
+        },
+        {
+          "year": "2003",
+          "amount": "$0.40"
+        },
+        {
+          "year": "2013",
+          "amount": "$0.62"
+        },
+        {
+          "year": "2014",
+          "amount": "$1.74"
+        },
+        {
+          "year": "2015",
+          "amount": "$1.14"
+        },
+        {
+          "year": "2016",
+          "amount": "$1.68"
+        },
+        {
+          "year": "2017",
+          "amount": "$1.96"
+        },
+        {
+          "year": "2018",
+          "amount": "$2.16"
+        },
+        {
+          "year": "2019",
+          "amount": "$2.44"
+        },
+        {
+          "year": "2020",
+          "amount": "$2.68"
+        },
+        {
+          "year": "2021",
+          "amount": "$2.83"
+        },
+        {
+          "year": "2022",
+          "amount": "$3.12"
+        },
+        {
+          "year": "2023",
+          "amount": "$3.32"
+        },
+        {
+          "year": "2024",
+          "amount": "$3.52"
+        },
+        {
+          "year": "2025",
+          "amount": "$3.76"
+        },
+        {
+          "year": "2026",
+          "amount": "$1.02"
+        }
+      ],
+      "dividendYears": 30,
+      "dividendGrowth": {
+        "rate": "2.5%",
+        "years": 38
       }
     },
     {
@@ -44620,6 +46666,84 @@
       "dividendGrowth": {
         "rate": "5.9%",
         "years": 37
+      }
+    },
+    {
+      "symbol": "CSGS",
+      "name": "CSG Systems International, Inc. Common Stock",
+      "price": "$79.90",
+      "marketCap": "2,277,304,686",
+      "sector": "Technology",
+      "industry": "EDP Services",
+      "dividendYield": "1.6%",
+      "annualDividend": "$1.28",
+      "exDividendDate": "12/22/2025",
+      "paymentDate": "01/06/2026",
+      "growthRate": "11.54%",
+      "growthSource": "Analyst Forecast",
+      "description": "CSG empowers companies to build unforgettable experiences, making it easier for people and businesses to connect with, use and pay for the services they value most. Our customer experience, billing and payments solutions help companies of any size make money and make a difference. With our SaaS solutions, company leaders can take control of their future and tap into guidance along the way from our fiercely committed and forward-thinking CSGers around the world.",
+      "dividendHistory": [
+        {
+          "year": "2013",
+          "amount": "$0.45"
+        },
+        {
+          "year": "2014",
+          "amount": "$0.62"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.70"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.74"
+        },
+        {
+          "year": "2017",
+          "amount": "$0.79"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.84"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.89"
+        },
+        {
+          "year": "2020",
+          "amount": "$0.94"
+        },
+        {
+          "year": "2021",
+          "amount": "$1.00"
+        },
+        {
+          "year": "2022",
+          "amount": "$1.06"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.12"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.20"
+        },
+        {
+          "year": "2025",
+          "amount": "$1.28"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.34"
+        }
+      ],
+      "dividendYears": 14,
+      "dividendGrowth": {
+        "rate": "-2.1%",
+        "years": 13
       }
     },
     {
@@ -45714,6 +47838,128 @@
       "dividendGrowth": {
         "rate": "-4.3%",
         "years": 30
+      }
+    },
+    {
+      "symbol": "UFPI",
+      "name": "UFP Industries, Inc. Common Stock",
+      "price": "$93.94",
+      "marketCap": "5,316,527,536",
+      "sector": "Basic Materials",
+      "industry": "Forest Products",
+      "dividendYield": "1.49%",
+      "annualDividend": "$1.44",
+      "exDividendDate": "03/02/2026",
+      "paymentDate": "03/16/2026",
+      "growthRate": "11.13%",
+      "growthSource": "Analyst Forecast",
+      "description": "UFP Industries Inc produces and sells lumber and treated wood products in three main customer categories: retail, industrial, and construction. The retail category, which generates the most revenue, sells lumber products to retailers, including big-box home improvement retailers. The industrial category sells wood pallets, boxes, packaging crates, and other containers used for industrial shipping. The construction category sells manufactured housing and building materials to the construction industry. The vast majority revenue is generated in the United States.",
+      "dividendHistory": [
+        {
+          "year": "1993",
+          "amount": "$0.03"
+        },
+        {
+          "year": "1994",
+          "amount": "$0.05"
+        },
+        {
+          "year": "1995",
+          "amount": "$0.11"
+        },
+        {
+          "year": "1996",
+          "amount": "$0.06"
+        },
+        {
+          "year": "1997",
+          "amount": "$0.07"
+        },
+        {
+          "year": "1998",
+          "amount": "$0.07"
+        },
+        {
+          "year": "1999",
+          "amount": "$0.08"
+        },
+        {
+          "year": "2000",
+          "amount": "$0.08"
+        },
+        {
+          "year": "2001",
+          "amount": "$0.08"
+        },
+        {
+          "year": "2002",
+          "amount": "$0.09"
+        },
+        {
+          "year": "2003",
+          "amount": "$0.04"
+        },
+        {
+          "year": "2013",
+          "amount": "$0.21"
+        },
+        {
+          "year": "2014",
+          "amount": "$0.61"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.82"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.87"
+        },
+        {
+          "year": "2017",
+          "amount": "$0.62"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.36"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.40"
+        },
+        {
+          "year": "2020",
+          "amount": "$0.50"
+        },
+        {
+          "year": "2021",
+          "amount": "$0.65"
+        },
+        {
+          "year": "2022",
+          "amount": "$0.95"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.10"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.32"
+        },
+        {
+          "year": "2025",
+          "amount": "$1.40"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.36"
+        }
+      ],
+      "dividendYears": 25,
+      "dividendGrowth": {
+        "rate": "7.8%",
+        "years": 33
       }
     },
     {
@@ -47799,15 +50045,15 @@
       "name": "ePlus inc. Common Stock",
       "price": "$78.00",
       "marketCap": "2,058,619,758",
-      "sector": "N/A",
-      "industry": "N/A",
+      "sector": "Technology",
+      "industry": "Retail: Computer Software & Peripheral Equipment",
       "dividendYield": "1.24%",
       "annualDividend": "$1",
       "exDividendDate": "02/24/2026",
       "paymentDate": "03/18/2026",
       "growthRate": "6.91%",
       "growthSource": "Analyst Forecast",
-      "description": "",
+      "description": "ePlus is a customer-first, services-led, and results-driven industry leader offering transformative technology solutions and services to provide the best customer outcomes. Offering a full portfolio of solutions, including artificial intelligence, security, cloud and data center, networking and collaboration, as well as managed, consultative and professional services, ePlus works closely with organizations across many industries to successfully navigate business challenges. With a long list of industry-leading partners and more than 2,130 employees, our expertise has been honed over more than three decades, giving us specialized yet broad levels of experience and knowledge. ePlus is headquartered in Virginia, with locations in the United States, United Kingdom, Europe, and Asia-Pacific.",
       "dividendHistory": [
         {
           "year": "2025",
@@ -49745,6 +51991,84 @@
       }
     },
     {
+      "symbol": "LSTR",
+      "name": "Landstar System, Inc. Common Stock",
+      "price": "$151.82",
+      "marketCap": "5,170,795,781",
+      "sector": "Industrials",
+      "industry": "Trucking Freight/Courier Services",
+      "dividendYield": "1%",
+      "annualDividend": "$1.6",
+      "exDividendDate": "02/18/2026",
+      "paymentDate": "03/11/2026",
+      "growthRate": "20.19%",
+      "growthSource": "Analyst Forecast",
+      "description": "Landstar System, Inc., is a technology-enabled, asset-light provider of integrated transportation management solutions delivering safe, specialized transportation services to a broad range of customers utilizing a network of agents, third-party capacity providers and employees. Landstar transportation services companies are certified to ISO 9001:2015 quality management system standards and RC14001:2015 environmental, health, safety and security management system standards. Landstar System, Inc. is headquartered in Jacksonville, Florida.",
+      "dividendHistory": [
+        {
+          "year": "2013",
+          "amount": "$0.35"
+        },
+        {
+          "year": "2014",
+          "amount": "$0.26"
+        },
+        {
+          "year": "2015",
+          "amount": "$1.30"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.34"
+        },
+        {
+          "year": "2017",
+          "amount": "$0.38"
+        },
+        {
+          "year": "2018",
+          "amount": "$2.13"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.70"
+        },
+        {
+          "year": "2020",
+          "amount": "$2.79"
+        },
+        {
+          "year": "2021",
+          "amount": "$2.92"
+        },
+        {
+          "year": "2022",
+          "amount": "$3.10"
+        },
+        {
+          "year": "2023",
+          "amount": "$3.26"
+        },
+        {
+          "year": "2024",
+          "amount": "$3.38"
+        },
+        {
+          "year": "2025",
+          "amount": "$3.56"
+        },
+        {
+          "year": "2026",
+          "amount": "$2.40"
+        }
+      ],
+      "dividendYears": 14,
+      "dividendGrowth": {
+        "rate": "16.0%",
+        "years": 13
+      }
+    },
+    {
       "symbol": "ROP",
       "name": "Roper Technologies, Inc. Common Stock",
       "price": "$367.50",
@@ -50374,6 +52698,84 @@
       "dividendGrowth": {
         "rate": "5.9%",
         "years": 12
+      }
+    },
+    {
+      "symbol": "ADEA",
+      "name": "Adeia Inc. Common Stock",
+      "price": "$19.87",
+      "marketCap": "2,166,873,314",
+      "sector": "Technology",
+      "industry": "Computer Software: Prepackaged Software",
+      "dividendYield": "0.95%",
+      "annualDividend": "$0.2",
+      "exDividendDate": "11/24/2025",
+      "paymentDate": "12/15/2025",
+      "growthRate": "-20.92%",
+      "growthSource": "Analyst Forecast",
+      "description": "Adeia (Nasdaq: ADEA) is the technology company known for developing foundational innovations that enable next-generation solutions for the semiconductor and media industries. Adeia invents and licenses technologies that shape the future of digital entertainment, electronics, and high-performance computing. Its portfolio transforms technologies into experiences that are intelligent, immersive, and personal.",
+      "dividendHistory": [
+        {
+          "year": "2013",
+          "amount": "$0.60"
+        },
+        {
+          "year": "2014",
+          "amount": "$0.92"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.80"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.80"
+        },
+        {
+          "year": "2017",
+          "amount": "$0.80"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.80"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.80"
+        },
+        {
+          "year": "2020",
+          "amount": "$0.50"
+        },
+        {
+          "year": "2021",
+          "amount": "$0.20"
+        },
+        {
+          "year": "2022",
+          "amount": "$0.20"
+        },
+        {
+          "year": "2023",
+          "amount": "$0.20"
+        },
+        {
+          "year": "2024",
+          "amount": "$0.20"
+        },
+        {
+          "year": "2025",
+          "amount": "$0.20"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.05"
+        }
+      ],
+      "dividendYears": 14,
+      "dividendGrowth": {
+        "rate": "-17.4%",
+        "years": 13
       }
     },
     {
@@ -55647,6 +58049,120 @@
       }
     },
     {
+      "symbol": "CHDN",
+      "name": "Churchill Downs, Incorporated Common Stock",
+      "price": "$83.83",
+      "marketCap": "5,842,647,200",
+      "sector": "Consumer Discretionary",
+      "industry": "Services-Misc. Amusement & Recreation",
+      "dividendYield": "0.49%",
+      "annualDividend": "$0.438",
+      "exDividendDate": "12/05/2025",
+      "paymentDate": "01/06/2026",
+      "growthRate": "11.36%",
+      "growthSource": "Analyst Forecast",
+      "description": "Churchill Downs Incorporated (\"CDI\") (Nasdaq: CHDN) has been creating extraordinary entertainment experiences for over 150 years, beginning with the company's most iconic and enduring asset, the Kentucky Derby. Headquartered in Louisville, Kentucky, CDI has expanded through the acquisition, development, and operation of live and historical racing entertainment venues, the growth of online wagering businesses, and the acquisition, development, and operation of regional casino gaming properties.",
+      "dividendHistory": [
+        {
+          "year": "1993",
+          "amount": "$0.50"
+        },
+        {
+          "year": "1994",
+          "amount": "$0.50"
+        },
+        {
+          "year": "1995",
+          "amount": "$0.50"
+        },
+        {
+          "year": "1996",
+          "amount": "$0.65"
+        },
+        {
+          "year": "1997",
+          "amount": "$1.00"
+        },
+        {
+          "year": "1998",
+          "amount": "$0.50"
+        },
+        {
+          "year": "1999",
+          "amount": "$0.50"
+        },
+        {
+          "year": "2000",
+          "amount": "$0.50"
+        },
+        {
+          "year": "2001",
+          "amount": "$0.50"
+        },
+        {
+          "year": "2002",
+          "amount": "$0.50"
+        },
+        {
+          "year": "2013",
+          "amount": "$0.87"
+        },
+        {
+          "year": "2014",
+          "amount": "$1.00"
+        },
+        {
+          "year": "2015",
+          "amount": "$1.15"
+        },
+        {
+          "year": "2016",
+          "amount": "$1.32"
+        },
+        {
+          "year": "2017",
+          "amount": "$1.52"
+        },
+        {
+          "year": "2018",
+          "amount": "$1.63"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.58"
+        },
+        {
+          "year": "2020",
+          "amount": "$0.62"
+        },
+        {
+          "year": "2021",
+          "amount": "$0.67"
+        },
+        {
+          "year": "2022",
+          "amount": "$0.71"
+        },
+        {
+          "year": "2023",
+          "amount": "$0.38"
+        },
+        {
+          "year": "2024",
+          "amount": "$0.41"
+        },
+        {
+          "year": "2025",
+          "amount": "$0.44"
+        }
+      ],
+      "dividendYears": 23,
+      "dividendGrowth": {
+        "rate": "-0.4%",
+        "years": 32
+      }
+    },
+    {
       "symbol": "LRCX",
       "name": "Lam Research Corporation Common Stock",
       "price": "$199.33",
@@ -57839,6 +60355,80 @@
       }
     },
     {
+      "symbol": "CIGI",
+      "name": "Colliers International Group Inc. Subordinate Voting Shares",
+      "price": "$116.05",
+      "marketCap": "5,930,598,427",
+      "sector": "Finance",
+      "industry": "Real Estate",
+      "dividendYield": "0.25%",
+      "annualDividend": "$0.3",
+      "exDividendDate": "12/31/2025",
+      "paymentDate": "01/14/2026",
+      "growthRate": "13.51%",
+      "growthSource": "Analyst Forecast",
+      "description": "Colliers (NASDAQ, TSX: CIGI) is a global diversified professional services and investment management company. Operating through three industry-leading platforms - Real Estate Services, Engineering, and Investment Management - we have a proven business model, an enterprising culture, and a unique partnership philosophy that drives growth and value creation. For 30 years, Colliers has consistently delivered approximately 20% compound annual returns for shareholders, fuelled by visionary leadership, significant inside ownership and substantial recurring earnings. With $5.5 billion in annual revenues, a team of 24,000 professionals, and $108 billion in assets under management, Colliers remains committed to accelerating the success of our clients, investors, and people worldwide. Learn more at corporate.colliers.com, X @Colliers or LinkedIn.",
+      "dividendHistory": [
+        {
+          "year": "2013",
+          "amount": "$0.30"
+        },
+        {
+          "year": "2014",
+          "amount": "$0.40"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.14"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.10"
+        },
+        {
+          "year": "2017",
+          "amount": "$0.10"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.10"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.10"
+        },
+        {
+          "year": "2020",
+          "amount": "$0.10"
+        },
+        {
+          "year": "2021",
+          "amount": "$0.20"
+        },
+        {
+          "year": "2022",
+          "amount": "$0.30"
+        },
+        {
+          "year": "2023",
+          "amount": "$0.30"
+        },
+        {
+          "year": "2024",
+          "amount": "$0.30"
+        },
+        {
+          "year": "2025",
+          "amount": "$0.30"
+        }
+      ],
+      "dividendYears": 13,
+      "dividendGrowth": {
+        "rate": "0.0%",
+        "years": 12
+      }
+    },
+    {
       "symbol": "RMCO",
       "name": "Royalty Management Holding Corporation Class A Common Stock",
       "price": "$4.29",
@@ -57987,6 +60577,194 @@
       }
     },
     {
+      "symbol": "POWL",
+      "name": "Powell Industries, Inc. Common Stock",
+      "price": "$483.65",
+      "marketCap": "5,872,615,173",
+      "sector": "Energy",
+      "industry": "Electrical Products",
+      "dividendYield": "0.21%",
+      "annualDividend": "$1.08",
+      "exDividendDate": "02/18/2026",
+      "paymentDate": "03/18/2026",
+      "growthRate": "5.7%",
+      "growthSource": "Analyst Forecast",
+      "description": "Powell Industries, Inc., headquartered in Houston, Texas, develops, designs, manufactures and services custom-engineered equipment and systems that distribute, control and monitor the flow of electrical energy and provide protection to motors, transformers and other electrically powered equipment. Powell Industries, Inc. primarily serves the oil and gas and petrochemical markets, the electric utility market, and commercial and other industrial markets. Beyond these major markets, we also provide products and services to the light rail traction power market and other markets that include universities and government entities. We are continuously developing new channels to electrical markets through original equipment manufacturers and distribution market channels.",
+      "dividendHistory": [
+        {
+          "year": "2013",
+          "amount": "$0.25"
+        },
+        {
+          "year": "2014",
+          "amount": "$1.01"
+        },
+        {
+          "year": "2015",
+          "amount": "$1.04"
+        },
+        {
+          "year": "2016",
+          "amount": "$1.04"
+        },
+        {
+          "year": "2017",
+          "amount": "$1.04"
+        },
+        {
+          "year": "2018",
+          "amount": "$1.04"
+        },
+        {
+          "year": "2019",
+          "amount": "$1.04"
+        },
+        {
+          "year": "2020",
+          "amount": "$1.04"
+        },
+        {
+          "year": "2021",
+          "amount": "$1.04"
+        },
+        {
+          "year": "2022",
+          "amount": "$1.04"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.05"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.06"
+        },
+        {
+          "year": "2025",
+          "amount": "$1.07"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.27"
+        }
+      ],
+      "dividendYears": 14,
+      "dividendGrowth": {
+        "rate": "0.6%",
+        "years": 13
+      }
+    },
+    {
+      "symbol": "USLM",
+      "name": "United States Lime & Minerals, Inc. Common Stock",
+      "price": "$117.45",
+      "marketCap": "3,367,298,077",
+      "sector": "Industrials",
+      "industry": "Mining & Quarrying of Nonmetallic Minerals (No Fuels)",
+      "dividendYield": "0.2%",
+      "annualDividend": "$0.24",
+      "exDividendDate": "02/20/2026",
+      "paymentDate": "03/13/2026",
+      "growthRate": "12.1%",
+      "growthSource": "4yr Revenue CAGR",
+      "description": "United States Lime & Minerals Inc is engaged in the business of manufacturing lime and limestone products including PLS, quicklime, hydrated lime and lime slurry. It supplies primarily to the construction (including highway, road, and building contractors), industrial (including paper and glass manufacturers), environmental (including municipal sanitation and water treatment facilities and flue gas treatment processes), metals (including steel producers), oil and gas services, roof shingle manufacturers and agriculture (including poultry and cattle feed producers) industries. The company operates lime and limestone plants and distribution facilities in Arkansas, Colorado, Louisiana, Missouri, Oklahoma and Texas.",
+      "dividendHistory": [
+        {
+          "year": "1995",
+          "amount": "$0.08"
+        },
+        {
+          "year": "1996",
+          "amount": "$0.10"
+        },
+        {
+          "year": "1997",
+          "amount": "$0.10"
+        },
+        {
+          "year": "1998",
+          "amount": "$0.10"
+        },
+        {
+          "year": "1999",
+          "amount": "$0.10"
+        },
+        {
+          "year": "2000",
+          "amount": "$0.10"
+        },
+        {
+          "year": "2001",
+          "amount": "$0.10"
+        },
+        {
+          "year": "2002",
+          "amount": "$0.10"
+        },
+        {
+          "year": "2003",
+          "amount": "$0.05"
+        },
+        {
+          "year": "2014",
+          "amount": "$0.50"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.50"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.50"
+        },
+        {
+          "year": "2017",
+          "amount": "$0.54"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.54"
+        },
+        {
+          "year": "2019",
+          "amount": "$5.89"
+        },
+        {
+          "year": "2020",
+          "amount": "$0.64"
+        },
+        {
+          "year": "2021",
+          "amount": "$0.64"
+        },
+        {
+          "year": "2022",
+          "amount": "$0.80"
+        },
+        {
+          "year": "2023",
+          "amount": "$0.80"
+        },
+        {
+          "year": "2024",
+          "amount": "$0.60"
+        },
+        {
+          "year": "2025",
+          "amount": "$0.24"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.06"
+        }
+      ],
+      "dividendYears": 22,
+      "dividendGrowth": {
+        "rate": "-0.9%",
+        "years": 31
+      }
+    },
+    {
       "symbol": "WDC",
       "name": "Western Digital Corporation Common Stock",
       "price": "$245.25",
@@ -58059,8 +60837,8 @@
       "annualDividend": "$0.4",
       "exDividendDate": "01/15/2026",
       "paymentDate": "01/29/2026",
-      "growthRate": "13.5%",
-      "growthSource": "4yr Revenue CAGR",
+      "growthRate": "18.28%",
+      "growthSource": "Analyst Forecast",
       "description": "VSE is a leading provider of aviation distribution and repair services for the commercial and business and general aviation (\"B&GA\") aftermarkets. Headquartered in Miramar, Florida, VSE is focused on significantly enhancing the productivity and longevity of its customers' high-value, business-critical assets. VSE's aftermarket parts distribution and maintenance, repair, and overhaul services support engine component and engine and airframe accessory part distribution and repair services for commercial and B&GA operators.",
       "dividendHistory": [
         {
@@ -58658,6 +61436,84 @@
       "dividendGrowth": {
         "rate": "-24.2%",
         "years": 5
+      }
+    },
+    {
+      "symbol": "BELFA",
+      "name": "Bel Fuse Inc. Class A Common Stock",
+      "price": "$172.94",
+      "marketCap": "2,188,782,770",
+      "sector": "N/A",
+      "industry": "N/A",
+      "dividendYield": "0.13%",
+      "annualDividend": "$0.24",
+      "exDividendDate": "01/15/2026",
+      "paymentDate": "01/30/2026",
+      "growthRate": "0.8%",
+      "growthSource": "4yr Revenue CAGR",
+      "description": "Bel ( www.belfuse.com ) designs, manufactures and markets a broad array of products that power, protect and connect electronic circuits. These products are primarily used in the defense, commercial aerospace, networking, telecommunications, computing, general industrial, high-speed data transmission, transportation and eMobility industries. Bel's portfolio of products also finds application in the automotive, medical, broadcasting and consumer electronics markets. Bel's product groups include Power Solutions and Protection (front-end, board-mount and industrial power products, module products and circuit protection), Connectivity Solutions (expanded beam fiber optic, copper-based, RF and RJ connectors and cable assemblies), and Magnetic Solutions (integrated connector modules, power transformers, power inductors and discrete components). The Company operates facilities around the world.",
+      "dividendHistory": [
+        {
+          "year": "2013",
+          "amount": "$0.06"
+        },
+        {
+          "year": "2014",
+          "amount": "$0.24"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.24"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.24"
+        },
+        {
+          "year": "2017",
+          "amount": "$0.24"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.24"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.24"
+        },
+        {
+          "year": "2020",
+          "amount": "$0.24"
+        },
+        {
+          "year": "2021",
+          "amount": "$0.24"
+        },
+        {
+          "year": "2022",
+          "amount": "$0.24"
+        },
+        {
+          "year": "2023",
+          "amount": "$0.24"
+        },
+        {
+          "year": "2024",
+          "amount": "$0.24"
+        },
+        {
+          "year": "2025",
+          "amount": "$0.24"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.12"
+        }
+      ],
+      "dividendYears": 14,
+      "dividendGrowth": {
+        "rate": "5.5%",
+        "years": 13
       }
     },
     {
