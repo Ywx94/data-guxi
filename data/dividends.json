@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": "2026-03-21T22:43:02.662Z",
+  "lastUpdated": "2026-03-22T22:43:46.724Z",
   "count": 824,
   "totalScanned": 7051,
   "stats": {
@@ -9,7 +9,7 @@
     "withoutGrowthData": 35,
     "withDividendHistory": 824,
     "avgDividendYears": "13.2",
-    "durationMinutes": "11.93"
+    "durationMinutes": "12.25"
   },
   "sectors": [
     {
@@ -38787,7 +38787,7 @@
       "paymentDate": "03/26/2026",
       "growthRate": "2.7%",
       "growthSource": "Analyst Forecast",
-      "description": "POOLCORP is the world's largest wholesale distributor of swimming pool and related backyard products. As of December 31, 2025, POOLCORP operated 456 sales centers in North America, Europe and Australia, through which it distributes more than 200,000 products to roughly 125,000 wholesale customers.",
+      "description": "",
       "dividendHistory": [
         {
           "year": "2013",
