@@ -1,15 +1,15 @@
 {
   "success": true,
-  "lastUpdated": "2026-03-27T22:51:41.646Z",
-  "count": 824,
+  "lastUpdated": "2026-03-28T22:47:38.053Z",
+  "count": 823,
   "totalScanned": 7068,
   "stats": {
-    "totalDividendStocks": 824,
-    "withGrowthData": 790,
+    "totalDividendStocks": 823,
+    "withGrowthData": 789,
     "withoutGrowthData": 34,
-    "withDividendHistory": 824,
+    "withDividendHistory": 823,
     "avgDividendYears": "13.2",
-    "durationMinutes": "12.67"
+    "durationMinutes": "12.64"
   },
   "sectors": [
     {
@@ -18,7 +18,7 @@
     },
     {
       "name": "Consumer Discretionary",
-      "count": 121
+      "count": 120
     },
     {
       "name": "Technology",
@@ -143,15 +143,15 @@
       "count": 10
     },
     {
-      "name": "Professional Services",
-      "count": 9
-    },
-    {
       "name": "Biotechnology: Pharmaceutical Preparations",
       "count": 9
     },
     {
       "name": "Farming/Seeds/Milling",
+      "count": 8
+    },
+    {
+      "name": "Professional Services",
       "count": 8
     },
     {
@@ -2065,7 +2065,7 @@
       "paymentDate": "03/10/2026",
       "growthRate": "0.17%",
       "growthSource": "Analyst Forecast",
-      "description": "ABOUT AGNC INVESTMENT CORP. Founded in 2008, AGNC Investment Corp. (Nasdaq: AGNC) is a leading investor in Agency residential mortgage-backed securities (Agency MBS), which benefit from a guarantee against credit losses by Fannie Mae, Freddie Mac, or Ginnie Mae. We invest on a leveraged basis, financing our Agency MBS assets primarily through repurchase agreements, and utilize dynamic risk management strategies intended to protect the value of our portfolio from interest rate and other market risks.AGNC has a track record of providing favorable long-term returns for our stockholders through substantial monthly dividend income, with over $15 billion of common stock dividends paid since inception. Our business is a significant source of private capital for the U.S. residential housing market, and our team has extensive experience managing mortgage assets across market cycles.",
+      "description": "",
       "dividendHistory": [
         {
           "year": "2012",
@@ -8565,7 +8565,7 @@
       "annualDividend": "$0.5",
       "exDividendDate": "02/09/2026",
       "paymentDate": "02/17/2026",
-      "growthRate": "-3.3%",
+      "growthRate": "-4.5%",
       "growthSource": "4yr Revenue CAGR",
       "description": "United-Guardian Inc manufactures and markets cosmetic ingredients, pharmaceuticals, medical lubricants, and specialty industrial products. Its product portfolio includes Klensoft, Deselex, Renacidin, Lubrajel Fluid and others. The company's pharmaceutical products are sold to and distributed by, full-line drug wholesalers throughout the United States. Its medical and specialty industrial products are sold directly by the company to the end-users of those products or, in some cases, to contract manufacturers used by some of those end users.",
       "dividendHistory": [
@@ -8709,7 +8709,7 @@
       "annualDividend": "$2",
       "exDividendDate": "03/02/2026",
       "paymentDate": "03/16/2026",
-      "growthRate": "22.9%",
+      "growthRate": "-41.1%",
       "growthSource": "4yr Revenue CAGR",
       "description": "FG Nexus (Nasdaq: FGNX, FGNXP) is focused on building a digital asset treasury and a leading platform for the tokenization of real-world assets. To enhance treasury yield, the Company intends to stake its ETH and deploy additional yield strategies while positioning itself as a strategic gateway to digital-asset-powered finance, including tokenized real-world assets and stablecoin-based yield solutions.",
       "dividendHistory": [
@@ -21341,7 +21341,7 @@
       "annualDividend": "$0.25",
       "exDividendDate": "03/13/2026",
       "paymentDate": "03/31/2026",
-      "growthRate": "-7.1%",
+      "growthRate": "-7.3%",
       "growthSource": "4yr Revenue CAGR",
       "description": "Epsilon Energy Ltd. is a North American onshore natural gas and oil production and gathering company with assets across the Appalachian, Powder River, Permian, and Western Canadian Sedimentary basins.",
       "dividendHistory": [
@@ -24347,7 +24347,7 @@
       "annualDividend": "$1.44",
       "exDividendDate": "02/13/2026",
       "paymentDate": "02/27/2026",
-      "growthRate": "9.2%",
+      "growthRate": "4.3%",
       "growthSource": "4yr Revenue CAGR",
       "description": "Virginia National Bankshares Corporation, headquartered in Charlottesville, Virginia, is the bank holding company for Virginia National Bank. The Bank has seven banking offices throughout Fauquier and Prince William counties, four banking offices in Charlottesville and Albemarle County (including one limited-service banking facility), and banking offices in Winchester and Richmond, Virginia. The Bank offers a full range of banking and related financial services to meet the needs of individuals, businesses and charitable organizations, including the fiduciary services of VNB Trust and Estate Services. The Company's common stock trades on the Nasdaq Capital Market under the symbol \"VABK.\" Additional information on the Company is also available at www.vnbcorp.com.",
       "dividendHistory": [
@@ -45147,84 +45147,6 @@
       "dividendYears": 14,
       "dividendGrowth": {
         "rate": "5.9%",
-        "years": 13
-      }
-    },
-    {
-      "symbol": "EXPO",
-      "name": "Exponent, Inc. Common Stock",
-      "price": "$64.47",
-      "marketCap": "3,175,427,235",
-      "sector": "Consumer Discretionary",
-      "industry": "Professional Services",
-      "dividendYield": "1.9%",
-      "annualDividend": "$1.24",
-      "exDividendDate": "03/06/2026",
-      "paymentDate": "03/20/2026",
-      "growthRate": "9.42%",
-      "growthSource": "Analyst Forecast",
-      "description": "Exponent brings together 90+ technical disciplines and 950+ consultants to help our clients navigate the increasing complexity of more than a dozen industries, connecting decades of pioneering work in failure analysis to develop solutions for a safer, healthier, more sustainable world. Exponent's consultants deliver the highest value by leveraging multidisciplinary expertise and resources from across Exponent's offices in North America, Asia, and Europe. Exponent's consultants, laboratories, databases, and computing resources work seamlessly together around the globe, enabling us to produce the breakthrough insights needed to help multinational companies, startups, law firms, insurance companies, governments, and society respond to incidents and push their products and processes forward.",
-      "dividendHistory": [
-        {
-          "year": "2013",
-          "amount": "$0.30"
-        },
-        {
-          "year": "2014",
-          "amount": "$1.00"
-        },
-        {
-          "year": "2015",
-          "amount": "$0.75"
-        },
-        {
-          "year": "2016",
-          "amount": "$0.72"
-        },
-        {
-          "year": "2017",
-          "amount": "$0.84"
-        },
-        {
-          "year": "2018",
-          "amount": "$0.78"
-        },
-        {
-          "year": "2019",
-          "amount": "$0.64"
-        },
-        {
-          "year": "2020",
-          "amount": "$0.76"
-        },
-        {
-          "year": "2021",
-          "amount": "$0.80"
-        },
-        {
-          "year": "2022",
-          "amount": "$0.96"
-        },
-        {
-          "year": "2023",
-          "amount": "$1.04"
-        },
-        {
-          "year": "2024",
-          "amount": "$1.12"
-        },
-        {
-          "year": "2025",
-          "amount": "$1.20"
-        },
-        {
-          "year": "2026",
-          "amount": "$0.31"
-        }
-      ],
-      "dividendYears": 14,
-      "dividendGrowth": {
-        "rate": "0.3%",
         "years": 13
       }
     },
