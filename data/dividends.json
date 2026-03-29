@@ -1,15 +1,15 @@
 {
   "success": true,
-  "lastUpdated": "2026-03-28T22:47:38.053Z",
-  "count": 823,
+  "lastUpdated": "2026-03-29T22:51:34.974Z",
+  "count": 824,
   "totalScanned": 7068,
   "stats": {
-    "totalDividendStocks": 823,
-    "withGrowthData": 789,
+    "totalDividendStocks": 824,
+    "withGrowthData": 790,
     "withoutGrowthData": 34,
-    "withDividendHistory": 823,
+    "withDividendHistory": 824,
     "avgDividendYears": "13.2",
-    "durationMinutes": "12.64"
+    "durationMinutes": "14.35"
   },
   "sectors": [
     {
@@ -18,7 +18,7 @@
     },
     {
       "name": "Consumer Discretionary",
-      "count": 120
+      "count": 121
     },
     {
       "name": "Technology",
@@ -143,15 +143,15 @@
       "count": 10
     },
     {
+      "name": "Professional Services",
+      "count": 9
+    },
+    {
       "name": "Biotechnology: Pharmaceutical Preparations",
       "count": 9
     },
     {
       "name": "Farming/Seeds/Milling",
-      "count": 8
-    },
-    {
-      "name": "Professional Services",
       "count": 8
     },
     {
@@ -2065,7 +2065,7 @@
       "paymentDate": "03/10/2026",
       "growthRate": "0.17%",
       "growthSource": "Analyst Forecast",
-      "description": "",
+      "description": "ABOUT AGNC INVESTMENT CORP. Founded in 2008, AGNC Investment Corp. (Nasdaq: AGNC) is a leading investor in Agency residential mortgage-backed securities (Agency MBS), which benefit from a guarantee against credit losses by Fannie Mae, Freddie Mac, or Ginnie Mae. We invest on a leveraged basis, financing our Agency MBS assets primarily through repurchase agreements, and utilize dynamic risk management strategies intended to protect the value of our portfolio from interest rate and other market risks.AGNC has a track record of providing favorable long-term returns for our stockholders through substantial monthly dividend income, with over $15 billion of common stock dividends paid since inception. Our business is a significant source of private capital for the U.S. residential housing market, and our team has extensive experience managing mortgage assets across market cycles.",
       "dividendHistory": [
         {
           "year": "2012",
@@ -42955,7 +42955,7 @@
       "paymentDate": "03/13/2026",
       "growthRate": "7.74%",
       "growthSource": "Analyst Forecast",
-      "description": "Honeywell is an integrated operating company serving a broad range of industries and geographies around the world, with a portfolio that is underpinned by our Honeywell Accelerator operating system and Honeywell Forge platform. As a trusted partner, we help organizations solve the world's toughest, most complex challenges, providing actionable solutions and innovations for aerospace, building automation, industrial automation, process automation, and process technology, that help make the world smarter and safer as well as more secure and sustainable.",
+      "description": "",
       "dividendHistory": [
         {
           "year": "2000",
@@ -45147,6 +45147,84 @@
       "dividendYears": 14,
       "dividendGrowth": {
         "rate": "5.9%",
+        "years": 13
+      }
+    },
+    {
+      "symbol": "EXPO",
+      "name": "Exponent, Inc. Common Stock",
+      "price": "$64.47",
+      "marketCap": "3,175,427,235",
+      "sector": "Consumer Discretionary",
+      "industry": "Professional Services",
+      "dividendYield": "1.9%",
+      "annualDividend": "$1.24",
+      "exDividendDate": "03/06/2026",
+      "paymentDate": "03/20/2026",
+      "growthRate": "9.42%",
+      "growthSource": "Analyst Forecast",
+      "description": "Exponent brings together 90+ technical disciplines and 950+ consultants to help our clients navigate the increasing complexity of more than a dozen industries, connecting decades of pioneering work in failure analysis to develop solutions for a safer, healthier, more sustainable world. Exponent's consultants deliver the highest value by leveraging multidisciplinary expertise and resources from across Exponent's offices in North America, Asia, and Europe. Exponent's consultants, laboratories, databases, and computing resources work seamlessly together around the globe, enabling us to produce the breakthrough insights needed to help multinational companies, startups, law firms, insurance companies, governments, and society respond to incidents and push their products and processes forward.",
+      "dividendHistory": [
+        {
+          "year": "2013",
+          "amount": "$0.30"
+        },
+        {
+          "year": "2014",
+          "amount": "$1.00"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.75"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.72"
+        },
+        {
+          "year": "2017",
+          "amount": "$0.84"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.78"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.64"
+        },
+        {
+          "year": "2020",
+          "amount": "$0.76"
+        },
+        {
+          "year": "2021",
+          "amount": "$0.80"
+        },
+        {
+          "year": "2022",
+          "amount": "$0.96"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.04"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.12"
+        },
+        {
+          "year": "2025",
+          "amount": "$1.20"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.31"
+        }
+      ],
+      "dividendYears": 14,
+      "dividendGrowth": {
+        "rate": "0.3%",
         "years": 13
       }
     },
