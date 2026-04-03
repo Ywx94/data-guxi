@@ -1,20 +1,20 @@
 {
   "success": true,
-  "lastUpdated": "2026-04-02T22:48:12.464Z",
-  "count": 823,
+  "lastUpdated": "2026-04-03T22:53:41.411Z",
+  "count": 824,
   "totalScanned": 7056,
   "stats": {
-    "totalDividendStocks": 823,
-    "withGrowthData": 788,
+    "totalDividendStocks": 824,
+    "withGrowthData": 789,
     "withoutGrowthData": 35,
-    "withDividendHistory": 823,
+    "withDividendHistory": 824,
     "avgDividendYears": "13.2",
-    "durationMinutes": "10.63"
+    "durationMinutes": "14.41"
   },
   "sectors": [
     {
       "name": "Finance",
-      "count": 385
+      "count": 386
     },
     {
       "name": "Consumer Discretionary",
@@ -319,6 +319,10 @@
       "count": 3
     },
     {
+      "name": "Blank Checks",
+      "count": 2
+    },
+    {
       "name": "Air Freight/Delivery Services",
       "count": 2
     },
@@ -409,10 +413,6 @@
     {
       "name": "Newspapers/Magazines",
       "count": 2
-    },
-    {
-      "name": "Blank Checks",
-      "count": 1
     },
     {
       "name": "Paper",
@@ -2913,12 +2913,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.28"
+          "amount": "$0.42"
         }
       ],
       "dividendYears": 8,
       "dividendGrowth": {
-        "rate": "32.0%",
+        "rate": "39.9%",
         "years": 7
       }
     },
@@ -4153,12 +4153,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.20"
+          "amount": "$0.30"
         }
       ],
       "dividendYears": 23,
       "dividendGrowth": {
-        "rate": "-6.4%",
+        "rate": "-4.6%",
         "years": 22
       }
     },
@@ -4273,7 +4273,7 @@
       "annualDividend": "$2.125",
       "exDividendDate": "01/15/2026",
       "paymentDate": "01/31/2026",
-      "growthRate": "-11.6%",
+      "growthRate": "-10.1%",
       "growthSource": "4yr Revenue CAGR",
       "description": "Greenidge Generation Holdings Inc. (Nasdaq: GREE) is a vertically integrated power generation company, focusing on datacenters, electrical and infrastructure development, engineering, procurement, construction management, operations and site maintenance.",
       "dividendHistory": [
@@ -4557,12 +4557,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.39"
+          "amount": "$0.58"
         }
       ],
       "dividendYears": 12,
       "dividendGrowth": {
-        "rate": "-10.6%",
+        "rate": "-7.3%",
         "years": 11
       }
     },
@@ -5167,12 +5167,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.19"
+          "amount": "$0.29"
         }
       ],
       "dividendYears": 23,
       "dividendGrowth": {
-        "rate": "-6.8%",
+        "rate": "-5.0%",
         "years": 22
       }
     },
@@ -7293,12 +7293,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.24"
+          "amount": "$0.37"
         }
       ],
       "dividendYears": 23,
       "dividendGrowth": {
-        "rate": "-3.5%",
+        "rate": "-1.6%",
         "years": 22
       }
     },
@@ -7399,12 +7399,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.16"
+          "amount": "$0.24"
         }
       ],
       "dividendYears": 21,
       "dividendGrowth": {
-        "rate": "-8.8%",
+        "rate": "-6.9%",
         "years": 20
       }
     },
@@ -7908,12 +7908,16 @@
         {
           "year": "2025",
           "amount": "$1.03"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.52"
         }
       ],
-      "dividendYears": 2,
+      "dividendYears": 3,
       "dividendGrowth": {
-        "rate": "-33.5%",
-        "years": 1
+        "rate": "-42.1%",
+        "years": 2
       }
     },
     {
@@ -8249,12 +8253,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.10"
+          "amount": "$0.15"
         }
       ],
       "dividendYears": 20,
       "dividendGrowth": {
-        "rate": "-9.5%",
+        "rate": "-7.5%",
         "years": 19
       }
     },
@@ -9253,6 +9257,32 @@
       }
     },
     {
+      "symbol": "OXSQH",
+      "name": "Oxford Square Capital Corp. 7.75% Notes due 2030",
+      "price": "$25.00",
+      "marketCap": "NA",
+      "sector": "Finance",
+      "industry": "Blank Checks",
+      "dividendYield": "7.77%",
+      "annualDividend": "$1.9375",
+      "exDividendDate": "01/15/2026",
+      "paymentDate": "02/02/2026",
+      "growthRate": "0.3%",
+      "growthSource": "4yr Revenue CAGR",
+      "description": "Oxford Square Capital Corp. is a publicly-traded business development company principally investing in syndicated bank loans and, to a lesser extent, debt and equity tranches of collateralized loan obligation (\"CLO\") vehicles. CLO investments may also include warehouse facilities, which are financing structures intended to aggregate loans that may be used to form the basis of a CLO vehicle.",
+      "dividendHistory": [
+        {
+          "year": "2026",
+          "amount": "$0.48"
+        }
+      ],
+      "dividendYears": 1,
+      "dividendGrowth": {
+        "rate": "N/A",
+        "years": 0
+      }
+    },
+    {
       "symbol": "NAVI",
       "name": "Navient Corporation Common Stock",
       "price": "$8.30",
@@ -9811,7 +9841,7 @@
       "annualDividend": "$1",
       "exDividendDate": "03/10/2026",
       "paymentDate": "03/24/2026",
-      "growthRate": "136.21%",
+      "growthRate": "134.66%",
       "growthSource": "Analyst Forecast",
       "description": "Sinclair, Inc. (Nasdaq: SBGI) is a diversified media company and a leading provider of local news and sports. The Company owns, operates and/or provides services to 179 television stations in 81 markets affiliated with all major broadcast networks; owns Tennis Channel, the premium destination for tennis enthusiasts; and multicast networks CHARGE!, Comet, ROAR and The Nest. Sinclair's AMP Media produces a growing portfolio of digital content and original podcasts. Additional information about Sinclair can be found at www.sbgi.net.",
       "dividendHistory": [
@@ -13901,7 +13931,7 @@
       "annualDividend": "$2.44",
       "exDividendDate": "02/19/2026",
       "paymentDate": "03/05/2026",
-      "growthRate": "24.62%",
+      "growthRate": "24.06%",
       "growthSource": "Analyst Forecast",
       "description": "TPG is a leading global alternative asset management firm, founded in San Francisco in 1992, with $286 billion of assets under management and investment and operational teams around the world. TPG invests across a broadly diversified set of strategies, including private equity, impact, credit, real estate, and market solutions, and our unique strategy is driven by collaboration, innovation, and inclusion. Our teams combine deep product and sector experience with broad capabilities and expertise to develop differentiated insights and add value for our fund investors, portfolio companies, management teams, and communities.",
       "dividendHistory": [
@@ -14951,12 +14981,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.21"
+          "amount": "$0.31"
         }
       ],
       "dividendYears": 6,
       "dividendGrowth": {
-        "rate": "-16.6%",
+        "rate": "-9.8%",
         "years": 5
       }
     },
@@ -14971,7 +15001,7 @@
       "annualDividend": "$5.2",
       "exDividendDate": "03/16/2026",
       "paymentDate": "03/30/2026",
-      "growthRate": "3.11%",
+      "growthRate": "2.46%",
       "growthSource": "Analyst Forecast",
       "description": "T. Rowe Price (NASDAQ-GS: TROW) is a leading global asset management firm, entrusted with managing $1.80 trillion in client assets as of February 28, 2026 , about two-thirds of which are retirement-related. Renowned for over 85 years of investment excellence, retirement leadership, and independent proprietary research, the firm leverages its longstanding expertise to ask better questions that can drive better investment decisions. Built on a culture of integrity and prioritizing client interests, T. Rowe Price empowers millions of investors worldwide to thrive amid evolving markets. Visit troweprice.com/newsroom for news and public policy commentary.",
       "dividendHistory": [
@@ -15136,12 +15166,16 @@
         {
           "year": "2025",
           "amount": "$0.69"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.34"
         }
       ],
-      "dividendYears": 5,
+      "dividendYears": 6,
       "dividendGrowth": {
-        "rate": "3.1%",
-        "years": 4
+        "rate": "-11.0%",
+        "years": 5
       }
     },
     {
@@ -15425,7 +15459,7 @@
       "annualDividend": "$0.8",
       "exDividendDate": "02/13/2026",
       "paymentDate": "02/27/2026",
-      "growthRate": "28.67%",
+      "growthRate": "27.33%",
       "growthSource": "Analyst Forecast",
       "description": "Bassett Furniture Industries, Inc. (NASDAQ: BSET ) is a leading provider of high-quality home furnishings with a wide range of distribution types. Bassett sales approximately 60% of its products through its network of 86 company- and licensee-owned stores which feature the latest on-trend furniture styles, the Company's capabilities in custom furniture design and manufacturing, free in-home design visits, and coordinated decorating accessories in a professional and friendly environment. Bassett also has a significant traditional wholesale business with more than 1,000 open market accounts. Most of the open market sales are through Bassett Design Centers and Bassett Custom Studios which function as a store within a multi-line store featuring the Company's custom furniture capabilities. The wholesale business, including the Lane Venture outdoor brand, also services general furniture stores and a growing number of interior design firms.",
       "dividendHistory": [
@@ -15633,7 +15667,7 @@
       "annualDividend": "$1.84",
       "exDividendDate": "02/09/2026",
       "paymentDate": "02/20/2026",
-      "growthRate": "12.04%",
+      "growthRate": "11.06%",
       "growthSource": "Analyst Forecast",
       "description": "Papa John's International, Inc. (Nasdaq: PZZA) opened its doors in 1984 with one goal in mind: BETTER INGREDIENTS. BETTER PIZZA.® Papa Johns believes that using high-quality ingredients leads to superior quality pizzas. Its original dough is made of only six ingredients and is fresh, never frozen. Papa Johns tops its pizzas with real cheese made from mozzarella, pizza sauce made with vine-ripened tomatoes that go from vine to can in the same day and meat free of fillers. It was the first national pizza delivery chain to announce the removal of artificial flavors and synthetic colors from its entire food menu. Papa Johns is co-headquartered in Atlanta, Ga. and Louisville, Ky. and is the world's third-largest pizza delivery company with more than 6,000 restaurants in approximately 50 countries and territories.",
       "dividendHistory": [
@@ -17905,7 +17939,7 @@
       "annualDividend": "$1",
       "exDividendDate": "02/27/2026",
       "paymentDate": "03/30/2026",
-      "growthRate": "214.18%",
+      "growthRate": "207.46%",
       "growthSource": "Analyst Forecast",
       "description": "JAKKS Pacific, Inc. is a leading designer, manufacturer and marketer of toys and consumer products sold throughout the world, with its headquarters in Santa Monica, California. JAKKS Pacific's popular proprietary brands include Disguise®, Fly Wheels®, Charming, Kidtopia, Moose Mountain ®, Maui ®, ReDo® Skateboard Co., Sky Ball ®, and Xtreme Power Dozer® as well as a wide range of entertainment-inspired products featuring premier licensed properties. Through their products and charitable donations, JAKKS is helping to make a positive impact on the lives of children. Visit us at www.jakks.com and follow us on Instagram (@jakkspacific.toys), X (@jakkstoys), YouTube (@JAKKSPacific), Facebook (@jakkspacific.toys) and LinkedIn ( JAKKS Pacific ).",
       "dividendHistory": [
@@ -18531,7 +18565,7 @@
       "annualDividend": "$0.56",
       "exDividendDate": "02/06/2026",
       "paymentDate": "02/20/2026",
-      "growthRate": "23.22%",
+      "growthRate": "22.47%",
       "growthSource": "Analyst Forecast",
       "description": "Hope Bancorp, Inc. (NASDAQ: HOPE) is the holding company for Bank of Hope , with $18.53 billion in total assets as of December 31, 2025.Following the addition of Territorial Savings as a division of Bank of Hope , the Company became the largest regional bank serving multicultural customers across the continental United States and Hawaii.Headquartered in Los Angeles , Bank of Hope offers a comprehensive range of commercial, corporate and consumer banking products and services, including commercial and commercial real estate lending, SBA lending, residential mortgage and consumer lending, treasury management, foreign exchange solutions, interest rate derivatives, and international trade finance. Bank of Hope operates 45 full-service branches in California , New York , New Jersey , Washington , Texas , Illinois , Alabama and Georgia under the Bank of Hope banner, and 29 branches in Hawaii under the Territorial Savings banner.",
       "dividendHistory": [
@@ -18907,7 +18941,7 @@
       "annualDividend": "$1.32",
       "exDividendDate": "04/01/2026",
       "paymentDate": "04/22/2026",
-      "growthRate": "-16.07%",
+      "growthRate": "-17.75%",
       "growthSource": "Analyst Forecast",
       "description": "Comcast Advertising is the advertising division of Comcast. As a global leader in media, technology, and advertising, the company fosters powerful connections between brands and their audiences as well as among publishers, distributors, MVPDs, agencies, and other industry players. Comcast Advertising's Media Solutions team provides a streamlined way for advertisers to build brand relevancy and sustainable business outcomes through multiscreen TV advertising campaigns-powered by the media, data, and technology assets of Comcast. Reaching nearly 125 million households - including both Comcast and non-Comcast households - across all 210 DMAs, Comcast Advertising's Media Solutions delivers seamless, consolidated access to a wide range of premium video inventory and proof of performance using its media, data and technology assets.",
       "dividendHistory": [
@@ -19255,7 +19289,7 @@
       "annualDividend": "$2.212154",
       "exDividendDate": "05/09/2025",
       "paymentDate": "06/12/2025",
-      "growthRate": "12.39%",
+      "growthRate": "12.16%",
       "growthSource": "Analyst Forecast",
       "description": "Sanofi is an R&D driven, AI-powered biopharma company committed to improving people's lives and delivering compelling growth. We apply our deep understanding of the immune system to invent medicines and vaccines that treat and protect millions of people around the world, with an innovative pipeline that could benefit millions more. Our team is guided by one purpose: we chase the miracles of science to improve people's lives; this inspires us to drive progress and deliver positive impact for our people and the communities we serve, by addressing the most urgent healthcare, environmental, and societal challenges of our time.",
       "dividendHistory": [
@@ -19431,7 +19465,7 @@
       "annualDividend": "$1.08",
       "exDividendDate": "02/11/2026",
       "paymentDate": "02/27/2026",
-      "growthRate": "-3.17%",
+      "growthRate": "-3.12%",
       "growthSource": "Analyst Forecast",
       "description": "SiriusXM is the leading audio entertainment company in North America with a portfolio of audio businesses including its flagship subscription entertainment service SiriusXM ; the ad-supported and premium music streaming services of Pandora; an expansive podcast network; and a suite of business and advertising solutions. Reaching a combined monthly audience of approximately 170 million listeners, SiriusXM offers a broad range of content for listeners everywhere they tune in with a diverse mix of live, on-demand, and curated programming across music, talk, news, and sports.",
       "dividendHistory": [
@@ -21785,7 +21819,7 @@
       "annualDividend": "$2.68",
       "exDividendDate": "03/13/2026",
       "paymentDate": "03/31/2026",
-      "growthRate": "6.7%",
+      "growthRate": "5.68%",
       "growthSource": "Analyst Forecast",
       "description": "NorthWestern Energy Group, Inc. , doing business as NorthWestern Energy , provides essential energy infrastructure and valuable services that enrich lives and empower communities while serving as long-term partners to our customers and communities. We work to deliver safe, reliable, and innovative energy solutions that create value for customers, communities, employees, and investors. We do this by providing low-cost and reliable service performed by highly-adaptable and skilled employees. We provide electricity and / or natural gas to approximately 800,000 customers in Montana , South Dakota , Nebraska , and Yellowstone National Park. Our operations in Montana and Yellowstone National Park are conducted through our subsidiary, NW Corp , and our operations in South Dakota and Nebraska are conducted through our subsidiary, NWE Public Service. We have provided service in South Dakota and Nebraska since 1923 and in Montana since 2002.",
       "dividendHistory": [
@@ -22315,12 +22349,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.46"
+          "amount": "$0.93"
         }
       ],
       "dividendYears": 21,
       "dividendGrowth": {
-        "rate": "8.0%",
+        "rate": "10.6%",
         "years": 29
       }
     },
@@ -24245,7 +24279,7 @@
       "annualDividend": "$5.69",
       "exDividendDate": "03/06/2026",
       "paymentDate": "03/31/2026",
-      "growthRate": "5.94%",
+      "growthRate": "6.02%",
       "growthSource": "Analyst Forecast",
       "description": "PepsiCo products are enjoyed by consumers more than one billion times a day in more than 200 countries and territories around the world. PepsiCo generated nearly $94 billion in net revenue in 2025, driven by a complementary beverage and convenient foods portfolio that includes Lay's, Doritos, Cheetos, Gatorade, Pepsi-Cola , Mountain Dew, Quaker, and SodaStream. PepsiCo's product portfolio includes a wide range of enjoyable foods and drinks, including many iconic brands that generate more than $1 billion each in estimated annual retail sales. Guiding PepsiCo is our vision to Be the Global Leader in Beverages and Convenient Foods by Winning with pep+ (PepsiCo Positive). pep+ is our strategic end-to-end transformation that places sustainability at the center of our business strategy, seeking to drive growth and build a stronger, more resilient future for PepsiCo and the communities where we operate.",
       "dividendHistory": [
@@ -25001,7 +25035,7 @@
       "annualDividend": "$0.92",
       "exDividendDate": "03/27/2026",
       "paymentDate": "04/10/2026",
-      "growthRate": "10.92%",
+      "growthRate": "10.71%",
       "growthSource": "Analyst Forecast",
       "description": "Keurig Dr Pepper (Nasdaq: KDP) is a leading beverage company in North America, with a portfolio of more than 125 owned, licensed and partner brands and powerful distribution capabilities to provide a beverage for every need, anytime, anywhere. With annual revenue of more than $16 billion, we hold leadership positions in beverage categories including carbonated soft drinks, coffee, tea, water, juice and mixers, and have the #1 single serve coffee brewing system in the U.S. and Canada. Our innovative partnership model builds emerging growth platforms in categories such as premium coffee, energy, sports hydration and ready-to-drink coffee. Our brands include Keurig®, Dr Pepper®, Canada Dry®, Mott's®, A&W®, Peñafiel®, GHOST®, 7UP®, Snapple®, Green Mountain Coffee Roasters®, Clamato®, The Original Donut Shop® and Core Hydration®. Driven by a purpose to Drink Well. Do Good.",
       "dividendHistory": [
@@ -25391,7 +25425,7 @@
       "annualDividend": "$3.2",
       "exDividendDate": "03/11/2026",
       "paymentDate": "03/27/2026",
-      "growthRate": "13.69%",
+      "growthRate": "13.85%",
       "growthSource": "Analyst Forecast",
       "description": "Principal Financial Group® (Nasdaq: PFG) is a global financial company with approximately 19,000 employees1 passionate about improving the wealth and well-being of people and businesses. In business for 146 years, we're helping over 75 million customers1 plan, insure, invest, and retire, while working to support the communities where we do business, and building an inclusive workforce. Principal® is proud to be recognized as one of the 2026 World's Most Ethical Companies2 and named as a 'Best Places to Work in Money Management3.' Learn more about Principal and our commitment to building a better future at principal.com.",
       "dividendHistory": [
@@ -25505,7 +25539,7 @@
       "annualDividend": "$0.92",
       "exDividendDate": "04/02/2026",
       "paymentDate": "04/20/2026",
-      "growthRate": "15.84%",
+      "growthRate": "15.64%",
       "growthSource": "Analyst Forecast",
       "description": "F&M Bank is a local independent community bank that has been serving its communities since 1897. F&M Bank provides commercial banking, retail banking and other financial services. Our locations are in Butler, Champaign, Fulton, Defiance, Hancock, Henry, Lucas, Shelby, Williams, and Wood counties in Ohio. In Northeast Indiana, we have offices located in Adams, Allen, DeKalb, Jay, Steuben and Wells counties. The Michigan footprint includes Oakland County, and we have Loan Production Offices in Muncie, Indiana, and Perrysburg and Bryan, Ohio.",
       "dividendHistory": [
@@ -26859,7 +26893,7 @@
       "annualDividend": "$3.2",
       "exDividendDate": "01/06/2026",
       "paymentDate": "01/20/2026",
-      "growthRate": "-0.38%",
+      "growthRate": "-0.7%",
       "growthSource": "Analyst Forecast",
       "description": "Preferred Bank is one of the larger independent commercial banks headquartered in California. The Bank is chartered by the State of California, and its deposits are insured by the Federal Deposit Insurance Corporation, or FDIC, to the maximum extent permitted by law. The Bank conducts its banking business from its main office in Los Angeles, California, and through twelve full-service branch banking offices in California ( Alhambra, Century City, City of Industry, Torrance, Arcadia, Irvine (2), Diamond Bar, Pico Rivera, Tarzana and San Francisco (2)), two branches in New York ( Manhattan and Flushing, Queens ) and a branch office in the Houston, Texas suburb of Sugar Land. In addition, the Bank also operates a loan production office in Sunnyvale, California. Preferred Bank offers a broad range of deposit and loan products and services to both commercial and consumer customers.",
       "dividendHistory": [
@@ -27023,12 +27057,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.42"
+          "amount": "$0.84"
         }
       ],
       "dividendYears": 21,
       "dividendGrowth": {
-        "rate": "3.9%",
+        "rate": "6.6%",
         "years": 27
       }
     },
@@ -30009,8 +30043,8 @@
       "annualDividend": "$0.8",
       "exDividendDate": "01/05/2026",
       "paymentDate": "02/06/2026",
-      "growthRate": "4.31%",
-      "growthSource": "Analyst Forecast",
+      "growthRate": "21.0%",
+      "growthSource": "4yr Revenue CAGR",
       "description": "NorthEast Community Bancorp , headquartered at 325 Hamilton Avenue , White Plains, New York 10601, is the holding company for NorthEast Community Bank , which conducts business through its eleven branch offices located in Bronx, New York , Orange , Rockland , and Sullivan Counties in New York and Essex , Middlesex , and Norfolk Counties in Massachusetts and three loan production offices located in New City, New York , White Plains, New York , and Danvers, Massachusetts.",
       "dividendHistory": [
         {
@@ -31211,7 +31245,7 @@
       "annualDividend": "$2.86",
       "exDividendDate": "11/14/2025",
       "paymentDate": "12/03/2025",
-      "growthRate": "8.77%",
+      "growthRate": "8.39%",
       "growthSource": "Analyst Forecast",
       "description": "Coca-Cola Europacific Partners PLC is a bottling company that sells nonalcoholic ready-to-drink beverage products under the Coca-Cola brand in Europe. The company operates through one segment. It purchases concentrate and syrups from the primary licensor, the Coca-Cola Co., then produces, packages, and distributes the beverages to retailers. The current license allows the company to exclusively market, produce, and distribute Coca-Cola products within specified territories: Iberia, Belgium, continental France, Great Britain, Luxembourg, Monaco, the Netherlands, Norway, Iceland, Germany, and Sweden. Sales of beverages in Iberia, Great Britain, Germany, and France make up the majority of the company's total sales volume and revenue.",
       "dividendHistory": [
@@ -31547,7 +31581,7 @@
       "annualDividend": "$1.56",
       "exDividendDate": "03/06/2026",
       "paymentDate": "03/18/2026",
-      "growthRate": "2.25%",
+      "growthRate": "3.66%",
       "growthSource": "Analyst Forecast",
       "description": "Based in Grand Rapids, Michigan , Mercantile Bank Corporation is the bank holding company for Mercantile Bank and Eastern Michigan Bank.Mercantile Bank and Eastern Michigan Bank provide financial products and services in a professional and personalized manner designed to make banking easier for businesses, individuals, and governmental units. Distinguished by exceptional service, knowledgeable staff, and a commitment to the communities they serve, Mercantile Bank and Eastern Michigan Bank , as combined, comprise one of the largest Michigan -based banking organizations total combined assets of approximately $6.8 billion.Mercantile Bank Corporation's common stock is listed on the NASDAQ Global Select Market under the symbol 'MBWM.' For more information about Mercantile, visit www.mercbank.com , and follow us on Facebook, Instagram, X (formerly Twitter) @MercBank, and LinkedIn @merc-bank.",
       "dividendHistory": [
@@ -33435,7 +33469,7 @@
       "annualDividend": "$1.24",
       "exDividendDate": "02/10/2026",
       "paymentDate": "02/20/2026",
-      "growthRate": "6.72%",
+      "growthRate": "6.25%",
       "growthSource": "Analyst Forecast",
       "description": "German American Bancorp, Inc. (Nasdaq: GABC) is a financial holding company based in Jasper, Indiana. German American, through its banking subsidiary German American Bank, operates 94 banking offices located throughout Indiana (central/southern), Kentucky (northern/central/western), and Ohio (central/ southwest). In Columbus, Ohio and Greater Cincinnati, the Company does business as Heartland Bank, a division of German American Bank. The Company also owns an investment brokerage subsidiary, German American Investment Services, Inc.",
       "dividendHistory": [
@@ -34365,7 +34399,7 @@
       "annualDividend": "$3.48",
       "exDividendDate": "01/15/2026",
       "paymentDate": "01/30/2026",
-      "growthRate": "-1.18%",
+      "growthRate": "-0.73%",
       "growthSource": "Analyst Forecast",
       "description": "City Holding Co is a financial holding company. It provides banking, trust and investment management and other financial solutions through its network of banking offices located in the states of West Virginia, Virginia, southeastern Ohio and Kentucky. It offers various products and services such as overdraft facilities, saving accounts, credit card and debit cards, loans for various purposes, investment advisory, securities brokerage, insurance, technology products, and others. These products and services are provided to commercial banking, consumer banking, mortgage banking, wealth management and trust services.",
       "dividendHistory": [
@@ -34977,7 +35011,7 @@
       "annualDividend": "$3.56",
       "exDividendDate": "03/05/2026",
       "paymentDate": "03/26/2026",
-      "growthRate": "-15.89%",
+      "growthRate": "-17.08%",
       "growthSource": "Analyst Forecast",
       "description": "Qualcomm relentlessly innovates to deliver intelligent computing everywhere, helping the world tackle some of its most important challenges. Building on our 40 years of technology leadership in creating era-defining breakthroughs, we deliver a broad portfolio of solutions built with our leading-edge AI, high-performance, low-power computing, and unrivaled connectivity. Our Snapdragon® platforms power extraordinary consumer experiences, and our Qualcomm Dragonwing products empower businesses and industries to scale to new heights. Together with our ecosystem partners, we enable next-generation digital transformation to enrich lives, improve businesses, and advance societies. At Qualcomm, we are engineering human progress. Qualcomm Incorporated includes our licensing business, QTL, and the vast majority of our patent portfolio. Qualcomm Technologies, Inc.",
       "dividendHistory": [
@@ -36215,7 +36249,7 @@
       "annualDividend": "$0.72",
       "exDividendDate": "02/13/2026",
       "paymentDate": "03/02/2026",
-      "growthRate": "23.3%",
+      "growthRate": "21.02%",
       "growthSource": "Analyst Forecast",
       "description": "ConnectOne Bancorp, Inc., is a modern financial services company that operates, through its subsidiary, ConnectOne Bank, and the Bank's fintech subsidiary, BoeFly, Inc. ConnectOne Bank is a high-performing commercial bank offering a full suite of banking & lending products and services that focus on small to middle-market businesses. BoeFly, Inc. is a fintech marketplace that connects borrowers in the franchise space with funding solutions through a network of partner banks. ConnectOne Bancorp, Inc. is traded on the Nasdaq Global Market under the trading symbol \"CNOB,\" and information about ConnectOne may be found at https://www.connectonebank.com.",
       "dividendHistory": [
@@ -38995,12 +39029,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.07"
+          "amount": "$0.14"
         }
       ],
       "dividendYears": 9,
       "dividendGrowth": {
-        "rate": "-10.5%",
+        "rate": "-2.4%",
         "years": 8
       }
     },
@@ -40791,7 +40825,7 @@
       "annualDividend": "$1.1",
       "exDividendDate": "03/06/2026",
       "paymentDate": "03/24/2026",
-      "growthRate": "1.63%",
+      "growthRate": "1.41%",
       "growthSource": "Analyst Forecast",
       "description": "Commerce Bancshares, Inc. (NASDAQ: CBSH) is a regional bank holding company with $32.9 billion in assets¹, offering banking, payment solutions, wealth management and securities brokerage through its subsidiaries. Commerce Bank, its primary subsidiary, brings over 160 years of experience helping individuals and businesses through high-touch service and sophisticated, personalized financial solutions. Commerce maintains an extensive network of banking centers, wealth offices, and ATMs throughout the Midwest, as well as commercial offices in 11 states and offers payment solutions nationwide. With the acquisition of FineMark Holdings, Inc., which was completed on January 1, 2026, Commerce builds on its existing private banking and wealth management presence in Florida and adds wealth offices in Arizona and South Carolina. Customers can conveniently access their accounts 24/7 using mobile and online platforms, as well as a customer service line.",
       "dividendHistory": [
@@ -41081,7 +41115,7 @@
       "annualDividend": "$2",
       "exDividendDate": "03/17/2026",
       "paymentDate": "03/31/2026",
-      "growthRate": "-2.07%",
+      "growthRate": "-4.97%",
       "growthSource": "Analyst Forecast",
       "description": "Universal Display Corporation (Nasdaq: OLED) is a leader in the research, development and commercialization of organic light emitting diode (OLED) technologies and materials for use in display and solid-state lighting applications. Founded in 1994 and with subsidiaries and offices around the world, the Company currently owns, exclusively licenses or has the sole right to sublicense more than 7,000 patents issued and pending worldwide. Universal Display licenses its proprietary technologies, including its breakthrough high-efficiency UniversalPHOLED® phosphorescent OLED technology that can enable the development of energy-efficient and eco-friendly displays and solid-state lighting. The Company also develops and offers high-quality, state-of-the-art UniversalPHOLED materials that are recognized as key ingredients in the fabrication of OLEDs with peak performance.",
       "dividendHistory": [
@@ -41325,7 +41359,7 @@
       "annualDividend": "$7.96",
       "exDividendDate": "03/13/2026",
       "paymentDate": "03/30/2026",
-      "growthRate": "12.8%",
+      "growthRate": "12.78%",
       "growthSource": "Analyst Forecast",
       "description": "Founded in 1960, Domino's Pizza is the largest pizza company in the world, with a significant business in both delivery and carryout. It ranks among the world's top public restaurant brands with a global enterprise of more than 22,100 stores in over 90 markets. Domino's had global retail sales of over $20.1 billion in 2025. Its system is comprised of independent franchise owners who accounted for 99% of Domino's stores as of the end of the fourth quarter of 2025. In the U.S. , Domino's generated more than 85% of U.S. retail sales in 2025 via digital channels and has developed many innovative ordering platforms.",
       "dividendHistory": [
@@ -42033,7 +42067,7 @@
       "annualDividend": "$1.68",
       "exDividendDate": "04/02/2026",
       "paymentDate": "04/22/2026",
-      "growthRate": "10.5%",
+      "growthRate": "10.64%",
       "growthSource": "Analyst Forecast",
       "description": "Cisco (NASDAQ: CSCO) is the worldwide technology leader revolutionizing the way organizations connect and protect in the AI era. For more than 40 years, Cisco has securely connected the world. With its industry-leading AI-powered solutions and services, Cisco enables its customers, partners, and communities to unlock innovation, enhance productivity, and strengthen digital resilience.",
       "dividendHistory": [
@@ -43421,7 +43455,7 @@
       "annualDividend": "$4.056",
       "exDividendDate": "03/25/2026",
       "paymentDate": "04/09/2026",
-      "growthRate": "22.34%",
+      "growthRate": "22.63%",
       "growthSource": "Analyst Forecast",
       "description": "NXP Semiconductors N.V. (NASDAQ: NXPI) is the trusted partner for innovative solutions in the automotive, industrial & IoT, mobile, and communications infrastructure markets. NXP's \"Brighter Together\" approach combines leading-edge technology with pioneering people to develop system solutions that make the connected world better, safer, and more secure. The company has operations in more than 30 countries and posted revenue of $12.27 billion in 2025.",
       "dividendHistory": [
@@ -43971,7 +44005,7 @@
       "annualDividend": "$1.24",
       "exDividendDate": "02/09/2026",
       "paymentDate": "02/20/2026",
-      "growthRate": "-1.82%",
+      "growthRate": "0.06%",
       "growthSource": "Analyst Forecast",
       "description": "Home Bancorp is a Louisiana corporation that became the holding company for Home Bank N.A. in October 2008 upon Home Bank's mutual to stock conversion. Home Bank is a federally chartered, community-oriented bank which was originally organized in 1908 and is headquartered in Lafayette, Louisiana. Home Bank, N.A., founded in 1908 as Home Building & Loan, is the oldest financial institution founded in Lafayette Parish and is headquartered in Lafayette, Louisiana. We have expanded to serve markets in South Louisiana, Natchez, Mississippi, and the Greater Houston area, which also offers a Commercial Banking Office in North Houston.",
       "dividendHistory": [
@@ -45263,7 +45297,7 @@
       "annualDividend": "$3.12",
       "exDividendDate": "02/18/2026",
       "paymentDate": "03/04/2026",
-      "growthRate": "9.92%",
+      "growthRate": "10.38%",
       "growthSource": "Analyst Forecast",
       "description": "MarketAxess (Nasdaq: MKTX) operates a leading electronic trading platform that delivers greater trading efficiency, a diversified pool of liquidity and significant cost savings to institutional investors and broker-dealers across the global fixed-income and other markets. Approximately 2,100 firms leverage MarketAxess' patented technology to efficiently trade fixed-income securities. Our automated and algorithmic trading solutions, combined with our integrated and actionable data offerings, help our clients make faster, better-informed decisions on when and how to trade on our platform. MarketAxess' award-winning Open Trading® marketplace is widely regarded as the preferred all-to-all trading solution in the global credit markets. Founded in 2000, MarketAxess connects a robust network of market participants through an advanced full trading lifecycle solution that includes automated trading solutions, intelligent data and index products and a range of post-trade services.",
       "dividendHistory": [
@@ -46515,7 +46549,7 @@
       "annualDividend": "$1.36",
       "exDividendDate": "03/18/2026",
       "paymentDate": "04/01/2026",
-      "growthRate": "11.54%",
+      "growthRate": "3.17%",
       "growthSource": "Analyst Forecast",
       "description": "CSG empowers companies to build unforgettable experiences, making it easier for people and businesses to connect with, use and pay for the services they value most. Our customer experience, billing and payments solutions help companies of any size make money and make a difference. With our SaaS solutions, company leaders can take control of their future and tap into guidance along the way from our fiercely committed and forward-thinking CSGers around the world.",
       "dividendHistory": [
@@ -46841,7 +46875,7 @@
       "annualDividend": "$5",
       "exDividendDate": "12/12/2025",
       "paymentDate": "12/30/2025",
-      "growthRate": "6.86%",
+      "growthRate": "7.55%",
       "growthSource": "Analyst Forecast",
       "description": "As the world's leading derivatives marketplace, CME Group ( www.cmegroup.com ) enables clients to trade futures, options, cash and OTC markets, optimize portfolios, and analyze data - empowering market participants worldwide to efficiently manage risk and capture opportunities. CME Group exchanges offer the widest range of global benchmark products across all major asset classes based on interest rates, equity indexes, foreign exchange, cryptocurrencies, energy, agricultural products and metals. The company offers futures and options on futures trading through the CME Globex platform, fixed income trading via BrokerTec and foreign exchange trading on the EBS platform. In addition, it operates one of the world's leading central counterparty clearing providers, CME Clearing.",
       "dividendHistory": [
@@ -47475,7 +47509,7 @@
       "annualDividend": "$0.44",
       "exDividendDate": "03/31/2026",
       "paymentDate": "04/30/2026",
-      "growthRate": "42.41%",
+      "growthRate": "37.28%",
       "growthSource": "Analyst Forecast",
       "description": "Investar Holding Corporation , headquartered in Baton Rouge, Louisiana , provides full banking services, excluding trust services, through its wholly-owned banking subsidiary, Investar Bank , National Association. The Bank currently operates 29 branch locations serving Louisiana , Texas , and Alabama. At June 30, 2025 , the Bank had 337 full-time equivalent employees and total assets of $2.7 billion.",
       "dividendHistory": [
@@ -48281,7 +48315,7 @@
       "annualDividend": "$0.92",
       "exDividendDate": "02/17/2026",
       "paymentDate": "02/27/2026",
-      "growthRate": "1.04%",
+      "growthRate": "0.23%",
       "growthSource": "Analyst Forecast",
       "description": "Baker Hughes (NASDAQ: BKR) is an energy technology company that provides solutions to energy and industrial customers worldwide. Built on a century of experience and conducting business in over 120 countries, our innovative technologies and services are taking energy forward - making it safer, cleaner and more efficient for people and the planet.",
       "dividendHistory": [
@@ -50055,7 +50089,7 @@
       "annualDividend": "$1.04",
       "exDividendDate": "12/29/2025",
       "paymentDate": "01/12/2026",
-      "growthRate": "0.59%",
+      "growthRate": "-0.41%",
       "growthSource": "Analyst Forecast",
       "description": "SEI (NASDAQ:SEIC) is a leading global provider of financial technology, operations, and asset management services within the financial services industry. SEI tailors its solutions and services to help clients more effectively deploy their capital-whether that's money, time, or talent-so they can better serve their clients and achieve their growth objectives. As of Dec. 31, 2025 , SEI manages, advises, or administers approximately $1.9 trillion in assets.",
       "dividendHistory": [
@@ -50267,7 +50301,7 @@
       "annualDividend": "$0.28",
       "exDividendDate": "02/05/2026",
       "paymentDate": "02/19/2026",
-      "growthRate": "30.41%",
+      "growthRate": "36.84%",
       "growthSource": "Analyst Forecast",
       "description": "NB Bancorp, Inc. (Nasdaq Capital Market: NBBK) is the registered bank holding company of Needham Bank. Needham Bank is headquartered in Needham, Massachusetts, which is approximately 17 miles southwest of Boston's financial district. Known as the \"Builder's Bank,\" Needham Bank has been helping individuals, businesses and non-profits build for their futures since 1892. Needham Bank offers an array of tech-forward products and services that businesses and consumers use to manage their financial needs. Needham Bank also provides services to companies in the cannabis industry by providing loans and deposits, along with supporting payment platforms in this industry, such as Mosaic and Corduro.",
       "dividendHistory": [
@@ -50395,9 +50429,9 @@
       "annualDividend": "$0.36",
       "exDividendDate": "01/15/2026",
       "paymentDate": "01/26/2026",
-      "growthRate": "36.8%",
-      "growthSource": "Analyst Forecast",
-      "description": "CF Bankshares Inc. (the \"Company\") is a holding company that owns 100% of the stock of CFBank, National Association (\" CFBank \"). CFBank is a nationally chartered boutique Commercial bank operating primarily in Five (5) Major Metro Markets: Columbus, Cleveland, Cincinnati, and Akron Ohio, and Indianapolis, Indiana. The current Leadership Team and Board recapitalized the Company and CFBank in 2012 during the financial crisis, repositioning CFBank as a full-service Commercial Bank model. Since the 2012 recapitalization, CFBank has achieved a CAGR of 20%. CFBank focuses on serving the financial needs of closely held businesses and entrepreneurs, by providing a comprehensive Commercial, Retail, and Mortgage Lending services presence.",
+      "growthRate": "15.4%",
+      "growthSource": "4yr Revenue CAGR",
+      "description": "CF Bankshares Inc. (the 'Company') is a holding company that owns 100% of the stock of CFBank, National Association (' CFBank '). CFBank is a nationally chartered boutique Commercial bank operating primarily in Five (5) Major Metro Markets: Columbus, Cleveland, Cincinnati, and Akron Ohio, and Indianapolis, Indiana. The current Leadership Team and Board recapitalized the Company and CFBank in 2012 during the financial crisis, repositioning CFBank as a full-service Commercial Bank model. CFBank focuses on serving the financial needs of closely held businesses and entrepreneurs, by providing a comprehensive Commercial, Retail, and Mortgage Lending services presence. In all regional markets, CFBank provides commercial loans and equipment leases, commercial and residential real estate loans and treasury management depository services, residential mortgage lending, and full-service commercial and retail banking services and products.",
       "dividendHistory": [
         {
           "year": "1999",
@@ -50445,12 +50479,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.09"
+          "amount": "$0.18"
         }
       ],
       "dividendYears": 12,
       "dividendGrowth": {
-        "rate": "-2.1%",
+        "rate": "0.4%",
         "years": 27
       }
     },
@@ -50467,7 +50501,7 @@
       "paymentDate": "03/30/2026",
       "growthRate": "9.66%",
       "growthSource": "Analyst Forecast",
-      "description": "Nasdaq (Nasdaq: NDAQ) is a leading technology platform that powers the world's economies. We architect the world's most modern markets, power the innovation economy, and build trust in the financial system. We empower economic opportunity by designing and deploying the technology, data, and advanced analytics that enable our clients to capture opportunities, navigate risk, and strengthen resilience. To learn more about the company, technology solutions and career opportunities, visit us on LinkedIn , on X @Nasdaq , or at www.nasdaq.com .",
+      "description": "Nasdaq (Nasdaq: NDAQ) is a leading technology platform that powers the world's economies. We architect the world's most modern markets, power the innovation economy, and build trust in the financial system. We empower economic opportunity by designing and deploying markets, technology, data, and advanced analytics that enable our clients to capture opportunities, navigate risk, and strengthen resilience.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -50543,7 +50577,7 @@
       "annualDividend": "$3.16",
       "exDividendDate": "03/31/2026",
       "paymentDate": "04/15/2026",
-      "growthRate": "9.03%",
+      "growthRate": "9.26%",
       "growthSource": "Analyst Forecast",
       "description": "Lincoln Electric is a high-performance industrial machinery and technology leader who helps customers manufacture and maintain vital equipment and infrastructure. Lincoln Electric's innovative solutions enable higher quality and productivity across a variety of processes including welding, cutting, brazing, machining, process automation and field repair. The Company leverages proprietary technologies and expertise in materials science, power electronics, automation and intelligent software to help customers build better and achieve resilience in their operations. Headquartered in Cleveland, Ohio, Lincoln Electric is the essential 'Linc' that keeps the economy running. The Company operates 71 manufacturing and automation facilities across 20 countries and serves customers in over 160 countries. For more information about Lincoln Electric and its products and services, visit the Company's website at https://www.lincolnelectric.com.",
       "dividendHistory": [
@@ -51765,7 +51799,7 @@
       "annualDividend": "$0.06",
       "exDividendDate": "03/31/2026",
       "paymentDate": "04/14/2026",
-      "growthRate": "1400%",
+      "growthRate": "450%",
       "growthSource": "Analyst Forecast",
       "description": "Vox Royalty Corp. (NASDAQ:VOXR)(TSX:VOXR) is a returns-focused mining royalty and streaming company built on disciplined capital allocation and risk-adjusted value creation. The Company holds a diversified portfolio of over 70 royalties and streams, including 12 producing and 24 development stage assets, with primary exposure to gold and select industrial metals across top tier mining jurisdictions. Founded in 2014, Vox combines a technically driven team, early catalyst identification, and a proprietary royalty database to target convex, long-term returns for shareholders. Vox is a constituent of the Russell 2000® and Russell 3000® Indexes and is included in the MVIS® Global Junior Gold Miners Index and VanEck Junior Gold Miners ETF (GDXJ).",
       "dividendHistory": [
@@ -52647,7 +52681,7 @@
       "annualDividend": "$0.68",
       "exDividendDate": "02/13/2026",
       "paymentDate": "02/27/2026",
-      "growthRate": "10.89%",
+      "growthRate": "12.09%",
       "growthSource": "Analyst Forecast",
       "description": "WSFS Financial Corporation is a multibillion-dollar financial services company. Its primary subsidiary, WSFS Bank, is the oldest and largest locally headquartered bank and wealth management franchise in the Greater Philadelphia and Delaware region. As of December 31, 2025, WSFS Financial Corporation had $21.3 billion in assets on its balance sheet and $97.4 billion in assets under management and administration. WSFS operates from 113 offices, 87 of which are banking offices, located in Pennsylvania (58), Delaware (37), New Jersey (14), Florida (2), Nevada (1) and Virginia (1) and provides comprehensive financial services including commercial banking, consumer banking, treasury management, and trust and wealth management.",
       "dividendHistory": [
@@ -53061,7 +53095,7 @@
       "annualDividend": "$1.6",
       "exDividendDate": "02/18/2026",
       "paymentDate": "03/11/2026",
-      "growthRate": "20.19%",
+      "growthRate": "20.17%",
       "growthSource": "Analyst Forecast",
       "description": "Landstar System, Inc., is a technology-enabled, asset-light provider of integrated transportation management solutions delivering safe, specialized transportation services to a broad range of customers utilizing a network of agents, third-party capacity providers, and employees. Landstar transportation services companies are certified to ISO 9001:2015 quality management system standards and RC14001:2015 environmental, health, safety, and security management system standards. Landstar System, Inc. is headquartered in Jacksonville, Florida.",
       "dividendHistory": [
@@ -53201,7 +53235,7 @@
       "annualDividend": "$1",
       "exDividendDate": "02/23/2026",
       "paymentDate": "03/04/2026",
-      "growthRate": "17.21%",
+      "growthRate": "17.5%",
       "growthSource": "Analyst Forecast",
       "description": "Wynn Resorts (Nasdaq: WYNN) is the recipient of more Forbes Travel Guide Five Star Awards than any other independent hotel company in the world and in 2025 was once again honored on FORTUNE Magazine's World's Most Admired Companies list. Wynn and Encore Las Vegas have two luxury hotel towers with a total of 4,748 spacious hotel rooms, suites and villas. The resort features approximately 196,000 square feet of casino space, 22 signature dining experiences, 10 bars, two award-winning spas, approximately 560,000 rentable square feet of meeting and convention space, approximately 174,000 square feet of retail space as well as two showrooms, two nightclubs, a beach club, and recreation and leisure facilities, including Wynn Golf Club, an 18-hole championship golf course.",
       "dividendHistory": [
@@ -54621,7 +54655,7 @@
       "annualDividend": "$1.8",
       "exDividendDate": "02/06/2026",
       "paymentDate": "02/20/2026",
-      "growthRate": "16.68%",
+      "growthRate": "16.84%",
       "growthSource": "Analyst Forecast",
       "description": "J.B. Hunt's vision is to create the most efficient transportation network in North America. The company's industry-leading solutions and mode-neutral approach generate value for customers by eliminating waste, reducing costs and enhancing supply chain visibility. Powered by one of the largest company-owned fleets in the country and third-party capacity through its J.B. Hunt 360°® digital freight marketplace, J.B. Hunt can meet the unique shipping needs of any business, from first mile to final delivery, and every shipment in-between. Through disciplined investments in its people, technology and capacity, J.B. Hunt is delivering exceptional value and service that enable long-term growth for the company and its stakeholders.",
       "dividendHistory": [
@@ -55049,7 +55083,7 @@
       "annualDividend": "$1.2",
       "exDividendDate": "03/06/2026",
       "paymentDate": "03/27/2026",
-      "growthRate": "14.41%",
+      "growthRate": "12.39%",
       "growthSource": "Analyst Forecast",
       "description": "Founded in 1994 and headquartered in Dallas, TX, Wingstop Inc. (NASDAQ: WING) operates and franchises more than 3,000 restaurants worldwide - with 98% of the total restaurant count owned by brand partners. Generating over $5 billion in system-wide sales in fiscal 2025, Wingstop offers made-to-order, always fresh classic and boneless wings, tenders, and chicken sandwiches in 12 bold, distinctive flavors, alongside signature sides and iconic housemade ranch and bleu cheese dips. Dedicated to Serving the World Flavor, Wingstop is the Official Chicken Partner of the NBA with a vision to become a Top 10 Global Restaurant Brand. Learn more at wingstop.com or follow @Wingstop on X, Instagram, Facebook and TikTok.",
       "dividendHistory": [
@@ -55395,7 +55429,7 @@
       "annualDividend": "$0.08",
       "exDividendDate": "03/04/2026",
       "paymentDate": "03/18/2026",
-      "growthRate": "19.92%",
+      "growthRate": "20.76%",
       "growthSource": "Analyst Forecast",
       "description": "BGC Group, Inc. (Nasdaq: BGC) is a leading global marketplace, data, and financial technology services company for a broad range of products, including fixed income, foreign exchange, energy, commodities, shipping, equities, and now includes the FMX Futures Exchange . BGC's clients are many of the world's largest banks, broker-dealers, investment banks, trading firms, hedge funds, governments, corporations, and investment firms.",
       "dividendHistory": [
@@ -55699,7 +55733,7 @@
       "annualDividend": "$0.2",
       "exDividendDate": "03/16/2026",
       "paymentDate": "03/30/2026",
-      "growthRate": "-15.25%",
+      "growthRate": "-21.28%",
       "growthSource": "Analyst Forecast",
       "description": "Adeia is a leading R&D and intellectual property (IP) licensing company that accelerates the adoption of innovative technologies in the media and semiconductor industries. Adeia's fundamental innovations underpin technology solutions that are shaping and elevating the future of digital entertainment and electronics. Adeia's IP portfolios power the connected devices that touch the lives of millions of people around the world every day as they live, work and play.",
       "dividendHistory": [
@@ -56721,7 +56755,7 @@
       "annualDividend": "$2.96",
       "exDividendDate": "03/25/2026",
       "paymentDate": "04/08/2026",
-      "growthRate": "62.83%",
+      "growthRate": "63.72%",
       "growthSource": "Analyst Forecast",
       "description": "Seagate Technology is a leading innovator of mass-capacity data storage. We create breakthrough technology so you can confidently store your data and easily unlock its value. Founded over 45 years ago, Seagate has shipped over four billion terabytes of data capacity and offers a full portfolio of storage devices, systems, and services from edge to cloud. To learn more about how Seagate leads storage innovation, visit www.seagate.com and our blog, or follow us on X, Facebook, LinkedIn, and YouTube.",
       "dividendHistory": [
@@ -58659,7 +58693,7 @@
       "annualDividend": "$3.76",
       "exDividendDate": "02/20/2026",
       "paymentDate": "03/05/2026",
-      "growthRate": "-1.71%",
+      "growthRate": "-0.57%",
       "growthSource": "Analyst Forecast",
       "description": "Regeneron (NASDAQ: REGN) is a leading biotechnology company that invents, develops and commercializes life-transforming medicines for people with serious diseases. Founded and led by physician-scientists, our unique ability to repeatedly and consistently translate science into medicine has led to numerous approved treatments and product candidates in development, most of which were homegrown in our laboratories. Our medicines and pipeline are designed to help patients with eye diseases, allergic and inflammatory diseases, cancer, cardiovascular and metabolic diseases, neurological diseases, hematologic conditions, infectious diseases, and rare diseases. Regeneron pushes the boundaries of scientific discovery and accelerates drug development using our proprietary technologies, such as VelociSuite ® , which produces optimized fully human antibodies and new classes of bispecific antibodies.",
       "dividendHistory": [
@@ -58947,7 +58981,7 @@
       "annualDividend": "$0.32",
       "exDividendDate": "02/27/2026",
       "paymentDate": "03/13/2026",
-      "growthRate": "7.31%",
+      "growthRate": "10.35%",
       "growthSource": "Analyst Forecast",
       "description": "Interactive Brokers Group affiliates provide automated trade execution and custody of securities, commodities and foreign exchange around the clock on over 125 markets in numerous countries and currencies, from a single IBKR Integrated Investment Account to clients worldwide. We service individual investors, hedge funds, proprietary trading groups, financial advisors and introducing brokers. Our four decades of focus on technology and automation has enabled us to equip our clients with a uniquely sophisticated platform to manage their investment portfolios at the lowest cost according to Barron's Best Online Brokers review, February 25, 2019. We strive to provide our clients with advantageous execution prices and trading, risk and portfolio management tools, research facilities and investment products, all at low or no cost, positioning them to achieve superior returns on investments.",
       "dividendHistory": [
@@ -59745,7 +59779,7 @@
       "annualDividend": "$1.04",
       "exDividendDate": "02/09/2026",
       "paymentDate": "02/12/2026",
-      "growthRate": "12.55%",
+      "growthRate": "12.97%",
       "growthSource": "Analyst Forecast",
       "description": "Apple revolutionized personal technology with the introduction of the Macintosh in 1984. Today, Apple leads the world in innovation with iPhone, iPad, Mac, AirPods, Apple Watch, and Apple Vision Pro. Apple's six software platforms - iOS, iPadOS, macOS, watchOS, visionOS, and tvOS - provide seamless experiences across all Apple devices and empower people with breakthrough services including the App Store, Apple Music, Apple Pay, iCloud, and Apple TV. Apple's more than 150,000 employees are dedicated to making the best products on earth and to leaving the world better than we found it.",
       "dividendHistory": [
@@ -59855,7 +59889,7 @@
       "annualDividend": "$1.2",
       "exDividendDate": "03/10/2026",
       "paymentDate": "03/24/2026",
-      "growthRate": "18.7%",
+      "growthRate": "17.63%",
       "growthSource": "Analyst Forecast",
       "description": "LPL Financial Holdings Inc. (Nasdaq: LPLA) is among the fastest growing wealth management firms in the U.S. As a leader in the financial advisor-mediated marketplace, LPL supports over 32,000 financial advisors and the wealth management practices of approximately 1,200 financial institutions, servicing and custodying approximately $2.4 trillion in brokerage and advisory assets on behalf of approximately 8 million Americans. The firm provides a wide range of advisor affiliation models, investment solutions, fintech tools and practice management services, ensuring that advisors and institutions have the flexibility to choose the business model, services, and technology resources they need to run thriving businesses. For further information about LPL, please visit www.lpl.com.",
       "dividendHistory": [
@@ -59959,7 +59993,7 @@
       "annualDividend": "$0.76",
       "exDividendDate": "02/25/2026",
       "paymentDate": "03/18/2026",
-      "growthRate": "33.17%",
+      "growthRate": "34.78%",
       "growthSource": "Analyst Forecast",
       "description": "Electronic Arts (NASDAQ: EA) is a global leader in digital interactive entertainment. The Company develops and delivers games, content and online services for Internet-connected consoles, mobile devices and personal computers.",
       "dividendHistory": [
@@ -60729,7 +60763,7 @@
       "annualDividend": "$0.3",
       "exDividendDate": "12/31/2025",
       "paymentDate": "01/14/2026",
-      "growthRate": "13.51%",
+      "growthRate": "13.86%",
       "growthSource": "Analyst Forecast",
       "description": "Colliers (NASDAQ, TSX: CIGI) is a global diversified professional services and investment management company operating through three industry-leading businesses: Commercial Real Estate , Engineering, and Investment Management. With greater than a 30-year track record of consistent growth and strong recurring cash flows, we scale complementary, high-value businesses that provide essential services across the full asset lifecycle. Our unique partnership philosophy empowers exceptional leaders, preserves our entrepreneurial culture, and ensures meaningful inside ownership - driving strong alignment and sustained value creation for our shareholders. With $5.6 billion in annual revenues, 24,000 professionals, and $108 billion in assets under management, Colliers is committed to accelerating the success of our clients, investors, and people worldwide. Learn more at corporate.colliers.com.",
       "dividendHistory": [
@@ -60803,7 +60837,7 @@
       "annualDividend": "$0.24",
       "exDividendDate": "01/09/2026",
       "paymentDate": "01/29/2026",
-      "growthRate": "40.39%",
+      "growthRate": "40.38%",
       "growthSource": "Analyst Forecast",
       "description": "To deliver the data infrastructure technology that connects the world, we're building solutions on the most powerful foundation: our partnerships with our customers. Trusted by the world's leading technology companies for over 30 years, we move, store, process and secure the world's data with semiconductor solutions designed for our customers' current needs and future ambitions. Through a process of deep collaboration and transparency, we're ultimately changing the way tomorrow's enterprise, cloud and carrier architectures transform-for the better.",
       "dividendHistory": [
@@ -61457,7 +61491,7 @@
       "annualDividend": "$0.5",
       "exDividendDate": "03/05/2026",
       "paymentDate": "03/18/2026",
-      "growthRate": "87.49%",
+      "growthRate": "88.43%",
       "growthSource": "Analyst Forecast",
       "description": "At Western Digital, our vision is to unleash the power and value of data. For decades, we have been at the forefront of storage innovation, which fuels our mission to be the market leader in data storage, delivering solutions for now and the future. We are committed to providing scalable, sustainable technology for the world's hyperscalers, enterprises, and cloud providers, and delivering cutting-edge innovation that will drive the next generation of AI-driven data workloads. All that we do is powered by our people, who are united in a common purpose of creating solutions that move the world forward. Follow Western Digital on LinkedIn and learn more at www.westerndigital.com.",
       "dividendHistory": [
