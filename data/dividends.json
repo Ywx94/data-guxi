@@ -1,15 +1,15 @@
 {
   "success": true,
-  "lastUpdated": "2026-04-03T22:53:41.411Z",
+  "lastUpdated": "2026-04-04T22:53:19.227Z",
   "count": 824,
   "totalScanned": 7056,
   "stats": {
     "totalDividendStocks": 824,
-    "withGrowthData": 789,
-    "withoutGrowthData": 35,
+    "withGrowthData": 790,
+    "withoutGrowthData": 34,
     "withDividendHistory": 824,
     "avgDividendYears": "13.2",
-    "durationMinutes": "14.41"
+    "durationMinutes": "17.10"
   },
   "sectors": [
     {
@@ -2705,7 +2705,7 @@
       "paymentDate": "04/28/2026",
       "growthRate": "12.36%",
       "growthSource": "Analyst Forecast",
-      "description": "Adamas Trust, Inc. is an internally managed real estate investment trust (\"REIT\") focused on strategically deploying capital across complementary businesses to generate durable earnings and long-term value for stockholders through disciplined portfolio management and an operating platform designed to capture opportunities across real estate and capital markets.",
+      "description": "Adamas Trust, Inc. is an internally managed real estate investment trust (REIT) focused on strategically deploying capital across complementary businesses to generate durable earnings and long-term value for stockholders through disciplined portfolio management and an operating platform designed to capture opportunities across real estate and capital markets.",
       "dividendHistory": [
         {
           "year": "2004",
@@ -4007,7 +4007,7 @@
       "paymentDate": "04/15/2026",
       "growthRate": "60.0%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Adamas Trust, Inc. is an internally managed real estate investment trust (\"REIT\") focused on strategically deploying capital across complementary businesses to generate durable earnings and long-term value for stockholders through disciplined portfolio management and an operating platform designed to capture opportunities across real estate and capital markets.",
+      "description": "Adamas Trust, Inc. is an internally managed real estate investment trust (REIT) focused on strategically deploying capital across complementary businesses to generate durable earnings and long-term value for stockholders through disciplined portfolio management and an operating platform designed to capture opportunities across real estate and capital markets.",
       "dividendHistory": [
         {
           "year": "2019",
@@ -5359,7 +5359,7 @@
       "paymentDate": "04/15/2026",
       "growthRate": "60.0%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Adamas Trust, Inc. is an internally managed real estate investment trust (\"REIT\") focused on strategically deploying capital across complementary businesses to generate durable earnings and long-term value for stockholders through disciplined portfolio management and an operating platform designed to capture opportunities across real estate and capital markets.",
+      "description": "Adamas Trust, Inc. is an internally managed real estate investment trust (REIT) focused on strategically deploying capital across complementary businesses to generate durable earnings and long-term value for stockholders through disciplined portfolio management and an operating platform designed to capture opportunities across real estate and capital markets.",
       "dividendHistory": [
         {
           "year": "2021",
@@ -5885,7 +5885,7 @@
       "paymentDate": "04/01/2026",
       "growthRate": "60.0%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Adamas Trust, Inc. is an internally managed real estate investment trust (\"REIT\") focused on strategically deploying capital across complementary businesses to generate durable earnings and long-term value for stockholders through disciplined portfolio management and an operating platform designed to capture opportunities across real estate and capital markets.",
+      "description": "Adamas Trust, Inc. is an internally managed real estate investment trust (REIT) focused on strategically deploying capital across complementary businesses to generate durable earnings and long-term value for stockholders through disciplined portfolio management and an operating platform designed to capture opportunities across real estate and capital markets.",
       "dividendHistory": [
         {
           "year": "2025",
@@ -6013,7 +6013,7 @@
       "paymentDate": "04/15/2026",
       "growthRate": "60.0%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Adamas Trust, Inc. is an internally managed real estate investment trust (\"REIT\") focused on strategically deploying capital across complementary businesses to generate durable earnings and long-term value for stockholders through disciplined portfolio management and an operating platform designed to capture opportunities across real estate and capital markets.",
+      "description": "Adamas Trust, Inc. is an internally managed real estate investment trust (REIT) focused on strategically deploying capital across complementary businesses to generate durable earnings and long-term value for stockholders through disciplined portfolio management and an operating platform designed to capture opportunities across real estate and capital markets.",
       "dividendHistory": [
         {
           "year": "2017",
@@ -10747,7 +10747,7 @@
       "paymentDate": "04/15/2026",
       "growthRate": "60.0%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Adamas Trust, Inc. is an internally managed real estate investment trust (\"REIT\") focused on strategically deploying capital across complementary businesses to generate durable earnings and long-term value for stockholders through disciplined portfolio management and an operating platform designed to capture opportunities across real estate and capital markets.",
+      "description": "Adamas Trust, Inc. is an internally managed real estate investment trust (REIT) focused on strategically deploying capital across complementary businesses to generate durable earnings and long-term value for stockholders through disciplined portfolio management and an operating platform designed to capture opportunities across real estate and capital markets.",
       "dividendHistory": [
         {
           "year": "2021",
@@ -60245,8 +60245,8 @@
       "annualDividend": "$0.01",
       "exDividendDate": "03/31/2026",
       "paymentDate": "04/10/2026",
-      "growthRate": "N/A",
-      "growthSource": "",
+      "growthRate": "129.3%",
+      "growthSource": "4yr Revenue CAGR",
       "description": "Royalty Management Holding Corporation (NASDAQ: RMCO ) is a royalty company building shareholder value to benefit both its shareholders and communities by acquiring and developing high value assets in a variety of market environments. The model is to acquire and structure cash flow streams around assets that can support the communities by monetizing the current existing cash flow streams while identifying transitionary cash flow from the assets for the future.",
       "dividendHistory": [
         {
