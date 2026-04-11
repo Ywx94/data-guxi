@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": "2026-04-10T22:56:02.055Z",
+  "lastUpdated": "2026-04-11T22:50:36.358Z",
   "count": 819,
   "totalScanned": 7052,
   "stats": {
@@ -9,7 +9,7 @@
     "withoutGrowthData": 33,
     "withDividendHistory": 819,
     "avgDividendYears": "13.3",
-    "durationMinutes": "13.33"
+    "durationMinutes": "12.50"
   },
   "sectors": [
     {
@@ -55121,7 +55121,7 @@
       "paymentDate": "04/06/2026",
       "growthRate": "9.43%",
       "growthSource": "Analyst Forecast",
-      "description": "Walmart Inc. (Nasdaq: WMT) is a people-led, tech-powered omnichannel retailer helping people save money and live better - anytime and anywhere - in stores, online, and through their mobile devices. Each week, approximately 270 million customers and members visit more than 10,750 stores and numerous eCommerce websites in 19 countries. With fiscal year 2025 revenue of $681 billion, Walmart employs approximately 2.1 million associates worldwide. Walmart continues to be a leader in sustainability, corporate philanthropy, and employment opportunity.",
+      "description": "",
       "dividendHistory": [
         {
           "year": "2000",
