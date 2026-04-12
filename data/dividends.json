@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": "2026-04-11T22:50:36.358Z",
+  "lastUpdated": "2026-04-12T22:53:38.058Z",
   "count": 819,
   "totalScanned": 7052,
   "stats": {
@@ -9,7 +9,7 @@
     "withoutGrowthData": 33,
     "withDividendHistory": 819,
     "avgDividendYears": "13.3",
-    "durationMinutes": "12.50"
+    "durationMinutes": "13.46"
   },
   "sectors": [
     {
@@ -30363,6 +30363,84 @@
       }
     },
     {
+      "symbol": "HFBL",
+      "name": "Home Federal Bancorp, Inc. of Louisiana Common Stock",
+      "price": "$18.20",
+      "marketCap": "55,958,393",
+      "sector": "Finance",
+      "industry": "Savings Institutions",
+      "dividendYield": "3.02%",
+      "annualDividend": "$0.54",
+      "exDividendDate": "02/02/2026",
+      "paymentDate": "02/16/2026",
+      "growthRate": "9.3%",
+      "growthSource": "4yr Revenue CAGR",
+      "description": "Home Federal Bancorp Inc of louisiana operates as a bank holding company. It is a federally chartered stock savings bank, which provides financial services to individuals, corporate entities, and other organizations. Its core activities consist of attracting deposits from the general public and using those funds to originate loans to the residential, commercial and multi-family segments. The company also invests securities held-to-maturity and securities available-for-sale.",
+      "dividendHistory": [
+        {
+          "year": "2013",
+          "amount": "$0.24"
+        },
+        {
+          "year": "2014",
+          "amount": "$0.26"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.30"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.34"
+        },
+        {
+          "year": "2017",
+          "amount": "$0.42"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.52"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.60"
+        },
+        {
+          "year": "2020",
+          "amount": "$0.65"
+        },
+        {
+          "year": "2021",
+          "amount": "$0.45"
+        },
+        {
+          "year": "2022",
+          "amount": "$0.44"
+        },
+        {
+          "year": "2023",
+          "amount": "$0.49"
+        },
+        {
+          "year": "2024",
+          "amount": "$0.51"
+        },
+        {
+          "year": "2025",
+          "amount": "$0.53"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.14"
+        }
+      ],
+      "dividendYears": 14,
+      "dividendGrowth": {
+        "rate": "-4.1%",
+        "years": 13
+      }
+    },
+    {
       "symbol": "HAS",
       "name": "Hasbro, Inc. Common Stock",
       "price": "$91.73",
@@ -30784,84 +30862,6 @@
       "dividendGrowth": {
         "rate": "-6.8%",
         "years": 25
-      }
-    },
-    {
-      "symbol": "HFBL",
-      "name": "Home Federal Bancorp, Inc. of Louisiana Common Stock",
-      "price": "$18.20",
-      "marketCap": "55,958,393",
-      "sector": "Finance",
-      "industry": "Savings Institutions",
-      "dividendYield": "2.97%",
-      "annualDividend": "$0.54",
-      "exDividendDate": "02/02/2026",
-      "paymentDate": "02/16/2026",
-      "growthRate": "9.3%",
-      "growthSource": "4yr Revenue CAGR",
-      "description": "Home Federal Bancorp Inc of louisiana operates as a bank holding company. It is a federally chartered stock savings bank, which provides financial services to individuals, corporate entities, and other organizations. Its core activities consist of attracting deposits from the general public and using those funds to originate loans to the residential, commercial and multi-family segments. The company also invests securities held-to-maturity and securities available-for-sale.",
-      "dividendHistory": [
-        {
-          "year": "2013",
-          "amount": "$0.24"
-        },
-        {
-          "year": "2014",
-          "amount": "$0.26"
-        },
-        {
-          "year": "2015",
-          "amount": "$0.30"
-        },
-        {
-          "year": "2016",
-          "amount": "$0.34"
-        },
-        {
-          "year": "2017",
-          "amount": "$0.42"
-        },
-        {
-          "year": "2018",
-          "amount": "$0.52"
-        },
-        {
-          "year": "2019",
-          "amount": "$0.60"
-        },
-        {
-          "year": "2020",
-          "amount": "$0.65"
-        },
-        {
-          "year": "2021",
-          "amount": "$0.45"
-        },
-        {
-          "year": "2022",
-          "amount": "$0.44"
-        },
-        {
-          "year": "2023",
-          "amount": "$0.49"
-        },
-        {
-          "year": "2024",
-          "amount": "$0.51"
-        },
-        {
-          "year": "2025",
-          "amount": "$0.53"
-        },
-        {
-          "year": "2026",
-          "amount": "$0.14"
-        }
-      ],
-      "dividendYears": 14,
-      "dividendGrowth": {
-        "rate": "-4.1%",
-        "years": 13
       }
     },
     {
@@ -55121,7 +55121,7 @@
       "paymentDate": "04/06/2026",
       "growthRate": "9.43%",
       "growthSource": "Analyst Forecast",
-      "description": "",
+      "description": "Walmart Inc. (Nasdaq: WMT) is a people-led, tech-powered omnichannel retailer helping people save money and live better - anytime and anywhere - in stores, online, and through their mobile devices. Each week, approximately 270 million customers and members visit more than 10,750 stores and numerous eCommerce websites in 19 countries. With fiscal year 2025 revenue of $681 billion, Walmart employs approximately 2.1 million associates worldwide. Walmart continues to be a leader in sustainability, corporate philanthropy, and employment opportunity.",
       "dividendHistory": [
         {
           "year": "2000",
