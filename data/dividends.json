@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": "2026-04-17T22:58:59.346Z",
+  "lastUpdated": "2026-04-18T22:51:19.290Z",
   "count": 821,
   "totalScanned": 7106,
   "stats": {
@@ -9,7 +9,7 @@
     "withoutGrowthData": 34,
     "withDividendHistory": 821,
     "avgDividendYears": "13.2",
-    "durationMinutes": "10.02"
+    "durationMinutes": "10.28"
   },
   "sectors": [
     {
@@ -13163,7 +13163,7 @@
       "paymentDate": "04/30/2026",
       "growthRate": "148.33%",
       "growthSource": "Analyst Forecast",
-      "description": "Xerox has been redefining the workplace experience for over a century. As a services-led, software-enabled company, we power today's hybrid workplace through advanced print, digital, and AI-driven technologies. In 2025, Xerox acquired Lexmark - expanding our global footprint, strengthening service capabilities, and equipping us to deliver an even broader portfolio of workplace technologies to our clients. Today, we continue our legacy of innovation to deliver client-centric, digitally driven solutions that meet the needs of a global, distributed workforce. Whether in offices, classrooms, or hospitals, we help our clients thrive in a constantly evolving business landscape.",
+      "description": "Xerox has been redefining the workplace experience for over a century. As a services-led, software-enabled company, we power today's hybrid workplace through advanced print, digital, and AI-driven technologies. In 2025 Xerox acquired Lexmark - expanding our global footprint, strengthening service capabilities, and equipping us to deliver an even broader portfolio of workplace technologies to our clients. Today, we continue our legacy of innovation to deliver client-centric, digitally driven solutions that meet the needs of a global, distributed workforce. Whether in offices, classrooms, or hospitals, we help our clients thrive in a constantly evolving business landscape.",
       "dividendHistory": [
         {
           "year": "2000",
