@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": "2026-04-24T22:58:36.687Z",
+  "lastUpdated": "2026-04-25T22:55:22.167Z",
   "count": 818,
   "totalScanned": 7084,
   "stats": {
@@ -9,7 +9,7 @@
     "withoutGrowthData": 34,
     "withDividendHistory": 818,
     "avgDividendYears": "13.2",
-    "durationMinutes": "14.22"
+    "durationMinutes": "12.31"
   },
   "sectors": [
     {
@@ -2659,7 +2659,7 @@
       "marketCap": "269,699,228",
       "sector": "Finance",
       "industry": "Trusts, Except Educational, Religious, and Charitable",
-      "dividendYield": "12.13%",
+      "dividendYield": "11.98%",
       "annualDividend": "$1.68",
       "exDividendDate": "04/14/2026",
       "paymentDate": "04/21/2026",
@@ -3115,7 +3115,7 @@
       "marketCap": "235,704,114",
       "sector": "Telecommunications",
       "industry": "Telecommunications Equipment",
-      "dividendYield": "10.99%",
+      "dividendYield": "11.04%",
       "annualDividend": "$1.25",
       "exDividendDate": "03/16/2026",
       "paymentDate": "03/31/2026",
@@ -3341,7 +3341,7 @@
       "annualDividend": "$6",
       "exDividendDate": "03/30/2026",
       "paymentDate": "04/16/2026",
-      "growthRate": "5.6%",
+      "growthRate": "5.2%",
       "growthSource": "4yr Revenue CAGR",
       "description": "Ituran is a leader in the emerging mobility technology field, providing value-added location-based services, including a full suite of services for the connected-car. Ituran offers Stolen Vehicle Recovery, fleet management as well as mobile asset location, management & control services for vehicles, cargo and personal security for the retail, insurance industry and car manufacturers. Ituran is the largest OEM telematics provider in Latin America. Its products and applications are used by customers in over 20 countries. Ituran is also the founder of the Tel-Aviv based DRIVE startup incubator to promote the development of smart mobility technology. Ituran's subscriber base has been growing significantly since the Company's inception to over 2.6 million subscribers using its location-based services with a market leading position in Israel and Latin America.",
       "dividendHistory": [
@@ -3626,44 +3626,6 @@
       "dividendGrowth": {
         "rate": "6.1%",
         "years": 38
-      }
-    },
-    {
-      "symbol": "GREEL",
-      "name": "Greenidge Generation Holdings Inc. 8.50% Senior Notes due 2026",
-      "price": "$20.52",
-      "marketCap": "321,618,517",
-      "sector": "Finance",
-      "industry": "Finance: Consumer Services",
-      "dividendYield": "10.49%",
-      "annualDividend": "$2.125",
-      "exDividendDate": "04/15/2026",
-      "paymentDate": "04/30/2026",
-      "growthRate": "-10.1%",
-      "growthSource": "4yr Revenue CAGR",
-      "description": "Greenidge Generation Holdings Inc. (Nasdaq: GREE) is a vertically integrated power generation company, focusing on datacenters, electrical and infrastructure development, engineering, procurement, construction management, operations and site maintenance.",
-      "dividendHistory": [
-        {
-          "year": "2022",
-          "amount": "$1.59"
-        },
-        {
-          "year": "2023",
-          "amount": "$2.13"
-        },
-        {
-          "year": "2024",
-          "amount": "$2.13"
-        },
-        {
-          "year": "2025",
-          "amount": "$1.06"
-        }
-      ],
-      "dividendYears": 4,
-      "dividendGrowth": {
-        "rate": "-12.6%",
-        "years": 3
       }
     },
     {
@@ -4254,6 +4216,44 @@
       "dividendGrowth": {
         "rate": "-14.6%",
         "years": 7
+      }
+    },
+    {
+      "symbol": "GREEL",
+      "name": "Greenidge Generation Holdings Inc. 8.50% Senior Notes due 2026",
+      "price": "$20.52",
+      "marketCap": "321,618,517",
+      "sector": "Finance",
+      "industry": "Finance: Consumer Services",
+      "dividendYield": "10.13%",
+      "annualDividend": "$2.125",
+      "exDividendDate": "04/15/2026",
+      "paymentDate": "04/30/2026",
+      "growthRate": "-11.6%",
+      "growthSource": "4yr Revenue CAGR",
+      "description": "Greenidge Generation Holdings Inc. (Nasdaq: GREE) is a vertically integrated power generation company, focusing on datacenters, electrical and infrastructure development, engineering, procurement, construction management, operations and site maintenance.",
+      "dividendHistory": [
+        {
+          "year": "2022",
+          "amount": "$1.59"
+        },
+        {
+          "year": "2023",
+          "amount": "$2.13"
+        },
+        {
+          "year": "2024",
+          "amount": "$2.13"
+        },
+        {
+          "year": "2025",
+          "amount": "$1.06"
+        }
+      ],
+      "dividendYears": 4,
+      "dividendGrowth": {
+        "rate": "-12.6%",
+        "years": 3
       }
     },
     {
@@ -5815,7 +5815,7 @@
       "marketCap": "381,993,214",
       "sector": "Finance",
       "industry": "Finance: Consumer Services",
-      "dividendYield": "9.17%",
+      "dividendYield": "9.14%",
       "annualDividend": "$2.3125",
       "exDividendDate": "04/01/2026",
       "paymentDate": "04/15/2026",
@@ -6725,52 +6725,6 @@
       }
     },
     {
-      "symbol": "XOMAP",
-      "name": "XOMA Royalty Corporation 8.625% Series A Cumulative Perpetual Preferred Stock",
-      "price": "$26.125",
-      "marketCap": "311,298,446",
-      "sector": "Health Care",
-      "industry": "Biotechnology: Pharmaceutical Preparations",
-      "dividendYield": "8.32%",
-      "annualDividend": "$2.15624",
-      "exDividendDate": "04/02/2026",
-      "paymentDate": "04/15/2026",
-      "growthRate": "71.5%",
-      "growthSource": "4yr Revenue CAGR",
-      "description": "XOMA Royalty is a biotechnology royalty aggregator playing a distinctive role in helping biotech companies achieve their goal of improving human health. XOMA Royalty acquires the potential future economics associated with pre-commercial and commercial therapeutic candidates that have been licensed to pharmaceutical or biotechnology companies. When XOMA Royalty acquires the future economics, the seller receives non-dilutive, non-recourse funding they can use to advance their internal drug candidate(s) or for general corporate purposes. The Company has an extensive and growing portfolio of assets (asset defined as the right to receive potential future economics associated with the advancement of an underlying therapeutic candidate). For more information about the Company and its portfolio, please visit www.xoma.com or follow XOMA Royalty Corporation on LinkedIn.",
-      "dividendHistory": [
-        {
-          "year": "2021",
-          "amount": "$1.80"
-        },
-        {
-          "year": "2022",
-          "amount": "$2.16"
-        },
-        {
-          "year": "2023",
-          "amount": "$2.16"
-        },
-        {
-          "year": "2024",
-          "amount": "$2.16"
-        },
-        {
-          "year": "2025",
-          "amount": "$2.16"
-        },
-        {
-          "year": "2026",
-          "amount": "$1.08"
-        }
-      ],
-      "dividendYears": 6,
-      "dividendGrowth": {
-        "rate": "-9.7%",
-        "years": 5
-      }
-    },
-    {
       "symbol": "AGNCM",
       "name": "AGNC Investment Corp. Depositary Shares rep 6.875% Series D Fixed-to-Floating Cumulative Redeemable Preferred Stock",
       "price": "$24.87",
@@ -6941,6 +6895,52 @@
       }
     },
     {
+      "symbol": "ATLCP",
+      "name": "Atlanticus Holdings Corporation 7.625% Series B Cumulative Perpetual Preferred Stock, no par value per share",
+      "price": "$23.21",
+      "marketCap": "346,106,545",
+      "sector": "Finance",
+      "industry": "Finance: Consumer Services",
+      "dividendYield": "8.2%",
+      "annualDividend": "$1.906252",
+      "exDividendDate": "02/27/2026",
+      "paymentDate": "03/16/2026",
+      "growthRate": "17.1%",
+      "growthSource": "4yr Revenue CAGR",
+      "description": "Atlanticus technology enables bank, retail, and healthcare partners to offer more inclusive financial services to everyday Americans through the use of proprietary technology and analytics. We apply the experience gained and infrastructure built from servicing over 20 million customers and $48 billion in consumer loans over more than 25 years of operating history to support lenders that originate a range of consumer loan products. These products include retail and healthcare private label credit and general purpose credit cards marketed through our omnichannel platform, including retail point-of-sale, healthcare point-of-care, direct mail solicitation, internet-based marketing, and partnerships with third parties. Additionally, through our Auto Finance subsidiary, Atlanticus serves the individual needs of automotive dealers and automotive non-prime financial organizations with multiple financing and service programs.",
+      "dividendHistory": [
+        {
+          "year": "2021",
+          "amount": "$0.97"
+        },
+        {
+          "year": "2022",
+          "amount": "$1.91"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.91"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.91"
+        },
+        {
+          "year": "2025",
+          "amount": "$1.91"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.48"
+        }
+      ],
+      "dividendYears": 6,
+      "dividendGrowth": {
+        "rate": "-13.1%",
+        "years": 5
+      }
+    },
+    {
       "symbol": "XOMAO",
       "name": "XOMA Royalty Corporation Depositary Shares Rep Series B 8.375% Cumulative Preferred Stock",
       "price": "$25.4278",
@@ -7049,6 +7049,52 @@
       }
     },
     {
+      "symbol": "XOMAP",
+      "name": "XOMA Royalty Corporation 8.625% Series A Cumulative Perpetual Preferred Stock",
+      "price": "$26.125",
+      "marketCap": "311,298,446",
+      "sector": "Health Care",
+      "industry": "Biotechnology: Pharmaceutical Preparations",
+      "dividendYield": "8.17%",
+      "annualDividend": "$2.15624",
+      "exDividendDate": "04/02/2026",
+      "paymentDate": "04/15/2026",
+      "growthRate": "71.5%",
+      "growthSource": "4yr Revenue CAGR",
+      "description": "XOMA Royalty is a biotechnology royalty aggregator playing a distinctive role in helping biotech companies achieve their goal of improving human health. XOMA Royalty acquires the potential future economics associated with pre-commercial and commercial therapeutic candidates that have been licensed to pharmaceutical or biotechnology companies. When XOMA Royalty acquires the future economics, the seller receives non-dilutive, non-recourse funding they can use to advance their internal drug candidate(s) or for general corporate purposes. The Company has an extensive and growing portfolio of assets (asset defined as the right to receive potential future economics associated with the advancement of an underlying therapeutic candidate). For more information about the Company and its portfolio, please visit www.xoma.com or follow XOMA Royalty Corporation on LinkedIn.",
+      "dividendHistory": [
+        {
+          "year": "2021",
+          "amount": "$1.80"
+        },
+        {
+          "year": "2022",
+          "amount": "$2.16"
+        },
+        {
+          "year": "2023",
+          "amount": "$2.16"
+        },
+        {
+          "year": "2024",
+          "amount": "$2.16"
+        },
+        {
+          "year": "2025",
+          "amount": "$2.16"
+        },
+        {
+          "year": "2026",
+          "amount": "$1.08"
+        }
+      ],
+      "dividendYears": 6,
+      "dividendGrowth": {
+        "rate": "-9.7%",
+        "years": 5
+      }
+    },
+    {
       "symbol": "FTAIN",
       "name": "FTAI Aviation Ltd. 8.25% Fixed - Rate Reset Series C Cumulative Perpetual Redeemable Preferred Shares",
       "price": "$25.37",
@@ -7142,52 +7188,6 @@
       "dividendGrowth": {
         "rate": "-6.7%",
         "years": 6
-      }
-    },
-    {
-      "symbol": "ATLCP",
-      "name": "Atlanticus Holdings Corporation 7.625% Series B Cumulative Perpetual Preferred Stock, no par value per share",
-      "price": "$23.21",
-      "marketCap": "346,106,545",
-      "sector": "Finance",
-      "industry": "Finance: Consumer Services",
-      "dividendYield": "8.12%",
-      "annualDividend": "$1.906252",
-      "exDividendDate": "02/27/2026",
-      "paymentDate": "03/16/2026",
-      "growthRate": "17.1%",
-      "growthSource": "4yr Revenue CAGR",
-      "description": "Atlanticus technology enables bank, retail, and healthcare partners to offer more inclusive financial services to everyday Americans through the use of proprietary technology and analytics. We apply the experience gained and infrastructure built from servicing over 20 million customers and $48 billion in consumer loans over more than 25 years of operating history to support lenders that originate a range of consumer loan products. These products include retail and healthcare private label credit and general purpose credit cards marketed through our omnichannel platform, including retail point-of-sale, healthcare point-of-care, direct mail solicitation, internet-based marketing, and partnerships with third parties. Additionally, through our Auto Finance subsidiary, Atlanticus serves the individual needs of automotive dealers and automotive non-prime financial organizations with multiple financing and service programs.",
-      "dividendHistory": [
-        {
-          "year": "2021",
-          "amount": "$0.97"
-        },
-        {
-          "year": "2022",
-          "amount": "$1.91"
-        },
-        {
-          "year": "2023",
-          "amount": "$1.91"
-        },
-        {
-          "year": "2024",
-          "amount": "$1.91"
-        },
-        {
-          "year": "2025",
-          "amount": "$1.91"
-        },
-        {
-          "year": "2026",
-          "amount": "$0.48"
-        }
-      ],
-      "dividendYears": 6,
-      "dividendGrowth": {
-        "rate": "-13.1%",
-        "years": 5
       }
     },
     {
@@ -9149,52 +9149,6 @@
       }
     },
     {
-      "symbol": "SSSS",
-      "name": "SuRo Capital Corp. Common Stock",
-      "price": "$13.04",
-      "marketCap": "331,056,338",
-      "sector": "Finance",
-      "industry": "Finance: Consumer Services",
-      "dividendYield": "7.62%",
-      "annualDividend": "$1",
-      "exDividendDate": "11/21/2025",
-      "paymentDate": "12/05/2025",
-      "growthRate": "25.1%",
-      "growthSource": "4yr Revenue CAGR",
-      "description": "SuRo Capital Corp. (Nasdaq: SSSS ) is a publicly traded investment fund that seeks to invest in high-growth, venture-backed private companies. The fund seeks to create a portfolio of high-growth emerging private companies via a repeatable and disciplined investment approach, as well as to provide investors with access to such companies through its publicly traded common stock. Since inception, SuRo Capital has served as the public's gateway to venture capital, offering unique access to some of the world's most innovative and sought-after private companies before they become publicly traded. SuRo Capital's diverse portfolio encompasses high-growth sectors including AI infrastructure, emerging consumer brands, and cutting-edge software solutions for both consumer and enterprise markets, among others. SuRo Capital is headquartered in New York, NY and has an office in San Francisco, CA. Connect with the Company on X, LinkedIn, and at www.surocap.com.",
-      "dividendHistory": [
-        {
-          "year": "2016",
-          "amount": "$2.80"
-        },
-        {
-          "year": "2019",
-          "amount": "$0.32"
-        },
-        {
-          "year": "2020",
-          "amount": "$0.87"
-        },
-        {
-          "year": "2021",
-          "amount": "$8.00"
-        },
-        {
-          "year": "2022",
-          "amount": "$0.11"
-        },
-        {
-          "year": "2025",
-          "amount": "$0.50"
-        }
-      ],
-      "dividendYears": 6,
-      "dividendGrowth": {
-        "rate": "-17.4%",
-        "years": 9
-      }
-    },
-    {
       "symbol": "FITBI",
       "name": "Fifth Third Bancorp Depositary Shares",
       "price": "$25.34",
@@ -9377,63 +9331,13 @@
       }
     },
     {
-      "symbol": "LBRDP",
-      "name": "Liberty Broadband Corporation Series A Cumulative Redeemable Preferred Stock",
-      "price": "$21.84",
-      "marketCap": "3,133,990,423",
-      "sector": "Telecommunications",
-      "industry": "Cable & Other Pay Television Services",
-      "dividendYield": "7.49%",
-      "annualDividend": "$1.75",
-      "exDividendDate": "03/31/2026",
-      "paymentDate": "04/15/2026",
-      "growthRate": "N/A",
-      "growthSource": "",
-      "description": "Liberty Broadband Corporation (Nasdaq: LBRDA, LBRDK, LBRDP) operates and owns interests in a broad range of communications businesses. Liberty Broadband's principal assets consist of its interest in Charter Communications and its subsidiary GCI. GCI is Alaska's largest communications provider, providing data, wireless, video, voice and managed services to consumer and business customers throughout Alaska and nationwide. GCI has delivered services over the past 40 years to some of the most remote communities and in some of the most challenging conditions in North America.",
-      "dividendHistory": [
-        {
-          "year": "2020",
-          "amount": "$0.44"
-        },
-        {
-          "year": "2021",
-          "amount": "$1.75"
-        },
-        {
-          "year": "2022",
-          "amount": "$1.75"
-        },
-        {
-          "year": "2023",
-          "amount": "$1.75"
-        },
-        {
-          "year": "2024",
-          "amount": "$1.75"
-        },
-        {
-          "year": "2025",
-          "amount": "$1.75"
-        },
-        {
-          "year": "2026",
-          "amount": "$0.44"
-        }
-      ],
-      "dividendYears": 7,
-      "dividendGrowth": {
-        "rate": "0.0%",
-        "years": 6
-      }
-    },
-    {
       "symbol": "CHSCO",
       "name": "CHS Inc. Class B Cumulative Redeemable Preferred Stock",
       "price": "$26.40",
       "marketCap": "323,980,879",
       "sector": "Industrials",
       "industry": "Farming/Seeds/Milling",
-      "dividendYield": "7.48%",
+      "dividendYield": "7.52%",
       "annualDividend": "$1.968752",
       "exDividendDate": "03/17/2026",
       "paymentDate": "03/31/2026",
@@ -9502,6 +9406,102 @@
       "dividendGrowth": {
         "rate": "-0.5%",
         "years": 13
+      }
+    },
+    {
+      "symbol": "LBRDP",
+      "name": "Liberty Broadband Corporation Series A Cumulative Redeemable Preferred Stock",
+      "price": "$21.84",
+      "marketCap": "3,133,990,423",
+      "sector": "Telecommunications",
+      "industry": "Cable & Other Pay Television Services",
+      "dividendYield": "7.49%",
+      "annualDividend": "$1.75",
+      "exDividendDate": "03/31/2026",
+      "paymentDate": "04/15/2026",
+      "growthRate": "N/A",
+      "growthSource": "",
+      "description": "Liberty Broadband Corporation (Nasdaq: LBRDA, LBRDK, LBRDP) operates and owns interests in a broad range of communications businesses. Liberty Broadband's principal assets consist of its interest in Charter Communications and its subsidiary GCI. GCI is Alaska's largest communications provider, providing data, wireless, video, voice and managed services to consumer and business customers throughout Alaska and nationwide. GCI has delivered services over the past 40 years to some of the most remote communities and in some of the most challenging conditions in North America.",
+      "dividendHistory": [
+        {
+          "year": "2020",
+          "amount": "$0.44"
+        },
+        {
+          "year": "2021",
+          "amount": "$1.75"
+        },
+        {
+          "year": "2022",
+          "amount": "$1.75"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.75"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.75"
+        },
+        {
+          "year": "2025",
+          "amount": "$1.75"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.44"
+        }
+      ],
+      "dividendYears": 7,
+      "dividendGrowth": {
+        "rate": "0.0%",
+        "years": 6
+      }
+    },
+    {
+      "symbol": "SSSS",
+      "name": "SuRo Capital Corp. Common Stock",
+      "price": "$13.04",
+      "marketCap": "331,056,338",
+      "sector": "Finance",
+      "industry": "Finance: Consumer Services",
+      "dividendYield": "7.49%",
+      "annualDividend": "$1",
+      "exDividendDate": "11/21/2025",
+      "paymentDate": "12/05/2025",
+      "growthRate": "25.1%",
+      "growthSource": "4yr Revenue CAGR",
+      "description": "SuRo Capital Corp. (Nasdaq: SSSS ) is a publicly traded investment fund that seeks to invest in high-growth, venture-backed private companies. The fund seeks to create a portfolio of high-growth emerging private companies via a repeatable and disciplined investment approach, as well as to provide investors with access to such companies through its publicly traded common stock. Since inception, SuRo Capital has served as the public's gateway to venture capital, offering unique access to some of the world's most innovative and sought-after private companies before they become publicly traded. SuRo Capital's diverse portfolio encompasses high-growth sectors including AI infrastructure, emerging consumer brands, and cutting-edge software solutions for both consumer and enterprise markets, among others. SuRo Capital is headquartered in New York, NY and has an office in San Francisco, CA. Connect with the Company on X, LinkedIn, and at www.surocap.com.",
+      "dividendHistory": [
+        {
+          "year": "2016",
+          "amount": "$2.80"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.32"
+        },
+        {
+          "year": "2020",
+          "amount": "$0.87"
+        },
+        {
+          "year": "2021",
+          "amount": "$8.00"
+        },
+        {
+          "year": "2022",
+          "amount": "$0.11"
+        },
+        {
+          "year": "2025",
+          "amount": "$0.50"
+        }
+      ],
+      "dividendYears": 6,
+      "dividendGrowth": {
+        "rate": "-17.4%",
+        "years": 9
       }
     },
     {
@@ -11601,6 +11601,80 @@
       }
     },
     {
+      "symbol": "CHSCM",
+      "name": "CHS Inc Class B Reset Rate Cumulative Redeemable Preferred Stock, Series 3",
+      "price": "$25.15",
+      "marketCap": "308,640,875",
+      "sector": "Industrials",
+      "industry": "Farming/Seeds/Milling",
+      "dividendYield": "6.77%",
+      "annualDividend": "$1.6875",
+      "exDividendDate": "03/17/2026",
+      "paymentDate": "03/31/2026",
+      "growthRate": "-7.2%",
+      "growthSource": "4yr Revenue CAGR",
+      "description": "CHS Inc is an integrated agricultural enterprise, providing grain, foods and energy resources to businesses and consumers on a global basis. The company has three reportable segments. Its Energy segment produces and provides wholesale distribution of petroleum products and transportation of those products. Its Ag segment, which is the key revenue driver, purchases and processes or resells grains and oilseeds; serves as a wholesaler and retailer of crop inputs; produces and markets ethanol. Its Nitrogen Production segment consists of equity method investment in CF Nitrogen, which entitles to purchase of up to a specified quantity of granular urea and UAN annually from CF Nitrogen.",
+      "dividendHistory": [
+        {
+          "year": "2014",
+          "amount": "$0.50"
+        },
+        {
+          "year": "2015",
+          "amount": "$1.69"
+        },
+        {
+          "year": "2016",
+          "amount": "$1.69"
+        },
+        {
+          "year": "2017",
+          "amount": "$1.69"
+        },
+        {
+          "year": "2018",
+          "amount": "$1.69"
+        },
+        {
+          "year": "2019",
+          "amount": "$1.69"
+        },
+        {
+          "year": "2020",
+          "amount": "$1.69"
+        },
+        {
+          "year": "2021",
+          "amount": "$1.69"
+        },
+        {
+          "year": "2022",
+          "amount": "$1.69"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.69"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.69"
+        },
+        {
+          "year": "2025",
+          "amount": "$1.69"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.42"
+        }
+      ],
+      "dividendYears": 13,
+      "dividendGrowth": {
+        "rate": "-1.4%",
+        "years": 12
+      }
+    },
+    {
       "symbol": "NWL",
       "name": "Newell Brands Inc. Common Stock",
       "price": "$4.23",
@@ -11892,80 +11966,6 @@
       "dividendGrowth": {
         "rate": "-48.0%",
         "years": 5
-      }
-    },
-    {
-      "symbol": "CHSCM",
-      "name": "CHS Inc Class B Reset Rate Cumulative Redeemable Preferred Stock, Series 3",
-      "price": "$25.15",
-      "marketCap": "308,640,875",
-      "sector": "Industrials",
-      "industry": "Farming/Seeds/Milling",
-      "dividendYield": "6.72%",
-      "annualDividend": "$1.6875",
-      "exDividendDate": "03/17/2026",
-      "paymentDate": "03/31/2026",
-      "growthRate": "-7.2%",
-      "growthSource": "4yr Revenue CAGR",
-      "description": "CHS Inc is an integrated agricultural enterprise, providing grain, foods and energy resources to businesses and consumers on a global basis. The company has three reportable segments. Its Energy segment produces and provides wholesale distribution of petroleum products and transportation of those products. Its Ag segment, which is the key revenue driver, purchases and processes or resells grains and oilseeds; serves as a wholesaler and retailer of crop inputs; produces and markets ethanol. Its Nitrogen Production segment consists of equity method investment in CF Nitrogen, which entitles to purchase of up to a specified quantity of granular urea and UAN annually from CF Nitrogen.",
-      "dividendHistory": [
-        {
-          "year": "2014",
-          "amount": "$0.50"
-        },
-        {
-          "year": "2015",
-          "amount": "$1.69"
-        },
-        {
-          "year": "2016",
-          "amount": "$1.69"
-        },
-        {
-          "year": "2017",
-          "amount": "$1.69"
-        },
-        {
-          "year": "2018",
-          "amount": "$1.69"
-        },
-        {
-          "year": "2019",
-          "amount": "$1.69"
-        },
-        {
-          "year": "2020",
-          "amount": "$1.69"
-        },
-        {
-          "year": "2021",
-          "amount": "$1.69"
-        },
-        {
-          "year": "2022",
-          "amount": "$1.69"
-        },
-        {
-          "year": "2023",
-          "amount": "$1.69"
-        },
-        {
-          "year": "2024",
-          "amount": "$1.69"
-        },
-        {
-          "year": "2025",
-          "amount": "$1.69"
-        },
-        {
-          "year": "2026",
-          "amount": "$0.42"
-        }
-      ],
-      "dividendYears": 13,
-      "dividendGrowth": {
-        "rate": "-1.4%",
-        "years": 12
       }
     },
     {
@@ -12471,48 +12471,6 @@
       }
     },
     {
-      "symbol": "FCNCO",
-      "name": "First Citizens BancShares, Inc. 5.625% Non-Cumulative Perpetual Preferred Stock, Series C",
-      "price": "$21.69",
-      "marketCap": "256,660,026",
-      "sector": "Finance",
-      "industry": "Major Banks",
-      "dividendYield": "6.52%",
-      "annualDividend": "$1.406252",
-      "exDividendDate": "02/27/2026",
-      "paymentDate": "03/16/2026",
-      "growthRate": "27.2%",
-      "growthSource": "4yr Revenue CAGR",
-      "description": "First Citizens BancShares, Inc. (Nasdaq: FCNCA), a top 20 U.S. financial institution with more than $225 billion in assets and a member of the Fortune 500TM, is the financial holding company for First-Citizens Bank & Trust Company (' First Citizens Bank '). Headquartered in Raleigh, N.C., First Citizens Bank has built a unique legacy of strength, stability and long-term thinking that has spanned generations. First Citizens offers an array of general banking services with branches and offices nationwide; commercial banking expertise delivering best-in-class lending, leasing and other financial services coast to coast; innovation banking serving businesses at every stage; and a nationwide direct bank. Discover more at firstcitizens.com .",
-      "dividendHistory": [
-        {
-          "year": "2022",
-          "amount": "$1.41"
-        },
-        {
-          "year": "2023",
-          "amount": "$1.41"
-        },
-        {
-          "year": "2024",
-          "amount": "$1.41"
-        },
-        {
-          "year": "2025",
-          "amount": "$1.41"
-        },
-        {
-          "year": "2026",
-          "amount": "$0.35"
-        }
-      ],
-      "dividendYears": 5,
-      "dividendGrowth": {
-        "rate": "-29.4%",
-        "years": 4
-      }
-    },
-    {
       "symbol": "JOYY",
       "name": "JOYY Inc. American Depositary Shares",
       "price": "$58.74",
@@ -12634,6 +12592,48 @@
       "dividendGrowth": {
         "rate": "1.9%",
         "years": 13
+      }
+    },
+    {
+      "symbol": "FCNCO",
+      "name": "First Citizens BancShares, Inc. 5.625% Non-Cumulative Perpetual Preferred Stock, Series C",
+      "price": "$21.69",
+      "marketCap": "256,660,026",
+      "sector": "Finance",
+      "industry": "Major Banks",
+      "dividendYield": "6.49%",
+      "annualDividend": "$1.406252",
+      "exDividendDate": "02/27/2026",
+      "paymentDate": "03/16/2026",
+      "growthRate": "27.2%",
+      "growthSource": "4yr Revenue CAGR",
+      "description": "First Citizens Bank helps personal, business, commercial and wealth clients build financial strength that lasts. Headquartered in Raleigh, N.C., First Citizens has built a unique legacy of strength, stability and long-term thinking that has spanned generations. First Citizens offers an array of general banking services including a network of branches and offices nationwide; commercial banking expertise delivering best-in-class lending, leasing and other financial services coast to coast; innovation banking serving businesses at every stage; and a nationwide direct bank. Parent company First Citizens BancShares, Inc. (NASDAQ: FCNCA) is a top 20 U.S. financial institution with more than $200 billion in assets and a member of the Fortune 500. Discover more at firstcitizens.com.",
+      "dividendHistory": [
+        {
+          "year": "2022",
+          "amount": "$1.41"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.41"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.41"
+        },
+        {
+          "year": "2025",
+          "amount": "$1.41"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.35"
+        }
+      ],
+      "dividendYears": 5,
+      "dividendGrowth": {
+        "rate": "-29.4%",
+        "years": 4
       }
     },
     {
@@ -13027,7 +13027,7 @@
       "paymentDate": "03/16/2026",
       "growthRate": "27.2%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "First Citizens BancShares, Inc. (Nasdaq: FCNCA), a top 20 U.S. financial institution with more than $225 billion in assets and a member of the Fortune 500TM, is the financial holding company for First-Citizens Bank & Trust Company (' First Citizens Bank '). Headquartered in Raleigh, N.C., First Citizens Bank has built a unique legacy of strength, stability and long-term thinking that has spanned generations. First Citizens offers an array of general banking services with branches and offices nationwide; commercial banking expertise delivering best-in-class lending, leasing and other financial services coast to coast; innovation banking serving businesses at every stage; and a nationwide direct bank. Discover more at firstcitizens.com .",
+      "description": "First Citizens Bank helps personal, business, commercial and wealth clients build financial strength that lasts. Headquartered in Raleigh, N.C., First Citizens has built a unique legacy of strength, stability and long-term thinking that has spanned generations. First Citizens offers an array of general banking services including a network of branches and offices nationwide; commercial banking expertise delivering best-in-class lending, leasing and other financial services coast to coast; innovation banking serving businesses at every stage; and a nationwide direct bank. Parent company First Citizens BancShares, Inc. (NASDAQ: FCNCA) is a top 20 U.S. financial institution with more than $200 billion in assets and a member of the Fortune 500. Discover more at firstcitizens.com.",
       "dividendHistory": [
         {
           "year": "2020",
@@ -14643,52 +14643,6 @@
       }
     },
     {
-      "symbol": "SHIP",
-      "name": "Seanergy Maritime Holdings Corp. Common Stock",
-      "price": "$13.99",
-      "marketCap": "303,138,090",
-      "sector": "Consumer Discretionary",
-      "industry": "Marine Transportation",
-      "dividendYield": "5.65%",
-      "annualDividend": "$0.8",
-      "exDividendDate": "03/27/2026",
-      "paymentDate": "04/10/2026",
-      "growthRate": "62.96%",
-      "growthSource": "Analyst Forecast",
-      "description": "Seanergy Maritime Holdings Corp. is a prominent pure-play Capesize ship-owner publicly listed in the U.S. Seanergy provides marine dry bulk transportation services through a modern fleet of Capesize vessels. The Company owns or finance leases 20 vessels (2 Newcastlemax and 18 Capesize) with an average age of approximately 14.7 years and an aggregate cargo carrying capacity of approximately 3,633,861 dwt. Upon completion of the sales of the M/Vs Squireship, Dukeship, and the delivery of the newbuilding vessels, the Company is expected to own or finance lease 23 vessels (3 Newcastlemax and 20 Capesize), with an aggregate cargo carrying capacity of approximately 4,218,890 dwt. The Company is incorporated in the Republic of the Marshall Islands and has executive offices in Glyfada, Greece. The Company's common shares trade on the Nasdaq Capital Market under the symbol 'SHIP'.",
-      "dividendHistory": [
-        {
-          "year": "2008",
-          "amount": "$0.18"
-        },
-        {
-          "year": "2022",
-          "amount": "$0.13"
-        },
-        {
-          "year": "2023",
-          "amount": "$0.10"
-        },
-        {
-          "year": "2024",
-          "amount": "$0.76"
-        },
-        {
-          "year": "2025",
-          "amount": "$0.33"
-        },
-        {
-          "year": "2026",
-          "amount": "$0.20"
-        }
-      ],
-      "dividendYears": 6,
-      "dividendGrowth": {
-        "rate": "0.6%",
-        "years": 18
-      }
-    },
-    {
       "symbol": "TPG",
       "name": "TPG Inc. Class A Common Stock",
       "price": "$43.62",
@@ -14806,6 +14760,52 @@
       "dividendGrowth": {
         "rate": "-9.7%",
         "years": 13
+      }
+    },
+    {
+      "symbol": "SHIP",
+      "name": "Seanergy Maritime Holdings Corp. Common Stock",
+      "price": "$13.99",
+      "marketCap": "303,138,090",
+      "sector": "Consumer Discretionary",
+      "industry": "Marine Transportation",
+      "dividendYield": "5.59%",
+      "annualDividend": "$0.8",
+      "exDividendDate": "03/27/2026",
+      "paymentDate": "04/10/2026",
+      "growthRate": "62.96%",
+      "growthSource": "Analyst Forecast",
+      "description": "Seanergy Maritime Holdings Corp. is a prominent pure-play Capesize ship-owner publicly listed in the U.S. Seanergy provides marine dry bulk transportation services through a modern fleet of Capesize vessels. The Company owns or finance leases 20 vessels (2 Newcastlemax and 18 Capesize) with an average age of approximately 14.7 years and an aggregate cargo carrying capacity of approximately 3,633,861 dwt. Upon completion of the sales of the M/Vs Squireship, Dukeship, and the delivery of the newbuilding vessels, the Company is expected to own or finance lease 23 vessels (3 Newcastlemax and 20 Capesize), with an aggregate cargo carrying capacity of approximately 4,218,890 dwt. The Company is incorporated in the Republic of the Marshall Islands and has executive offices in Glyfada, Greece. The Company's common shares trade on the Nasdaq Capital Market under the symbol 'SHIP'.",
+      "dividendHistory": [
+        {
+          "year": "2008",
+          "amount": "$0.18"
+        },
+        {
+          "year": "2022",
+          "amount": "$0.13"
+        },
+        {
+          "year": "2023",
+          "amount": "$0.10"
+        },
+        {
+          "year": "2024",
+          "amount": "$0.76"
+        },
+        {
+          "year": "2025",
+          "amount": "$0.33"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.20"
+        }
+      ],
+      "dividendYears": 6,
+      "dividendGrowth": {
+        "rate": "0.6%",
+        "years": 18
       }
     },
     {
@@ -14975,7 +14975,7 @@
       "paymentDate": "02/20/2026",
       "growthRate": "49.22%",
       "growthSource": "Analyst Forecast",
-      "description": "Midland States Bancorp, Inc. is a community-based financial holding company headquartered in Effingham, Illinois, and is the sole shareholder of Midland States Bank. As of December 31, 2025, the Company had total assets of approximately $6.51 billion, and its Wealth Management Group had assets under administration of approximately $4.48 billion. The Company provides a full range of commercial and consumer banking products and services, merchant credit card services, trust and investment management, insurance and financial planning services.",
+      "description": "Midland States Bancorp, Inc. is a community-based financial holding company headquartered in Effingham, Illinois, and is the sole shareholder of Midland States Bank. As of March 31, 2026, the Company had total assets of approximately $6.55 billion, and its Wealth Management Group had assets under administration of approximately $4.47 billion. The Company provides a full range of commercial and consumer banking products and services, merchant credit card services, trust and investment management, insurance and financial planning services. For additional information, visit https://www.midlandsb.com/ or https://www.linkedin.com/company/midland-states-bank .",
       "dividendHistory": [
         {
           "year": "2016",
@@ -15911,44 +15911,6 @@
       }
     },
     {
-      "symbol": "OFSSH",
-      "name": "OFS Capital Corporation 4.95% Notes due 2028",
-      "price": "$23.40",
-      "marketCap": "313,515,025",
-      "sector": "Finance",
-      "industry": "Finance Companies",
-      "dividendYield": "5.29%",
-      "annualDividend": "$1.2375",
-      "exDividendDate": "04/15/2026",
-      "paymentDate": "04/30/2026",
-      "growthRate": "-6.6%",
-      "growthSource": "4yr Revenue CAGR",
-      "description": "OFS Capital Corporation is an externally managed, closed-end, non-diversified management investment company that acts as business development company (BDC). The Company's investment objective is to provide its stockholders with both current income and capital appreciation primarily through debt investments and equity investments. It focuses primarily on investments in middle-market companies in the United States, including senior secured loans, which includes first-lien, second-lien and unitranche loans, as well as subordinated loans, and warrants and other equity securities. It may make investments directly, or follow-on investments in current portfolio companies held through OFS SBIC I LP (SBIC LP), its investment company subsidiary. It may also make investments through OFSCC-FS, LLC (OFSCC-FS) for the purpose of acquiring senior secured loan investments.",
-      "dividendHistory": [
-        {
-          "year": "2022",
-          "amount": "$1.25"
-        },
-        {
-          "year": "2023",
-          "amount": "$1.24"
-        },
-        {
-          "year": "2024",
-          "amount": "$1.24"
-        },
-        {
-          "year": "2025",
-          "amount": "$0.62"
-        }
-      ],
-      "dividendYears": 4,
-      "dividendGrowth": {
-        "rate": "-20.8%",
-        "years": 3
-      }
-    },
-    {
       "symbol": "AMSF",
       "name": "AMERISAFE, Inc. Common Stock",
       "price": "$30.34",
@@ -16024,6 +15986,44 @@
       "dividendGrowth": {
         "rate": "4.2%",
         "years": 13
+      }
+    },
+    {
+      "symbol": "OFSSH",
+      "name": "OFS Capital Corporation 4.95% Notes due 2028",
+      "price": "$23.40",
+      "marketCap": "313,515,025",
+      "sector": "Finance",
+      "industry": "Finance Companies",
+      "dividendYield": "5.24%",
+      "annualDividend": "$1.2375",
+      "exDividendDate": "04/15/2026",
+      "paymentDate": "04/30/2026",
+      "growthRate": "-6.6%",
+      "growthSource": "4yr Revenue CAGR",
+      "description": "OFS Capital Corporation is an externally managed, closed-end, non-diversified management investment company that acts as business development company (BDC). The Company's investment objective is to provide its stockholders with both current income and capital appreciation primarily through debt investments and equity investments. It focuses primarily on investments in middle-market companies in the United States, including senior secured loans, which includes first-lien, second-lien and unitranche loans, as well as subordinated loans, and warrants and other equity securities. It may make investments directly, or follow-on investments in current portfolio companies held through OFS SBIC I LP (SBIC LP), its investment company subsidiary. It may also make investments through OFSCC-FS, LLC (OFSCC-FS) for the purpose of acquiring senior secured loan investments.",
+      "dividendHistory": [
+        {
+          "year": "2022",
+          "amount": "$1.25"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.24"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.24"
+        },
+        {
+          "year": "2025",
+          "amount": "$0.62"
+        }
+      ],
+      "dividendYears": 4,
+      "dividendGrowth": {
+        "rate": "-20.8%",
+        "years": 3
       }
     },
     {
@@ -16291,6 +16291,104 @@
       }
     },
     {
+      "symbol": "FNLC",
+      "name": "First Bancorp, Inc  (ME) Common Stock",
+      "price": "$29.05",
+      "marketCap": "327,402,767",
+      "sector": "Finance",
+      "industry": "Major Banks",
+      "dividendYield": "5.16%",
+      "annualDividend": "$1.48",
+      "exDividendDate": "04/07/2026",
+      "paymentDate": "04/17/2026",
+      "growthRate": "12.7%",
+      "growthSource": "4yr Revenue CAGR",
+      "description": "The First Bancorp, the parent company of First National Bank, is based in Damariscotta, Maine. Founded in 1864, First National Bank is a full-service community bank with $3.17 billion in assets. The Bank provides a complete array of commercial and retail banking services through eighteen locations in mid-coast and eastern Maine. First National Wealth Management, a division of the Bank, provides investment management and trust services to individuals, businesses, and municipalities. More information about The First Bancorp, First National Bank and First National Wealth Management may be found at www.thefirst.com.",
+      "dividendHistory": [
+        {
+          "year": "1999",
+          "amount": "$0.27"
+        },
+        {
+          "year": "2000",
+          "amount": "$0.66"
+        },
+        {
+          "year": "2001",
+          "amount": "$0.60"
+        },
+        {
+          "year": "2002",
+          "amount": "$0.94"
+        },
+        {
+          "year": "2003",
+          "amount": "$0.53"
+        },
+        {
+          "year": "2013",
+          "amount": "$0.58"
+        },
+        {
+          "year": "2014",
+          "amount": "$1.03"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.65"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.90"
+        },
+        {
+          "year": "2017",
+          "amount": "$1.06"
+        },
+        {
+          "year": "2018",
+          "amount": "$1.06"
+        },
+        {
+          "year": "2019",
+          "amount": "$1.18"
+        },
+        {
+          "year": "2020",
+          "amount": "$1.22"
+        },
+        {
+          "year": "2021",
+          "amount": "$1.26"
+        },
+        {
+          "year": "2022",
+          "amount": "$1.32"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.38"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.42"
+        },
+        {
+          "year": "2025",
+          "amount": "$1.46"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.74"
+        }
+      ],
+      "dividendYears": 19,
+      "dividendGrowth": {
+        "rate": "3.8%",
+        "years": 27
+      }
+    },
+    {
       "symbol": "NVEC",
       "name": "NVE Corporation Common Stock",
       "price": "$82.17",
@@ -16452,104 +16550,6 @@
       "dividendGrowth": {
         "rate": "-4.0%",
         "years": 30
-      }
-    },
-    {
-      "symbol": "FNLC",
-      "name": "First Bancorp, Inc  (ME) Common Stock",
-      "price": "$29.05",
-      "marketCap": "327,402,767",
-      "sector": "Finance",
-      "industry": "Major Banks",
-      "dividendYield": "5.09%",
-      "annualDividend": "$1.48",
-      "exDividendDate": "04/07/2026",
-      "paymentDate": "04/17/2026",
-      "growthRate": "12.7%",
-      "growthSource": "4yr Revenue CAGR",
-      "description": "The First Bancorp, the parent company of First National Bank, is based in Damariscotta, Maine. Founded in 1864, First National Bank is a full-service community bank with $3.17 billion in assets. The Bank provides a complete array of commercial and retail banking services through eighteen locations in mid-coast and eastern Maine. First National Wealth Management, a division of the Bank, provides investment management and trust services to individuals, businesses, and municipalities. More information about The First Bancorp, First National Bank and First National Wealth Management may be found at www.thefirst.com.",
-      "dividendHistory": [
-        {
-          "year": "1999",
-          "amount": "$0.27"
-        },
-        {
-          "year": "2000",
-          "amount": "$0.66"
-        },
-        {
-          "year": "2001",
-          "amount": "$0.60"
-        },
-        {
-          "year": "2002",
-          "amount": "$0.94"
-        },
-        {
-          "year": "2003",
-          "amount": "$0.53"
-        },
-        {
-          "year": "2013",
-          "amount": "$0.58"
-        },
-        {
-          "year": "2014",
-          "amount": "$1.03"
-        },
-        {
-          "year": "2015",
-          "amount": "$0.65"
-        },
-        {
-          "year": "2016",
-          "amount": "$0.90"
-        },
-        {
-          "year": "2017",
-          "amount": "$1.06"
-        },
-        {
-          "year": "2018",
-          "amount": "$1.06"
-        },
-        {
-          "year": "2019",
-          "amount": "$1.18"
-        },
-        {
-          "year": "2020",
-          "amount": "$1.22"
-        },
-        {
-          "year": "2021",
-          "amount": "$1.26"
-        },
-        {
-          "year": "2022",
-          "amount": "$1.32"
-        },
-        {
-          "year": "2023",
-          "amount": "$1.38"
-        },
-        {
-          "year": "2024",
-          "amount": "$1.42"
-        },
-        {
-          "year": "2025",
-          "amount": "$1.46"
-        },
-        {
-          "year": "2026",
-          "amount": "$0.74"
-        }
-      ],
-      "dividendYears": 19,
-      "dividendGrowth": {
-        "rate": "3.8%",
-        "years": 27
       }
     },
     {
@@ -18265,148 +18265,6 @@
       }
     },
     {
-      "symbol": "MLKN",
-      "name": "MillerKnoll, Inc. Common Stock",
-      "price": "$17.60",
-      "marketCap": "1,203,395,283",
-      "sector": "Consumer Discretionary",
-      "industry": "Office Equipment/Supplies/Services",
-      "dividendYield": "4.61%",
-      "annualDividend": "$0.75",
-      "exDividendDate": "02/27/2026",
-      "paymentDate": "04/15/2026",
-      "growthRate": "-6.32%",
-      "growthSource": "Analyst Forecast",
-      "description": "MillerKnoll is a global collective of design brands built on the foundation of two icons of modernism: Herman Miller and Knoll. The portfolio also includes furniture and accessories for commercial and residential spaces from Colebrook Bosson Saunders , DatesWeiser, Design Within Reach , Edelman , Geiger, HAY, HOLLY HUNT , Knoll Textiles, Maharam, Muuto, NaughtOne , and Spinneybeck | FilzFelt. Guided by a shared purpose-design for the good of humankind-MillerKnoll generates insights, pioneers innovations, and champions ideas to better align spaces with how people live, work, and gather.",
-      "dividendHistory": [
-        {
-          "year": "1988",
-          "amount": "$0.13"
-        },
-        {
-          "year": "1989",
-          "amount": "$0.52"
-        },
-        {
-          "year": "1990",
-          "amount": "$0.52"
-        },
-        {
-          "year": "1991",
-          "amount": "$0.52"
-        },
-        {
-          "year": "1992",
-          "amount": "$0.39"
-        },
-        {
-          "year": "1993",
-          "amount": "$0.52"
-        },
-        {
-          "year": "1994",
-          "amount": "$0.52"
-        },
-        {
-          "year": "1995",
-          "amount": "$0.52"
-        },
-        {
-          "year": "1996",
-          "amount": "$0.52"
-        },
-        {
-          "year": "1997",
-          "amount": "$0.35"
-        },
-        {
-          "year": "1998",
-          "amount": "$0.18"
-        },
-        {
-          "year": "1999",
-          "amount": "$0.14"
-        },
-        {
-          "year": "2000",
-          "amount": "$0.14"
-        },
-        {
-          "year": "2001",
-          "amount": "$0.14"
-        },
-        {
-          "year": "2002",
-          "amount": "$0.14"
-        },
-        {
-          "year": "2003",
-          "amount": "$0.07"
-        },
-        {
-          "year": "2013",
-          "amount": "$0.25"
-        },
-        {
-          "year": "2014",
-          "amount": "$0.56"
-        },
-        {
-          "year": "2015",
-          "amount": "$0.57"
-        },
-        {
-          "year": "2016",
-          "amount": "$0.64"
-        },
-        {
-          "year": "2017",
-          "amount": "$0.70"
-        },
-        {
-          "year": "2018",
-          "amount": "$0.75"
-        },
-        {
-          "year": "2019",
-          "amount": "$0.81"
-        },
-        {
-          "year": "2020",
-          "amount": "$0.40"
-        },
-        {
-          "year": "2021",
-          "amount": "$0.75"
-        },
-        {
-          "year": "2022",
-          "amount": "$0.75"
-        },
-        {
-          "year": "2023",
-          "amount": "$0.75"
-        },
-        {
-          "year": "2024",
-          "amount": "$0.75"
-        },
-        {
-          "year": "2025",
-          "amount": "$0.75"
-        },
-        {
-          "year": "2026",
-          "amount": "$0.19"
-        }
-      ],
-      "dividendYears": 30,
-      "dividendGrowth": {
-        "rate": "1.0%",
-        "years": 38
-      }
-    },
-    {
       "symbol": "MOMO",
       "name": "Hello Group Inc. American Depositary Shares",
       "price": "$6.15",
@@ -18971,40 +18829,6 @@
       }
     },
     {
-      "symbol": "JAKK",
-      "name": "JAKKS Pacific, Inc. Common Stock",
-      "price": "$22.20",
-      "marketCap": "254,065,924",
-      "sector": "Consumer Discretionary",
-      "industry": "Recreational Games/Products/Toys",
-      "dividendYield": "4.42%",
-      "annualDividend": "$1",
-      "exDividendDate": "02/27/2026",
-      "paymentDate": "03/30/2026",
-      "growthRate": "206.72%",
-      "growthSource": "Analyst Forecast",
-      "description": "JAKKS Pacific, Inc. is a leading designer, manufacturer and marketer of toys and consumer products sold throughout the world, with its headquarters in Santa Monica, California. JAKKS Pacific's popular proprietary brands include Disguise®, Fly Wheels®, Charming, Kidtopia, Moose Mountain®, Maui®, ReDo® Skateboard Co., Sky Ball® and Xtreme Power Dozer® as well as a wide range of entertainment-inspired products featuring premier licensed properties. Through their products and charitable donations, JAKKS is helping to make a positive impact on the lives of children. Visit us at www.jakks.com and follow us on Instagram ( @jakkspacific.toys ), X ( @jakkstoys ), YouTube ( @JAKKSPacific ), Facebook ( @jakkspacific.toys ) and LinkedIn ( JAKKS Pacific ).",
-      "dividendHistory": [
-        {
-          "year": "2013",
-          "amount": "$0.07"
-        },
-        {
-          "year": "2025",
-          "amount": "$1.00"
-        },
-        {
-          "year": "2026",
-          "amount": "$0.25"
-        }
-      ],
-      "dividendYears": 3,
-      "dividendGrowth": {
-        "rate": "10.3%",
-        "years": 13
-      }
-    },
-    {
       "symbol": "REYN",
       "name": "Reynolds Consumer Products Inc. Common Stock",
       "price": "$21.06",
@@ -19110,6 +18934,40 @@
       "dividendGrowth": {
         "rate": "0.0%",
         "years": 8
+      }
+    },
+    {
+      "symbol": "JAKK",
+      "name": "JAKKS Pacific, Inc. Common Stock",
+      "price": "$22.20",
+      "marketCap": "254,065,924",
+      "sector": "Consumer Discretionary",
+      "industry": "Recreational Games/Products/Toys",
+      "dividendYield": "4.4%",
+      "annualDividend": "$1",
+      "exDividendDate": "02/27/2026",
+      "paymentDate": "03/30/2026",
+      "growthRate": "206.72%",
+      "growthSource": "Analyst Forecast",
+      "description": "JAKKS Pacific, Inc. is a leading designer, manufacturer and marketer of toys and consumer products sold throughout the world, with its headquarters in Santa Monica, California. JAKKS Pacific's popular proprietary brands include Disguise®, Fly Wheels®, Charming, Kidtopia, Moose Mountain®, Maui®, ReDo® Skateboard Co., Sky Ball® and Xtreme Power Dozer® as well as a wide range of entertainment-inspired products featuring premier licensed properties. Through their products and charitable donations, JAKKS is helping to make a positive impact on the lives of children. Visit us at www.jakks.com and follow us on Instagram ( @jakkspacific.toys ), X ( @jakkstoys ), YouTube ( @JAKKSPacific ), Facebook ( @jakkspacific.toys ) and LinkedIn ( JAKKS Pacific ).",
+      "dividendHistory": [
+        {
+          "year": "2013",
+          "amount": "$0.07"
+        },
+        {
+          "year": "2025",
+          "amount": "$1.00"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.25"
+        }
+      ],
+      "dividendYears": 3,
+      "dividendGrowth": {
+        "rate": "10.3%",
+        "years": 13
       }
     },
     {
@@ -19463,6 +19321,148 @@
       }
     },
     {
+      "symbol": "MLKN",
+      "name": "MillerKnoll, Inc. Common Stock",
+      "price": "$17.60",
+      "marketCap": "1,203,395,283",
+      "sector": "Consumer Discretionary",
+      "industry": "Office Equipment/Supplies/Services",
+      "dividendYield": "4.33%",
+      "annualDividend": "$0.75",
+      "exDividendDate": "02/27/2026",
+      "paymentDate": "04/15/2026",
+      "growthRate": "-6.32%",
+      "growthSource": "Analyst Forecast",
+      "description": "MillerKnoll is a global collective of design brands built on the foundation of two icons of modernism: Herman Miller and Knoll. The portfolio also includes furniture and accessories for commercial and residential spaces from Colebrook Bosson Saunders , DatesWeiser, Design Within Reach , Edelman , Geiger, HAY, HOLLY HUNT , Knoll Textiles, Maharam, Muuto, NaughtOne , and Spinneybeck | FilzFelt. Guided by a shared purpose-design for the good of humankind-MillerKnoll generates insights, pioneers innovations, and champions ideas to better align spaces with how people live, work, and gather.",
+      "dividendHistory": [
+        {
+          "year": "1988",
+          "amount": "$0.13"
+        },
+        {
+          "year": "1989",
+          "amount": "$0.52"
+        },
+        {
+          "year": "1990",
+          "amount": "$0.52"
+        },
+        {
+          "year": "1991",
+          "amount": "$0.52"
+        },
+        {
+          "year": "1992",
+          "amount": "$0.39"
+        },
+        {
+          "year": "1993",
+          "amount": "$0.52"
+        },
+        {
+          "year": "1994",
+          "amount": "$0.52"
+        },
+        {
+          "year": "1995",
+          "amount": "$0.52"
+        },
+        {
+          "year": "1996",
+          "amount": "$0.52"
+        },
+        {
+          "year": "1997",
+          "amount": "$0.35"
+        },
+        {
+          "year": "1998",
+          "amount": "$0.18"
+        },
+        {
+          "year": "1999",
+          "amount": "$0.14"
+        },
+        {
+          "year": "2000",
+          "amount": "$0.14"
+        },
+        {
+          "year": "2001",
+          "amount": "$0.14"
+        },
+        {
+          "year": "2002",
+          "amount": "$0.14"
+        },
+        {
+          "year": "2003",
+          "amount": "$0.07"
+        },
+        {
+          "year": "2013",
+          "amount": "$0.25"
+        },
+        {
+          "year": "2014",
+          "amount": "$0.56"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.57"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.64"
+        },
+        {
+          "year": "2017",
+          "amount": "$0.70"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.75"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.81"
+        },
+        {
+          "year": "2020",
+          "amount": "$0.40"
+        },
+        {
+          "year": "2021",
+          "amount": "$0.75"
+        },
+        {
+          "year": "2022",
+          "amount": "$0.75"
+        },
+        {
+          "year": "2023",
+          "amount": "$0.75"
+        },
+        {
+          "year": "2024",
+          "amount": "$0.75"
+        },
+        {
+          "year": "2025",
+          "amount": "$0.75"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.38"
+        }
+      ],
+      "dividendYears": 30,
+      "dividendGrowth": {
+        "rate": "2.9%",
+        "years": 38
+      }
+    },
+    {
       "symbol": "SFD",
       "name": "Smithfield Foods, Inc. Common Stock",
       "price": "$29.35",
@@ -19763,6 +19763,104 @@
       }
     },
     {
+      "symbol": "NWFL",
+      "name": "Norwood Financial Corp. Common Stock",
+      "price": "$30.86",
+      "marketCap": "336,070,523",
+      "sector": "Finance",
+      "industry": "Major Banks",
+      "dividendYield": "4.18%",
+      "annualDividend": "$1.28",
+      "exDividendDate": "04/15/2026",
+      "paymentDate": "05/01/2026",
+      "growthRate": "12.54%",
+      "growthSource": "Analyst Forecast",
+      "description": "Norwood Financial Corp, through its subsidiary, Wayne Bank operates 33 Community Offices serving Wayne, Pike, Monroe, Lackawanna, Luzerne, Chester, Cumberland, and Lancaster Counties in Pennsylvania, along with Delaware, Sullivan, Otsego, Ontario, and Yates Counties in New York. The Company has total assets of $2.9 billion. The Company's stock is traded on the Nasdaq Global Market under the symbol 'NWFL'. For more information, visit wayne.bank.",
+      "dividendHistory": [
+        {
+          "year": "1999",
+          "amount": "$0.42"
+        },
+        {
+          "year": "2000",
+          "amount": "$0.51"
+        },
+        {
+          "year": "2001",
+          "amount": "$0.80"
+        },
+        {
+          "year": "2002",
+          "amount": "$0.88"
+        },
+        {
+          "year": "2003",
+          "amount": "$0.48"
+        },
+        {
+          "year": "2013",
+          "amount": "$0.89"
+        },
+        {
+          "year": "2014",
+          "amount": "$1.20"
+        },
+        {
+          "year": "2015",
+          "amount": "$1.23"
+        },
+        {
+          "year": "2016",
+          "amount": "$1.24"
+        },
+        {
+          "year": "2017",
+          "amount": "$1.18"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.88"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.96"
+        },
+        {
+          "year": "2020",
+          "amount": "$1.00"
+        },
+        {
+          "year": "2021",
+          "amount": "$1.04"
+        },
+        {
+          "year": "2022",
+          "amount": "$1.12"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.16"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.20"
+        },
+        {
+          "year": "2025",
+          "amount": "$1.24"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.64"
+        }
+      ],
+      "dividendYears": 19,
+      "dividendGrowth": {
+        "rate": "1.6%",
+        "years": 27
+      }
+    },
+    {
       "symbol": "CMCSA",
       "name": "Comcast Corporation Class A Common Stock",
       "price": "$27.56",
@@ -19889,6 +19987,48 @@
       }
     },
     {
+      "symbol": "BCML",
+      "name": "BayCom Corp Common Stock",
+      "price": "$29.43",
+      "marketCap": "321,061,199",
+      "sector": "Finance",
+      "industry": "Major Banks",
+      "dividendYield": "4.17%",
+      "annualDividend": "$1.2",
+      "exDividendDate": "03/12/2026",
+      "paymentDate": "04/09/2026",
+      "growthRate": "21.56%",
+      "growthSource": "Analyst Forecast",
+      "description": "The Company, through its wholly owned operating subsidiary, United Business Bank, offers a full range of loans, including SBA, CalCAP, FSA and USDA guaranteed loans, and deposit products and services to businesses and their affiliates in California, Washington, New Mexico, Colorado and Nevada. The Bank is an Equal Housing Lender and a member of FDIC. The Company's common stock is listed on the NASDAQ Global Select Market under the symbol 'BCML'. For more information, go to www.unitedbusinessbank.com .",
+      "dividendHistory": [
+        {
+          "year": "2022",
+          "amount": "$0.20"
+        },
+        {
+          "year": "2023",
+          "amount": "$0.40"
+        },
+        {
+          "year": "2024",
+          "amount": "$0.45"
+        },
+        {
+          "year": "2025",
+          "amount": "$0.90"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.30"
+        }
+      ],
+      "dividendYears": 5,
+      "dividendGrowth": {
+        "rate": "10.7%",
+        "years": 4
+      }
+    },
+    {
       "symbol": "EPSN",
       "name": "Epsilon Energy Ltd. Common Share",
       "price": "$6.06",
@@ -19927,146 +20067,6 @@
       "dividendYears": 5,
       "dividendGrowth": {
         "rate": "-30.0%",
-        "years": 4
-      }
-    },
-    {
-      "symbol": "NWFL",
-      "name": "Norwood Financial Corp. Common Stock",
-      "price": "$30.86",
-      "marketCap": "336,070,523",
-      "sector": "Finance",
-      "industry": "Major Banks",
-      "dividendYield": "4.15%",
-      "annualDividend": "$1.28",
-      "exDividendDate": "04/15/2026",
-      "paymentDate": "05/01/2026",
-      "growthRate": "12.54%",
-      "growthSource": "Analyst Forecast",
-      "description": "Norwood Financial Corp, through its subsidiary, Wayne Bank operates 33 Community Offices serving Wayne, Pike, Monroe, Lackawanna, Luzerne, Chester, Cumberland, and Lancaster Counties in Pennsylvania, along with Delaware, Sullivan, Otsego, Ontario, and Yates Counties in New York. The Company has total assets of $2.9 billion. The Company's stock is traded on the Nasdaq Global Market under the symbol 'NWFL'. For more information, visit wayne.bank.",
-      "dividendHistory": [
-        {
-          "year": "1999",
-          "amount": "$0.42"
-        },
-        {
-          "year": "2000",
-          "amount": "$0.51"
-        },
-        {
-          "year": "2001",
-          "amount": "$0.80"
-        },
-        {
-          "year": "2002",
-          "amount": "$0.88"
-        },
-        {
-          "year": "2003",
-          "amount": "$0.48"
-        },
-        {
-          "year": "2013",
-          "amount": "$0.89"
-        },
-        {
-          "year": "2014",
-          "amount": "$1.20"
-        },
-        {
-          "year": "2015",
-          "amount": "$1.23"
-        },
-        {
-          "year": "2016",
-          "amount": "$1.24"
-        },
-        {
-          "year": "2017",
-          "amount": "$1.18"
-        },
-        {
-          "year": "2018",
-          "amount": "$0.88"
-        },
-        {
-          "year": "2019",
-          "amount": "$0.96"
-        },
-        {
-          "year": "2020",
-          "amount": "$1.00"
-        },
-        {
-          "year": "2021",
-          "amount": "$1.04"
-        },
-        {
-          "year": "2022",
-          "amount": "$1.12"
-        },
-        {
-          "year": "2023",
-          "amount": "$1.16"
-        },
-        {
-          "year": "2024",
-          "amount": "$1.20"
-        },
-        {
-          "year": "2025",
-          "amount": "$1.24"
-        },
-        {
-          "year": "2026",
-          "amount": "$0.64"
-        }
-      ],
-      "dividendYears": 19,
-      "dividendGrowth": {
-        "rate": "1.6%",
-        "years": 27
-      }
-    },
-    {
-      "symbol": "BCML",
-      "name": "BayCom Corp Common Stock",
-      "price": "$29.43",
-      "marketCap": "321,061,199",
-      "sector": "Finance",
-      "industry": "Major Banks",
-      "dividendYield": "4.14%",
-      "annualDividend": "$1.2",
-      "exDividendDate": "03/12/2026",
-      "paymentDate": "04/09/2026",
-      "growthRate": "21.56%",
-      "growthSource": "Analyst Forecast",
-      "description": "The Company, through its wholly owned operating subsidiary, United Business Bank, offers a full range of loans, including SBA, CalCAP, FSA and USDA guaranteed loans, and deposit products and services to businesses and their affiliates in California, Washington, New Mexico, Colorado and Nevada. The Bank is an Equal Housing Lender and a member of FDIC. The Company's common stock is listed on the NASDAQ Global Select Market under the symbol 'BCML'. For more information, go to www.unitedbusinessbank.com .",
-      "dividendHistory": [
-        {
-          "year": "2022",
-          "amount": "$0.20"
-        },
-        {
-          "year": "2023",
-          "amount": "$0.40"
-        },
-        {
-          "year": "2024",
-          "amount": "$0.45"
-        },
-        {
-          "year": "2025",
-          "amount": "$0.90"
-        },
-        {
-          "year": "2026",
-          "amount": "$0.30"
-        }
-      ],
-      "dividendYears": 5,
-      "dividendGrowth": {
-        "rate": "10.7%",
         "years": 4
       }
     },
@@ -20607,7 +20607,7 @@
       "paymentDate": "02/27/2026",
       "growthRate": "30.81%",
       "growthSource": "Analyst Forecast",
-      "description": "Princeton Bancorp, Inc. is the holding company for The Bank of Princeton, a community bank founded in 2007. The Bank is a New Jersey state-chartered commercial bank with 28 branches in New Jersey, including three in Princeton and others in Bordentown, Browns Mills, Burlington, Chesterfield, Cherry Hill, Cream Ridge, Deptford, Fort Lee, Hamilton, Kingston, Lakewood, Lambertville, Lawrenceville, Medford, Monroe, Moorestown, New Brunswick, Palisades Park, Pennington, Piscataway, Princeton Junction, Quakerbridge, Sicklerville, Voorhees, and Woodbury. There are also five branches in the Philadelphia, Pennsylvania area and two in the New York City metropolitan area. The Bank of Princeton is a member of the Federal Deposit Insurance Corporation .",
+      "description": "Princeton Bancorp, Inc. is the holding company for The Bank of Princeton, a community bank founded in 2007. The Bank is a New Jersey state-chartered commercial bank with 28 branches in New Jersey, including three in Princeton and others in Bordentown, Browns Mills, Burlington, Chesterfield, Cherry Hill, Cream Ridge, Deptford, Fort Lee, Hamilton, Kingston, Lakewood, Lambertville, Lawrenceville, Medford, Monroe, Moorestown, New Brunswick, Palisades Park, Pennington, Piscataway, Princeton Junction, Quakerbridge, Sicklerville, Voorhees, and Woodbury. There are also five branches in the Philadelphia, Pennsylvania area and two in the New York City metropolitan area. The Bank of Princeton is a member of the Federal Deposit Insurance Corporation.",
       "dividendHistory": [
         {
           "year": "2018",
@@ -20748,6 +20748,116 @@
       "dividendGrowth": {
         "rate": "1.9%",
         "years": 27
+      }
+    },
+    {
+      "symbol": "ARTNA",
+      "name": "Artesian Resources Corporation Class A Common Stock",
+      "price": "$32.07",
+      "marketCap": "330,910,511",
+      "sector": "Utilities",
+      "industry": "Water Supply",
+      "dividendYield": "3.94%",
+      "annualDividend": "$1.2544",
+      "exDividendDate": "02/13/2026",
+      "paymentDate": "02/25/2026",
+      "growthRate": "3.4%",
+      "growthSource": "4yr Revenue CAGR",
+      "description": "Artesian Resources Corporation operates as a holding company of wholly owned subsidiaries offering water and wastewater services, and other related core services, on the Delmarva Peninsula. Artesian Water Company, the principal subsidiary, is the oldest and largest regulated water utility on the Delmarva Peninsula, providing water service since 1905. Artesian supplies 9.5 billion gallons of water per year through 1,515 miles of water main to over a third of Delaware residents.",
+      "dividendHistory": [
+        {
+          "year": "1996",
+          "amount": "$0.46"
+        },
+        {
+          "year": "1997",
+          "amount": "$0.92"
+        },
+        {
+          "year": "1998",
+          "amount": "$0.97"
+        },
+        {
+          "year": "1999",
+          "amount": "$1.06"
+        },
+        {
+          "year": "2000",
+          "amount": "$1.10"
+        },
+        {
+          "year": "2001",
+          "amount": "$1.11"
+        },
+        {
+          "year": "2002",
+          "amount": "$1.16"
+        },
+        {
+          "year": "2003",
+          "amount": "$0.59"
+        },
+        {
+          "year": "2013",
+          "amount": "$0.82"
+        },
+        {
+          "year": "2014",
+          "amount": "$0.85"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.87"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.90"
+        },
+        {
+          "year": "2017",
+          "amount": "$0.93"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.95"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.98"
+        },
+        {
+          "year": "2020",
+          "amount": "$1.01"
+        },
+        {
+          "year": "2021",
+          "amount": "$1.05"
+        },
+        {
+          "year": "2022",
+          "amount": "$1.09"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.14"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.18"
+        },
+        {
+          "year": "2025",
+          "amount": "$1.23"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.31"
+        }
+      ],
+      "dividendYears": 22,
+      "dividendGrowth": {
+        "rate": "-1.3%",
+        "years": 30
       }
     },
     {
@@ -20932,116 +21042,6 @@
       "dividendGrowth": {
         "rate": "0.0%",
         "years": 13
-      }
-    },
-    {
-      "symbol": "ARTNA",
-      "name": "Artesian Resources Corporation Class A Common Stock",
-      "price": "$32.07",
-      "marketCap": "330,910,511",
-      "sector": "Utilities",
-      "industry": "Water Supply",
-      "dividendYield": "3.9%",
-      "annualDividend": "$1.2544",
-      "exDividendDate": "02/13/2026",
-      "paymentDate": "02/25/2026",
-      "growthRate": "3.4%",
-      "growthSource": "4yr Revenue CAGR",
-      "description": "Artesian Resources Corporation operates as a holding company of wholly owned subsidiaries offering water and wastewater services, and other related core services, on the Delmarva Peninsula. Artesian Water Company, the principal subsidiary, is the oldest and largest regulated water utility on the Delmarva Peninsula, providing water service since 1905. Artesian supplies 9.5 billion gallons of water per year through 1,515 miles of water main to over a third of Delaware residents.",
-      "dividendHistory": [
-        {
-          "year": "1996",
-          "amount": "$0.46"
-        },
-        {
-          "year": "1997",
-          "amount": "$0.92"
-        },
-        {
-          "year": "1998",
-          "amount": "$0.97"
-        },
-        {
-          "year": "1999",
-          "amount": "$1.06"
-        },
-        {
-          "year": "2000",
-          "amount": "$1.10"
-        },
-        {
-          "year": "2001",
-          "amount": "$1.11"
-        },
-        {
-          "year": "2002",
-          "amount": "$1.16"
-        },
-        {
-          "year": "2003",
-          "amount": "$0.59"
-        },
-        {
-          "year": "2013",
-          "amount": "$0.82"
-        },
-        {
-          "year": "2014",
-          "amount": "$0.85"
-        },
-        {
-          "year": "2015",
-          "amount": "$0.87"
-        },
-        {
-          "year": "2016",
-          "amount": "$0.90"
-        },
-        {
-          "year": "2017",
-          "amount": "$0.93"
-        },
-        {
-          "year": "2018",
-          "amount": "$0.95"
-        },
-        {
-          "year": "2019",
-          "amount": "$0.98"
-        },
-        {
-          "year": "2020",
-          "amount": "$1.01"
-        },
-        {
-          "year": "2021",
-          "amount": "$1.05"
-        },
-        {
-          "year": "2022",
-          "amount": "$1.09"
-        },
-        {
-          "year": "2023",
-          "amount": "$1.14"
-        },
-        {
-          "year": "2024",
-          "amount": "$1.18"
-        },
-        {
-          "year": "2025",
-          "amount": "$1.23"
-        },
-        {
-          "year": "2026",
-          "amount": "$0.31"
-        }
-      ],
-      "dividendYears": 22,
-      "dividendGrowth": {
-        "rate": "-1.3%",
-        "years": 30
       }
     },
     {
@@ -21446,6 +21446,68 @@
       "dividendGrowth": {
         "rate": "-7.9%",
         "years": 13
+      }
+    },
+    {
+      "symbol": "FDBC",
+      "name": "Fidelity D & D Bancorp, Inc. Common Stock",
+      "price": "$46.03",
+      "marketCap": "270,599,185",
+      "sector": "Finance",
+      "industry": "Major Banks",
+      "dividendYield": "3.84%",
+      "annualDividend": "$1.72",
+      "exDividendDate": "02/13/2026",
+      "paymentDate": "03/10/2026",
+      "growthRate": "10.2%",
+      "growthSource": "4yr Revenue CAGR",
+      "description": "Fidelity D & D Bancorp, Inc. has built a strong history as trusted financial advisor to the clients served by The Fidelity Deposit and Discount Bank (\"Fidelity Bank\"). Fidelity Bank continues its mission of exceeding client expectations through a unique banking experience. It operates 21 full-service offices throughout Lackawanna, Luzerne, Lehigh and Northampton Counties and a Fidelity Bank Wealth Management Office in Schuylkill County. Fidelity Bank provides a digital banking experience online at www.bankatfidelity.com, through the Fidelity Mobile Banking app, and in the Client Care Center at 1-800-388-4380. Additionally, the Bank offers full-service Wealth Management & Brokerage Services, a Mortgage Center, and a full suite of personal and commercial banking products and services. Part of the Company's vision is to serve as the best bank for the community, which was accomplished by having provided over 6,190 hours of volunteer time and over $1.",
+      "dividendHistory": [
+        {
+          "year": "2017",
+          "amount": "$0.26"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.98"
+        },
+        {
+          "year": "2019",
+          "amount": "$1.06"
+        },
+        {
+          "year": "2020",
+          "amount": "$1.14"
+        },
+        {
+          "year": "2021",
+          "amount": "$1.23"
+        },
+        {
+          "year": "2022",
+          "amount": "$1.35"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.46"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.54"
+        },
+        {
+          "year": "2025",
+          "amount": "$1.63"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.43"
+        }
+      ],
+      "dividendYears": 10,
+      "dividendGrowth": {
+        "rate": "5.7%",
+        "years": 9
       }
     },
     {
@@ -21945,7 +22007,7 @@
       "paymentDate": "05/01/2026",
       "growthRate": "3.4%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Waterstone Financial, Inc. is the savings and loan holding company for WaterStone Bank, a community-focused financial institution established in 1921. WaterStone Bank offers a comprehensive suite of personal and business banking products and operates 14 branch locations across southeastern Wisconsin. WaterStone Bank is also the parent company of WaterStone Mortgage Corporation, a national lender licensed in 48 states. With a long-standing commitment to innovation, integrity, and community service, Waterstone Financial, Inc. supports the financial and homeownership goals of customers nationwide.",
+      "description": "Waterstone Financial, Inc. is the savings and loan holding company for WaterStone Bank, a community-focused financial institution established in 1921. WaterStone Bank offers a comprehensive suite of personal and business banking products and operates 14 branch locations across southeastern Wisconsin. WaterStone Bank is also the parent company of WaterStone Mortgage Corporation, a national lender licensed in 48 states.",
       "dividendHistory": [
         {
           "year": "2014",
@@ -22211,7 +22273,7 @@
       "paymentDate": "04/02/2026",
       "growthRate": "8.03%",
       "growthSource": "Analyst Forecast",
-      "description": "Financial Institutions, Inc. (NASDAQ: FISI) is a financial holding company with approximately $6.3 billion in assets as of December 31, 2025, offering banking and wealth management products and services. Its Five Star Bank subsidiary provides consumer and commercial banking and lending services to individuals, municipalities and businesses through banking locations spanning Western and Central New York and a commercial loan production office serving the Mid-Atlantic region. Courier Capital, LLC offers customized investment management, financial planning and consulting services to individuals and families, businesses, institutions, non-profits and retirement plans. Learn more at Five-StarBank.com and FISI-Investors.",
+      "description": "Financial Institutions, Inc. (NASDAQ: FISI) is a financial holding company with approximately $6.3 billion in assets offering banking and wealth management products and services. Its Five Star Bank subsidiary provides consumer and commercial banking and lending services to individuals, municipalities and businesses through banking locations spanning Western and Central New York and a commercial loan production office serving the Mid-Atlantic region. Its Courier Capital, LLC subsidiary offers customized investment management, consulting and retirement plan services to individuals, businesses, institutions, foundations and retirement plans. Learn more at Five-StarBank.com and FISI-Investors.com.",
       "dividendHistory": [
         {
           "year": "1999",
@@ -22521,68 +22583,6 @@
       }
     },
     {
-      "symbol": "FDBC",
-      "name": "Fidelity D & D Bancorp, Inc. Common Stock",
-      "price": "$46.03",
-      "marketCap": "270,599,185",
-      "sector": "Finance",
-      "industry": "Major Banks",
-      "dividendYield": "3.73%",
-      "annualDividend": "$1.72",
-      "exDividendDate": "02/13/2026",
-      "paymentDate": "03/10/2026",
-      "growthRate": "10.2%",
-      "growthSource": "4yr Revenue CAGR",
-      "description": "Fidelity D & D Bancorp, Inc. has built a strong history as trusted financial advisor to the clients served by The Fidelity Deposit and Discount Bank (\"Fidelity Bank\"). Fidelity Bank continues its mission of exceeding client expectations through a unique banking experience. It operates 21 full-service offices throughout Lackawanna, Luzerne, Lehigh and Northampton Counties and a Fidelity Bank Wealth Management Office in Schuylkill County. Fidelity Bank provides a digital banking experience online at www.bankatfidelity.com, through the Fidelity Mobile Banking app, and in the Client Care Center at 1-800-388-4380. Additionally, the Bank offers full-service Wealth Management & Brokerage Services, a Mortgage Center, and a full suite of personal and commercial banking products and services. Part of the Company's vision is to serve as the best bank for the community, which was accomplished by having provided over 6,190 hours of volunteer time and over $1.",
-      "dividendHistory": [
-        {
-          "year": "2017",
-          "amount": "$0.26"
-        },
-        {
-          "year": "2018",
-          "amount": "$0.98"
-        },
-        {
-          "year": "2019",
-          "amount": "$1.06"
-        },
-        {
-          "year": "2020",
-          "amount": "$1.14"
-        },
-        {
-          "year": "2021",
-          "amount": "$1.23"
-        },
-        {
-          "year": "2022",
-          "amount": "$1.35"
-        },
-        {
-          "year": "2023",
-          "amount": "$1.46"
-        },
-        {
-          "year": "2024",
-          "amount": "$1.54"
-        },
-        {
-          "year": "2025",
-          "amount": "$1.63"
-        },
-        {
-          "year": "2026",
-          "amount": "$0.43"
-        }
-      ],
-      "dividendYears": 10,
-      "dividendGrowth": {
-        "rate": "5.7%",
-        "years": 9
-      }
-    },
-    {
       "symbol": "CLAR",
       "name": "Clarus Corporation Common Stock",
       "price": "$2.73",
@@ -22638,80 +22638,6 @@
       "dividendGrowth": {
         "rate": "-6.2%",
         "years": 8
-      }
-    },
-    {
-      "symbol": "NRC",
-      "name": "NRC Health Common Stock",
-      "price": "$17.23",
-      "marketCap": "391,920,420",
-      "sector": "Health Care",
-      "industry": "Biotechnology: Commercial Physical & Biological Resarch",
-      "dividendYield": "3.71%",
-      "annualDividend": "$0.64",
-      "exDividendDate": "03/27/2026",
-      "paymentDate": "04/10/2026",
-      "growthRate": "-2.4%",
-      "growthSource": "4yr Revenue CAGR",
-      "description": "For more than 40 years, NRC Health (NASDAQ: NRC) has led the charge to humanize healthcare and support organizations in their understanding of each unique individual. Ranked #1 Best in KLAS for Healthcare Experience Management in three of the last four years, NRC Health holds a commitment to Human Understanding that helps leading healthcare systems get to know each person they serve not as point-in-time insights, but in the context of an ongoing relationship. Guided by its uniquely empathic heritage, patient-focused approach, unmatched market research, and emphasis on consumer preferences, NRC Health is transforming the healthcare experience and creating strong outcomes for patients and entire healthcare systems.",
-      "dividendHistory": [
-        {
-          "year": "2014",
-          "amount": "$0.06"
-        },
-        {
-          "year": "2015",
-          "amount": "$0.62"
-        },
-        {
-          "year": "2016",
-          "amount": "$0.34"
-        },
-        {
-          "year": "2017",
-          "amount": "$0.40"
-        },
-        {
-          "year": "2018",
-          "amount": "$1.13"
-        },
-        {
-          "year": "2019",
-          "amount": "$0.78"
-        },
-        {
-          "year": "2020",
-          "amount": "$0.21"
-        },
-        {
-          "year": "2021",
-          "amount": "$0.48"
-        },
-        {
-          "year": "2022",
-          "amount": "$0.84"
-        },
-        {
-          "year": "2023",
-          "amount": "$1.48"
-        },
-        {
-          "year": "2024",
-          "amount": "$0.48"
-        },
-        {
-          "year": "2025",
-          "amount": "$0.52"
-        },
-        {
-          "year": "2026",
-          "amount": "$0.16"
-        }
-      ],
-      "dividendYears": 13,
-      "dividendGrowth": {
-        "rate": "8.5%",
-        "years": 12
       }
     },
     {
@@ -23006,6 +22932,80 @@
       "dividendGrowth": {
         "rate": "1.1%",
         "years": 26
+      }
+    },
+    {
+      "symbol": "NRC",
+      "name": "NRC Health Common Stock",
+      "price": "$17.23",
+      "marketCap": "391,920,420",
+      "sector": "Health Care",
+      "industry": "Biotechnology: Commercial Physical & Biological Resarch",
+      "dividendYield": "3.66%",
+      "annualDividend": "$0.64",
+      "exDividendDate": "03/27/2026",
+      "paymentDate": "04/10/2026",
+      "growthRate": "-2.4%",
+      "growthSource": "4yr Revenue CAGR",
+      "description": "For more than 40 years, NRC Health (NASDAQ: NRC) has led the charge to humanize healthcare and support organizations in their understanding of each unique individual. Ranked #1 Best in KLAS for Healthcare Experience Management in three of the last four years, NRC Health holds a commitment to Human Understanding that helps leading healthcare systems get to know each person they serve not as point-in-time insights, but in the context of an ongoing relationship. Guided by its uniquely empathic heritage, patient-focused approach, unmatched market research, and emphasis on consumer preferences, NRC Health is transforming the healthcare experience and creating strong outcomes for patients and entire healthcare systems.",
+      "dividendHistory": [
+        {
+          "year": "2014",
+          "amount": "$0.06"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.62"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.34"
+        },
+        {
+          "year": "2017",
+          "amount": "$0.40"
+        },
+        {
+          "year": "2018",
+          "amount": "$1.13"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.78"
+        },
+        {
+          "year": "2020",
+          "amount": "$0.21"
+        },
+        {
+          "year": "2021",
+          "amount": "$0.48"
+        },
+        {
+          "year": "2022",
+          "amount": "$0.84"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.48"
+        },
+        {
+          "year": "2024",
+          "amount": "$0.48"
+        },
+        {
+          "year": "2025",
+          "amount": "$0.52"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.16"
+        }
+      ],
+      "dividendYears": 13,
+      "dividendGrowth": {
+        "rate": "8.5%",
+        "years": 12
       }
     },
     {
@@ -23717,12 +23717,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.68"
+          "amount": "$0.33"
         }
       ],
       "dividendYears": 30,
       "dividendGrowth": {
-        "rate": "4.1%",
+        "rate": "2.1%",
         "years": 38
       }
     },
@@ -24761,7 +24761,7 @@
       "paymentDate": "04/20/2026",
       "growthRate": "15.43%",
       "growthSource": "Analyst Forecast",
-      "description": "F&M Bank is a local independent community bank that has been serving its communities since 1897. F&M Bank provides commercial banking, retail banking and other financial services. Our locations are in Butler, Champaign, Fulton, Defiance, Hancock, Henry, Lucas, Shelby, Williams, and Wood counties in Ohio. In Northeast Indiana, we have offices located in Adams, Allen, DeKalb, Jay, Steuben and Wells counties. The Michigan footprint includes Oakland County, and we have Loan Production Offices Muncie, Indiana, and Perrysburg and Bryan, Ohio.",
+      "description": "F&M Bank is a local independent community bank that has been serving its communities since 1897. F&M Bank provides commercial banking, retail banking and other financial services. Our locations are in Butler, Champaign, Fulton, Defiance, Hancock, Henry, Lucas, Shelby, Williams, and Wood counties in Ohio. In Northeast Indiana, we have offices located in Adams, Allen, DeKalb, Jay, Steuben and Wells counties. The Michigan footprint includes Oakland County, and we have Loan Production Offices in Muncie, Indiana, and Perrysburg and Bryan, Ohio.",
       "dividendHistory": [
         {
           "year": "2017",
@@ -25559,7 +25559,7 @@
       "paymentDate": "03/02/2026",
       "growthRate": "5.51%",
       "growthSource": "Analyst Forecast",
-      "description": "Burke & Herbert Financial Services Corp. is the financial holding company for Burke & Herbert Bank & Trust Company.Burke & Herbert Bank & Trust Company is the oldest continuously operating bank under its original name headquartered in the greater Washington, D.C. metropolitan area. With over 75 branches across Delaware, Kentucky, Maryland, Virginia, and West Virginia, Burke & Herbert Bank & Trust Company offers a full range of business and personal financial solutions designed to meet customers' banking, borrowing, and investment needs. Learn more at investor.burkeandherbertbank.com.",
+      "description": "Burke & Herbert Financial Services Corp. is the financial holding company for Burke & Herbert Bank & Trust Company. Burke & Herbert Bank & Trust Company is the oldest continuously operating bank under its original name headquartered in the greater Washington, D.C. metropolitan area. With over 75 branches across Delaware, Kentucky, Maryland, Virginia, and West Virginia, Burke & Herbert Bank & Trust Company offers a full range of business and personal financial solutions designed to meet customers' banking, borrowing, and investment needs. Learn more at investor.burkeandherbertbank.com .",
       "dividendHistory": [
         {
           "year": "2023",
@@ -25582,100 +25582,6 @@
       "dividendGrowth": {
         "rate": "-29.8%",
         "years": 3
-      }
-    },
-    {
-      "symbol": "ATLO",
-      "name": "Ames National Corporation Common Stock",
-      "price": "$28.05",
-      "marketCap": "248,445,021",
-      "sector": "Finance",
-      "industry": "Major Banks",
-      "dividendYield": "3.41%",
-      "annualDividend": "$0.96",
-      "exDividendDate": "02/27/2026",
-      "paymentDate": "03/13/2026",
-      "growthRate": "26.17%",
-      "growthSource": "Analyst Forecast",
-      "description": "Ames National Corporation is a multi-bank holding company with six central Iowa banks operating in 11 communities from 18 bank branches. The Corporation was established in 1975 to serve as a holding company for First National Bank, Ames, Iowa. Since that time, Boone Bank & Trust Co., Boone; Iowa State Savings Bank, Creston; State Bank & Trust Co., Nevada; Reliance State Bank, Story City; and United Bank & Trust Co., Marshalltown have affiliated with the Corporation. With total assets of over $2.1 billion as of December 30, 2023, the Corporation is the 6th largest Iowa-based commercial bank holding company based on total deposits.",
-      "dividendHistory": [
-        {
-          "year": "1998",
-          "amount": "$0.35"
-        },
-        {
-          "year": "1999",
-          "amount": "$1.85"
-        },
-        {
-          "year": "2000",
-          "amount": "$1.58"
-        },
-        {
-          "year": "2001",
-          "amount": "$0.82"
-        },
-        {
-          "year": "2013",
-          "amount": "$0.48"
-        },
-        {
-          "year": "2014",
-          "amount": "$0.70"
-        },
-        {
-          "year": "2015",
-          "amount": "$0.78"
-        },
-        {
-          "year": "2016",
-          "amount": "$0.83"
-        },
-        {
-          "year": "2017",
-          "amount": "$0.87"
-        },
-        {
-          "year": "2018",
-          "amount": "$1.16"
-        },
-        {
-          "year": "2019",
-          "amount": "$0.95"
-        },
-        {
-          "year": "2020",
-          "amount": "$0.99"
-        },
-        {
-          "year": "2021",
-          "amount": "$1.03"
-        },
-        {
-          "year": "2022",
-          "amount": "$1.07"
-        },
-        {
-          "year": "2023",
-          "amount": "$1.08"
-        },
-        {
-          "year": "2024",
-          "amount": "$1.01"
-        },
-        {
-          "year": "2025",
-          "amount": "$0.80"
-        },
-        {
-          "year": "2026",
-          "amount": "$0.24"
-        }
-      ],
-      "dividendYears": 18,
-      "dividendGrowth": {
-        "rate": "-1.3%",
-        "years": 28
       }
     },
     {
@@ -26423,88 +26329,6 @@
       }
     },
     {
-      "symbol": "ESCA",
-      "name": "Escalade, Incorporated Common Stock",
-      "price": "$18.09",
-      "marketCap": "247,766,266",
-      "sector": "Consumer Discretionary",
-      "industry": "Recreational Games/Products/Toys",
-      "dividendYield": "3.37%",
-      "annualDividend": "$0.61",
-      "exDividendDate": "04/06/2026",
-      "paymentDate": "04/13/2026",
-      "growthRate": "6.06%",
-      "growthSource": "Analyst Forecast",
-      "description": "Founded in 1922, and headquartered in Evansville, Indiana, Escalade designs, manufactures, and sells sporting goods, safety, fitness, and indoor/outdoor recreation equipment. Our mission is to connect family and friends, create lasting memories, and play life to the fullest. Leaders in our respective categories, Escalade's distinct and acclaimed brands include Goalrilla in-ground basketball hoops; STIGA® tennis tables and accessories; Bear® Archery and archery equipment; Brunswick Billiards® tables and accessories; Accudart® darting; ONIX® pickleball; Lifeline® fitness products; and RAVE Sports® water recreation products. Escalade's products are available online and through leading retailers nationwide. For more information about Escalade's diverse and prominent brand portfolio, history, financials, and governance, please visit www.escaladeinc.com .",
-      "dividendHistory": [
-        {
-          "year": "1999",
-          "amount": "$1.00"
-        },
-        {
-          "year": "2013",
-          "amount": "$0.26"
-        },
-        {
-          "year": "2014",
-          "amount": "$0.38"
-        },
-        {
-          "year": "2015",
-          "amount": "$0.43"
-        },
-        {
-          "year": "2016",
-          "amount": "$0.44"
-        },
-        {
-          "year": "2017",
-          "amount": "$0.46"
-        },
-        {
-          "year": "2018",
-          "amount": "$0.50"
-        },
-        {
-          "year": "2019",
-          "amount": "$0.50"
-        },
-        {
-          "year": "2020",
-          "amount": "$0.53"
-        },
-        {
-          "year": "2021",
-          "amount": "$0.56"
-        },
-        {
-          "year": "2022",
-          "amount": "$0.60"
-        },
-        {
-          "year": "2023",
-          "amount": "$0.45"
-        },
-        {
-          "year": "2024",
-          "amount": "$0.60"
-        },
-        {
-          "year": "2025",
-          "amount": "$0.60"
-        },
-        {
-          "year": "2026",
-          "amount": "$0.30"
-        }
-      ],
-      "dividendYears": 15,
-      "dividendGrowth": {
-        "rate": "-4.4%",
-        "years": 27
-      }
-    },
-    {
       "symbol": "IBCP",
       "name": "Independent Bank Corporation Common Stock",
       "price": "$33.43",
@@ -26517,7 +26341,7 @@
       "paymentDate": "02/13/2026",
       "growthRate": "6.93%",
       "growthSource": "Analyst Forecast",
-      "description": "Independent Bank Corporation (NASDAQ: IBCP) is a Michigan -based bank holding company with total assets of approximately $5.5 billion. Founded as First National Bank of Ionia in 1864, Independent Bank Corporation operates a branch network across Michigan's Lower Peninsula through one state-chartered bank subsidiary. This subsidiary ( Independent Bank ) provides a full range of financial services, including commercial banking, mortgage lending, investments and insurance services. Independent Bank Corporation is committed to providing exceptional personal service and value to its customers, stockholders and the communities it serves.",
+      "description": "Independent Bank Corporation (NASDAQ: IBCP) is a Michigan -based bank holding company with total assets of approximately $5.6 billion. Founded as First National Bank of Ionia in 1864, Independent Bank Corporation operates a branch network across Michigan's Lower Peninsula through one state-chartered bank subsidiary. This subsidiary ( Independent Bank ) provides a full range of financial services, including commercial banking, mortgage lending, consumer banking, investments and insurance. Independent Bank Corporation is committed to providing exceptional personal service and value to its customers, stockholders and the communities it serves.",
       "dividendHistory": [
         {
           "year": "1988",
@@ -26640,6 +26464,100 @@
       "dividendGrowth": {
         "rate": "-0.9%",
         "years": 38
+      }
+    },
+    {
+      "symbol": "ATLO",
+      "name": "Ames National Corporation Common Stock",
+      "price": "$28.05",
+      "marketCap": "248,445,021",
+      "sector": "Finance",
+      "industry": "Major Banks",
+      "dividendYield": "3.36%",
+      "annualDividend": "$0.96",
+      "exDividendDate": "02/27/2026",
+      "paymentDate": "03/13/2026",
+      "growthRate": "8.4%",
+      "growthSource": "4yr Revenue CAGR",
+      "description": "Ames National Corporation is a multi-bank holding company with six central Iowa banks operating in 11 communities from 18 bank branches. The Corporation was established in 1975 to serve as a holding company for First National Bank, Ames, Iowa. Since that time, Boone Bank & Trust Co., Boone; Iowa State Savings Bank, Creston; State Bank & Trust Co., Nevada; Reliance State Bank, Story City; and United Bank & Trust Co., Marshalltown have affiliated with the Corporation. With total assets of over $2.1 billion as of December 30, 2023, the Corporation is the 6th largest Iowa-based commercial bank holding company based on total deposits.",
+      "dividendHistory": [
+        {
+          "year": "1998",
+          "amount": "$0.35"
+        },
+        {
+          "year": "1999",
+          "amount": "$1.85"
+        },
+        {
+          "year": "2000",
+          "amount": "$1.58"
+        },
+        {
+          "year": "2001",
+          "amount": "$0.82"
+        },
+        {
+          "year": "2013",
+          "amount": "$0.48"
+        },
+        {
+          "year": "2014",
+          "amount": "$0.70"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.78"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.83"
+        },
+        {
+          "year": "2017",
+          "amount": "$0.87"
+        },
+        {
+          "year": "2018",
+          "amount": "$1.16"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.95"
+        },
+        {
+          "year": "2020",
+          "amount": "$0.99"
+        },
+        {
+          "year": "2021",
+          "amount": "$1.03"
+        },
+        {
+          "year": "2022",
+          "amount": "$1.07"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.08"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.01"
+        },
+        {
+          "year": "2025",
+          "amount": "$0.80"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.24"
+        }
+      ],
+      "dividendYears": 18,
+      "dividendGrowth": {
+        "rate": "-1.3%",
+        "years": 28
       }
     },
     {
@@ -27119,6 +27037,88 @@
       }
     },
     {
+      "symbol": "ESCA",
+      "name": "Escalade, Incorporated Common Stock",
+      "price": "$18.09",
+      "marketCap": "247,766,266",
+      "sector": "Consumer Discretionary",
+      "industry": "Recreational Games/Products/Toys",
+      "dividendYield": "3.31%",
+      "annualDividend": "$0.61",
+      "exDividendDate": "04/06/2026",
+      "paymentDate": "04/13/2026",
+      "growthRate": "6.06%",
+      "growthSource": "Analyst Forecast",
+      "description": "Founded in 1922, and headquartered in Evansville, Indiana, Escalade designs, manufactures, and sells sporting goods, fitness, and indoor/outdoor recreation equipment. Our mission is to connect family and friends, create lasting memories, and play life to the fullest. Leaders in our respective categories, Escalade's distinct and acclaimed brands include Goalrilla in-ground basketball hoops; STIGA® tennis tables and accessories; Bear® Archery and archery equipment; Brunswick Billiards® tables and accessories; Accudart® darting; ONIX® pickleball; Lifeline® fitness products; and RAVE Sports® water recreation products. Escalade's products are available online and through leading retailers nationwide. For more information about Escalade's diverse and prominent brand portfolio, history, financials, and governance, please visit www.escaladeinc.com.",
+      "dividendHistory": [
+        {
+          "year": "1999",
+          "amount": "$1.00"
+        },
+        {
+          "year": "2013",
+          "amount": "$0.26"
+        },
+        {
+          "year": "2014",
+          "amount": "$0.38"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.43"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.44"
+        },
+        {
+          "year": "2017",
+          "amount": "$0.46"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.50"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.50"
+        },
+        {
+          "year": "2020",
+          "amount": "$0.53"
+        },
+        {
+          "year": "2021",
+          "amount": "$0.56"
+        },
+        {
+          "year": "2022",
+          "amount": "$0.60"
+        },
+        {
+          "year": "2023",
+          "amount": "$0.45"
+        },
+        {
+          "year": "2024",
+          "amount": "$0.60"
+        },
+        {
+          "year": "2025",
+          "amount": "$0.60"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.30"
+        }
+      ],
+      "dividendYears": 15,
+      "dividendGrowth": {
+        "rate": "-4.4%",
+        "years": 27
+      }
+    },
+    {
       "symbol": "PFG",
       "name": "Principal Financial Group Inc Common Stock",
       "price": "$99.34",
@@ -27390,6 +27390,52 @@
       "dividendGrowth": {
         "rate": "6.3%",
         "years": 25
+      }
+    },
+    {
+      "symbol": "NECB",
+      "name": "NorthEast Community Bancorp, Inc. Common Stock",
+      "price": "$24.29",
+      "marketCap": "335,576,236",
+      "sector": "Finance",
+      "industry": "Banks",
+      "dividendYield": "3.29%",
+      "annualDividend": "$0.8",
+      "exDividendDate": "04/06/2026",
+      "paymentDate": "05/05/2026",
+      "growthRate": "21.0%",
+      "growthSource": "4yr Revenue CAGR",
+      "description": "NorthEast Community Bancorp , headquartered at 325 Hamilton Avenue , White Plains, New York 10601, is the holding company for NorthEast Community Bank , which conducts business through its eleven branch offices located in Bronx, New York , Orange , Rockland , and Sullivan Counties in New York and Essex , Middlesex , and Norfolk Counties in Massachusetts and three loan production offices located in New City, New York , White Plains, New York , and Danvers, Massachusetts.",
+      "dividendHistory": [
+        {
+          "year": "2021",
+          "amount": "$0.18"
+        },
+        {
+          "year": "2022",
+          "amount": "$0.42"
+        },
+        {
+          "year": "2023",
+          "amount": "$0.18"
+        },
+        {
+          "year": "2024",
+          "amount": "$0.56"
+        },
+        {
+          "year": "2025",
+          "amount": "$0.95"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.40"
+        }
+      ],
+      "dividendYears": 6,
+      "dividendGrowth": {
+        "rate": "17.3%",
+        "years": 5
       }
     },
     {
@@ -28155,52 +28201,6 @@
       }
     },
     {
-      "symbol": "NECB",
-      "name": "NorthEast Community Bancorp, Inc. Common Stock",
-      "price": "$24.29",
-      "marketCap": "335,576,236",
-      "sector": "Finance",
-      "industry": "Banks",
-      "dividendYield": "3.27%",
-      "annualDividend": "$0.8",
-      "exDividendDate": "04/06/2026",
-      "paymentDate": "05/05/2026",
-      "growthRate": "21.0%",
-      "growthSource": "4yr Revenue CAGR",
-      "description": "NorthEast Community Bancorp , headquartered at 325 Hamilton Avenue , White Plains, New York 10601, is the holding company for NorthEast Community Bank , which conducts business through its eleven branch offices located in Bronx, New York , Orange , Rockland , and Sullivan Counties in New York and Essex , Middlesex , and Norfolk Counties in Massachusetts and three loan production offices located in New City, New York , White Plains, New York , and Danvers, Massachusetts.",
-      "dividendHistory": [
-        {
-          "year": "2021",
-          "amount": "$0.18"
-        },
-        {
-          "year": "2022",
-          "amount": "$0.42"
-        },
-        {
-          "year": "2023",
-          "amount": "$0.18"
-        },
-        {
-          "year": "2024",
-          "amount": "$0.56"
-        },
-        {
-          "year": "2025",
-          "amount": "$0.95"
-        },
-        {
-          "year": "2026",
-          "amount": "$0.40"
-        }
-      ],
-      "dividendYears": 6,
-      "dividendGrowth": {
-        "rate": "17.3%",
-        "years": 5
-      }
-    },
-    {
       "symbol": "VTRS",
       "name": "Viatris Inc. Common Stock",
       "price": "$14.59",
@@ -28480,148 +28480,6 @@
       "dividendGrowth": {
         "rate": "6.8%",
         "years": 17
-      }
-    },
-    {
-      "symbol": "WEYS",
-      "name": "Weyco Group, Inc. Common Stock",
-      "price": "$33.68",
-      "marketCap": "321,011,288",
-      "sector": "Consumer Staples",
-      "industry": "Apparel",
-      "dividendYield": "3.21%",
-      "annualDividend": "$1.08",
-      "exDividendDate": "03/13/2026",
-      "paymentDate": "03/31/2026",
-      "growthRate": "-5.9%",
-      "growthSource": "4yr Revenue CAGR",
-      "description": "Weyco Group, Inc., designs and markets quality and innovative footwear principally for men, but also for women and children, under a portfolio of well-recognized brand names including: Florsheim, Nunn Bush, Stacy Adams, and BOGS. The Company's products can be found in leading footwear, department, and specialty stores, as well as on e-commerce websites worldwide. Weyco Group also operates Florsheim stores in the United States, Australia, and South Africa.",
-      "dividendHistory": [
-        {
-          "year": "1988",
-          "amount": "$0.20"
-        },
-        {
-          "year": "1989",
-          "amount": "$0.95"
-        },
-        {
-          "year": "1990",
-          "amount": "$0.85"
-        },
-        {
-          "year": "1991",
-          "amount": "$0.63"
-        },
-        {
-          "year": "1992",
-          "amount": "$0.70"
-        },
-        {
-          "year": "1993",
-          "amount": "$0.78"
-        },
-        {
-          "year": "1994",
-          "amount": "$0.80"
-        },
-        {
-          "year": "1995",
-          "amount": "$0.83"
-        },
-        {
-          "year": "1996",
-          "amount": "$0.87"
-        },
-        {
-          "year": "1997",
-          "amount": "$0.61"
-        },
-        {
-          "year": "1998",
-          "amount": "$0.35"
-        },
-        {
-          "year": "1999",
-          "amount": "$0.39"
-        },
-        {
-          "year": "2000",
-          "amount": "$0.43"
-        },
-        {
-          "year": "2001",
-          "amount": "$0.47"
-        },
-        {
-          "year": "2002",
-          "amount": "$0.51"
-        },
-        {
-          "year": "2003",
-          "amount": "$0.27"
-        },
-        {
-          "year": "2013",
-          "amount": "$0.36"
-        },
-        {
-          "year": "2014",
-          "amount": "$0.75"
-        },
-        {
-          "year": "2015",
-          "amount": "$0.79"
-        },
-        {
-          "year": "2016",
-          "amount": "$0.83"
-        },
-        {
-          "year": "2017",
-          "amount": "$0.87"
-        },
-        {
-          "year": "2018",
-          "amount": "$0.91"
-        },
-        {
-          "year": "2019",
-          "amount": "$0.95"
-        },
-        {
-          "year": "2020",
-          "amount": "$0.96"
-        },
-        {
-          "year": "2021",
-          "amount": "$0.96"
-        },
-        {
-          "year": "2022",
-          "amount": "$0.96"
-        },
-        {
-          "year": "2023",
-          "amount": "$0.99"
-        },
-        {
-          "year": "2024",
-          "amount": "$3.03"
-        },
-        {
-          "year": "2025",
-          "amount": "$3.07"
-        },
-        {
-          "year": "2026",
-          "amount": "$0.27"
-        }
-      ],
-      "dividendYears": 30,
-      "dividendGrowth": {
-        "rate": "0.8%",
-        "years": 38
       }
     },
     {
@@ -29127,7 +28985,7 @@
       "paymentDate": "03/11/2026",
       "growthRate": "-16.67%",
       "growthSource": "Analyst Forecast",
-      "description": "Kelly Services, Inc. (Nasdaq: KELYA, KELYB) helps companies recruit and manage skilled workers and helps job seekers find great work. Since inventing the staffing industry in 1946, we have become experts in the many industries and local and global markets we serve. With a network of suppliers and partners around the world, we connect approximately 375,000 people with work every year. Our suite of outsourcing and consulting services and solutions ensures companies have the people they need, when and where they are needed most. Headquartered in Troy, Michigan, we empower businesses and individuals to access limitless opportunities in industries such as science, engineering, technology, education, manufacturing, retail, finance, and energy. Revenue in 2025 was $4.3 billion. Learn more at kellyservices.com .",
+      "description": "Kelly Services, Inc. (Nasdaq: KELYA, KELYB) helps companies recruit and manage skilled workers and helps job seekers find great work. Since inventing the staffing industry in 1946, we have become experts in the many industries and local and global markets we serve. With a network of suppliers and partners around the world, we connect approximately 375,000 people with work every year. Our suite of outsourcing and consulting services and solutions ensures companies have the people they need, when and where they are needed most. Headquartered in Troy, Michigan, we empower businesses and individuals to access limitless opportunities in industries such as science, engineering, technology, education, manufacturing, retail, finance, and energy. Revenue in 2025 was $4.3 billion. Learn more at kellyservices.com.",
       "dividendHistory": [
         {
           "year": "1988",
@@ -29330,6 +29188,148 @@
       "dividendGrowth": {
         "rate": "-9.0%",
         "years": 5
+      }
+    },
+    {
+      "symbol": "WEYS",
+      "name": "Weyco Group, Inc. Common Stock",
+      "price": "$33.68",
+      "marketCap": "321,011,288",
+      "sector": "Consumer Staples",
+      "industry": "Apparel",
+      "dividendYield": "3.15%",
+      "annualDividend": "$1.08",
+      "exDividendDate": "03/13/2026",
+      "paymentDate": "03/31/2026",
+      "growthRate": "-5.9%",
+      "growthSource": "4yr Revenue CAGR",
+      "description": "Weyco Group, Inc., designs and markets quality and innovative footwear principally for men, but also for women and children, under a portfolio of well-recognized brand names including: Florsheim, Nunn Bush, Stacy Adams, and BOGS. The Company's products can be found in leading footwear, department, and specialty stores, as well as on e-commerce websites worldwide. Weyco Group also operates Florsheim stores in the United States, Australia, and South Africa.",
+      "dividendHistory": [
+        {
+          "year": "1988",
+          "amount": "$0.20"
+        },
+        {
+          "year": "1989",
+          "amount": "$0.95"
+        },
+        {
+          "year": "1990",
+          "amount": "$0.85"
+        },
+        {
+          "year": "1991",
+          "amount": "$0.63"
+        },
+        {
+          "year": "1992",
+          "amount": "$0.70"
+        },
+        {
+          "year": "1993",
+          "amount": "$0.78"
+        },
+        {
+          "year": "1994",
+          "amount": "$0.80"
+        },
+        {
+          "year": "1995",
+          "amount": "$0.83"
+        },
+        {
+          "year": "1996",
+          "amount": "$0.87"
+        },
+        {
+          "year": "1997",
+          "amount": "$0.61"
+        },
+        {
+          "year": "1998",
+          "amount": "$0.35"
+        },
+        {
+          "year": "1999",
+          "amount": "$0.39"
+        },
+        {
+          "year": "2000",
+          "amount": "$0.43"
+        },
+        {
+          "year": "2001",
+          "amount": "$0.47"
+        },
+        {
+          "year": "2002",
+          "amount": "$0.51"
+        },
+        {
+          "year": "2003",
+          "amount": "$0.27"
+        },
+        {
+          "year": "2013",
+          "amount": "$0.36"
+        },
+        {
+          "year": "2014",
+          "amount": "$0.75"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.79"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.83"
+        },
+        {
+          "year": "2017",
+          "amount": "$0.87"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.91"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.95"
+        },
+        {
+          "year": "2020",
+          "amount": "$0.96"
+        },
+        {
+          "year": "2021",
+          "amount": "$0.96"
+        },
+        {
+          "year": "2022",
+          "amount": "$0.96"
+        },
+        {
+          "year": "2023",
+          "amount": "$0.99"
+        },
+        {
+          "year": "2024",
+          "amount": "$3.03"
+        },
+        {
+          "year": "2025",
+          "amount": "$3.07"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.27"
+        }
+      ],
+      "dividendYears": 30,
+      "dividendGrowth": {
+        "rate": "0.8%",
+        "years": 38
       }
     },
     {
@@ -31501,7 +31501,7 @@
       "paymentDate": "03/04/2026",
       "growthRate": "2.43%",
       "growthSource": "Analyst Forecast",
-      "description": "Hasbro is a leading games, IP and toy company whose mission is to create joy and community through the magic of play. With 165 years of expertise, Hasbro delivers groundbreaking play experiences and reaches more than 1 billion fans annually around the world, through physical and digital games, video games, toys, licensed consumer products, location-based entertainment, film, TV and more. Through its franchise-first approach, Hasbro unlocks value from both new and legacy IP, including MAGIC: THE GATHERING, Dungeons & Dragons, MONOPOLY, HASBRO GAMES, NERF, TRANSFORMERS, PLAY-DOH and PEPPA PIG, as well as premier partner brands. Powered by its portfolio of thousands of iconic marks and a diversified network of partners and subsidiary studios, Hasbro brings fans together wherever they are, from tabletop to screen.",
+      "description": "Hasbro is a leading games, IP and toy company whose mission is to create joy and community through the magic of play. Hasbro delivers groundbreaking play experiences for fans of all ages around the world, through physical and digital games, video games, toys, licensed consumer products, location-based entertainment, film, TV and more. Through its franchise-first approach, Hasbro unlocks value from both new and legacy IP, including MAGIC: THE GATHERING, DUNGEONS & DRAGONS, MONOPOLY, HASBRO GAMES, NERF, TRANSFORMERS, PLAY-DOH and PEPPA PIG, as well as premier partner brands. Powered by its portfolio of thousands of iconic marks and a diversified network of partners and subsidiary studios, Hasbro brings fans together wherever they are, from tabletop to screen.",
       "dividendHistory": [
         {
           "year": "2000",
@@ -33731,7 +33731,7 @@
       "annualDividend": "$1.04",
       "exDividendDate": "04/17/2026",
       "paymentDate": "05/01/2026",
-      "growthRate": "10.83%",
+      "growthRate": "7.05%",
       "growthSource": "Analyst Forecast",
       "description": "First United Corporation is a Maryland corporation chartered in 1985 and a financial holding company registered with the Board of Governors of the Federal Reserve System under the Bank Holding Company Act of 1956, as amended, that elected financial holding company status in 2021. The Corporation's primary business is serving as the parent company of the Bank, First United Statutory Trust I ('Trust I') and First United Statutory Trust II ('Trust II' and together with Trust I, 'the Trusts'), both Connecticut statutory business trusts. The Trusts were formed for the purpose of selling trust preferred securities that qualified as Tier 1 capital. The Bank has two consumer finance company subsidiaries- Oak First Loan Center, Inc., a West Virginia corporation, and OakFirst Loan Center, LLC, a Maryland limited liability company - and one subsidiary that it uses to hold real estate acquired through foreclosure or by deed in lieu of foreclosure - First OREO Trust, a Maryland statutory trust.",
       "dividendHistory": [
@@ -33947,7 +33947,7 @@
       "annualDividend": "$0.64",
       "exDividendDate": "01/30/2026",
       "paymentDate": "02/13/2026",
-      "growthRate": "16.83%",
+      "growthRate": "13.01%",
       "growthSource": "Analyst Forecast",
       "description": "RBB Bancorp operates as the bank holding company. It provides various banking products and services such as checking, savings, and money market accounts, and certificates of deposits. The company also offers commercial and industrial lines of credit, term loans, mortgage warehouse lines, and international trade discounts, commercial real estate loans, residential construction, commercial construction, and land acquisition and development construction loans, small business administration loans; and single-family residential mortgage loans among others.",
       "dividendHistory": [
@@ -34829,6 +34829,40 @@
       }
     },
     {
+      "symbol": "USCB",
+      "name": "USCB Financial Holdings, Inc. Class A Common Stock",
+      "price": "$19.12",
+      "marketCap": "349,081,488",
+      "sector": "Finance",
+      "industry": "Major Banks",
+      "dividendYield": "2.59%",
+      "annualDividend": "$0.5",
+      "exDividendDate": "02/17/2026",
+      "paymentDate": "03/05/2026",
+      "growthRate": "19.02%",
+      "growthSource": "Analyst Forecast",
+      "description": "USCB Financial Holdings, Inc. is the bank holding company for U.S. Century Bank. Established in 2002, U.S. Century Bank is one of the largest community banks headquartered in Miami, and one of the largest community banks in the State of Florida. U.S. Century Bank is rated 5-Stars by BauerFinancial, the nation's leading independent bank rating firm. U.S. Century Bank offers customers a wide range of financial products and services and supports numerous community organizations, including the Greater Miami Chamber of Commerce, the South Florida Hispanic Chamber of Commerce, and ChamberSouth. For more information about us or to find a banking center near you, please call (305) 715-5200 or visit www.uscentury.com .",
+      "dividendHistory": [
+        {
+          "year": "2024",
+          "amount": "$0.20"
+        },
+        {
+          "year": "2025",
+          "amount": "$0.40"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.25"
+        }
+      ],
+      "dividendYears": 3,
+      "dividendGrowth": {
+        "rate": "11.8%",
+        "years": 2
+      }
+    },
+    {
       "symbol": "EWBC",
       "name": "East West Bancorp, Inc. Common Stock",
       "price": "$122.67",
@@ -35277,142 +35311,6 @@
       }
     },
     {
-      "symbol": "USCB",
-      "name": "USCB Financial Holdings, Inc. Class A Common Stock",
-      "price": "$19.12",
-      "marketCap": "349,081,488",
-      "sector": "Finance",
-      "industry": "Major Banks",
-      "dividendYield": "2.57%",
-      "annualDividend": "$0.5",
-      "exDividendDate": "02/17/2026",
-      "paymentDate": "03/05/2026",
-      "growthRate": "19.02%",
-      "growthSource": "Analyst Forecast",
-      "description": "USCB Financial Holdings, Inc. is the bank holding company for U.S. Century Bank. Established in 2002, U.S. Century Bank is one of the largest community banks headquartered in Miami, and one of the largest community banks in the State of Florida. U.S. Century Bank is rated 5-Stars by BauerFinancial, the nation's leading independent bank rating firm. U.S. Century Bank offers customers a wide range of financial products and services and supports numerous community organizations, including the Greater Miami Chamber of Commerce, the South Florida Hispanic Chamber of Commerce, and ChamberSouth.",
-      "dividendHistory": [
-        {
-          "year": "2024",
-          "amount": "$0.20"
-        },
-        {
-          "year": "2025",
-          "amount": "$0.40"
-        },
-        {
-          "year": "2026",
-          "amount": "$0.25"
-        }
-      ],
-      "dividendYears": 3,
-      "dividendGrowth": {
-        "rate": "11.8%",
-        "years": 2
-      }
-    },
-    {
-      "symbol": "CFFI",
-      "name": "C&F Financial Corporation Common Stock",
-      "price": "$75.52",
-      "marketCap": "245,878,092",
-      "sector": "Finance",
-      "industry": "Major Banks",
-      "dividendYield": "2.57%",
-      "annualDividend": "$1.92",
-      "exDividendDate": "03/13/2026",
-      "paymentDate": "04/01/2026",
-      "growthRate": "9.3%",
-      "growthSource": "4yr Revenue CAGR",
-      "description": "C&F Bank operates 31 banking offices and five commercial loan offices located throughout Virginia and offers full wealth management services through its subsidiary C&F Wealth Management, Inc. C&F Mortgage Corporation and its subsidiary C&F Select LLC provide mortgage loan origination services through offices located in Virginia and the surrounding states. C&F Finance Company provides automobile, marine and recreational vehicle loans through indirect lending programs offered primarily in the Mid-Atlantic, Midwest and Southern United States from its headquarters in Henrico, Virginia.",
-      "dividendHistory": [
-        {
-          "year": "1998",
-          "amount": "$0.65"
-        },
-        {
-          "year": "1999",
-          "amount": "$0.49"
-        },
-        {
-          "year": "2000",
-          "amount": "$0.53"
-        },
-        {
-          "year": "2001",
-          "amount": "$0.58"
-        },
-        {
-          "year": "2002",
-          "amount": "$0.62"
-        },
-        {
-          "year": "2003",
-          "amount": "$0.34"
-        },
-        {
-          "year": "2013",
-          "amount": "$0.58"
-        },
-        {
-          "year": "2014",
-          "amount": "$1.19"
-        },
-        {
-          "year": "2015",
-          "amount": "$1.22"
-        },
-        {
-          "year": "2016",
-          "amount": "$1.29"
-        },
-        {
-          "year": "2017",
-          "amount": "$1.33"
-        },
-        {
-          "year": "2018",
-          "amount": "$1.41"
-        },
-        {
-          "year": "2019",
-          "amount": "$1.49"
-        },
-        {
-          "year": "2020",
-          "amount": "$1.52"
-        },
-        {
-          "year": "2021",
-          "amount": "$1.58"
-        },
-        {
-          "year": "2022",
-          "amount": "$1.64"
-        },
-        {
-          "year": "2023",
-          "amount": "$1.76"
-        },
-        {
-          "year": "2024",
-          "amount": "$1.76"
-        },
-        {
-          "year": "2025",
-          "amount": "$1.84"
-        },
-        {
-          "year": "2026",
-          "amount": "$0.48"
-        }
-      ],
-      "dividendYears": 20,
-      "dividendGrowth": {
-        "rate": "-1.1%",
-        "years": 28
-      }
-    },
-    {
       "symbol": "LCUT",
       "name": "Lifetime Brands, Inc. Common Stock",
       "price": "$6.84",
@@ -35651,7 +35549,7 @@
       "paymentDate": "03/20/2026",
       "growthRate": "24.23%",
       "growthSource": "Analyst Forecast",
-      "description": "Founded in 1818, Eastern Bank is Greater Boston's leading local bank with more than 125 branch locations serving communities in eastern Massachusetts , southern and coastal New Hampshire , and Rhode Island. As of December 31, 2025 , Eastern had approximately $30.6 billion in assets. Eastern provides a full range of banking and wealth management solutions for consumers and businesses of all sizes including through its Cambridge Trust Wealth Management and Private Banking Divisions, which include the largest bank-owned independent investment adviser in Massachusetts with $9.6 billion in assets under management. Eastern takes pride in its advocacy and community support that includes more than $240 million in charitable giving since 1994. An inclusive company, Eastern is comprised of deeply committed professionals who value relationships with their customers, colleagues and communities. Join us for good at www.easternbank.com and follow Eastern on Facebook , LinkedIn and Instagram.",
+      "description": "Eastern Bankshares, Inc. is the holding company for Eastern Bank. Founded in 1818, Eastern Bank is Greater Boston's leading local bank with more than 125 branch locations serving communities in eastern Massachusetts, southern and coastal New Hampshire, and Rhode Island. As of March 31, 2026, Eastern had approximately $30.6 billion in assets. Eastern provides a full range of banking and wealth management solutions for consumers and businesses of all sizes including through its Cambridge Trust Wealth Management and Private Banking Divisions, which include the largest bank-owned independent investment adviser in Massachusetts with $9.8 billion in assets under management. Eastern takes pride in its advocacy and community support that includes more than $240 million in charitable giving since 1994. An inclusive company, Eastern is comprised of deeply committed professionals who value relationships with their customers, colleagues and communities. For investor information, visit investor.",
       "dividendHistory": [
         {
           "year": "2021",
@@ -35967,7 +35865,7 @@
       "paymentDate": "03/31/2026",
       "growthRate": "45.75%",
       "growthSource": "Analyst Forecast",
-      "description": "Isabella Bank Corporation (Nasdaq:ISBA) is the parent holding company of Isabella Bank, a state-chartered community bank headquartered in Mt. Pleasant, Michigan. Isabella Bank was established in 1903 and has been committed to serving its customers' and communities' local banking needs for over 120 years. The Bank offers personal and commercial lending and deposit products, as well as investment, trust, and estate planning services. The Bank has locations throughout eight Mid-Michigan counties: Bay, Clare, Gratiot, Isabella, Mecosta, Midland, Montcalm, and Saginaw .",
+      "description": "Isabella Bank Corporation (Nasdaq: ISBA) is the parent holding company of Isabella Bank, a state-chartered community bank headquartered in Mt. Pleasant, Michigan. Isabella Bank was established in 1903 and has been committed to serving its customers' and communities' local banking needs for over 120 years. The Bank offers personal and commercial lending and deposit products, as well as investment, trust, and estate planning services through Isabella Wealth. The Bank has 31 locations throughout eight Mid-Michigan counties: Bay, Clare, Gratiot, Isabella, Mecosta, Midland, Montcalm, and Saginaw.",
       "dividendHistory": [
         {
           "year": "2025",
@@ -35982,6 +35880,108 @@
       "dividendGrowth": {
         "rate": "-66.7%",
         "years": 1
+      }
+    },
+    {
+      "symbol": "CFFI",
+      "name": "C&F Financial Corporation Common Stock",
+      "price": "$75.52",
+      "marketCap": "245,878,092",
+      "sector": "Finance",
+      "industry": "Major Banks",
+      "dividendYield": "2.52%",
+      "annualDividend": "$1.92",
+      "exDividendDate": "03/13/2026",
+      "paymentDate": "04/01/2026",
+      "growthRate": "9.3%",
+      "growthSource": "4yr Revenue CAGR",
+      "description": "C&F Bank operates 31 banking offices and five commercial loan offices located throughout Virginia and offers full wealth management services through its subsidiary C&F Wealth Management, Inc. C&F Mortgage Corporation and its subsidiary C&F Select LLC provide mortgage loan origination services through offices located in Virginia and the surrounding states. C&F Finance Company provides automobile, marine and recreational vehicle loans through indirect lending programs offered primarily in the Mid-Atlantic, Midwest and Southern United States from its headquarters in Henrico, Virginia.",
+      "dividendHistory": [
+        {
+          "year": "1998",
+          "amount": "$0.65"
+        },
+        {
+          "year": "1999",
+          "amount": "$0.49"
+        },
+        {
+          "year": "2000",
+          "amount": "$0.53"
+        },
+        {
+          "year": "2001",
+          "amount": "$0.58"
+        },
+        {
+          "year": "2002",
+          "amount": "$0.62"
+        },
+        {
+          "year": "2003",
+          "amount": "$0.34"
+        },
+        {
+          "year": "2013",
+          "amount": "$0.58"
+        },
+        {
+          "year": "2014",
+          "amount": "$1.19"
+        },
+        {
+          "year": "2015",
+          "amount": "$1.22"
+        },
+        {
+          "year": "2016",
+          "amount": "$1.29"
+        },
+        {
+          "year": "2017",
+          "amount": "$1.33"
+        },
+        {
+          "year": "2018",
+          "amount": "$1.41"
+        },
+        {
+          "year": "2019",
+          "amount": "$1.49"
+        },
+        {
+          "year": "2020",
+          "amount": "$1.52"
+        },
+        {
+          "year": "2021",
+          "amount": "$1.58"
+        },
+        {
+          "year": "2022",
+          "amount": "$1.64"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.76"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.76"
+        },
+        {
+          "year": "2025",
+          "amount": "$1.84"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.48"
+        }
+      ],
+      "dividendYears": 20,
+      "dividendGrowth": {
+        "rate": "-1.1%",
+        "years": 28
       }
     },
     {
@@ -36391,6 +36391,100 @@
       }
     },
     {
+      "symbol": "HWBK",
+      "name": "Hawthorn Bancshares, Inc. Common Stock",
+      "price": "$34.45",
+      "marketCap": "237,353,955",
+      "sector": "Finance",
+      "industry": "Major Banks",
+      "dividendYield": "2.48%",
+      "annualDividend": "$0.84",
+      "exDividendDate": "03/13/2026",
+      "paymentDate": "04/01/2026",
+      "growthRate": "7.7%",
+      "growthSource": "4yr Revenue CAGR",
+      "description": "Hawthorn Bancshares, Inc., a bank holding company headquartered in Jefferson City, Missouri, is the parent company of Hawthorn Bank, which has served families and businesses for more than 160 years. Hawthorn Bank has multiple locations, including in the greater Kansas City metropolitan area, Jefferson City, Columbia, Springfield, and Clinton.",
+      "dividendHistory": [
+        {
+          "year": "2000",
+          "amount": "$0.47"
+        },
+        {
+          "year": "2001",
+          "amount": "$0.85"
+        },
+        {
+          "year": "2002",
+          "amount": "$0.89"
+        },
+        {
+          "year": "2003",
+          "amount": "$0.47"
+        },
+        {
+          "year": "2013",
+          "amount": "$0.15"
+        },
+        {
+          "year": "2014",
+          "amount": "$0.20"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.20"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.21"
+        },
+        {
+          "year": "2017",
+          "amount": "$0.27"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.37"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.46"
+        },
+        {
+          "year": "2020",
+          "amount": "$0.49"
+        },
+        {
+          "year": "2021",
+          "amount": "$0.58"
+        },
+        {
+          "year": "2022",
+          "amount": "$0.66"
+        },
+        {
+          "year": "2023",
+          "amount": "$0.68"
+        },
+        {
+          "year": "2024",
+          "amount": "$0.74"
+        },
+        {
+          "year": "2025",
+          "amount": "$0.79"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.21"
+        }
+      ],
+      "dividendYears": 18,
+      "dividendGrowth": {
+        "rate": "-3.1%",
+        "years": 26
+      }
+    },
+    {
       "symbol": "FSBC",
       "name": "Five Star Bancorp Common Stock",
       "price": "$40.50",
@@ -36675,60 +36769,6 @@
       }
     },
     {
-      "symbol": "FXNC",
-      "name": "First National Corporation Common Stock",
-      "price": "$28.21",
-      "marketCap": "255,045,679",
-      "sector": "Finance",
-      "industry": "Major Banks",
-      "dividendYield": "2.42%",
-      "annualDividend": "$0.68",
-      "exDividendDate": "02/27/2026",
-      "paymentDate": "03/13/2026",
-      "growthRate": "8.49%",
-      "growthSource": "Analyst Forecast",
-      "description": "First National Corporation (NASDAQ: FXNC) is the parent company and bank holding company of First Bank, a community bank that first opened for business in 1907 in Strasburg, Virginia. The Bank offers loan and deposit products and services through its consumer and business mobile banking platforms, a network of ATMs located throughout its market area, a loan production office, a customer service center in a retirement community, and thirty-three banking office locations located throughout the Shenandoah Valley, the Roanoke Valley, the Richmond MSA, the south-central regions of Virginia, and in northern North Carolina. In addition to providing traditional banking services, the Bank operates a trust and wealth management division under the name First Bank Wealth Management. First Bank also owns First Bank Financial Services, Inc., which has an interest in a title insurance company.",
-      "dividendHistory": [
-        {
-          "year": "2019",
-          "amount": "$0.27"
-        },
-        {
-          "year": "2020",
-          "amount": "$0.44"
-        },
-        {
-          "year": "2021",
-          "amount": "$0.48"
-        },
-        {
-          "year": "2022",
-          "amount": "$0.56"
-        },
-        {
-          "year": "2023",
-          "amount": "$0.60"
-        },
-        {
-          "year": "2024",
-          "amount": "$0.60"
-        },
-        {
-          "year": "2025",
-          "amount": "$0.64"
-        },
-        {
-          "year": "2026",
-          "amount": "$0.17"
-        }
-      ],
-      "dividendYears": 8,
-      "dividendGrowth": {
-        "rate": "-6.4%",
-        "years": 7
-      }
-    },
-    {
       "symbol": "PKBK",
       "name": "Parke Bancorp, Inc. Common Stock",
       "price": "$30.02",
@@ -36800,100 +36840,6 @@
       "dividendGrowth": {
         "rate": "11.3%",
         "years": 12
-      }
-    },
-    {
-      "symbol": "HWBK",
-      "name": "Hawthorn Bancshares, Inc. Common Stock",
-      "price": "$34.45",
-      "marketCap": "237,353,955",
-      "sector": "Finance",
-      "industry": "Major Banks",
-      "dividendYield": "2.41%",
-      "annualDividend": "$0.84",
-      "exDividendDate": "03/13/2026",
-      "paymentDate": "04/01/2026",
-      "growthRate": "7.7%",
-      "growthSource": "4yr Revenue CAGR",
-      "description": "Hawthorn Bancshares, Inc., a bank holding company headquartered in Jefferson City, Missouri, is the parent company of Hawthorn Bank, which has served families and businesses for more than 160 years. Hawthorn Bank has multiple locations, including in the greater Kansas City metropolitan area, Jefferson City, Columbia, Springfield, and Clinton.",
-      "dividendHistory": [
-        {
-          "year": "2000",
-          "amount": "$0.47"
-        },
-        {
-          "year": "2001",
-          "amount": "$0.85"
-        },
-        {
-          "year": "2002",
-          "amount": "$0.89"
-        },
-        {
-          "year": "2003",
-          "amount": "$0.47"
-        },
-        {
-          "year": "2013",
-          "amount": "$0.15"
-        },
-        {
-          "year": "2014",
-          "amount": "$0.20"
-        },
-        {
-          "year": "2015",
-          "amount": "$0.20"
-        },
-        {
-          "year": "2016",
-          "amount": "$0.21"
-        },
-        {
-          "year": "2017",
-          "amount": "$0.27"
-        },
-        {
-          "year": "2018",
-          "amount": "$0.37"
-        },
-        {
-          "year": "2019",
-          "amount": "$0.46"
-        },
-        {
-          "year": "2020",
-          "amount": "$0.49"
-        },
-        {
-          "year": "2021",
-          "amount": "$0.58"
-        },
-        {
-          "year": "2022",
-          "amount": "$0.66"
-        },
-        {
-          "year": "2023",
-          "amount": "$0.68"
-        },
-        {
-          "year": "2024",
-          "amount": "$0.74"
-        },
-        {
-          "year": "2025",
-          "amount": "$0.79"
-        },
-        {
-          "year": "2026",
-          "amount": "$0.21"
-        }
-      ],
-      "dividendYears": 18,
-      "dividendGrowth": {
-        "rate": "-3.1%",
-        "years": 26
       }
     },
     {
@@ -37373,6 +37319,60 @@
       }
     },
     {
+      "symbol": "FXNC",
+      "name": "First National Corporation Common Stock",
+      "price": "$28.21",
+      "marketCap": "255,045,679",
+      "sector": "Finance",
+      "industry": "Major Banks",
+      "dividendYield": "2.37%",
+      "annualDividend": "$0.68",
+      "exDividendDate": "02/27/2026",
+      "paymentDate": "03/13/2026",
+      "growthRate": "8.49%",
+      "growthSource": "Analyst Forecast",
+      "description": "First National Corporation (NASDAQ: FXNC) is the parent company and bank holding company of First Bank, a community bank that first opened for business in 1907 in Strasburg, Virginia. The Bank offers loan and deposit products and services through its consumer and business mobile banking platforms, a network of ATMs located throughout its market area, a loan production office, a customer service center in a retirement community, and thirty-three banking office locations located throughout the Shenandoah Valley, the Roanoke Valley, the Richmond MSA, the south-central regions of Virginia, and in northern North Carolina. In addition to providing traditional banking services, the Bank operates a trust and wealth management division under the name First Bank Wealth Management. First Bank also owns First Bank Financial Services, Inc., which has an interest in a title insurance company.",
+      "dividendHistory": [
+        {
+          "year": "2019",
+          "amount": "$0.27"
+        },
+        {
+          "year": "2020",
+          "amount": "$0.44"
+        },
+        {
+          "year": "2021",
+          "amount": "$0.48"
+        },
+        {
+          "year": "2022",
+          "amount": "$0.56"
+        },
+        {
+          "year": "2023",
+          "amount": "$0.60"
+        },
+        {
+          "year": "2024",
+          "amount": "$0.60"
+        },
+        {
+          "year": "2025",
+          "amount": "$0.64"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.17"
+        }
+      ],
+      "dividendYears": 8,
+      "dividendGrowth": {
+        "rate": "-6.4%",
+        "years": 7
+      }
+    },
+    {
       "symbol": "MGEE",
       "name": "MGE Energy, Inc",
       "price": "$80.18",
@@ -37841,88 +37841,6 @@
       }
     },
     {
-      "symbol": "FRAF",
-      "name": "Franklin Financial Services Corporation Common Stock",
-      "price": "$56.03",
-      "marketCap": "251,682,726",
-      "sector": "Finance",
-      "industry": "Major Banks",
-      "dividendYield": "2.35%",
-      "annualDividend": "$1.32",
-      "exDividendDate": "02/06/2026",
-      "paymentDate": "02/25/2026",
-      "growthRate": "16.8%",
-      "growthSource": "4yr Revenue CAGR",
-      "description": "Franklin Financial Services Corp is a bank holding company based in the United States. It is engaged in general commercial, retail banking and trust services normally associated with community banks. It offers a broad range of banking services to businesses, individuals, and governmental entities which includes accepting and maintaining checking, savings, and time deposit accounts, providing investment and trust services, making loans and providing safe deposit facilities. The bank also performs personal, corporate, pension and fiduciary services through its Investment and Trust Services Department.",
-      "dividendHistory": [
-        {
-          "year": "1998",
-          "amount": "$0.16"
-        },
-        {
-          "year": "1999",
-          "amount": "$1.08"
-        },
-        {
-          "year": "2000",
-          "amount": "$0.76"
-        },
-        {
-          "year": "2001",
-          "amount": "$0.64"
-        },
-        {
-          "year": "2013",
-          "amount": "$0.68"
-        },
-        {
-          "year": "2014",
-          "amount": "$0.68"
-        },
-        {
-          "year": "2015",
-          "amount": "$0.19"
-        },
-        {
-          "year": "2019",
-          "amount": "$0.90"
-        },
-        {
-          "year": "2020",
-          "amount": "$1.20"
-        },
-        {
-          "year": "2021",
-          "amount": "$1.25"
-        },
-        {
-          "year": "2022",
-          "amount": "$1.28"
-        },
-        {
-          "year": "2023",
-          "amount": "$1.28"
-        },
-        {
-          "year": "2024",
-          "amount": "$1.28"
-        },
-        {
-          "year": "2025",
-          "amount": "$1.31"
-        },
-        {
-          "year": "2026",
-          "amount": "$0.67"
-        }
-      ],
-      "dividendYears": 15,
-      "dividendGrowth": {
-        "rate": "5.2%",
-        "years": 28
-      }
-    },
-    {
       "symbol": "LMNR",
       "name": "Limoneira Co Common Stock",
       "price": "$12.74",
@@ -38092,6 +38010,88 @@
       "dividendGrowth": {
         "rate": "-0.4%",
         "years": 27
+      }
+    },
+    {
+      "symbol": "FRAF",
+      "name": "Franklin Financial Services Corporation Common Stock",
+      "price": "$56.03",
+      "marketCap": "251,682,726",
+      "sector": "Finance",
+      "industry": "Major Banks",
+      "dividendYield": "2.34%",
+      "annualDividend": "$1.32",
+      "exDividendDate": "02/06/2026",
+      "paymentDate": "02/25/2026",
+      "growthRate": "16.8%",
+      "growthSource": "4yr Revenue CAGR",
+      "description": "Franklin Financial Services Corp is a bank holding company based in the United States. It is engaged in general commercial, retail banking and trust services normally associated with community banks. It offers a broad range of banking services to businesses, individuals, and governmental entities which includes accepting and maintaining checking, savings, and time deposit accounts, providing investment and trust services, making loans and providing safe deposit facilities. The bank also performs personal, corporate, pension and fiduciary services through its Investment and Trust Services Department.",
+      "dividendHistory": [
+        {
+          "year": "1998",
+          "amount": "$0.16"
+        },
+        {
+          "year": "1999",
+          "amount": "$1.08"
+        },
+        {
+          "year": "2000",
+          "amount": "$0.76"
+        },
+        {
+          "year": "2001",
+          "amount": "$0.64"
+        },
+        {
+          "year": "2013",
+          "amount": "$0.68"
+        },
+        {
+          "year": "2014",
+          "amount": "$0.68"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.19"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.90"
+        },
+        {
+          "year": "2020",
+          "amount": "$1.20"
+        },
+        {
+          "year": "2021",
+          "amount": "$1.25"
+        },
+        {
+          "year": "2022",
+          "amount": "$1.28"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.28"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.28"
+        },
+        {
+          "year": "2025",
+          "amount": "$1.31"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.67"
+        }
+      ],
+      "dividendYears": 15,
+      "dividendGrowth": {
+        "rate": "5.2%",
+        "years": 28
       }
     },
     {
@@ -39275,92 +39275,6 @@
       }
     },
     {
-      "symbol": "OVLY",
-      "name": "Oak Valley Bancorp (CA) Common Stock",
-      "price": "$33.775",
-      "marketCap": "284,164,544",
-      "sector": "Finance",
-      "industry": "Major Banks",
-      "dividendYield": "2.21%",
-      "annualDividend": "$0.75",
-      "exDividendDate": "02/02/2026",
-      "paymentDate": "02/13/2026",
-      "growthRate": "9.2%",
-      "growthSource": "4yr Revenue CAGR",
-      "description": "Oak Valley Bancorp operates Oak Valley Community Bank & its Eastern Sierra Community Bank division, offering a full range of loan and deposit services to individuals and small businesses. The Bank currently operates through 19 conveniently located branches: Oakdale , Turlock , Stockton , Patterson , Ripon , Escalon , Manteca , Tracy , Sacramento , Roseville , Lodi , two branches in Sonora , three branches in Modesto , and the Eastern Sierra communities of Bridgeport , Mammoth Lakes , and Bishop.",
-      "dividendHistory": [
-        {
-          "year": "1999",
-          "amount": "$0.35"
-        },
-        {
-          "year": "2000",
-          "amount": "$0.30"
-        },
-        {
-          "year": "2001",
-          "amount": "$0.35"
-        },
-        {
-          "year": "2014",
-          "amount": "$0.17"
-        },
-        {
-          "year": "2015",
-          "amount": "$0.21"
-        },
-        {
-          "year": "2016",
-          "amount": "$0.24"
-        },
-        {
-          "year": "2017",
-          "amount": "$0.25"
-        },
-        {
-          "year": "2018",
-          "amount": "$0.26"
-        },
-        {
-          "year": "2019",
-          "amount": "$0.27"
-        },
-        {
-          "year": "2020",
-          "amount": "$0.28"
-        },
-        {
-          "year": "2021",
-          "amount": "$0.29"
-        },
-        {
-          "year": "2022",
-          "amount": "$0.30"
-        },
-        {
-          "year": "2023",
-          "amount": "$0.32"
-        },
-        {
-          "year": "2024",
-          "amount": "$0.45"
-        },
-        {
-          "year": "2025",
-          "amount": "$0.60"
-        },
-        {
-          "year": "2026",
-          "amount": "$0.38"
-        }
-      ],
-      "dividendYears": 16,
-      "dividendGrowth": {
-        "rate": "0.3%",
-        "years": 27
-      }
-    },
-    {
       "symbol": "POOL",
       "name": "Pool Corporation Common Stock",
       "price": "$232.55",
@@ -39498,6 +39412,92 @@
       "dividendGrowth": {
         "rate": "1.3%",
         "years": 9
+      }
+    },
+    {
+      "symbol": "OVLY",
+      "name": "Oak Valley Bancorp (CA) Common Stock",
+      "price": "$33.775",
+      "marketCap": "284,164,544",
+      "sector": "Finance",
+      "industry": "Major Banks",
+      "dividendYield": "2.18%",
+      "annualDividend": "$0.75",
+      "exDividendDate": "02/02/2026",
+      "paymentDate": "02/13/2026",
+      "growthRate": "9.2%",
+      "growthSource": "4yr Revenue CAGR",
+      "description": "Oak Valley Bancorp operates Oak Valley Community Bank & its Eastern Sierra Community Bank division, offering a full range of loan and deposit services to individuals and small businesses. The Bank currently operates through 19 conveniently located branches: Oakdale , Turlock , Stockton , Patterson , Ripon , Escalon , Manteca , Tracy , Sacramento , Roseville , Lodi , two branches in Sonora , three branches in Modesto , and the Eastern Sierra communities of Bridgeport , Mammoth Lakes , and Bishop.",
+      "dividendHistory": [
+        {
+          "year": "1999",
+          "amount": "$0.35"
+        },
+        {
+          "year": "2000",
+          "amount": "$0.30"
+        },
+        {
+          "year": "2001",
+          "amount": "$0.35"
+        },
+        {
+          "year": "2014",
+          "amount": "$0.17"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.21"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.24"
+        },
+        {
+          "year": "2017",
+          "amount": "$0.25"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.26"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.27"
+        },
+        {
+          "year": "2020",
+          "amount": "$0.28"
+        },
+        {
+          "year": "2021",
+          "amount": "$0.29"
+        },
+        {
+          "year": "2022",
+          "amount": "$0.30"
+        },
+        {
+          "year": "2023",
+          "amount": "$0.32"
+        },
+        {
+          "year": "2024",
+          "amount": "$0.45"
+        },
+        {
+          "year": "2025",
+          "amount": "$0.60"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.38"
+        }
+      ],
+      "dividendYears": 16,
+      "dividendGrowth": {
+        "rate": "0.3%",
+        "years": 27
       }
     },
     {
@@ -39712,6 +39712,100 @@
       "dividendGrowth": {
         "rate": "0.0%",
         "years": 1
+      }
+    },
+    {
+      "symbol": "CHMG",
+      "name": "Chemung Financial Corp Common Stock",
+      "price": "$66.83",
+      "marketCap": "322,018,150",
+      "sector": "Finance",
+      "industry": "Major Banks",
+      "dividendYield": "2.16%",
+      "annualDividend": "$1.36",
+      "exDividendDate": "03/18/2026",
+      "paymentDate": "04/01/2026",
+      "growthRate": "16.38%",
+      "growthSource": "Analyst Forecast",
+      "description": "Chemung Financial Corporation is a $2.7 billion financial services holding company headquartered in Elmira, New York and operates 30 retail offices through its principal subsidiary, Chemung Canal Trust Company, a full service community bank with trust powers. Established in 1833, Chemung Canal Trust Company is the oldest locally-owned and managed community bank in New York State. Chemung Financial Corporation is also the parent of CFS Group, Inc., a financial services subsidiary offering non-traditional services including mutual funds, annuities, brokerage services, tax preparation services, and insurance.",
+      "dividendHistory": [
+        {
+          "year": "1998",
+          "amount": "$0.17"
+        },
+        {
+          "year": "1999",
+          "amount": "$0.76"
+        },
+        {
+          "year": "2000",
+          "amount": "$0.86"
+        },
+        {
+          "year": "2001",
+          "amount": "$0.44"
+        },
+        {
+          "year": "2013",
+          "amount": "$1.04"
+        },
+        {
+          "year": "2014",
+          "amount": "$1.04"
+        },
+        {
+          "year": "2015",
+          "amount": "$1.04"
+        },
+        {
+          "year": "2016",
+          "amount": "$1.04"
+        },
+        {
+          "year": "2017",
+          "amount": "$1.04"
+        },
+        {
+          "year": "2018",
+          "amount": "$1.04"
+        },
+        {
+          "year": "2019",
+          "amount": "$1.04"
+        },
+        {
+          "year": "2020",
+          "amount": "$1.04"
+        },
+        {
+          "year": "2021",
+          "amount": "$1.19"
+        },
+        {
+          "year": "2022",
+          "amount": "$1.24"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.24"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.24"
+        },
+        {
+          "year": "2025",
+          "amount": "$1.32"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.34"
+        }
+      ],
+      "dividendYears": 18,
+      "dividendGrowth": {
+        "rate": "2.5%",
+        "years": 28
       }
     },
     {
@@ -40007,88 +40101,6 @@
       }
     },
     {
-      "symbol": "FCCO",
-      "name": "First Community Corporation Common Stock",
-      "price": "$30.12",
-      "marketCap": "282,647,435",
-      "sector": "Finance",
-      "industry": "Major Banks",
-      "dividendYield": "2.14%",
-      "annualDividend": "$0.64",
-      "exDividendDate": "02/10/2026",
-      "paymentDate": "02/24/2026",
-      "growthRate": "13.93%",
-      "growthSource": "Analyst Forecast",
-      "description": "First Community Corporation stock trades on The NASDAQ Capital Market under the symbol 'FCCO' and is the holding company for First Community Bank, a local community bank based in the Midlands of South Carolina. First Community Bank is a full-service commercial bank offering deposit and loan products and services, residential mortgage lending, financial planning/investment advisory services, and SBA/USDA lending. First Community serves customers in the Midlands, Aiken, Upstate and Piedmont Regions of South Carolina as well as Augusta and Atlanta, Georgia. For more information, visit www.firstcommunitysc.com.",
-      "dividendHistory": [
-        {
-          "year": "2003",
-          "amount": "$0.09"
-        },
-        {
-          "year": "2013",
-          "amount": "$0.17"
-        },
-        {
-          "year": "2014",
-          "amount": "$0.24"
-        },
-        {
-          "year": "2015",
-          "amount": "$0.28"
-        },
-        {
-          "year": "2016",
-          "amount": "$0.32"
-        },
-        {
-          "year": "2017",
-          "amount": "$0.36"
-        },
-        {
-          "year": "2018",
-          "amount": "$0.40"
-        },
-        {
-          "year": "2019",
-          "amount": "$0.44"
-        },
-        {
-          "year": "2020",
-          "amount": "$0.48"
-        },
-        {
-          "year": "2021",
-          "amount": "$0.48"
-        },
-        {
-          "year": "2022",
-          "amount": "$0.52"
-        },
-        {
-          "year": "2023",
-          "amount": "$0.56"
-        },
-        {
-          "year": "2024",
-          "amount": "$0.58"
-        },
-        {
-          "year": "2025",
-          "amount": "$0.62"
-        },
-        {
-          "year": "2026",
-          "amount": "$0.16"
-        }
-      ],
-      "dividendYears": 15,
-      "dividendGrowth": {
-        "rate": "2.5%",
-        "years": 23
-      }
-    },
-    {
       "symbol": "CBSH",
       "name": "Commerce Bancshares, Inc. Common Stock",
       "price": "$50.56",
@@ -40370,6 +40382,88 @@
       "dividendGrowth": {
         "rate": "0.8%",
         "years": 38
+      }
+    },
+    {
+      "symbol": "FCCO",
+      "name": "First Community Corporation Common Stock",
+      "price": "$30.12",
+      "marketCap": "282,647,435",
+      "sector": "Finance",
+      "industry": "Major Banks",
+      "dividendYield": "2.12%",
+      "annualDividend": "$0.64",
+      "exDividendDate": "02/10/2026",
+      "paymentDate": "02/24/2026",
+      "growthRate": "13.93%",
+      "growthSource": "Analyst Forecast",
+      "description": "First Community Corporation stock trades on The NASDAQ Capital Market under the symbol \"FCCO\" and is the holding company for First Community Bank, a local community bank based in the Midlands of South Carolina. First Community Bank is a full-service commercial bank offering deposit and loan products and services, residential mortgage lending, financial planning/investment advisory services, and SBA/USDA lending. First Community serves customers in the Midlands, Aiken, Upstate and Piedmont Regions of South Carolina as well as Augusta and Atlanta, Georgia.",
+      "dividendHistory": [
+        {
+          "year": "2003",
+          "amount": "$0.09"
+        },
+        {
+          "year": "2013",
+          "amount": "$0.17"
+        },
+        {
+          "year": "2014",
+          "amount": "$0.24"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.28"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.32"
+        },
+        {
+          "year": "2017",
+          "amount": "$0.36"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.40"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.44"
+        },
+        {
+          "year": "2020",
+          "amount": "$0.48"
+        },
+        {
+          "year": "2021",
+          "amount": "$0.48"
+        },
+        {
+          "year": "2022",
+          "amount": "$0.52"
+        },
+        {
+          "year": "2023",
+          "amount": "$0.56"
+        },
+        {
+          "year": "2024",
+          "amount": "$0.58"
+        },
+        {
+          "year": "2025",
+          "amount": "$0.62"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.16"
+        }
+      ],
+      "dividendYears": 15,
+      "dividendGrowth": {
+        "rate": "2.5%",
+        "years": 23
       }
     },
     {
@@ -40805,97 +40899,97 @@
       }
     },
     {
-      "symbol": "CHMG",
-      "name": "Chemung Financial Corp Common Stock",
-      "price": "$66.83",
-      "marketCap": "322,018,150",
+      "symbol": "WNEB",
+      "name": "Western New England Bancorp, Inc. Common Stock",
+      "price": "$13.86",
+      "marketCap": "280,787,966",
       "sector": "Finance",
-      "industry": "Major Banks",
+      "industry": "Savings Institutions",
       "dividendYield": "2.05%",
-      "annualDividend": "$1.36",
-      "exDividendDate": "03/18/2026",
-      "paymentDate": "04/01/2026",
-      "growthRate": "16.38%",
+      "annualDividend": "$0.28",
+      "exDividendDate": "02/11/2026",
+      "paymentDate": "02/25/2026",
+      "growthRate": "27.33%",
       "growthSource": "Analyst Forecast",
-      "description": "Chemung Financial Corporation is a $2.7 billion financial services holding company headquartered in Elmira, New York and operates 30 retail offices through its principal subsidiary, Chemung Canal Trust Company, a full service community bank with trust powers. Established in 1833, Chemung Canal Trust Company is the oldest locally-owned and managed community bank in New York State. Chemung Financial Corporation is also the parent of CFS Group, Inc., a financial services subsidiary offering non-traditional services including mutual funds, annuities, brokerage services, tax preparation services, and insurance.",
+      "description": "Western New England Bancorp, Inc. is a Massachusetts -chartered stock holding company and the parent company of Westfield Bank, CSB Colts, Inc., Elm Street Securities Corporation, WFD Securities, Inc. and WB Real Estate Holdings, LLC. Western New England Bancorp, Inc. and its subsidiaries are headquartered in Westfield, Massachusetts and operate 25 banking offices throughout western Massachusetts and northern Connecticut. To learn more, visit our website at www.westfieldbank.com.",
       "dividendHistory": [
         {
-          "year": "1998",
-          "amount": "$0.17"
+          "year": "2004",
+          "amount": "$0.20"
         },
         {
-          "year": "1999",
-          "amount": "$0.76"
+          "year": "2005",
+          "amount": "$0.90"
         },
         {
-          "year": "2000",
-          "amount": "$0.86"
+          "year": "2006",
+          "amount": "$1.00"
         },
         {
-          "year": "2001",
-          "amount": "$0.44"
+          "year": "2007",
+          "amount": "$0.15"
         },
         {
           "year": "2013",
-          "amount": "$1.04"
+          "amount": "$0.12"
         },
         {
           "year": "2014",
-          "amount": "$1.04"
+          "amount": "$0.21"
         },
         {
           "year": "2015",
-          "amount": "$1.04"
+          "amount": "$0.12"
         },
         {
           "year": "2016",
-          "amount": "$1.04"
+          "amount": "$0.12"
         },
         {
           "year": "2017",
-          "amount": "$1.04"
+          "amount": "$0.12"
         },
         {
           "year": "2018",
-          "amount": "$1.04"
+          "amount": "$0.16"
         },
         {
           "year": "2019",
-          "amount": "$1.04"
+          "amount": "$0.20"
         },
         {
           "year": "2020",
-          "amount": "$1.04"
+          "amount": "$0.20"
         },
         {
           "year": "2021",
-          "amount": "$1.19"
+          "amount": "$0.20"
         },
         {
           "year": "2022",
-          "amount": "$1.24"
+          "amount": "$0.24"
         },
         {
           "year": "2023",
-          "amount": "$1.24"
+          "amount": "$0.28"
         },
         {
           "year": "2024",
-          "amount": "$1.24"
+          "amount": "$0.28"
         },
         {
           "year": "2025",
-          "amount": "$1.32"
+          "amount": "$0.28"
         },
         {
           "year": "2026",
-          "amount": "$0.34"
+          "amount": "$0.07"
         }
       ],
       "dividendYears": 18,
       "dividendGrowth": {
-        "rate": "2.5%",
-        "years": 28
+        "rate": "-4.7%",
+        "years": 22
       }
     },
     {
@@ -41158,100 +41252,6 @@
       "dividendGrowth": {
         "rate": "2.7%",
         "years": 38
-      }
-    },
-    {
-      "symbol": "WNEB",
-      "name": "Western New England Bancorp, Inc. Common Stock",
-      "price": "$13.86",
-      "marketCap": "280,787,966",
-      "sector": "Finance",
-      "industry": "Savings Institutions",
-      "dividendYield": "2.04%",
-      "annualDividend": "$0.28",
-      "exDividendDate": "02/11/2026",
-      "paymentDate": "02/25/2026",
-      "growthRate": "27.33%",
-      "growthSource": "Analyst Forecast",
-      "description": "Western New England Bancorp, Inc. is a Massachusetts -chartered stock holding company and the parent company of Westfield Bank, CSB Colts, Inc., Elm Street Securities Corporation, WFD Securities, Inc. and WB Real Estate Holdings, LLC. Western New England Bancorp, Inc. and its subsidiaries are headquartered in Westfield, Massachusetts and operate 25 banking offices throughout western Massachusetts and northern Connecticut. To learn more, visit our website at www.westfieldbank.com.",
-      "dividendHistory": [
-        {
-          "year": "2004",
-          "amount": "$0.20"
-        },
-        {
-          "year": "2005",
-          "amount": "$0.90"
-        },
-        {
-          "year": "2006",
-          "amount": "$1.00"
-        },
-        {
-          "year": "2007",
-          "amount": "$0.15"
-        },
-        {
-          "year": "2013",
-          "amount": "$0.12"
-        },
-        {
-          "year": "2014",
-          "amount": "$0.21"
-        },
-        {
-          "year": "2015",
-          "amount": "$0.12"
-        },
-        {
-          "year": "2016",
-          "amount": "$0.12"
-        },
-        {
-          "year": "2017",
-          "amount": "$0.12"
-        },
-        {
-          "year": "2018",
-          "amount": "$0.16"
-        },
-        {
-          "year": "2019",
-          "amount": "$0.20"
-        },
-        {
-          "year": "2020",
-          "amount": "$0.20"
-        },
-        {
-          "year": "2021",
-          "amount": "$0.20"
-        },
-        {
-          "year": "2022",
-          "amount": "$0.24"
-        },
-        {
-          "year": "2023",
-          "amount": "$0.28"
-        },
-        {
-          "year": "2024",
-          "amount": "$0.28"
-        },
-        {
-          "year": "2025",
-          "amount": "$0.28"
-        },
-        {
-          "year": "2026",
-          "amount": "$0.07"
-        }
-      ],
-      "dividendYears": 18,
-      "dividendGrowth": {
-        "rate": "-4.7%",
-        "years": 22
       }
     },
     {
@@ -41533,7 +41533,7 @@
       "paymentDate": "03/10/2026",
       "growthRate": "14.85%",
       "growthSource": "Analyst Forecast",
-      "description": "Microchip Technology Inc. is a broadline supplier of semiconductors committed to making innovative design easier through total system solutions that address critical challenges at the intersection of emerging technologies and durable end markets. Its easy-to-use development tools and comprehensive product portfolio supports customers throughout the design process, from concept to completion. Headquartered in Chandler, Arizona, Microchip offers outstanding technical support and delivers solutions across the industrial, automotive, consumer, aerospace and defense, communications and computing markets.",
+      "description": "Microchip Technology Inc. is a broadline supplier of semiconductors committed to making innovative design easier through total system solutions that address critical challenges at the intersection of emerging technologies and durable end markets. Its easy-to-use development tools and comprehensive product portfolio support customers throughout the design process, from concept to completion. Headquartered in Chandler, Arizona, Microchip offers outstanding technical support and delivers solutions across the industrial, automotive, consumer, aerospace and defense, communications and computing markets.",
       "dividendHistory": [
         {
           "year": "2002",
@@ -44915,13 +44915,13 @@
       "marketCap": "398,938,580",
       "sector": "Finance",
       "industry": "Banks",
-      "dividendYield": "1.74%",
+      "dividendYield": "1.73%",
       "annualDividend": "$0.4",
       "exDividendDate": "02/13/2026",
       "paymentDate": "02/27/2026",
       "growthRate": "15.2%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Greene County Bancorp Inc is a holding firm.",
+      "description": "Greene County Bancorp Inc is a holding firm. Its primary business involves overseeing and directing the business of The Bank of Greene County and monitoring its cash position. Through its directly and indirectly owned subsidiaries, the company engages in attracting retail deposits, along with funds generated from operations and borrowings, primarily in one to four-family residential mortgage loans, commercial real estate mortgage loans, consumer loans, home equity loans, and commercial business loans. It also serves local municipalities' banking needs and operates a real estate investment trust.",
       "dividendHistory": [
         {
           "year": "2000",
@@ -45951,7 +45951,7 @@
       "annualDividend": "$0.8",
       "exDividendDate": "03/30/2026",
       "paymentDate": "04/09/2026",
-      "growthRate": "11.51%",
+      "growthRate": "-5.52%",
       "growthSource": "Analyst Forecast",
       "description": "Flexsteel Industries, Inc., and Subsidiaries (the 'Company') is one of the largest residential furniture manufacturers, importers, and marketers in the U.S., known for crafting comfortable, durable seating and timeless designs for rooms throughout the home. For more than 130 years, Flexsteel has built furniture with care, highlighted by its patented Blue Steel Spring technology that delivers lasting comfort and support. Today, Flexsteel products are available nationwide through retail partners and online channels, helping people create inviting, livable spaces they can enjoy for years to come.",
       "dividendHistory": [
@@ -47555,7 +47555,7 @@
       "paymentDate": "03/31/2026",
       "growthRate": "2.67%",
       "growthSource": "Analyst Forecast",
-      "description": "Iridium Communications Inc. (Nasdaq: IRDM) operates the world's only truly global mobile satellite network, delivering reliable voice, data, and positioning, navigation and timing (PNT) services anywhere on Earth. Iridium supports safety- and mission-critical operations for diverse markets such as aviation, maritime, government, emergency services, critical infrastructure, autonomous systems, and remote monitoring applications, where connectivity is essential. Headquartered in McLean, Virginia, Iridium provides its products and services through an ecosystem of 500-plus partner companies around the world.",
+      "description": "Iridium Communications Inc. (Nasdaq: IRDM) operates the world's only truly global mobile satellite network, delivering reliable voice, data, and positioning, navigation and timing (PNT) services anywhere on Earth. Iridium supports safety- and mission-critical operations for diverse markets such as aviation, maritime, government, emergency services, critical infrastructure, autonomous systems, and remote monitoring applications, where connectivity is essential. Headquartered in McLean, Va., Iridium provides its products and services through an ecosystem of 500-plus partner companies around the world.",
       "dividendHistory": [
         {
           "year": "2023",
@@ -47873,7 +47873,7 @@
       "paymentDate": "02/27/2026",
       "growthRate": "-7.78%",
       "growthSource": "Analyst Forecast",
-      "description": "Baker Hughes (NASDAQ: BKR) is an energy technology company that provides solutions to energy and industrial customers worldwide. Built on a century of experience and conducting business in over 120 countries, our innovative technologies and services are taking energy forward - making it safer, cleaner and more efficient for people and the planet. Visit us at bakerhughes.com.",
+      "description": "Baker Hughes (Nasdaq: BKR) is an energy technology company that provides solutions to energy and industrial customers worldwide. Built on a century of experience and conducting business in over 120 countries, our innovative technologies and services are taking energy forward - making it safer, cleaner and more efficient for people and the planet.",
       "dividendHistory": [
         {
           "year": "2017",
@@ -47998,48 +47998,6 @@
       "dividendGrowth": {
         "rate": "-2.2%",
         "years": 13
-      }
-    },
-    {
-      "symbol": "JMSB",
-      "name": "John Marshall Bancorp, Inc. Common Stock",
-      "price": "$21.03",
-      "marketCap": "298,911,083",
-      "sector": "Finance",
-      "industry": "Major Banks",
-      "dividendYield": "1.42%",
-      "annualDividend": "$0.3",
-      "exDividendDate": "06/27/2025",
-      "paymentDate": "07/07/2025",
-      "growthRate": "20.81%",
-      "growthSource": "Analyst Forecast",
-      "description": "John Marshall Bancorp, Inc. is the bank holding company for John Marshall Bank. The Bank is headquartered in Reston, Virginia with eight full-service branches located in Alexandria, Arlington, Loudoun, Prince William, Reston, and Tysons, Virginia, as well as Rockville, Maryland, and Washington, D.C. The Bank is dedicated to providing exceptional value, personalized service and convenience to local businesses and consumers in the Washington D.C. Metro area. The Bank offers a comprehensive line of sophisticated banking products and services along with experienced staff to help achieve customers' financial goals. Dedicated relationship managers serve as direct points-of-contact, providing subject matter expertise in a variety of niche industries including commercial real estate, trade contractors, government contractors, health services, nonprofits, private and charter schools, professional services, property management, community associations and title and escrow services.",
-      "dividendHistory": [
-        {
-          "year": "2022",
-          "amount": "$0.20"
-        },
-        {
-          "year": "2023",
-          "amount": "$0.22"
-        },
-        {
-          "year": "2024",
-          "amount": "$0.25"
-        },
-        {
-          "year": "2025",
-          "amount": "$0.30"
-        },
-        {
-          "year": "2026",
-          "amount": "$0.09"
-        }
-      ],
-      "dividendYears": 5,
-      "dividendGrowth": {
-        "rate": "-18.1%",
-        "years": 4
       }
     },
     {
@@ -48328,6 +48286,48 @@
       "dividendGrowth": {
         "rate": "-29.3%",
         "years": 10
+      }
+    },
+    {
+      "symbol": "JMSB",
+      "name": "John Marshall Bancorp, Inc. Common Stock",
+      "price": "$21.03",
+      "marketCap": "298,911,083",
+      "sector": "Finance",
+      "industry": "Major Banks",
+      "dividendYield": "1.41%",
+      "annualDividend": "$0.3",
+      "exDividendDate": "06/27/2025",
+      "paymentDate": "07/07/2025",
+      "growthRate": "7.7%",
+      "growthSource": "4yr Revenue CAGR",
+      "description": "John Marshall Bancorp, Inc. is the bank holding company for John Marshall Bank. The Bank is headquartered in Reston, Virginia with eight full-service branches located in Alexandria, Arlington, Loudoun, Prince William, Reston, and Tysons, Virginia, as well as Rockville, Maryland, and Washington, D.C. The Bank is dedicated to providing exceptional value, personalized service and convenience to local businesses and consumers in the Washington D.C. Metro area. The Bank offers a comprehensive line of sophisticated banking products and services along with experienced staff to help achieve customers' financial goals. Dedicated relationship managers serve as direct points-of-contact, providing subject matter expertise in a variety of niche industries including commercial real estate, trade contractors, government contractors, health services, nonprofits, private and charter schools, professional services, property management, community associations and title and escrow services.",
+      "dividendHistory": [
+        {
+          "year": "2022",
+          "amount": "$0.20"
+        },
+        {
+          "year": "2023",
+          "amount": "$0.22"
+        },
+        {
+          "year": "2024",
+          "amount": "$0.25"
+        },
+        {
+          "year": "2025",
+          "amount": "$0.30"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.09"
+        }
+      ],
+      "dividendYears": 5,
+      "dividendGrowth": {
+        "rate": "-18.1%",
+        "years": 4
       }
     },
     {
@@ -50321,76 +50321,6 @@
       }
     },
     {
-      "symbol": "KINS",
-      "name": "Kingstone Companies, Inc. Common Stock",
-      "price": "$17.60",
-      "marketCap": "254,792,120",
-      "sector": "Finance",
-      "industry": "Property-Casualty Insurers",
-      "dividendYield": "1.15%",
-      "annualDividend": "$0.2",
-      "exDividendDate": "02/11/2026",
-      "paymentDate": "02/26/2026",
-      "growthRate": "-17.56%",
-      "growthSource": "Analyst Forecast",
-      "description": "Kingstone is a Northeast regional property and casualty insurance holding company whose principal operating subsidiary is Kingstone Insurance Company ('KICO'). KICO is a New York domiciled carrier writing business through retail and wholesale agents and brokers. Kingstone delivers tailored homeowners insurance solutions through its sophisticated product suite, Select, supported by a scalable and efficient operating platform that enables the Company to pursue significant market opportunities and strategic expansion. KICO was the 11th largest writer of homeowners insurance in New York in 2025 and is also licensed in New Jersey, Rhode Island, Massachusetts, Connecticut, Pennsylvania, New Hampshire, and Maine.",
-      "dividendHistory": [
-        {
-          "year": "2013",
-          "amount": "$0.08"
-        },
-        {
-          "year": "2014",
-          "amount": "$0.18"
-        },
-        {
-          "year": "2015",
-          "amount": "$0.21"
-        },
-        {
-          "year": "2016",
-          "amount": "$0.25"
-        },
-        {
-          "year": "2017",
-          "amount": "$0.30"
-        },
-        {
-          "year": "2018",
-          "amount": "$0.40"
-        },
-        {
-          "year": "2019",
-          "amount": "$0.33"
-        },
-        {
-          "year": "2020",
-          "amount": "$0.18"
-        },
-        {
-          "year": "2021",
-          "amount": "$0.16"
-        },
-        {
-          "year": "2022",
-          "amount": "$0.12"
-        },
-        {
-          "year": "2025",
-          "amount": "$0.10"
-        },
-        {
-          "year": "2026",
-          "amount": "$0.05"
-        }
-      ],
-      "dividendYears": 12,
-      "dividendGrowth": {
-        "rate": "-3.6%",
-        "years": 13
-      }
-    },
-    {
       "symbol": "SEIC",
       "name": "SEI Investments Company Common Stock",
       "price": "$88.84",
@@ -50860,6 +50790,76 @@
       "dividendGrowth": {
         "rate": "1.5%",
         "years": 38
+      }
+    },
+    {
+      "symbol": "KINS",
+      "name": "Kingstone Companies, Inc. Common Stock",
+      "price": "$17.60",
+      "marketCap": "254,792,120",
+      "sector": "Finance",
+      "industry": "Property-Casualty Insurers",
+      "dividendYield": "1.1%",
+      "annualDividend": "$0.2",
+      "exDividendDate": "02/11/2026",
+      "paymentDate": "02/26/2026",
+      "growthRate": "-17.56%",
+      "growthSource": "Analyst Forecast",
+      "description": "Kingstone is a Northeast regional property and casualty insurance holding company whose principal operating subsidiary is Kingstone Insurance Company ('KICO'). KICO is a New York domiciled carrier writing business through retail and wholesale agents and brokers. Kingstone delivers tailored homeowners insurance solutions through its sophisticated product suite, Select, supported by a scalable and efficient operating platform that enables the Company to pursue significant market opportunities and strategic expansion. KICO was the 11th largest writer of homeowners insurance in New York in 2025 and is also licensed in New Jersey, Rhode Island, Massachusetts, Connecticut, Pennsylvania, New Hampshire, and Maine.",
+      "dividendHistory": [
+        {
+          "year": "2013",
+          "amount": "$0.08"
+        },
+        {
+          "year": "2014",
+          "amount": "$0.18"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.21"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.25"
+        },
+        {
+          "year": "2017",
+          "amount": "$0.30"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.40"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.33"
+        },
+        {
+          "year": "2020",
+          "amount": "$0.18"
+        },
+        {
+          "year": "2021",
+          "amount": "$0.16"
+        },
+        {
+          "year": "2022",
+          "amount": "$0.12"
+        },
+        {
+          "year": "2025",
+          "amount": "$0.10"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.05"
+        }
+      ],
+      "dividendYears": 12,
+      "dividendGrowth": {
+        "rate": "-3.6%",
+        "years": 13
       }
     },
     {
@@ -53085,7 +53085,7 @@
       "paymentDate": "02/10/2026",
       "growthRate": "20.25%",
       "growthSource": "Analyst Forecast",
-      "description": "Headquartered in Cincinnati, LSI is a publicly held company traded over the NASDAQ Stock Exchange under the symbol LYTS. The company manufactures advanced lighting, graphics and display solutions across strategic vertical markets. The company's American-made products, which include non-residential indoor and outdoor lighting, print graphics, digital graphics, signage, refrigerated, heated and custom displays, help create value for customer brands and enhance the consumer experience. LSI also provides comprehensive project management services in support of large-scale product rollouts. The company employs approximately 3,000 people at 23 manufacturing plants in the U.S. and Canada.",
+      "description": "Headquartered in Cincinnati, LSI is a publicly held company traded over the NASDAQ Stock Exchange under the symbol LYTS. The company manufactures advanced lighting, graphics, and display solutions across strategic vertical markets. The company's American-made products, which include non-residential indoor and outdoor lighting, print graphics, digital graphics, refrigerated and custom displays, help create value for customer brands and enhance the consumer experience. LSI also provides comprehensive project management services in support of large-scale product rollouts. The company employs approximately 3,000 people at 23 manufacturing plants in the U.S. and Canada. Additional information about LSI is available at www.lsicorp.com .",
       "dividendHistory": [
         {
           "year": "1989",
@@ -53221,8 +53221,8 @@
       "annualDividend": "$0.16",
       "exDividendDate": "02/18/2026",
       "paymentDate": "03/02/2026",
-      "growthRate": "8.8%",
-      "growthSource": "4yr Revenue CAGR",
+      "growthRate": "864.29%",
+      "growthSource": "Analyst Forecast",
       "description": "Twin Disc, Inc. designs, manufactures and sells marine and heavy-duty off-highway power transmission equipment. Products offered include marine transmissions, azimuth drives, surface drives, propellers and boat management systems, as well as power-shift transmissions, hydraulic torque converters, power take-offs, industrial clutches and control systems. The Company sells its products to customers primarily in the pleasure craft, commercial and military marine markets, as well as in the energy and natural resources, government and industrial markets. The Company's worldwide sales to both domestic and foreign customers are transacted through a direct sales force and a distributor network.",
       "dividendHistory": [
         {
@@ -53923,7 +53923,7 @@
       "paymentDate": "11/17/2025",
       "growthRate": "4.33%",
       "growthSource": "Analyst Forecast",
-      "description": "Climb Global Solutions, Inc. (NASDAQ:CLMB) is a value-added global IT distribution and solutions company specializing in emerging and innovative technologies. Climb operates across the US, Canada and Europe through multiple business units, including Climb Channel Solutions, Grey Matter and Climb Global Services. The Company provides IT distribution and solutions for companies in the Security, Data Management, Connectivity, Storage & HCI, Virtualization & Cloud, and Software & ALM industries.",
+      "description": "Climb is a global specialty technology distributor focusing on Security, Data Management, Connectivity, Storage & HCI, Virtualization & Cloud, and Software & Application Lifecycle. Climb is committed to transforming distribution by providing emerging and established IT technologies, flexible financing, real-time quoting, best of breed channel operations, speed to market, and exceptional service to our partners worldwide. Climb is a wholly owned subsidiary of Climb Global Solutions (NASDAQ: CLMB). Experience the Climb difference and learn how our people first approach empowers VARs and MSPs to grow, scale, and accelerate their business.",
       "dividendHistory": [
         {
           "year": "2003",
@@ -57167,7 +57167,7 @@
       "paymentDate": "04/08/2026",
       "growthRate": "67.14%",
       "growthSource": "Analyst Forecast",
-      "description": "Seagate Technology is a leading innovator of mass-capacity data storage. We create breakthrough technology so you can confidently store your data and easily unlock its value. Founded over 45 years ago, Seagate has shipped over four billion terabytes of data capacity and offers a full portfolio of storage devices, systems, and services from edge to cloud. To learn more about how Seagate leads storage innovation, visit www.seagate.com and our blog, or follow us on X, Facebook, LinkedIn, and YouTube.",
+      "description": "Seagate Technology Holdings plc is a leading provider of data storage solutions, offering hard disk drives, solid-state drives, and data management technologies used across enterprise, cloud, and consumer applications. As global data creation continues to expand, Seagate plays a critical role in enabling scalable storage infrastructure.",
       "dividendHistory": [
         {
           "year": "2004",
@@ -58355,7 +58355,7 @@
       "paymentDate": "03/16/2026",
       "growthRate": "0.57%",
       "growthSource": "Analyst Forecast",
-      "description": "First Citizens Bank helps personal, business, commercial and wealth clients build financial strength that lasts. Headquartered in Raleigh, N.C., First Citizens has built a unique legacy of strength, stability and long-term thinking that has spanned generations. First Citizens offers an array of general banking services including a network of branches and offices nationwide; commercial banking expertise delivering best-in-class lending, leasing and other financial services coast to coast; innovation banking serving businesses at every stage; and a nationwide direct bank. Parent company First Citizens BancShares, Inc. (NASDAQ: FCNCA) is a top 20 U.S. financial institution with more than $200 billion in assets and a member of the Fortune 500. Discover more at firstcitizens.com.",
+      "description": "First Citizens BancShares, Inc. (Nasdaq: FCNCA), a top 20 U.S. financial institution with more than $225 billion in assets and a member of the Fortune 500TM, is the financial holding company for First-Citizens Bank & Trust Company (' First Citizens Bank '). Headquartered in Raleigh, N.C., First Citizens Bank has built a unique legacy of strength, stability and long-term thinking that has spanned generations. First Citizens offers an array of general banking services with branches and offices nationwide; commercial banking expertise delivering best-in-class lending, leasing and other financial services coast to coast; innovation banking serving businesses at every stage; and a nationwide direct bank. Discover more at firstcitizens.com .",
       "dividendHistory": [
         {
           "year": "1988",
