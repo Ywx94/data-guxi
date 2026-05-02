@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": "2026-05-01T23:05:58.000Z",
+  "lastUpdated": "2026-05-02T23:04:37.087Z",
   "count": 816,
   "totalScanned": 7058,
   "stats": {
@@ -9,7 +9,7 @@
     "withoutGrowthData": 33,
     "withDividendHistory": 816,
     "avgDividendYears": "13.2",
-    "durationMinutes": "12.10"
+    "durationMinutes": "13.83"
   },
   "sectors": [
     {
@@ -1417,7 +1417,7 @@
       "paymentDate": "03/31/2026",
       "growthRate": "-6.6%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "OFS Capital Corporation is an externally managed, closed-end, non-diversified management investment company that has elected to be regulated as a business development company. OFS Capital's investment objective is to provide stockholders with both current income and capital appreciation primarily through debt investments and, to a lesser extent, equity investments. OFS Capital invests primarily in privately held middle-market companies in the United States, including lower-middle-market companies, targeting investments of $3 million to $20 million in companies with annual EBITDA between $5 million and $50 million. OFS Capital offers flexible solutions through a variety of asset classes including senior secured loans, which includes first-lien, second-lien and unitranche loans, as well as subordinated loans and, to a lesser extent, warrants and other equity securities.",
+      "description": "The Company is an externally managed, closed-end, non-diversified management investment company that has elected to be regulated as a business development company. The Company's investment objective is to provide stockholders with both current income and capital appreciation primarily through debt investments and, to a lesser extent, equity investments. The Company invests primarily in privately held middle-market companies in the United States, including lower-middle-market companies, targeting investments of $3 million to $20 million in companies with annual EBITDA between $5 million and $50 million. The Company offers flexible solutions through a variety of asset classes including senior secured loans, which includes first-lien, second-lien and unitranche loans, as well as subordinated loans and, to a lesser extent, warrants and other equity securities.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -2579,7 +2579,7 @@
       "paymentDate": "04/30/2026",
       "growthRate": "-1.6%",
       "growthSource": "Analyst Forecast",
-      "description": "Trinity Capital Inc. (Nasdaq: TRIN) is an international alternative asset manager that seeks to deliver consistent returns for investors through access to private credit markets. Trinity Capital sources and structures investments in well-capitalized growth-oriented companies across five distinct lending verticals: Sponsor Finance, Equipment Finance, Tech Lending, Asset Based Lending, and Life Sciences. As a long-term, trusted partner for innovative companies seeking tailored debt solutions, Trinity Capital has deployed more than $5.5 billion across over 463 investments since inception in 2008 (as of December 31, 2025 ). Headquartered in Phoenix, Arizona, Trinity Capital's dedicated team is strategically located across the United States and Europe. For more information on Trinity Capital, please visit trinitycapital.com and stay connected to the latest activity via LinkedIn.",
+      "description": "Trinity Capital Inc. (Nasdaq: TRIN) is an international alternative asset manager that seeks to deliver consistent returns for investors through access to private credit markets. Trinity Capital sources and structures investments in well-capitalized growth-oriented companies across five distinct lending verticals: Sponsor Finance, Equipment Finance, Tech Lending, Asset Based Lending, and Life Sciences. As a long-term, trusted partner for innovative companies seeking tailored debt solutions, Trinity Capital has deployed more than $5.5 billion across over 463 investments since inception in 2008 (as of December 31, 2025 ). Headquartered in Phoenix, Arizona, Trinity Capital's dedicated team is strategically located across the United States and Europe.",
       "dividendHistory": [
         {
           "year": "2021",
@@ -5123,7 +5123,7 @@
       "paymentDate": "04/15/2026",
       "growthRate": "-7.06%",
       "growthSource": "Analyst Forecast",
-      "description": "Millicom (NASDAQ: TIGO) is a leading provider of fixed and mobile telecommunications services in Latin America. Through its TIGO® and Tigo Business® brands, the company provides a wide range of digital services and products, including TIGO Money for mobile financial services, TIGO Sports for local entertainment, TIGO ONEtv for pay TV, highspeed data, voice, and business-to-business solutions such as cloud and security. As of December 31, 2025,Millicom, including its Honduras Joint Venture, employed approximately 15,000 people and provided mobile and fiber-cable services through its digital highways to approximately 52 million customers, with a fiber-cable footprint over 14 million homes passed. Founded in 1990, Millicom International Cellular S.A. is headquartered in Luxembourg with principal executive offices in Doral, Florida.",
+      "description": "Millicom (NASDAQ: TIGO) is a leading provider of fixed and mobile telecommunications services in Latin America. Through its TIGO® and Tigo Business® brands, the company provides a wide range of digital services and products, including TIGO Money for mobile financial services, TIGO Sports for local entertainment, TIGO ONEtv for pay TV, highspeed data, voice, and business-to-business solutions such as cloud and security. As of December 31, 2025, Millicom, including its Honduras Joint Venture, employed approximately 15,000 people and provided mobile and fiber-cable services through its digital highways to approximately 52 million customers, with a fiber-cable footprint over 14 million homes passed. Founded in 1990, Millicom International Cellular S.A. is headquartered in Luxembourg with principal executive offices in Doral, Florida.",
       "dividendHistory": [
         {
           "year": "2019",
@@ -6209,7 +6209,7 @@
       "paymentDate": "04/01/2026",
       "growthRate": "5.8%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "NewtekOne ®, Your Business Solutions Company ®, is a financial holding company, which along with its bank and non-bank consolidated subsidiaries (collectively, 'NewtekOne'), provides a wide range of business and financial solutions under the Newtek® brand to independent business owners. Since 1999, NewtekOne has provided state-of-the-art, cost-efficient products and services and efficient business strategies to independent business owners across all 50 states to help them grow their sales, control their expenses, and reduce their risk. NewtekOne,s and its subsidiaries, business and financial solutions include: Banking ( Newtek Bank, N.A. ), Business Lending, SBA Lending Solutions, Electronic Payment Processing, Accounts Receivable Financing & Inventory Financing, Insurance Solutions and Payroll and Benefits Solutions.",
+      "description": "NewtekOne ®, Your Business Solutions Company ®, is a financial holding company, which along with its bank and non-bank consolidated subsidiaries (collectively, 'NewtekOne'), provides a wide range of business and financial solutions under the Newtek® brand to independent business owners. Since 1999, NewtekOne has provided state-of-the-art, cost-efficient products and services and efficient business strategies to independent business owners across all 50 states to help them grow their sales, control their expenses, and reduce their risk. NewtekOne's and its subsidiaries' business and financial solutions include: Banking ( Newtek Bank, N.A. ), Business Lending, SBA Lending Solutions, Electronic Payment Processing, Accounts Receivable Financing & Inventory Financing, Insurance Solutions and Payroll and Benefits Solutions.",
       "dividendHistory": [
         {
           "year": "2025",
@@ -6377,7 +6377,7 @@
       "paymentDate": "04/15/2026",
       "growthRate": "5.8%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "NewtekOne ®, Your Business Solutions Company ®, is a financial holding company, which along with its bank and non-bank consolidated subsidiaries (collectively, 'NewtekOne'), provides a wide range of business and financial solutions under the Newtek® brand to independent business owners. Since 1999, NewtekOne has provided state-of-the-art, cost-efficient products and services and efficient business strategies to independent business owners across all 50 states to help them grow their sales, control their expenses, and reduce their risk. NewtekOne,s and its subsidiaries, business and financial solutions include: Banking ( Newtek Bank, N.A. ), Business Lending, SBA Lending Solutions, Electronic Payment Processing, Accounts Receivable Financing & Inventory Financing, Insurance Solutions and Payroll and Benefits Solutions.",
+      "description": "NewtekOne ®, Your Business Solutions Company ®, is a financial holding company, which along with its bank and non-bank consolidated subsidiaries (collectively, 'NewtekOne'), provides a wide range of business and financial solutions under the Newtek® brand to independent business owners. Since 1999, NewtekOne has provided state-of-the-art, cost-efficient products and services and efficient business strategies to independent business owners across all 50 states to help them grow their sales, control their expenses, and reduce their risk. NewtekOne's and its subsidiaries' business and financial solutions include: Banking ( Newtek Bank, N.A. ), Business Lending, SBA Lending Solutions, Electronic Payment Processing, Accounts Receivable Financing & Inventory Financing, Insurance Solutions and Payroll and Benefits Solutions.",
       "dividendHistory": [
         {
           "year": "2025",
@@ -7183,7 +7183,7 @@
       "paymentDate": "03/30/2026",
       "growthRate": "16.0%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "First Internet Bank opened for business in 1999 as an industry pioneer in the branchless delivery of banking services. With assets of $5.6 billion as of December 31, 2025, the Bank provides consumer and small business deposits, consumer loans and specialty finance services nationally. The Bank also offers commercial real estate loans, commercial and industrial loans, SBA financing and treasury management services. Additional information about the Bank, including its products and services, is available at firstib.com. The Bank is a wholly-owned subsidiary of First Internet Bancorp (Nasdaq: INBK).",
+      "description": "First Internet Bancorp is a bank holding company with assets of $5.7 billion as of March 31, 2026. The Company's subsidiary, First Internet Bank, opened for business in 1999 as an industry pioneer in the branchless delivery of banking services. First Internet Bank provides consumer and small business deposit, commercial real estate and construction financing, SBA financing, public finance, consumer loans, and specialty finance services nationally, as well as commercial and industrial loans, and treasury management services on a regional basis. First Internet Bancorp's common stock trades on the Nasdaq Global Select Market under the symbol 'INBK' and is a component of the Russell 2000® Index. Additional information about the Company is available at www.firstinternetbancorp.com and additional information about First Internet Bank, including its products and services, is available at www.firstib.com.",
       "dividendHistory": [
         {
           "year": "2019",
@@ -7925,7 +7925,7 @@
       "paymentDate": "04/28/2026",
       "growthRate": "-0.12%",
       "growthSource": "Analyst Forecast",
-      "description": "Upbound Group, Inc. (NASDAQ: UPBD), is a technology and data-driven leader in accessible and inclusive financial solutions that address the evolving needs and aspirations of underserved consumers. The Company's customer-facing operating units include industry-leading brands such as Acima ®, Brigit, and Rent-A-Center ® that facilitate consumer transactions across a wide range of store-based and digital channels in the United States, Mexico and Puerto Rico. Upbound Group, Inc. is headquartered in Plano, Texas. For additional information about the Company, please visit our website Upbound.com.",
+      "description": "Upbound Group, Inc. (NASDAQ: UPBD), is a technology and data-driven leader in accessible and inclusive financial solutions that address the evolving needs and aspirations of underserved consumers. The Company's customer-facing operating units include industry-leading brands such as Acima ®, Brigit, and Rent-A-Center ® that facilitate consumer transactions across a wide range of store-based and digital channels in the United States, Mexico and Puerto Rico. Upbound Group, Inc. is headquartered in Plano, Texas.",
       "dividendHistory": [
         {
           "year": "2012",
@@ -8119,7 +8119,7 @@
       "paymentDate": "03/01/2026",
       "growthRate": "5.8%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "NewtekOne ®, Your Business Solutions Company ®, is a financial holding company, which along with its bank and non-bank consolidated subsidiaries (collectively, 'NewtekOne'), provides a wide range of business and financial solutions under the Newtek® brand to independent business owners. Since 1999, NewtekOne has provided state-of-the-art, cost-efficient products and services and efficient business strategies to independent business owners across all 50 states to help them grow their sales, control their expenses, and reduce their risk. NewtekOne,s and its subsidiaries, business and financial solutions include: Banking ( Newtek Bank, N.A. ), Business Lending, SBA Lending Solutions, Electronic Payment Processing, Accounts Receivable Financing & Inventory Financing, Insurance Solutions and Payroll and Benefits Solutions.",
+      "description": "NewtekOne ®, Your Business Solutions Company ®, is a financial holding company, which along with its bank and non-bank consolidated subsidiaries (collectively, 'NewtekOne'), provides a wide range of business and financial solutions under the Newtek® brand to independent business owners. Since 1999, NewtekOne has provided state-of-the-art, cost-efficient products and services and efficient business strategies to independent business owners across all 50 states to help them grow their sales, control their expenses, and reduce their risk. NewtekOne's and its subsidiaries' business and financial solutions include: Banking ( Newtek Bank, N.A. ), Business Lending, SBA Lending Solutions, Electronic Payment Processing, Accounts Receivable Financing & Inventory Financing, Insurance Solutions and Payroll and Benefits Solutions.",
       "dividendHistory": [
         {
           "year": "2023",
@@ -8187,7 +8187,7 @@
       "paymentDate": "03/30/2026",
       "growthRate": "17.6%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Trinity Capital Inc. (Nasdaq: TRIN) is an international alternative asset manager that seeks to deliver consistent returns for investors through access to private credit markets. Trinity Capital sources and structures investments in well-capitalized growth-oriented companies across five distinct lending verticals: Sponsor Finance, Equipment Finance, Tech Lending, Asset Based Lending, and Life Sciences. As a long-term, trusted partner for innovative companies seeking tailored debt solutions, Trinity Capital has deployed more than $5.5 billion across over 463 investments since inception in 2008 (as of December 31, 2025 ). Headquartered in Phoenix, Arizona, Trinity Capital's dedicated team is strategically located across the United States and Europe. For more information on Trinity Capital, please visit trinitycapital.com and stay connected to the latest activity via LinkedIn.",
+      "description": "Trinity Capital Inc. (Nasdaq: TRIN) is an international alternative asset manager that seeks to deliver consistent returns for investors through access to private credit markets. Trinity Capital sources and structures investments in well-capitalized growth-oriented companies across five distinct lending verticals: Sponsor Finance, Equipment Finance, Tech Lending, Asset Based Lending, and Life Sciences. As a long-term, trusted partner for innovative companies seeking tailored debt solutions, Trinity Capital has deployed more than $5.5 billion across over 463 investments since inception in 2008 (as of December 31, 2025 ). Headquartered in Phoenix, Arizona, Trinity Capital's dedicated team is strategically located across the United States and Europe.",
       "dividendHistory": [
         {
           "year": "2024",
@@ -8259,7 +8259,7 @@
       "paymentDate": "03/30/2026",
       "growthRate": "17.6%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Trinity Capital Inc. (Nasdaq: TRIN) is an international alternative asset manager that seeks to deliver consistent returns for investors through access to private credit markets. Trinity Capital sources and structures investments in well-capitalized growth-oriented companies across five distinct lending verticals: Sponsor Finance, Equipment Finance, Tech Lending, Asset Based Lending, and Life Sciences. As a long-term, trusted partner for innovative companies seeking tailored debt solutions, Trinity Capital has deployed more than $5.5 billion across over 463 investments since inception in 2008 (as of December 31, 2025 ). Headquartered in Phoenix, Arizona, Trinity Capital's dedicated team is strategically located across the United States and Europe. For more information on Trinity Capital, please visit trinitycapital.com and stay connected to the latest activity via LinkedIn.",
+      "description": "Trinity Capital Inc. (Nasdaq: TRIN) is an international alternative asset manager that seeks to deliver consistent returns for investors through access to private credit markets. Trinity Capital sources and structures investments in well-capitalized growth-oriented companies across five distinct lending verticals: Sponsor Finance, Equipment Finance, Tech Lending, Asset Based Lending, and Life Sciences. As a long-term, trusted partner for innovative companies seeking tailored debt solutions, Trinity Capital has deployed more than $5.5 billion across over 463 investments since inception in 2008 (as of December 31, 2025 ). Headquartered in Phoenix, Arizona, Trinity Capital's dedicated team is strategically located across the United States and Europe.",
       "dividendHistory": [
         {
           "year": "2024",
@@ -13827,7 +13827,7 @@
       "paymentDate": "04/01/2026",
       "growthRate": "6.88%",
       "growthSource": "Analyst Forecast",
-      "description": "NewtekOne ®, Your Business Solutions Company ®, is a financial holding company, which along with its bank and non-bank consolidated subsidiaries (collectively, 'NewtekOne'), provides a wide range of business and financial solutions under the Newtek® brand to independent business owners. Since 1999, NewtekOne has provided state-of-the-art, cost-efficient products and services and efficient business strategies to independent business owners across all 50 states to help them grow their sales, control their expenses, and reduce their risk. NewtekOne,s and its subsidiaries, business and financial solutions include: Banking ( Newtek Bank, N.A. ), Business Lending, SBA Lending Solutions, Electronic Payment Processing, Accounts Receivable Financing & Inventory Financing, Insurance Solutions and Payroll and Benefits Solutions.",
+      "description": "NewtekOne ®, Your Business Solutions Company ®, is a financial holding company, which along with its bank and non-bank consolidated subsidiaries (collectively, 'NewtekOne'), provides a wide range of business and financial solutions under the Newtek® brand to independent business owners. Since 1999, NewtekOne has provided state-of-the-art, cost-efficient products and services and efficient business strategies to independent business owners across all 50 states to help them grow their sales, control their expenses, and reduce their risk. NewtekOne's and its subsidiaries' business and financial solutions include: Banking ( Newtek Bank, N.A. ), Business Lending, SBA Lending Solutions, Electronic Payment Processing, Accounts Receivable Financing & Inventory Financing, Insurance Solutions and Payroll and Benefits Solutions.",
       "dividendHistory": [
         {
           "year": "2015",
@@ -16329,7 +16329,7 @@
       "paymentDate": "03/30/2026",
       "growthRate": "-1.23%",
       "growthSource": "Analyst Forecast",
-      "description": "T. Rowe Price (NASDAQ-GS: TROW) is a leading global asset management firm, entrusted with managing $1.71 trillion in client assets as of March 31, 2026, about two-thirds of which are retirement-related. Renowned for over 85 years of investment excellence, retirement leadership, and independent proprietary research, the firm leverages its longstanding expertise to ask better questions that can drive better investment decisions. Built on a culture of integrity and prioritizing client interests, T. Rowe Price empowers millions of investors worldwide to thrive amidst evolving markets. Visit troweprice.com/newsroom for news and public policy commentary.",
+      "description": "T. Rowe Price ( NASDAQ-GS : TROW) is a leading global asset management firm, entrusted with managing $1.71 trillion in client assets as of March 31, 2026, about two-thirds of which are retirement-related. Renowned for over 85 years of investment excellence, retirement leadership, and independent proprietary research, the firm leverages its longstanding expertise to ask better questions that can drive better investment decisions. Built on a culture of integrity and prioritizing client interests, T. Rowe Price empowers millions of investors worldwide to thrive amidst evolving markets.",
       "dividendHistory": [
         {
           "year": "1988",
@@ -16513,7 +16513,7 @@
       "paymentDate": "03/16/2026",
       "growthRate": "-1.28%",
       "growthSource": "Analyst Forecast",
-      "description": "Columbia Banking System, Inc. (Nasdaq: COLB) is headquartered in Tacoma, Washington and is the parent company of Columbia Bank, an award-winning preeminent regional bank with offices in Arizona, California, Colorado, Idaho, Nevada, Oregon, Texas, Utah, and Washington. Columbia Bank combines the resources, sophistication, and expertise of a national bank with a commitment to deliver superior, personalized service. The bank supports consumers and businesses through a full suite of services, including retail and commercial banking, Small Business Administration lending, institutional and corporate banking, and equipment leasing. Columbia Bank customers also have access to comprehensive investment and wealth management expertise as well as healthcare and private banking through Columbia Wealth Management. Learn more at www.columbiabankingsystem.com .",
+      "description": "Columbia Bank is an award-winning preeminent regional bank with offices in Arizona, California, Colorado, Idaho, Nevada, Oregon, Texas, Utah, and Washington. It combines the resources, sophistication, and expertise of a national bank with a commitment to deliver superior, personalized service. The bank supports consumers and businesses through a full suite of services, including retail and commercial banking, Small Business Administration lending, institutional and corporate banking, and equipment leasing. Columbia Bank customers also have access to comprehensive investment and wealth management expertise as well as healthcare and private banking through Columbia Wealth Management. Columbia Bank is the principal subsidiary of Columbia Banking System, Inc. (Nasdaq: COLB). Learn more at columbiabank.com and columbiabankingsystem.com.",
       "dividendHistory": [
         {
           "year": "2003",
@@ -18299,7 +18299,7 @@
       "paymentDate": "03/30/2026",
       "growthRate": "206.72%",
       "growthSource": "Analyst Forecast",
-      "description": "JAKKS Pacific, Inc. is a leading designer, manufacturer and marketer of toys and consumer products sold throughout the world, with its headquarters in Santa Monica, California. JAKKS Pacific's popular proprietary brands include Disguise®, Fly Wheels®, Charming, Kidtopia, Moose Mountain®, Maui®, ReDo® Skateboard Co., Sky Ball® and Xtreme Power Dozer® as well as a wide range of entertainment-inspired products featuring premier licensed properties. Through their products and charitable donations, JAKKS is helping to make a positive impact on the lives of children. Visit us at www.jakks.com and follow us on Instagram ( @jakkspacific.toys ), X ( @jakkstoys ), YouTube ( @JAKKSPacific ), Facebook ( @jakkspacific.toys ) and LinkedIn ( JAKKS Pacific ).",
+      "description": "JAKKS Pacific, Inc. is a leading designer, manufacturer and marketer of toys, costumes and consumer products sold throughout the world, with its headquarters in Santa Monica, California. JAKKS Pacific's popular proprietary brands include Disguise®, Fly Wheels®, Charming, KidTopia®, Moose Mountain®, Maui®, ReDo Skateboard Co. ®, Sky Ball®, and Xtreme Power Dozer as well as a wide range of entertainment-inspired products featuring premier licensed properties. Through their products and charitable donations, JAKKS is helping to make a positive impact on the lives of children.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -19225,7 +19225,7 @@
       "paymentDate": "02/27/2026",
       "growthRate": "-1.83%",
       "growthSource": "Analyst Forecast",
-      "description": "Reynolds Consumer Products is a leading provider of household essentials designed to simplify daily life, so consumers can enjoy what matters most. Found in 95% of U. S. homes, the Company offers trusted solutions for cooking, cleanup, food storage, and more. Its portfolio features iconic brands like Reynolds Wrap® aluminum foil and Hefty® trash bags and disposable tableware, along with store brand products tailored to retail partners. Reynolds holds the No. 1 or No. 2 U. S. market share in most of the categories it serves.",
+      "description": "Reynolds Consumer Products is a leading provider of household essentials designed to simplify daily life, so consumers can enjoy what matters most. Found in 95% of U.S. homes, the Company offers trusted solutions for cooking, cleanup, food storage, and more. Its portfolio features iconic brands like Reynolds Wrap® aluminum foil and Hefty® trash bags and disposable tableware, along with store brand products tailored to retail partners. Reynolds holds the No. 1 or No. 2 U.S. market share in most of the categories it serves.",
       "dividendHistory": [
         {
           "year": "2020",
@@ -19693,7 +19693,7 @@
       "paymentDate": "03/17/2026",
       "growthRate": "3.58%",
       "growthSource": "Analyst Forecast",
-      "description": "Euroseas Ltd. was formed on May 5, 2005 under the laws of the Republic of the Marshall Islands to consolidate the ship owning interests of the Pittas family of Athens, Greece, which has been in the shipping business over the past 140 years. Euroseas trades on the NASDAQ Capital Market under the ticker ESEA. Euroseas operates in the container shipping market. Euroseas' operations are managed by Eurobulk Ltd., an ISO 9001:2008 and ISO 14001:2004 certified affiliated ship management company, which is responsible for the day-to-day commercial and technical management and operations of the vessels. Euroseas employs its vessels on spot and period charters and through pool arrangements. The Company has a fleet of 21 vessels, including 15 Feeder containerships and 6 Intermediate containerships. Euroseas 21 containerships have a cargo capacity of 61, 144 teu.",
+      "description": "Euroseas Ltd. was formed on May 5, 2005 under the laws of the Republic of the Marshall Islands to consolidate the ship owning interests of the Pittas family of Athens, Greece, which has been in the shipping business over the past 150 years. Euroseas trades on the NASDAQ Capital Market under the ticker ESEA. Euroseas operates in the container shipping market. Euroseas' operations are managed by Eurobulk Ltd., an ISO 9001:2008 and ISO 14001:2004 certified affiliated ship management company, which is responsible for the day-to-day commercial and technical management and operations of the vessels. Euroseas employs its vessels on spot and period charters and through pool arrangements. The Company has a fleet of 21 vessels, including 15 Feeder containerships and 6 Intermediate containerships with a cargo capacity of 61,144 teu.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -19739,7 +19739,7 @@
       "paymentDate": "05/30/2025",
       "growthRate": "36.01%",
       "growthSource": "Analyst Forecast",
-      "description": "Based in Sault Ste. Marie, Ontario, Algoma is a leading Canadian producer of high-quality plate and sheet steel products, proudly supporting critical sectors including energy, defense, automotive, shipbuilding, and infrastructure. Guided by a purpose to build better lives and a greener future, Algoma is shaping the next generation of sustainable steelmaking in Canada. With the transition to electric arc furnace (EAF) steelmaking and a modernized plate mill, Algoma is redefining how steel is made in Canada. Powered by Ontario's clean electricity grid, this transformation represents one of the largest industrial decarbonization initiatives in North America and is expected to reduce carbon emissions by approximately 70%. These advancements provide stability for continued investment in diversification projects aligned with Canada's evolving needs. This new chapter also introduces Volta, the brand for all steel produced through Algoma's EAF technology.",
+      "description": "Based in Sault Ste. Marie, Ontario, Algoma is a leading Canadian producer of high-quality plate and sheet steel products, proudly supporting critical sectors including energy, defense, automotive, shipbuilding, and infrastructure. Guided by a purpose to build better lives and a greener future, Algoma is shaping the next generation of sustainable steelmaking in Canada. With the transition to electric arc furnace (EAF) steelmaking and a modernized plate mill, Algoma is redefining how steel is made in Canada. Powered by Ontario's clean electricity grid, this transformation represents one of the largest industrial decarbonization initiatives in North America and is expected to reduce carbon emissions by approximately 70% once fully transitioned. These advancements provide stability for continued investment in diversification projects aligned with Canada's evolving needs. This new chapter also introduces Volta, the brand for all steel produced through Algoma's EAF technology.",
       "dividendHistory": [
         {
           "year": "2022",
@@ -20337,7 +20337,7 @@
       "paymentDate": "02/27/2026",
       "growthRate": "-2.81%",
       "growthSource": "Analyst Forecast",
-      "description": "SiriusXM is the leading audio entertainment company in North America with a portfolio of audio businesses including its flagship subscription entertainment service SiriusXM ; the ad-supported and premium music streaming services of Pandora; an expansive podcast network; and a suite of business and advertising solutions. Reaching a combined monthly audience of approximately 170 million listeners, SiriusXM offers a broad range of content for listeners everywhere they tune in with a diverse mix of live, on-demand, and curated programming across music, talk, news, and sports.",
+      "description": "SiriXM is the leading audio entertainment company in North America with a portfolio of audio businesses including its flagship subscription entertainment service SiriusXM ; the ad-supported and premium music streaming services of Pandora; an expansive podcast network; and a suite of business and advertising solutions. Reaching a combined monthly audience of approximately 255 million listeners, SiriusXM offers a broad range of content for listeners everywhere they tune in with a diverse mix of live, on-demand, and curated programming across music, talk, news, and sports.",
       "dividendHistory": [
         {
           "year": "2016",
@@ -21677,7 +21677,7 @@
       "paymentDate": "06/15/2025",
       "growthRate": "10.4%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "BayFirst Financial Corp. is a registered bank holding company based in St. Petersburg, Florida which commenced operations on September 1, 2000.Its primary source of income is derived from its wholly owned subsidiary, BayFirst National Bank , a national banking association which commenced business operations on February 12, 1999.The Bank currently operates twelve full-service banking offices throughout the Tampa Bay - Sarasota region and offers a broad range of commercial and consumer banking services to businesses and individuals. As of December 31, 2025 , BayFirst Financial Corp. had $1.30 billion in total assets.",
+      "description": "BayFirst Financial Corp. is a registered bank holding company based in St. Petersburg, Florida which commenced operations on September 1, 2000. Its primary source of income is derived from its wholly owned subsidiary, BayFirst National Bank, a national banking association which commenced business operations on February 12, 1999. The Bank currently operates twelve full-service banking offices throughout the Tampa Bay - Sarasota region and offers a broad range of commercial and consumer banking services to businesses and individuals. As of March 31, 2026, BayFirst Financial Corp. had $1.20 billion in total assets.",
       "dividendHistory": [
         {
           "year": "2022",
@@ -22601,7 +22601,7 @@
       "paymentDate": "04/03/2026",
       "growthRate": "146.43%",
       "growthSource": "Analyst Forecast",
-      "description": "The Hackett Group, Inc. (NASDAQ: HCKT) is a Gen AI strategic consulting and digital transformation firm that enables Digital World Class® performance. Using Hackett AI XPLR, ZBrain, XT, AIXelerator, AskHackett, and Quantum Leap® platforms, the company's experienced professionals and engineers help organizations realize the power of Gen AI from ideation through implementation to achieve quantifiable, breakthrough results with unprecedented speed, enabling The Hackett Group ® to serve as architects of clients' Gen AI journeys - from assessment and prioritization through design, build, deployment and measurable impact. The company's expertise is grounded in unparalleled best practices insights from enterprise performance benchmarks from the world's leading businesses - including 97% of the Dow Jones Industrials, 90% of the Fortune 100, 68% of the DAX 40 and 53% of the FTSE 100. Visit us at www.thehackettgroup.com.",
+      "description": "The Hackett Group, Inc. (NASDAQ: HCKT) is a Gen AI strategic consulting and digital transformation firm that enables Digital World Class® performance. Using Hackett AI XPLR, ZBrain, XT, AIXelerator, AskHackett, and Quantum Leap® platforms, the company's experienced professionals and engineers help organizations realize the power of Gen AI from ideation through implementation to achieve quantifiable, breakthrough results with unprecedented speed, allowing it to be key architects of their Gen AI journey. The company's expertise is grounded in unparalleled best practices insights from enterprise performance benchmarks from the world's leading businesses - including 97% of the Dow Jones Industrials, 90% of the Fortune 100, 68% of the DAX 40 and 53% of the FTSE 100. Visit us at www.thehackettgroup.com/.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -24171,7 +24171,7 @@
       "paymentDate": "04/14/2026",
       "growthRate": "5.22%",
       "growthSource": "Analyst Forecast",
-      "description": "DiamondRock Hospitality Company (Nasdaq: DRH) is a self-advised real estate investment trust (REIT) that owns a leading portfolio of geographically diversified hotels concentrated in leisure destinations and top gateway markets. The Company currently owns 35 premium quality hotels and resorts with approximately 9,600 rooms. The Company has strategically positioned its portfolio to be operated both under leading global brand families as well as independent boutique hotels in the lifestyle segment.",
+      "description": "DiamondRock Hospitality Company is a self-advised real estate investment trust (REIT) that is an owner of a leading portfolio of geographically diversified hotels concentrated in leisure destinations and top gateway markets. The Company currently owns 35 premium quality hotels with approximately 9,600 rooms. The Company has strategically positioned its portfolio to be operated both under leading global brand families as well as independent boutique hotels in the lifestyle segment.",
       "dividendHistory": [
         {
           "year": "2005",
@@ -27401,7 +27401,7 @@
       "paymentDate": "04/13/2026",
       "growthRate": "6.06%",
       "growthSource": "Analyst Forecast",
-      "description": "Founded in 1922, and headquartered in Evansville, Indiana, Escalade designs, manufactures, and sells sporting goods, safety, fitness, and indoor/outdoor recreation equipment. Our mission is to connect family and friends, create lasting memories, and play life to the fullest. Leaders in our respective categories, Escalade's distinct and acclaimed brands include Goalrilla in-ground basketball hoops; STIGA® tennis tables and accessories; Bear® Archery and archery equipment; Brunswick Billiards® tables and accessories; Accudart® darting; ONIX® pickleball; Lifeline® fitness products; and RAVE Sports® water recreation products. Escalade's products are available online and through leading retailers nationwide. For more information about Escalade's diverse and prominent brand portfolio, history, financials, and governance, please visit www.escaladeinc.com .",
+      "description": "Founded in 1922, and headquartered in Evansville, Indiana, Escalade designs, manufactures, and sells sporting goods, safety, fitness, and indoor/outdoor recreation equipment. Our mission is to connect family and friends, create lasting memories, and play life to the fullest. Leaders in our respective categories, Escalade's distinct and acclaimed brands include Goalrilla in-ground basketball hoops; STIGA® tennis tables and accessories; Bear® Archery and archery equipment; Brunswick Billiards® tables and accessories; Accudart® darting; ONIX® pickleball; Lifeline® fitness products; and RAVE Sports® water recreation products. Escalade's products are available online and through leading retailers nationwide. For more information about Escalade's diverse and prominent brand portfolio, history, financials, and governance, please visit www.escaladeinc.com.",
       "dividendHistory": [
         {
           "year": "1999",
@@ -30385,7 +30385,7 @@
       "paymentDate": "02/13/2026",
       "growthRate": "9.25%",
       "growthSource": "Analyst Forecast",
-      "description": "Banner Corporation is a $16.34 billion bank holding company operating a commercial bank primarily in Washington, Oregon, California and Idaho through a network of branches offering a full range of deposit services and business, commercial real estate, construction, residential, agricultural and consumer loans. Visit Banner Bank on the Web at www.bannerbank.com.",
+      "description": "Banner Corporation is a $16.34 billion bank holding company operating a commercial bank in four Western states through a network of branches. For more than 136 years, Banner Bank has offered a full range of deposit and cash management services as well as business, commercial real estate, construction, residential, agricultural and consumer loans. Visit Banner Bank at www.bannerbank.com. Banner's investor relations website is https://investor.bannerbank.com. The contents of Banner's websites are not deemed to be incorporated by reference into this press release.",
       "dividendHistory": [
         {
           "year": "1995",
@@ -30919,7 +30919,7 @@
       "paymentDate": "02/12/2026",
       "growthRate": "13.02%",
       "growthSource": "Analyst Forecast",
-      "description": "Capital Clean Energy Carriers Corp. (NASDAQ: CCEC), an international shipping company, is a leading platform of gas carriage solutions with a focus on energy transition. CCEC's in-the-water fleet includes 14 high specification vessels, including 12 latest generation LNG carriers ('LNG/C'), one legacy Neo-Panamax container vessel and one handy LCO2/multi-gas carrier. In addition, CCEC's under-construction fleet includes nine additional latest generation LNG/Cs, six dual-fuel medium gas carriers and three handy LCO2/multi-gas carriers, to be delivered between the second quarter of 2026 and the first quarter of 2029.",
+      "description": "Capital Clean Energy Carriers Corp. (NASDAQ: CCEC), an international shipping company, is a leading platform of gas carriage solutions with a focus on energy transition. CCEC's in-the-water fleet includes 15 high specification vessels, including 12 latest generation LNG/Cs, one legacy Neo-Panamax container vessel, and two handy LCO2/multi-gas carriers. In addition, CCEC's under-construction fleet includes nine additional latest generation LNG/Cs, six dual-fuel medium gas carriers and two handy LCO2/multi-gas carriers, to be delivered between the second quarter of 2026 and the first quarter of 2029.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -32999,7 +32999,7 @@
       "paymentDate": "02/20/2026",
       "growthRate": "9.72%",
       "growthSource": "Analyst Forecast",
-      "description": "Carlyle (NASDAQ: CG) is a global investment firm with deep industry expertise that deploys private capital across three business segments: Global Private Equity, Global Credit, and Carlyle AlpInvest. With $477 billion of assets under management as of December 31, 2025, Carlyle's purpose is to invest wisely and create value on behalf of its investors, portfolio companies, and the communities in which we live and invest. Carlyle employs more than 2,500 people in 27 offices across four continents.",
+      "description": "Carlyle (NASDAQ: CG) is a global investment firm with deep industry expertise that deploys private capital across three business segments: Global Private Equity, Global Credit, and Carlyle AlpInvest. With $477 billion of assets under management as of December 31, 2025, Carlyle's purpose is to connect people, ideas, and capital to fuel growth for companies and performance for investors. Carlyle employs more than 2,500 people in 27 offices across four continents. Further information is available at carlyle.com. Follow Carlyle on X @OneCarlyle and LinkedIn at The Carlyle Group.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -33827,7 +33827,7 @@
       "paymentDate": "03/03/2026",
       "growthRate": "105.6%",
       "growthSource": "Analyst Forecast",
-      "description": "Warner Music Group (WMG) brings together artists, songwriters, entrepreneurs, and technology that are moving entertainment culture across the globe. WMG's Recorded Music division includes renowned labels such as 10K Projects, 300 Entertainment, Asylum, Atlantic, Big Beat, EastWest, Elektra, Erato, Fueled By Ramen, Nonesuch, Parlophone, Reprise, Rhino, Roadrunner, Sire, Spinnin', Warner Records, Warner Classics, and Warner Records Nashville.WMG's music publishing arm, Warner Chappell Music, has a catalog of over one million copyrights spanning every musical genre, from the standards of the Great American Songbook to the biggest hits of the 21st century.",
+      "description": "Warner Music Group (WMG) brings together artists, songwriters, entrepreneurs, and technology that are moving entertainment culture across the globe. WMG's Recorded Music division includes renowned labels such as 10K Projects, 300 Entertainment, Asylum, Atlantic, Big Beat, EastWest, Elektra, Erato, Fueled By Ramen, Nonesuch, Parlophone, Reprise, Rhino, Roadrunner, Sire, Spinnin', Warner Records, Warner Classics, and Warner Records Nashville. WMG's music publishing arm, Warner Chappell Music, has a catalog of over one million copyrights spanning every musical genre, from the standards of the Great American Songbook to the biggest hits of the 21st century.",
       "dividendHistory": [
         {
           "year": "2020",
@@ -35265,7 +35265,7 @@
       "paymentDate": "03/13/2026",
       "growthRate": "8.49%",
       "growthSource": "Analyst Forecast",
-      "description": "First National Corporation (NASDAQ: FXNC) is the parent company and bank holding company of First Bank, a community bank that first opened for business in 1907 in Strasburg, Virginia. The Bank offers loan and deposit products and services through its consumer and business mobile banking platforms, a network of ATMs located throughout its market area, a loan production office, a customer service center in a retirement community, and thirty-three banking office locations located throughout the Shenandoah Valley, the Roanoke Valley, the Richmond MSA, the south-central regions of Virginia, and in northern North Carolina. In addition to providing traditional banking services, the Bank operates a trust and wealth management division under the name First Bank Wealth Management. First Bank also owns First Bank Financial Services, Inc., which has an interest in a title insurance company.",
+      "description": "First National Corporation (NASDAQ: FXNC) is the parent company and bank holding company of First Bank, a community bank that first opened for business in 1907 in Strasburg, Virginia. The Bank offers loan and deposit products and services through its bankers, consumer and business mobile banking platforms, a network of ATMs located throughout its market area, a loan production office, a customer service center in a retirement community, and thirty-three banking office locations located throughout the Shenandoah Valley, the Roanoke Valley, the Richmond MSA, the south-central regions of Virginia, and in northern North Carolina. In addition to providing traditional banking services, the Bank operates a wealth management division under the name First Bank Wealth Management. First Bank also owns First Bank Financial Services, Inc., which owns an interest in an entity that provides title insurance services.",
       "dividendHistory": [
         {
           "year": "2019",
@@ -35859,7 +35859,7 @@
       "paymentDate": "02/26/2026",
       "growthRate": "7.34%",
       "growthSource": "Analyst Forecast",
-      "description": "Cognizant (Nasdaq: CTSH) is an AI builder and technology services provider, building the bridge between AI investment and enterprise value by building full-stack AI solutions for our clients. Our deep industry, process and engineering expertise enables us to build an organization's unique context into technology systems that amplify human potential, realize tangible returns and keep global enterprises ahead in a fast-changing world. See how at www.cognizant.com or @cognizant.",
+      "description": "Cognizant (NASDAQ: CTSH) is an AI builder and technology services provider, building the bridge between AI investment and enterprise value by building full-stack AI solutions for our clients. Our deep industry, process and engineering expertise enables us to build an organization's unique context into technology systems that amplify human potential, realize tangible returns and keep global enterprises ahead in a fast-changing world.",
       "dividendHistory": [
         {
           "year": "2017",
@@ -40531,7 +40531,7 @@
       "paymentDate": "03/16/2026",
       "growthRate": "-25.35%",
       "growthSource": "Analyst Forecast",
-      "description": "HireQuest is a franchisor of staffing solutions with a presence across the U.S. and international markets. Through its primary divisions - HireQuest Direct, HireQuest Health, Snelling, and TradeCorp - the company provides temporary, direct-hire, and contract staffing solutions across industries, including construction, light industrial, healthcare, finance, manufacturing, cybersecurity, and engineering. From on-demand staffing to executive search, HireQuest's divisions operate as one team for our customers - delivering workforce solutions that drive growth and change lives.",
+      "description": "HireQuest is a franchisor of staffing solutions with a footprint across the U.S. and international markets. Through its primary divisions - HireQuest Direct, HireQuest Health, Snelling, TradeCorp and DriverQuest - the company delivers temporary, direct-hire, and contract workforce solutions across a wide range of industries, including construction, light industrial, healthcare, finance, manufacturing, hospitality, logistics and more. From on-demand staffing to direct hire recruiting, HireQuest's divisions work together to provide workforce solutions that help businesses grow and create meaningful opportunities for the communities we serve.",
       "dividendHistory": [
         {
           "year": "2020",
@@ -42525,7 +42525,7 @@
       "paymentDate": "04/01/2026",
       "growthRate": "17.7%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "FTAI Infrastructure Inc. primarily invests in critical infrastructure with high barriers to entry across rail, ports and terminals, and power and gas sectors that, on a combined basis, generate strong and stable cash flows with the potential for earnings growth and asset appreciation. FTAI Infrastructure is externally managed by an affiliate of Fortress Investment Group LLC, a leading, diversified global investment firm.",
+      "description": "FTAI Infrastructure Inc. primarily invests in critical infrastructure with high barriers to entry across the rail, ports and terminals, and power and gas sectors that, on a combined basis, generate strong and stable cash flows with the potential for earnings growth and asset appreciation. FTAI Infrastructure Inc. is externally managed by an affiliate of Fortress Investment Group LLC, a leading, diversified global investment firm.",
       "dividendHistory": [
         {
           "year": "2022",
@@ -42567,7 +42567,7 @@
       "paymentDate": "04/30/2026",
       "growthRate": "2.84%",
       "growthSource": "Analyst Forecast",
-      "description": "WD-40 Company is a global marketing organization dedicated to creating positive lasting memories by developing and selling products that solve problems in workshops, factories, and homes around the world. The Company owns a wide range of well-known brands that include maintenance products and homecare and cleaning products: WD-40 ® Multi-Use Product, WD-40 Specialist®, 3-IN-ONE®, GT85®, 2000 Flushes®, no vac®, Spot Shot®, Lava®, Solvol®, X-14®, and Carpet Fresh®. Headquartered in San Diego, California, USA, WD-40 Company recorded net sales of $620 million in fiscal year 2025 and its products are currently available in more than 176 countries and territories worldwide. WD-40 Company is traded on the NASDAQ Global Select Market under the ticker symbol 'WDFC.' For additional information about WD-40 Company please visit http://www.wd40company.com.",
+      "description": "WD-40 Brand offers more than 30 innovative, quality products to get the Job Done Right ®. The same spirit of innovation for solving the toughest challenges, which led to the creation of the Classic WD-40 ® Multi-Use Product, also drove the brand to grow its family of offerings to include the WD-40 Specialist ® line - best-in-class products that deliver superior performance for industry professionals. WD-40 Specialist products provide specialized, heavy-duty solutions in factories, facilities, automotive garages, and on farms around the world. The line consists of lubricants, penetrants, cleaners and degreasers, and rust-management solutions scientifically designed for the world's toughest jobs. For additional information about WD-40 Brand products, please visit wd40.com.",
       "dividendHistory": [
         {
           "year": "1988",
@@ -43495,7 +43495,7 @@
       "paymentDate": "05/14/2026",
       "growthRate": "24.4%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Cal-Maine Foods, Inc. (NASDAQ: CALM) is the largest egg company in the United States and a leading player in the egg-based food industry. With a strong national footprint, Cal-Maine Foods provides nutritious, affordable, and sustainable protein to millions of households every day. The Company's portfolio spans the full egg value ladder-from conventional to specialty, including cage-free, organic, brown, free-range, pasture-raised, and nutritionally enhanced-serving both retail and foodservice customers nationwide. Cal-Maine Foods also participates in the growing prepared foods sector, with offerings such as pre-cooked egg patties, omelets, folded and scrambled egg formats, hard-cooked eggs, pancakes, waffles, and specialty wraps. Its branded portfolio includes Eggland's Best®, Land O'Lakes®, Farmhouse Eggs®, 4Grain®, Sunups®, Sunny Meadow ®, MeadowCreek Foods ®, and Crepini®.",
+      "description": "Cal-Maine Foods, Inc. (NASDAQ: CALM) is the largest egg company in the United States and a leading player in the egg-based food industry. With a strong national footprint, Cal-Maine Foods provides nutritious, affordable, and sustainable protein to millions of households every day. The company's portfolio spans the full egg value ladder-from conventional to specialty, including cage-free, organic, brown, free-range, pasture-raised, and nutritionally enhanced-serving both retail and foodservice customers nationwide. Cal-Maine Foods also participates in the growing prepared foods sector, with offerings such as pre-cooked egg patties, omelets, folded and scrambled egg formats, hard-cooked eggs, pancakes, waffles, and specialty wraps. Its branded portfolio includes Eggland's Best®, Land O'Lakes®, Farmhouse Eggs®, 4Grain®, Sunups®, Sunny Meadow®, MeadowCreek Foods®, and Crepini®.",
       "dividendHistory": [
         {
           "year": "1998",
@@ -47361,7 +47361,7 @@
       "paymentDate": "04/15/2026",
       "growthRate": "14.36%",
       "growthSource": "Analyst Forecast",
-      "description": "At WTW (NASDAQ: WTW), we provide data-driven, insight-led solutions in the areas of people, risk and capital. Leveraging the global view and local expertise of our colleagues serving 140 countries and markets, we help organizations sharpen their strategy, enhance organizational resilience, motivate their workforce and maximize performance. Working shoulder to shoulder with our clients, we uncover opportunities for sustainable success - and provide perspective that moves you.",
+      "description": "At WTW (NASDAQ: WTW), we provide data-driven, insight-led solutions in the areas of people, risk and capital. Leveraging the global view and local expertise of our colleagues serving 140 countries and markets, we help organizations sharpen their strategy, enhance organizational resilience, motivate their workforce and maximize performance. Working shoulder to shoulder with our clients, we uncover opportunities for sustainable success-and provide perspective that moves you. Learn more at www.wtwco.com.",
       "dividendHistory": [
         {
           "year": "2004",
@@ -48073,7 +48073,7 @@
       "paymentDate": "03/23/2026",
       "growthRate": "-79.2%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Tiptree Inc. (NASDAQ: TIPT) allocates capital to select small and middle market companies with the mission of building long-term value. Established in 2007, Tiptree has a significant track record investing across a variety of industries and asset types, including the insurance, asset management, specialty finance, real estate and shipping sectors. With proprietary access and a flexible capital base, Tiptree seeks to uncover compelling investment opportunities and support management teams in unlocking the full value potential of their businesses.",
+      "description": "Tiptree Inc. (NASDAQ: TIPT) allocates capital to select small and middle market companies with the mission of building long-term value. Established in 2007, Tiptree has a significant track record investing across a variety of industries and asset types, including the insurance, asset management, specialty finance, real estate and shipping sectors. With proprietary access and a flexible capital base, Tiptree seeks to uncover compelling investment opportunities and support management teams in unlocking the full value potential of their businesses. For more information, please visit tiptreeinc.com and follow us on LinkedIn.",
       "dividendHistory": [
         {
           "year": "2007",
@@ -48989,7 +48989,7 @@
       "paymentDate": "03/16/2026",
       "growthRate": "14.3%",
       "growthSource": "Analyst Forecast",
-      "description": "A differentiated technology leader, Garrett Motion has a 70-year history of innovation in the automotive sector (cars, trucks) and beyond (off-highway equipment, marine, power generators). Its well-recognized expertise in turbocharging has enabled significant reductions in engine size, fuel consumption, and CO2 emissions. Garrett is committed to advancing turbo applications while leveraging its unique technology solutions, such as fuel cell compressors for hydrogen fuel cell vehicles, as well as electric propulsion and thermal management systems for automotive and industrial applications. Garrett has six R&D centers, 13 manufacturing facilities and a team of more than 8,700 employees in more than 20 countries.",
+      "description": "A differentiated technology leader, Garrett Motion has a 70-year history of innovation in the automotive sector (cars, trucks) and beyond (off-highway equipment, marine, power generators). Its well-recognized expertise in turbocharging has enabled significant reductions in engine size, fuel consumption, and CO2 emissions. Garrett is committed to advancing turbo applications while leveraging its unique technology solutions, such as fuel cell compressors for hydrogen fuel cell vehicles, as well as electric propulsion and thermal management systems for automotive and industrial applications. Garrett has six R&D centers, 13 manufacturing facilities and a team of more than 8,700 employees in more than 20 countries. For more information, please visit www.garrettmotion.com.",
       "dividendHistory": [
         {
           "year": "2025",
@@ -49019,7 +49019,7 @@
       "paymentDate": "04/17/2026",
       "growthRate": "13.48%",
       "growthSource": "Analyst Forecast",
-      "description": "Intuit is the global financial technology platform that powers prosperity for the people and communities we serve. With approximately 100 million customers worldwide using products such as TurboTax, Credit Karma, QuickBooks, and Mailchimp, and Intuit Enterprise Suite, we believe that everyone should have the opportunity to prosper. We never stop working to find new, innovative ways to make that possible.",
+      "description": "Intuit is the global financial technology platform that powers prosperity for the people and communities we serve. With approximately 100 million customers worldwide using products such as TurboTax, Credit Karma, QuickBooks, Mailchimp, and Intuit Enterprise Suite, we believe that everyone should have the opportunity to prosper. We never stop working to find new, innovative ways to make that possible.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -50097,7 +50097,7 @@
       "paymentDate": "01/12/2026",
       "growthRate": "4.76%",
       "growthSource": "Analyst Forecast",
-      "description": "SEI (NASDAQ:SEIC) is a leading global provider of financial technology, operations, and asset management services within the financial services industry. SEI tailors its solutions and services to help clients more effectively deploy their capital-whether that's money, time, or talent-so they can better serve their clients and achieve their growth objectives. As of Mar. 31, 2026, SEI manages, advises, or administers approximately $1.9 trillion in assets. For more information, visit seic.com.",
+      "description": "SEI (NASDAQ:SEIC) is a leading global provider of financial technology, operations, and asset management services within the financial services industry. SEI tailors its solutions and services to help clients more effectively deploy their capital-whether that's money, time, or talent-so they can better serve their clients and achieve their growth objectives. As of March 31, 2026, SEI manages, advises, or administers approximately $1.9 trillion in assets.",
       "dividendHistory": [
         {
           "year": "1988",
@@ -50833,7 +50833,7 @@
       "paymentDate": "03/19/2026",
       "growthRate": "11.76%",
       "growthSource": "Analyst Forecast",
-      "description": "Red River Bancshares, Inc. is the bank holding company for Red River Bank, a Louisiana state-chartered bank established in 1999 that provides a fully integrated suite of banking products and services tailored to the needs of our commercial and retail customers. Red River Bank operates from a network of 28 banking centers throughout Louisiana and two combined loan and deposit production offices, one each in New Orleans, Louisiana and Lafayette, Louisiana. Banking centers are located in the following Louisiana markets: Central, which includes the Alexandria metropolitan statistical area (\"MSA\"); Northwest, which includes the Shreveport-Bossier City MSA; Capital, which includes the Baton Rouge MSA; Southwest, which includes the Lake Charles MSA; the Northshore, which includes Covington; Acadiana, which includes the Lafayette MSA; and New Orleans.",
+      "description": "Red River Bancshares, Inc. is the bank holding company for Red River Bank, a Louisiana state-chartered bank established in 1999 that provides a fully integrated suite of banking products and services tailored to the needs of our commercial and retail customers. Red River Bank operates from a network of 28 banking centers throughout Louisiana and two combined loan and deposit production offices, one each in New Orleans, Louisiana and Lafayette, Louisiana.",
       "dividendHistory": [
         {
           "year": "2020",
@@ -51093,7 +51093,7 @@
       "paymentDate": "04/15/2026",
       "growthRate": "436.36%",
       "growthSource": "Analyst Forecast",
-      "description": "First Internet Bank opened for business in 1999 as an industry pioneer in the branchless delivery of banking services. With assets of $5.6 billion as of December 31, 2025, the Bank provides consumer and small business deposits, consumer loans and specialty finance services nationally. The Bank also offers commercial real estate loans, commercial and industrial loans, SBA financing and treasury management services. Additional information about the Bank, including its products and services, is available at firstib.com. The Bank is a wholly-owned subsidiary of First Internet Bancorp (Nasdaq: INBK).",
+      "description": "First Internet Bancorp is a bank holding company with assets of $5.7 billion as of March 31, 2026. The Company's subsidiary, First Internet Bank, opened for business in 1999 as an industry pioneer in the branchless delivery of banking services. First Internet Bank provides consumer and small business deposit, commercial real estate and construction financing, SBA financing, public finance, consumer loans, and specialty finance services nationally, as well as commercial and industrial loans, and treasury management services on a regional basis. First Internet Bancorp's common stock trades on the Nasdaq Global Select Market under the symbol 'INBK' and is a component of the Russell 2000® Index. Additional information about the Company is available at www.firstinternetbancorp.com and additional information about First Internet Bank, including its products and services, is available at www.firstib.com.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -53529,7 +53529,7 @@
       "paymentDate": "03/26/2026",
       "growthRate": "323.53%",
       "growthSource": "Analyst Forecast",
-      "description": "Aebi Schmidt Group is a world-class specialty vehicles leader, positioned to accelerate growth and drive exceptional value. The Group, with its headquarters in Switzerland and listed on the NASDAQ, has generated Net Sales of $1.9b in 2025. Aebi Schmidt Group employs around 6,000 employees, with production facilities and service and upfit centers across Europe and North America.",
+      "description": "Aebi Schmidt Group (NASDAQ: AEBI) is a world-class specialty vehicles leader, positioned to accelerate growth and drive exceptional value. The Company is headquartered in Switzerland, employs approximately 6,000 employees, and operates production facilities and service and upfit centers across Europe and North America.",
       "dividendHistory": [
         {
           "year": "2025",
@@ -54785,7 +54785,7 @@
       "paymentDate": "03/02/2026",
       "growthRate": "11.01%",
       "growthSource": "Analyst Forecast",
-      "description": "Esquire Financial Holdings, Inc. is a financial holding company headquartered in Jericho, New York. Its wholly owned subsidiary, Esquire Bank, is a full-service commercial bank, with branch offices in Jericho, New York and Los Angeles, California, as well as an administrative office in Boca Raton, Florida. The Bank is dedicated to serving the financial needs of the litigation industry and small businesses nationally, as well as commercial and retail customers in the New York and Los Angeles metropolitan areas. The Bank offers tailored financial and payment processing solutions to the litigation community and their clients as well as dynamic and flexible payment processing solutions to small business owners.",
+      "description": "Esquire Financial Holdings, Inc. is a financial holding company headquartered in Jericho, New York, with one branch office in Jericho, New York and an administrative office in Boca Raton, Florida. Its wholly-owned subsidiary, Esquire Bank, is a full-service commercial bank dedicated to serving the financial needs of the litigation industry and small businesses nationally, as well as commercial and retail customers in the New York metropolitan area. The Bank offers tailored financial and payment processing solutions to the litigation community and their clients as well as dynamic and flexible payment processing solutions to small business owners.",
       "dividendHistory": [
         {
           "year": "2022",
@@ -55145,7 +55145,7 @@
       "paymentDate": "03/27/2026",
       "growthRate": "15.74%",
       "growthSource": "Analyst Forecast",
-      "description": "Newmark Group, Inc. (Nasdaq: NMRK), together with its subsidiaries ('Newmark'), is a world leader in commercial real estate, seamlessly powering every phase of the property life cycle. Newmark's comprehensive suite of services and products is uniquely tailored to each client, from owners to occupiers, investors to founders, and startups to blue-chip companies. Combining the platform's global reach with market intelligence in both established and emerging property markets, Newmark provides superior service to clients across the industry spectrum. For the twelve months ended December 31, 2025, Newmark generated revenues of nearly $3.3 billion. As of December 31, 2025, Newmark and its business partners together operated from approximately 175 offices with over 9,300 professionals across four continents.",
+      "description": "Newmark Group, Inc. (Nasdaq: NMRK), together with its subsidiaries ('Newmark'), is a world leader in commercial real estate, seamlessly powering every phase of the property life cycle. Newmark's comprehensive suite of services and products is uniquely tailored to each client, from owners to occupiers, investors to founders, and startups to blue-chip companies. Combining the platform's global reach with market intelligence in both established and emerging property markets, Newmark provides superior service to clients across the industry spectrum. For the twelve months ended March 31, 2026, Newmark generated revenues of more than $3.4 billion. As of March 31, 2026, Newmark and its business partners together operated from over 185 offices with more than 9,600 professionals across four continents.",
       "dividendHistory": [
         {
           "year": "2018",
@@ -55399,7 +55399,7 @@
       "paymentDate": "04/16/2026",
       "growthRate": "-1.6%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Ingles Markets, Incorporated is a leading grocer with operations in six southeastern states. Headquartered in Asheville, North Carolina,the Company operates 197 supermarkets. At March 30, 2026,three of the four stores temporarily closed due to damage sustained in Hurricane Helene remained closed but are expected to reopen in 2026. In conjunction with its supermarket operations, the Company operates neighborhood shopping centers, most of which contain an Ingles supermarket. The Company also owns a fluid dairy facility that supplies Ingles supermarkets and unaffiliated customers.",
+      "description": "Ingles Markets, Incorporated is a leading grocer with operations in six southeastern states. Headquartered in Asheville, North Carolina, the Company operates 197 supermarkets. In conjunction with its supermarket operations, the Company operates neighborhood shopping centers, most of which contain an Ingles supermarket. The Company also owns a fluid dairy facility that supplies Ingles supermarkets and unaffiliated customers.",
       "dividendHistory": [
         {
           "year": "1988",
@@ -56099,7 +56099,7 @@
       "paymentDate": "03/30/2026",
       "growthRate": "-21.28%",
       "growthSource": "Analyst Forecast",
-      "description": "Adeia is a leading R&D and intellectual property (IP) licensing company that accelerates the adoption of innovative technologies in the media and semiconductor industries. Adeia's fundamental innovations underpin technology solutions that are shaping and elevating the future of digital entertainment and electronics. Adeia's IP portfolios power the connected devices that touch the lives of millions of people around the world every day as they live, work and play.",
+      "description": "Adeia is a leading research and development and intellectual property (IP) licensing company that accelerates the adoption of innovative technologies in the media and semiconductor industries. Adeia's fundamental innovations underpin technology solutions that are shaping and elevating the future of digital entertainment and electronics. Adeia's IP portfolios power the connected devices that touch the lives of millions of people around the world every day as they live, work and play.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -56177,7 +56177,7 @@
       "paymentDate": "03/31/2026",
       "growthRate": "76.8%",
       "growthSource": "Analyst Forecast",
-      "description": "Broadcom Inc. (NASDAQ: AVGO) is a technology leader that designs, develops, and supplies semiconductors and infrastructure software for global organizations' complex, mission-critical needs. Broadcom combines long-term R&D investment with superb execution to deliver the best technology, at scale.",
+      "description": "Broadcom Inc. (NASDAQ: AVGO) is a technology leader that designs, develops, and supplies semiconductors and infrastructure software for global organizations' complex, mission-critical needs. We combine long-term R&D investment with superb execution to deliver the best technology at scale.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -57003,7 +57003,7 @@
       "paymentDate": "04/15/2026",
       "growthRate": "32.97%",
       "growthSource": "Analyst Forecast",
-      "description": "Monolithic Power Systems, Inc. is a fabless global company that provides high-performance, semiconductor-based power electronics solutions. MPS's mission is to reduce energy and material consumption to improve all aspects of quality of life and create a sustainable future. Founded in 1997 by our CEO Michael Hsing, MPS has three core strengths: deep system-level knowledge, strong semiconductor design expertise, and innovative proprietary technologies in the areas of semiconductor processes, system integration, and packaging. These combined advantages enable MPS to deliver reliable, compact, and monolithic solutions that are highly energy-efficient, cost-effective, and environmentally responsible while providing a consistent return on investment to our stockholders. MPS can be contacted through its website at www. monolithicpower. com or its support offices around the world.",
+      "description": "Monolithic Power Systems, Inc. (MPS) is a fabless global company that provides high-performance, semiconductor-based power electronics solutions. MPS's mission is to reduce energy and material consumption to improve all aspects of quality of life and create a sustainable future. Founded in 1997 by our CEO Michael Hsing, MPS has three core strengths: deep system-level knowledge, strong semiconductor design expertise, and innovative proprietary technologies in the areas of semiconductor processes, system integration, and packaging. These combined advantages enable MPS to deliver reliable, compact, and monolithic solutions that are highly energy-efficient, cost-effective, and environmentally responsible while providing a consistent return on investment to our stockholders. MPS can be contacted through its website at www.monolithicpower.com or its support offices around the world.",
       "dividendHistory": [
         {
           "year": "2014",
@@ -57747,7 +57747,7 @@
       "paymentDate": "02/27/2026",
       "growthRate": "-2.05%",
       "growthSource": "Analyst Forecast",
-      "description": "Hawkins, Inc. was founded in 1938 and is a leading water treatment and specialty ingredients company that formulates, manufactures, distributes, and blends products for its Water Treatment, Food & Health Sciences and Industrial Solutions customers. Headquartered in Roseville, Minnesota, the Company has 65 facilities in 28 states and creates value for its customers through superb customer service and support, quality products and personalized applications. Hawkins, Inc. generated $974 million of revenue in fiscal 2025 and has approximately 1,100 employees.",
+      "description": "Hawkins, Inc. was founded in 1938 and is a leading water treatment and specialty ingredients company that formulates, manufactures, distributes and blends products for its Water Treatment, Food & Health Sciences and Industrial Solutions customers. Headquartered in Roseville, Minnesota, the Company has 66 facilities in 28 states and creates value for its customers through superb customer service and support, quality products and personalized applications. Hawkins, Inc. generated $974 million of revenue in fiscal 2025 and has approximately 1,100 employees.",
       "dividendHistory": [
         {
           "year": "1989",
@@ -58225,7 +58225,7 @@
       "paymentDate": "01/06/2026",
       "growthRate": "19.36%",
       "growthSource": "Analyst Forecast",
-      "description": "Churchill Downs Racetrack ('CDRT'), the world's most legendary racetrack, has been the home of The Kentucky Derby, the longest continually held annual sporting event in the United States, since 1875. Located in Louisville, CDRT features a series of themed race days during Derby Week, including the Kentucky Oaks, and conducts Thoroughbred horse racing during three race meets in the Spring, September, and the Fall. CDRT is located on 175 acres and has a one-mile dirt track, a 7/8-mile turf track, a stabling area, and provides seating for approximately 60,000 guests. The stable area has barns sufficient to accommodate 1,400 horses and a 114-room dormitory for backstretch personnel. CDRT also has a year-round simulcast wagering facility.",
+      "description": "Churchill Downs Racetrack ('CDRT'), the world's most legendary racetrack, has been the home of The Kentucky Derby, the longest continually held annual sporting event in the United States, since 1875. Located in Louisville, CDRT features a series of themed race days during Derby Week, including the Kentucky Oaks, and conducts Thoroughbred horse racing during three race meets in the Spring, September, and the Fall. CDRT is located on 175 acres and has a one-mile dirt track, a 7/8-mile turf track, a stabling area, and provides seating for approximately 60,000 guests. The stable area has barns sufficient to accommodate 1,400 horses and a 114-room dormitory for backstretch personnel. CDRT also has a year-round simulcast wagering facility and Race and Sports Book.",
       "dividendHistory": [
         {
           "year": "1993",
@@ -58477,7 +58477,7 @@
       "paymentDate": "03/06/2026",
       "growthRate": "-23.92%",
       "growthSource": "Analyst Forecast",
-      "description": "TriMas designs, manufactures and supplies a broad range of innovative and high-quality products for the consumer packaging, life sciences and industrial markets through its TriMas Packaging and Specialty Products groups. With approximately 2,500 employees in 12 countries, TriMas is committed to empowering customer success through deep partnerships, strong technical expertise, focused innovation, and exceptional quality and service. Guided by a culture of continuous improvement and operational excellence, TriMas invests in its people and capabilities to deliver long-term value for all stakeholders. TriMas is publicly traded on NASDAQ under the ticker 'TRS' and is headquartered in Bloomfield Hills, Michigan. For more information, please visit www.trimas.com .",
+      "description": "TriMas designs, manufactures and supplies a broad range of innovative and high-quality products for the consumer packaging, life sciences and industrial markets through its TriMas Packaging and Specialty Products groups. With approximately 2,500 employees in 12 countries, TriMas is committed to empowering customer success through deep partnerships, strong technical expertise, focused innovation, and exceptional quality and service. Guided by a culture of continuous improvement and operational excellence, TriMas invests in its people and capabilities to deliver long-term value for all stakeholders. Headquartered in Bloomfield Hills, Michigan, TriMas is publicly traded on NASDAQ under the ticker symbol 'TRS.' For more information, please visit www.trimas.com.",
       "dividendHistory": [
         {
           "year": "2021",
@@ -59253,7 +59253,7 @@
       "paymentDate": "03/24/2026",
       "growthRate": "14.5%",
       "growthSource": "Analyst Forecast",
-      "description": "LPL Financial Holdings Inc. (Nasdaq: LPLA) is among the fastest growing wealth management firms in the U.S. As a leader in the financial advisor-mediated marketplace, LPL supports over 32,000 financial advisors and the wealth management practices of approximately 1,200 financial institutions, servicing and custodying approximately $2.4 trillion in brokerage and advisory assets on behalf of approximately 8 million Americans. The firm provides a wide range of advisor affiliation models, investment solutions, fintech tools and practice management services, ensuring that advisors and institutions have the flexibility to choose the business model, services and technology resources they need to run thriving businesses. For further information about LPL, please visit www.lpl.com.",
+      "description": "LPL Financial Holdings Inc. (Nasdaq: LPLA) is among the fastest growing wealth management firms in the U.S. As a leader in the financial advisor-mediated marketplace(4), LPL supports more than 32,000 financial advisors and the wealth management practices of approximately 1,100 financial institutions, servicing and custodying approximately $2.3 trillion in brokerage and advisory assets on behalf of approximately 8 million Americans. The firm provides a wide range of advisor affiliation models, investment solutions, fintech tools and practice management services, ensuring that advisors and institutions have the flexibility to choose the business model, services, and technology resources they need to run thriving businesses. For further information about LPL, please visit www.lpl.com.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -60587,7 +60587,7 @@
       "paymentDate": "04/03/2026",
       "growthRate": "19.05%",
       "growthSource": "Analyst Forecast",
-      "description": "Allient (Nasdaq: ALNT) is a global engineering and manufacturing enterprise that develops solutions to drive the future of market-moving industries, including medical, life sciences, aerospace and defense, industrial automation, robotics, semi-conductor, transportation, agriculture, construction and facility infrastructure. A family of globally responsible companies, Allient takes a One-Team approach to \"Connect What Matters\" and provides the most robust, reliable, and high-value products and systems by utilizing its core Motion, Controls, and Power technologies and platforms. Headquartered in Buffalo, N.Y., Allient employs more than 2,500 team members around the world.",
+      "description": "Allient (Nasdaq: ALNT) is a global engineering and manufacturing enterprise that develops solutions to drive the future of market-moving industries, including medical, life sciences, aerospace and defense, industrial automation, robotics, semi-conductor, transportation, agriculture, construction and facility infrastructure. A family of globally responsible companies, Allient takes a One-Team approach to 'Connect What Matters' and provides the most robust, reliable, and high-value products and systems by utilizing its core Motion, Controls, and Power technologies and platforms.",
       "dividendHistory": [
         {
           "year": "1993",
@@ -60883,7 +60883,7 @@
       "paymentDate": "04/30/2026",
       "growthRate": "14.7%",
       "growthSource": "Analyst Forecast",
-      "description": "The Ensign Group, Inc.'s independent operating subsidiaries provide a broad spectrum of skilled nursing and senior living services, physical, occupational and speech therapies and other rehabilitative and healthcare services at 378 healthcare facilities in Alabama, Alaska, Arizona, California, Colorado, Idaho, Iowa, Kansas, Nebraska, Nevada, Oregon, South Carolina, Tennessee, Texas, Utah, Washington and Wisconsin.",
+      "description": "The Ensign Group, Inc.'s independent subsidiaries provide a broad spectrum of skilled nursing and senior living services, physical, occupational and speech therapies and other rehabilitative and healthcare services at 395 healthcare facilities in Alabama, Alaska, Arizona, California, Colorado, Idaho, Iowa, Kansas, Nebraska, Nevada, Oregon, South Carolina, Tennessee, Texas, Utah, Washington and Wisconsin. As part of its investment strategy, the Company will also acquire, lease and own healthcare real estate to service the post-acute care continuum through acquisition and investment opportunities in healthcare properties. Ensign's new business venture operating subsidiaries also offer several other post-acute-related services, including mobile x-ray, emergency and non-emergency transportation services, long-term care pharmacy and other consulting services also across several states.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -61085,7 +61085,7 @@
       "paymentDate": "03/18/2026",
       "growthRate": "90.13%",
       "growthSource": "Analyst Forecast",
-      "description": "WD, also known as Western Digital, builds the storage infrastructure that powers certainty in the AI-driven data economy. At the forefront of innovation, WD partners with the world's leading hyperscalers, cloud service providers, and enterprises to deliver reliable storage solutions that are proven and trusted at scale. Driven by a culture of innovation and execution, WD helps customers store, protect, and use the world's data with confidence.",
+      "description": "WD, also known as Western Digital, builds the storage infrastructure that powers certainty in the AI-driven data economy. At the forefront of innovation, WD partners with the world's leading hyperscalers, cloud service providers, and enterprises to enable reliable storage solutions that are proven and trusted at scale. Driven by a culture of innovation and execution, WD helps customers store, protect, and use the world's data with confidence. Follow WD on LinkedIn and learn more at www.wd.com.",
       "dividendHistory": [
         {
           "year": "2013",
