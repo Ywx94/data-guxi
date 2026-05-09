@@ -1,20 +1,20 @@
 {
   "success": true,
-  "lastUpdated": "2026-05-08T23:12:43.078Z",
-  "count": 816,
+  "lastUpdated": "2026-05-09T23:06:19.443Z",
+  "count": 815,
   "totalScanned": 7057,
   "stats": {
-    "totalDividendStocks": 816,
-    "withGrowthData": 782,
+    "totalDividendStocks": 815,
+    "withGrowthData": 781,
     "withoutGrowthData": 34,
-    "withDividendHistory": 816,
+    "withDividendHistory": 815,
     "avgDividendYears": "13.2",
-    "durationMinutes": "12.99"
+    "durationMinutes": "13.62"
   },
   "sectors": [
     {
       "name": "Finance",
-      "count": 380
+      "count": 379
     },
     {
       "name": "Consumer Discretionary",
@@ -115,10 +115,6 @@
       "count": 12
     },
     {
-      "name": "Banks",
-      "count": 12
-    },
-    {
       "name": "Marine Transportation",
       "count": 11
     },
@@ -132,6 +128,10 @@
     },
     {
       "name": "EDP Services",
+      "count": 11
+    },
+    {
+      "name": "Banks",
       "count": 11
     },
     {
@@ -1081,7 +1081,7 @@
       "paymentDate": "05/19/2026",
       "growthRate": "-1.0%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Prospect Capital Corporation ( www.prospectstreet.com ) is a business development company that focuses on lending to and investing in private businesses. Our investment objective is to generate both current income and long-term capital appreciation through debt and equity investments.",
+      "description": "Prospect is a business development company that primarily lends to and invests in middle market privately-held companies. Prospect's investment objective is to generate both current income and long-term capital appreciation. Prospect has elected to be treated as a business development company under the Investment Company Act of 1940. Prospect has elected to be treated as a regulated investment company under the Internal Revenue Code of 1986.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -1459,7 +1459,7 @@
       "paymentDate": "03/27/2026",
       "growthRate": "-31.72%",
       "growthSource": "Analyst Forecast",
-      "description": "BCP Investment Corporation (Nasdaq: BCIC) is a publicly traded, externally managed closed-end investment company that has elected to be regulated as a business development company under the Investment Company Act of 1940. BCIC's middle market investment business originates, structures, finances and manages a portfolio of term loans, mezzanine investments and selected equity securities in middle market companies.",
+      "description": "BCP Investment Corporation (NASDAQ: BCIC) is a publicly traded, externally managed closed-end investment company that has elected to be regulated as a business development company under the Investment Company Act. BCIC's middle market investment business originates, structures, finances and manages a portfolio of term loans, mezzanine investments and selected equity securities in middle market companies.",
       "dividendHistory": [
         {
           "year": "2012",
@@ -1969,7 +1969,7 @@
       "paymentDate": "04/06/2026",
       "growthRate": "-4.42%",
       "growthSource": "Analyst Forecast",
-      "description": "WhiteHorse Finance is a business development company that originates and invests in loans to privately held, lower middle market companies across a broad range of industries. The Company's investment activities are managed by H.I.G. WhiteHorse Advisers, LLC, an affiliate of H.I.G. Capital, LLC, (' H.I.G. Capital '). H.I.G. Capital is a leading global alternative asset manager with over $74 billion of capital under management* across a number of funds focused on the small and mid-cap markets.",
+      "description": "WhiteHorse Finance is a business development company that originates and invests in loans to privately held, lower middle market companies across a broad range of industries. The Company's investment activities are managed by H.I.G. WhiteHorse Advisers, LLC, an affiliate of H.I.G. Capital, LLC, (' H.I.G. Capital '). H.I.G. Capital is a leading global alternative asset manager with $74 billion of capital under management(3) across a number of funds focused on the small and mid-cap markets. For more information about H.I.G. Capital, please visit http://www.higcapital.com. For more information about the Company, please visit http://www.whitehorsefinance.com.",
       "dividendHistory": [
         {
           "year": "2012",
@@ -8413,7 +8413,7 @@
       "paymentDate": "03/30/2026",
       "growthRate": "0.7%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Midland States Bancorp, Inc. is a community-based financial holding company headquartered in Effingham, Illinois, and is the sole shareholder of Midland States Bank. As of March 31, 2026, the Company had total assets of approximately $6.55 billion, and its Wealth Management Group had assets under administration of approximately $4.47 billion. The Company provides a full range of commercial and consumer banking products and services, merchant credit card services, trust and investment management, insurance and financial planning services. For additional information, visit https://www.midlandsb.com/ or https://www.linkedin.com/company/midland-states-bank .",
+      "description": "Midland States Bancorp, Inc. is a community-based financial holding company headquartered in Effingham, Illinois, and is the sole shareholder of Midland States Bank. As of March 31, 2026, the Company had total assets of approximately $6.55 billion, and its Wealth Management Group had assets under administration of approximately $4.47 billion. The Company provides a full range of commercial and consumer banking products and services, merchant credit card services, trust and investment management, insurance and financial planning services.",
       "dividendHistory": [
         {
           "year": "2022",
@@ -12689,7 +12689,7 @@
       "paymentDate": "03/13/2026",
       "growthRate": "-0.16%",
       "growthSource": "Analyst Forecast",
-      "description": "Newell Brands (NASDAQ: NWL) is a leading global consumer goods company with a strong portfolio of well-known brands, including Rubbermaid, Sharpie, Graco, Coleman, Rubbermaid Commercial Products, Yankee Candle, Paper Mate, FoodSaver, Dymo, EXPO, Elmer's, Oster, NUK, Spontex and Campingaz. Newell Brands is focused on delighting consumers by lighting up everyday moments.",
+      "description": "Newell Brands (NASDAQ: NWL) is a leading global consumer goods company with a strong portfolio of well-known brands, including Rubbermaid, Sharpie®, Graco®, Coleman®, Rubbermaid Commercial Products®, Yankee Candle®, Paper Mate®, FoodSaver®, Dymo®, EXPO®, Elmer's®, Oster®, NUK®, Spontex® and Campingaz®. Newell Brands is focused on delighting consumers by lighting up everyday moments.",
       "dividendHistory": [
         {
           "year": "2000",
@@ -20891,7 +20891,7 @@
       "paymentDate": "03/27/2026",
       "growthRate": "9.67%",
       "growthSource": "Analyst Forecast",
-      "description": "Launched in 2013 by NetEase, Inc. (NASDAQ: NTES; HKEX: 9999), NetEase Cloud Music Inc. (HKEX: 9899) is a well-known online music platform featuring a vibrant content community. Dedicated to providing an elevated user experience, NetEase Cloud Music Inc. provides precise, personalised recommendations, promotes user interaction and creates a strong social community. Its focus on discovering and promoting emerging musicians has made NetEase Cloud Music Inc. a destination of choice for exploring new and independent music among music enthusiasts in China. The platform has been recognised as the most popular entertainment app among China's vibrant Generation Z community.",
+      "description": "NetEase, Inc. (NASDAQ: NTES and HKEX: 9999, ' NetEase ') is a leading internet and game services provider centered around premium content. With extensive offerings across its expanding gaming ecosystem, the Company develops and operates some of the most popular and longest-running mobile and PC games available in China and globally. Powered by one of the largest in-house game R&D teams focused on mobile, PC and console, NetEase creates superior gaming experiences, inspires players, and passionately delivers value for its thriving community worldwide. By infusing play with culture, and education with technology, NetEase transforms gaming into a meaningful vehicle to build a more entertaining and enlightened world.",
       "dividendHistory": [
         {
           "year": "2014",
@@ -32751,60 +32751,6 @@
       }
     },
     {
-      "symbol": "FNWB",
-      "name": "First Northwest Bancorp Common Stock",
-      "price": "$9.67",
-      "marketCap": "91,858,231",
-      "sector": "Finance",
-      "industry": "Banks",
-      "dividendYield": "2.81%",
-      "annualDividend": "$0.28",
-      "exDividendDate": "05/09/2025",
-      "paymentDate": "05/23/2025",
-      "growthRate": "141.67%",
-      "growthSource": "Analyst Forecast",
-      "description": "First Northwest Bancorp (Nasdaq: FNWB) is a financial holding company engaged in investment activities including the business of its subsidiary, First Fed Bank. First Fed is a Pacific Northwest -based financial institution which has served its customers and communities since 1923. Currently First Fed has 17 locations in Washington state including 12 full-service branches. First Fed's business and operating strategy is focused on building sustainable earnings by delivering a full array of financial products and services for individuals, small businesses, non-profit organizations and commercial customers. First Northwest has also strategically invested in partnerships focused on developing modern financial solutions and a boutique investment banking/accelerator firm. These investments underscore the Company's commitment to innovation and growth in the financial services sector.",
-      "dividendHistory": [
-        {
-          "year": "2018",
-          "amount": "$0.03"
-        },
-        {
-          "year": "2019",
-          "amount": "$0.13"
-        },
-        {
-          "year": "2020",
-          "amount": "$0.21"
-        },
-        {
-          "year": "2021",
-          "amount": "$0.25"
-        },
-        {
-          "year": "2022",
-          "amount": "$0.28"
-        },
-        {
-          "year": "2023",
-          "amount": "$0.28"
-        },
-        {
-          "year": "2024",
-          "amount": "$0.28"
-        },
-        {
-          "year": "2025",
-          "amount": "$0.14"
-        }
-      ],
-      "dividendYears": 8,
-      "dividendGrowth": {
-        "rate": "24.6%",
-        "years": 7
-      }
-    },
-    {
       "symbol": "MSEX",
       "name": "Middlesex Water Company Common Stock",
       "price": "$51.56",
@@ -43727,7 +43673,7 @@
       "paymentDate": "03/10/2026",
       "growthRate": "84.48%",
       "growthSource": "Analyst Forecast",
-      "description": "Microchip Technology Inc. is a broadline supplier of semiconductors committed to making innovative design easier through total system solutions that address critical challenges at the intersection of emerging technologies and durable end markets. Its easy-to-use development tools and comprehensive product portfolio supports customers throughout the design process, from concept to completion. Headquartered in Chandler, Arizona, Microchip offers outstanding technical support and delivers solutions across the industrial, automotive, consumer, aerospace and defense, communications and computing markets.",
+      "description": "Microchip Technology Inc. is a broadline supplier of semiconductors committed to making innovative design easier through total system solutions that address critical challenges at the intersection of emerging technologies and durable end markets. Its easy-to-use development tools and comprehensive product portfolio support customers throughout the design process, from concept to completion. Headquartered in Chandler, Arizona, Microchip offers outstanding technical support and delivers solutions across the industrial, automotive, consumer, aerospace and defense, communications and computing markets.",
       "dividendHistory": [
         {
           "year": "2002",
@@ -44937,7 +44883,7 @@
       "paymentDate": "09/30/2025",
       "growthRate": "3.69%",
       "growthSource": "Analyst Forecast",
-      "description": "Texas Roadhouse is a growing restaurant company operating predominantly in the casual dining segment that first opened in 1993 and today has grown to over 820 restaurants system-wide in 49 states, one U.S. territory, and ten foreign countries.",
+      "description": "Texas Roadhouse, Inc. is a growing restaurant company operating predominantly in the casual dining segment that first opened in 1993 and today has grown to over 820 restaurants system-wide in 49 states, one U.S. territory, and ten foreign countries.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -54145,7 +54091,7 @@
       "paymentDate": "03/31/2026",
       "growthRate": "10.73%",
       "growthSource": "Analyst Forecast",
-      "description": "Ross Stores, Inc. is an S&P 500, Fortune 500, and Nasdaq 100 (ROST) company headquartered in Dublin, California, with fiscal 2025 revenues of $22.8 billion. Currently, the Company operates Ross Dress for Less ® ('Ross'), the largest off-price apparel and home fashion chain in the United States with 1,917 locations in 44 states, the District of Columbia, Guam, and Puerto Rico. Ross offers first-quality, in-season, and designer apparel, accessories, footwear, and home fashions for the entire family at savings of 20% to 60% off department and specialty store regular prices every day. The Company also operates 366 dd's DISCOUNTS® stores in 23 states that feature a more moderately-priced assortment of first-quality, in-season apparel, accessories, footwear, and home fashions for the entire family at savings of 20% to 70% off moderate department and discount store regular prices every day. Additional information is available at www.rossstores.com.",
+      "description": "Ross Stores, Inc. is an S&P 500, Fortune 500, and Nasdaq 100 (ROST) company headquartered in Dublin, California, with fiscal 2025 revenues of $22.8 billion. Currently, the Company operates Ross Dress for Less ® ('Ross'), the largest off-price apparel and home fashion chain in the United States with 1,917 locations in 44 states, the District of Columbia, Guam, and Puerto Rico. Ross offers first-quality, in-season, brand name and designer apparel, accessories, footwear, and home fashions for the entire family at savings of 20% to 60% off department and specialty store regular prices every day. The Company also operates 365 dd's DISCOUNTS® stores in 23 states that feature a more moderately-priced assortment of first-quality, in-season apparel, accessories, footwear, and home fashions for the entire family at savings of 20% to 70% off moderate department and discount store regular prices every day. Additional information is available at www.rossstores.com.",
       "dividendHistory": [
         {
           "year": "1994",
@@ -55949,7 +55895,7 @@
       "paymentDate": "04/08/2026",
       "growthRate": "8.43%",
       "growthSource": "Analyst Forecast",
-      "description": "News Corp (Nasdaq: NWS, NWSA; ASX: NWS, NWSLV) is a global, diversified media and information services company focused on creating and distributing authoritative and engaging content and other products and services. The company comprises businesses across a range of media, including: information services and news, digital real estate services and book publishing. Headquartered in New York, News Corp operates primarily in the United States, Australia and the United Kingdom, and its content and other products and services are distributed and consumed worldwide.",
+      "description": "News Corp (Nasdaq: NWS, NWSA; ASX: NWS, NWSLV) is a global, diversified media and information services company focused on creating and distributing authoritative and engaging content and other products and services. The company comprises businesses across a range of media, including: information services and news, digital real estate services and book publishing. Headquartered in New York, News Corp operates primarily in the United States, Australia, and the United Kingdom, and its content and other products and services are distributed and consumed worldwide. More information is available at: www.newscorp.com.",
       "dividendHistory": [
         {
           "year": "2015",
@@ -58333,7 +58279,7 @@
       "paymentDate": "03/03/2026",
       "growthRate": "11.36%",
       "growthSource": "Analyst Forecast",
-      "description": "KLA Corporation ('KLA') develops industry-leading equipment and services that enable innovation throughout the electronics industry. We provide advanced process control and process-enabling solutions for manufacturing wafers and reticles, integrated circuits, packaging and printed circuit boards. In close collaboration with leading customers across the globe, our expert teams of physicists, engineers, data scientists and problem-solvers design solutions that move the world forward. Investors and others should note that KLA announces material financial information including SEC filings, press releases, public earnings calls and conference webcasts using an investor relations website ( ir.kla.com ). Additional information may be found at: www.kla.com.",
+      "description": "KLA Corporation ('KLA') develops industry-leading equipment and services that enable innovation throughout the electronics industry. We provide advanced process control and process-enabling solutions for manufacturing wafers and reticles, integrated circuits, packaging and printed circuit boards. In close collaboration with leading customers across the globe, our expert teams of physicists, engineers, data scientists and problem-solvers design solutions that move the world forward.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -60787,7 +60733,7 @@
       "paymentDate": "03/13/2026",
       "growthRate": "79.04%",
       "growthSource": "Analyst Forecast",
-      "description": "Teradyne ( NASDAQ:TER ) designs, develops, and manufactures automated test equipment and advanced robotics systems. Its test solutions for semiconductors and electronics products enable Teradyne's customers to consistently deliver on their quality standards. Its advanced robotics business includes collaborative robots and mobile robots that support manufacturing and warehouse operations for companies of all sizes. For more information, visit teradyne.com. Teradyne® is a registered trademark of Teradyne, Inc., in the U.S. and other countries.",
+      "description": "Teradyne (NASDAQ:TER) designs, develops, and manufactures automated test equipment and advanced robotics systems. Its test solutions for semiconductors and electronics products enable Teradyne's customers to consistently deliver on their quality standards. Its advanced robotics business includes collaborative robots and mobile robots that support manufacturing and warehouse operations for companies of all sizes.",
       "dividendHistory": [
         {
           "year": "2014",
