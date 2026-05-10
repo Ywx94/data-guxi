@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": "2026-05-09T23:06:19.443Z",
+  "lastUpdated": "2026-05-10T23:07:52.976Z",
   "count": 815,
   "totalScanned": 7057,
   "stats": {
@@ -9,7 +9,7 @@
     "withoutGrowthData": 34,
     "withDividendHistory": 815,
     "avgDividendYears": "13.2",
-    "durationMinutes": "13.62"
+    "durationMinutes": "13.89"
   },
   "sectors": [
     {
@@ -5751,7 +5751,7 @@
       "paymentDate": "04/15/2026",
       "growthRate": "0.5%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "National Healthcare Properties, Inc. (Nasdaq: NHP) is a self-managed real estate investment trust focused on acquiring, owning and investing in a diversified portfolio of healthcare real estate, with an emphasis on providing senior housing to serve a growing elderly population in the United States.",
+      "description": "National Healthcare Properties, Inc. is a publicly registered real estate investment trust focused on acquiring a diversified portfolio of healthcare real estate, with an emphasis on senior housing and outpatient medical facilities located in the United States.",
       "dividendHistory": [
         {
           "year": "2020",
