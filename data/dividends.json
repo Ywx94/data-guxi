@@ -1,15 +1,15 @@
 {
   "success": true,
-  "lastUpdated": "2026-05-15T23:15:24.641Z",
-  "count": 812,
+  "lastUpdated": "2026-05-16T23:07:15.044Z",
+  "count": 808,
   "totalScanned": 7071,
   "stats": {
-    "totalDividendStocks": 812,
-    "withGrowthData": 778,
+    "totalDividendStocks": 808,
+    "withGrowthData": 774,
     "withoutGrowthData": 34,
-    "withDividendHistory": 812,
+    "withDividendHistory": 808,
     "avgDividendYears": "13.2",
-    "durationMinutes": "15.96"
+    "durationMinutes": "13.89"
   },
   "sectors": [
     {
@@ -18,15 +18,15 @@
     },
     {
       "name": "Consumer Discretionary",
-      "count": 119
+      "count": 117
     },
     {
       "name": "Technology",
-      "count": 72
+      "count": 71
     },
     {
       "name": "Industrials",
-      "count": 69
+      "count": 68
     },
     {
       "name": "Real Estate",
@@ -87,11 +87,11 @@
       "count": 20
     },
     {
-      "name": "Semiconductors",
-      "count": 19
+      "name": "N/A",
+      "count": 18
     },
     {
-      "name": "N/A",
+      "name": "Semiconductors",
       "count": 18
     },
     {
@@ -115,10 +115,6 @@
       "count": 12
     },
     {
-      "name": "Marine Transportation",
-      "count": 11
-    },
-    {
       "name": "Telecommunications Equipment",
       "count": 11
     },
@@ -129,6 +125,10 @@
     {
       "name": "Banks",
       "count": 11
+    },
+    {
+      "name": "Marine Transportation",
+      "count": 10
     },
     {
       "name": "Finance Companies",
@@ -227,14 +227,6 @@
       "count": 5
     },
     {
-      "name": "Recreational Games/Products/Toys",
-      "count": 5
-    },
-    {
-      "name": "Major Chemicals",
-      "count": 5
-    },
-    {
       "name": "Electrical Products",
       "count": 5
     },
@@ -259,6 +251,10 @@
       "count": 4
     },
     {
+      "name": "Recreational Games/Products/Toys",
+      "count": 4
+    },
+    {
       "name": "Other Specialty Stores",
       "count": 4
     },
@@ -272,6 +268,10 @@
     },
     {
       "name": "Services-Misc. Amusement & Recreation",
+      "count": 4
+    },
+    {
+      "name": "Major Chemicals",
       "count": 4
     },
     {
@@ -520,36 +520,6 @@
     }
   ],
   "stocks": [
-    {
-      "symbol": "ICON",
-      "name": "Icon Energy Corp. Common stock",
-      "price": "$1.52",
-      "marketCap": "4,885,385",
-      "sector": "Consumer Discretionary",
-      "industry": "Marine Transportation",
-      "dividendYield": "93.33%",
-      "annualDividend": "$1.4",
-      "exDividendDate": "05/16/2025",
-      "paymentDate": "05/30/2025",
-      "growthRate": "11.7%",
-      "growthSource": "4yr Revenue CAGR",
-      "description": "Icon is an international shipping company that provides worldwide seaborne transportation services for dry bulk cargoes via its fleet of oceangoing vessels.",
-      "dividendHistory": [
-        {
-          "year": "2024",
-          "amount": "$0.17"
-        },
-        {
-          "year": "2025",
-          "amount": "$0.07"
-        }
-      ],
-      "dividendYears": 2,
-      "dividendGrowth": {
-        "rate": "-58.8%",
-        "years": 1
-      }
-    },
     {
       "symbol": "ICMB",
       "name": "Investcorp Credit Management BDC, Inc. Common Stock",
@@ -2499,7 +2469,7 @@
       "paymentDate": "05/15/2026",
       "growthRate": "102.2%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Strive is a structured finance company and institutional asset manager focused on disciplined capital allocation and long-term value creation. With Bitcoin as our hurdle rate for capital deployment, Strive is focused on increasing Bitcoin per share to outperform Bitcoin over the long run. Strive holds approximately 14,557 Bitcoin as of April 24, 2026. Strive Asset Management, LLC, a direct, wholly owned subsidiary of Strive and an SEC-registered investment adviser, manages over $2.7 billion in assets.",
+      "description": "Strive is a structured finance company and institutional asset manager focused on disciplined capital allocation and long-term value creation. With bitcoin as our hurdle rate for capital deployment, Strive is focused on increasing bitcoin per share to outperform bitcoin over the long run. Strive Asset Management, LLC, a direct, wholly owned subsidiary of Strive and an SEC -registered investment adviser, manages over $2.7 billion in assets.",
       "dividendHistory": [
         {
           "year": "2025",
@@ -2707,7 +2677,7 @@
       "paymentDate": "04/03/2026",
       "growthRate": "-0.0%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Crown Crafts, Inc. designs, markets and distributes infant, toddler and juvenile consumer products. Founded in 1957, Crown Crafts is one of America's largest producers of infant bedding, toddler bedding, diaper bags, bibs, toys and disposable products. The Company operates through its wholly owned subsidiaries, NoJo Baby & Kids, Inc. and Sassy Baby, Inc., which market a variety of infant, toddler, and juvenile products under Company-owned trademarks (Sassy®, Manhattan Toy®, NoJo®, Baby Boom® and Neat Solutions®), as well as licensed collections and exclusive private label programs. Sales are made directly to retailers such as mass merchants, large chain stores, juvenile specialty stores, value channel stores, grocery and drug stores, restaurants, wholesale clubs, internet-based retailers and directly to consumers through the Company's websites.",
+      "description": "Crown Crafts, Inc. designs, markets, and distributes infant, toddler, and juvenile consumer products. Founded in 1957, Crown Crafts is one of America's largest producers of infant bedding, toddler bedding, diaper bags, bibs, toys and disposable products. The Company operates primarily through its wholly owned subsidiaries, NoJo Baby & Kids, Inc. and Sassy Baby, Inc., which market a variety of infant, toddler, and juvenile products under Company-owned trademarks (Sassy®, NoJo®, Manhattan Toy®, Baby Boom® and Neat Solutions®), as well as licensed collections and private label programs. Sales are made to retailers such as mass merchants, large chain stores, juvenile specialty stores, value channel stores, grocery and drug stores, restaurants, wholesale clubs, internet-based retailers and directly to consumers through the Company's websites.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -7387,7 +7357,7 @@
       "paymentDate": "03/30/2026",
       "growthRate": "12.5%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "As the principal subsidiary of Valley National Bancorp (NASDAQ: VLY), Valley National Bank is a regional financial institution with over $64 billion in assets. Founded in 1927, Valley has more than 220 offices nationwide and serves clients across New Jersey, New York, Florida, Alabama, California, Illinois, Pennsylvania and Arizona. Valley delivers a full range of consumer, commercial, and wealth management solutions designed to support everything from homeownership and business growth to long-term financial planning. Big enough to support complex financial needs and small enough to stay deeply connected, Valley is grounded in a relationship-led approach focused on understanding people first. That same relationship-led approach guides Valley's commitment to community investment and responsible corporate citizenship.",
+      "description": "As the principal subsidiary of Valley National Bancorp (NASDAQ: VLY), Valley National Bank is a regional financial institution with over $64 billion in assets. Founded in 1927, Valley has more than 220 branch locations and commercial offices nationwide and serves clients across New Jersey, New York, Florida, Alabama, California, Illinois, Pennsylvania and Arizona. Valley delivers a full range of consumer, commercial, and wealth management solutions designed to support everything from homeownership and business growth to long-term financial planning. Big enough to support complex financial needs and small enough to stay deeply connected, Valley is grounded in a relationship-led approach focused on understanding people first. That same relationship-led approach guides Valley's commitment to community investment and responsible corporate citizenship.",
       "dividendHistory": [
         {
           "year": "2024",
@@ -8051,7 +8021,7 @@
       "paymentDate": "03/30/2026",
       "growthRate": "12.5%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "As the principal subsidiary of Valley National Bancorp (NASDAQ: VLY), Valley National Bank is a regional financial institution with over $64 billion in assets. Founded in 1927, Valley has more than 220 offices nationwide and serves clients across New Jersey, New York, Florida, Alabama, California, Illinois, Pennsylvania and Arizona. Valley delivers a full range of consumer, commercial, and wealth management solutions designed to support everything from homeownership and business growth to long-term financial planning. Big enough to support complex financial needs and small enough to stay deeply connected, Valley is grounded in a relationship-led approach focused on understanding people first. That same relationship-led approach guides Valley's commitment to community investment and responsible corporate citizenship.",
+      "description": "As the principal subsidiary of Valley National Bancorp (NASDAQ: VLY), Valley National Bank is a regional financial institution with over $64 billion in assets. Founded in 1927, Valley has more than 220 branch locations and commercial offices nationwide and serves clients across New Jersey, New York, Florida, Alabama, California, Illinois, Pennsylvania and Arizona. Valley delivers a full range of consumer, commercial, and wealth management solutions designed to support everything from homeownership and business growth to long-term financial planning. Big enough to support complex financial needs and small enough to stay deeply connected, Valley is grounded in a relationship-led approach focused on understanding people first. That same relationship-led approach guides Valley's commitment to community investment and responsible corporate citizenship.",
       "dividendHistory": [
         {
           "year": "2015",
@@ -8153,7 +8123,7 @@
       "annualDividend": "$1.96875",
       "exDividendDate": "04/15/2026",
       "paymentDate": "05/01/2026",
-      "growthRate": "2.3%",
+      "growthRate": "0.6%",
       "growthSource": "4yr Revenue CAGR",
       "description": "Gladstone Investment Corporation is a publicly traded business development company that seeks to make secured debt and equity investments in lower middle market businesses in the United States in connection with acquisitions, changes in control and recapitalizations.",
       "dividendHistory": [
@@ -8439,7 +8409,7 @@
       "paymentDate": "03/30/2026",
       "growthRate": "12.5%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "As the principal subsidiary of Valley National Bancorp (NASDAQ: VLY), Valley National Bank is a regional financial institution with over $64 billion in assets. Founded in 1927, Valley has more than 220 offices nationwide and serves clients across New Jersey, New York, Florida, Alabama, California, Illinois, Pennsylvania and Arizona. Valley delivers a full range of consumer, commercial, and wealth management solutions designed to support everything from homeownership and business growth to long-term financial planning. Big enough to support complex financial needs and small enough to stay deeply connected, Valley is grounded in a relationship-led approach focused on understanding people first. That same relationship-led approach guides Valley's commitment to community investment and responsible corporate citizenship.",
+      "description": "As the principal subsidiary of Valley National Bancorp (NASDAQ: VLY), Valley National Bank is a regional financial institution with over $64 billion in assets. Founded in 1927, Valley has more than 220 branch locations and commercial offices nationwide and serves clients across New Jersey, New York, Florida, Alabama, California, Illinois, Pennsylvania and Arizona. Valley delivers a full range of consumer, commercial, and wealth management solutions designed to support everything from homeownership and business growth to long-term financial planning. Big enough to support complex financial needs and small enough to stay deeply connected, Valley is grounded in a relationship-led approach focused on understanding people first. That same relationship-led approach guides Valley's commitment to community investment and responsible corporate citizenship.",
       "dividendHistory": [
         {
           "year": "2017",
@@ -11365,7 +11335,7 @@
       "paymentDate": "03/16/2026",
       "growthRate": "-34.11%",
       "growthSource": "Analyst Forecast",
-      "description": "The Wendy's Company (Nasdaq: WEN ) and Wendy's franchisees employ hundreds of thousands of people across more than 7,000 restaurants worldwide. Founded in 1969, Wendy's is committed to the promise of Fresh Famous Food, Made Right, For You, delivered to customers through its craveable menu including made-to-order square hamburgers using fresh beef**, and fan favorites like the Spicy Chicken Sandwich and nuggets, Baconator®, and the Frosty® dessert. Wendy's supports the Dave Thomas Foundation for Adoption, established by its founder, which seeks to dramatically increase the number of adoptions of children waiting in North America's foster care system.",
+      "description": "The Wendy's Company (Nasdaq: WEN) and Wendy's® franchisees employ hundreds of thousands of people across more than 7,000 restaurants worldwide. Founded in 1969, Wendy's is committed to the promise of Fresh Famous Food, Made Right, For You, delivered to customers through its craveable menu including made-to-order square hamburgers using fresh beef* and fan favourites like the Spicy Chicken Sandwich and nuggets, Baconator®, and the Frosty® dessert. Wendy's supports the Dave Thomas Foundation for Adoption, established by its founder, which seeks to dramatically increase the number of adoptions of children waiting in North America's foster care system. Learn more about Wendy's at www.wendys.com. For details on franchising, visit www.wendys.com/franchising. Connect with Wendy's on X, Instagram and Facebook.",
       "dividendHistory": [
         {
           "year": "2000",
@@ -14437,7 +14407,7 @@
       "annualDividend": "$1.444792",
       "exDividendDate": "04/15/2026",
       "paymentDate": "05/01/2026",
-      "growthRate": "2.3%",
+      "growthRate": "0.6%",
       "growthSource": "4yr Revenue CAGR",
       "description": "Gladstone Investment Corporation is a publicly traded business development company that seeks to make secured debt and equity investments in lower middle market businesses in the United States in connection with acquisitions, changes in control and recapitalizations.",
       "dividendHistory": [
@@ -15505,7 +15475,7 @@
       "paymentDate": "05/26/2026",
       "growthRate": "18.87%",
       "growthSource": "Analyst Forecast",
-      "description": "TPG is a leading global alternative asset management firm, founded in San Francisco in 1992, with $306 billion of assets under management and investment and operational teams around the world. TPG invests across a broadly diversified set of strategies, including private equity, impact, credit, real estate, and market solutions, and our unique strategy is driven by collaboration, innovation, and inclusion. Our teams combine deep product and sector experience with broad capabilities and expertise to develop differentiated insights and add value for our fund investors, portfolio companies, management teams, and communities.",
+      "description": "TPG RE Finance Trust, Inc. is a commercial real estate finance company that originates, acquires, and manages primarily first mortgage loans secured by institutional properties located in primary and select secondary markets in the United States. The Company is externally managed by TPG RE Finance Trust Management, L.P., a part of TPG Real Estate, which is the real estate investment platform of global alternative asset management firm TPG Inc. (NASDAQ: TPG).",
       "dividendHistory": [
         {
           "year": "2022",
@@ -15961,7 +15931,7 @@
       "paymentDate": "04/02/2026",
       "growthRate": "-0.71%",
       "growthSource": "Analyst Forecast",
-      "description": "Kimberly-Clark (NASDAQ: KMB) and its trusted brands are an indispensable part of life for people in more than 175 countries and territories. Our portfolio of brands, including Huggies, Kleenex, Scott, Kotex, Cottonelle, Poise, Depend, Andrex, Pull-Ups, Goodnites, Intimus, Plenitud, Sweety, Softex, Viva and WypAll, hold No. 1 or No. 2 share positions in approximately 70 countries. Our company's purpose is to deliver Better Care for a Better World. We are committed to using sustainable practices designed to support a healthy planet, build strong communities, and enable our business to thrive for decades to come. To keep up with the latest news and learn more about the company's more than 150-year history of innovation, visit the Kimberly-Clark website.",
+      "description": "Kimberly-Clark (NASDAQ: KMB) and its trusted brands are an indispensable part of life for people in more than 175 countries and territories. Our portfolio of brands, including Huggies, Kleenex, Scott, Kotex, Cottonelle, Poise, Depend, Andrex, Pull-Ups, Goodnites, Intimus, Plenitud, Sweety, Softex, Viva and WypAll, hold No. 1 or No. 2 share positions in approximately 70 countries. Our company's purpose is to deliver Better Care for a Better World. We are committed to using sustainable practices designed to support a healthy planet, build strong communities, and enable our business to thrive for decades to come.",
       "dividendHistory": [
         {
           "year": "2000",
@@ -16691,7 +16661,7 @@
       "paymentDate": "04/02/2026",
       "growthRate": "-49.47%",
       "growthSource": "Analyst Forecast",
-      "description": "Founded in 2002, Jefferson Capital is an analytically driven purchaser and manager of charged-off, insolvency and active consumer accounts with operations in the United States, Canada, the United Kingdom and Latin America. It purchases and services both secured and unsecured assets, and its growing client base includes Fortune 500 creditors, banks, fintech origination platforms, telecommunications providers, credit card issuers and auto finance companies. Jefferson Capital is headquartered in Minneapolis, Minnesota with additional offices and operations located in Sartell, Minnesota, Denver, Colorado and San Antonio, Texas ( United States ); Basingstoke, England, London, England and Paisley, Scotland (United Kingdom ); London, Ontario and Toronto, Ontario (Canada ); as well as Bogota ( Colombia ).",
+      "description": "Founded in 2002, Jefferson Capital is an analytically driven purchaser and manager of charged-off, insolvency and active consumer accounts with operations in the United States, Canada, the United Kingdom and Latin America. It purchases and services both secured and unsecured assets, and its growing client base includes Fortune 500 creditors, banks, fintech origination platforms, telecommunications providers, credit card issuers and auto finance companies. Jefferson Capital is headquartered in Minneapolis, Minnesota with additional offices and operations located in Sartell, Minnesota, Denver, Colorado and San Antonio, Texas ( United States ); Basingstoke, England ; London, England and Paisley, Scotland (United Kingdom ); London, Ontario and Toronto, Ontario (Canada ); as well as Bogota ( Colombia ).",
       "dividendHistory": [
         {
           "year": "2025",
@@ -17203,7 +17173,7 @@
       "annualDividend": "$1.21875",
       "exDividendDate": "04/15/2026",
       "paymentDate": "05/01/2026",
-      "growthRate": "2.3%",
+      "growthRate": "0.6%",
       "growthSource": "4yr Revenue CAGR",
       "description": "Gladstone Investment Corporation is an externally managed, closed-end, non-diversified management investment company. The Company's investment objects are to achieve and grow current income by investing in debt securities of established businesses that seeks to provide stable earnings and cash flow to pay expenses, make principal and interest payments on its outstanding indebtedness and make distributions to stockholders that grow over time, and provide its stockholders with long-term capital appreciation in the value of its assets by investing in equity securities of established businesses, generally in combination with the aforementioned debt securities, that it believe can grow over time to permit us to sell our equity investments for capital gains. It has investments in sectors, such as diversified/conglomerate services; home and office furnishings, housewares, and durable consumer products, and others. Its investment advisor is Gladstone Management Corporation.",
       "dividendHistory": [
@@ -17423,7 +17393,7 @@
       "paymentDate": "04/03/2026",
       "growthRate": "119.64%",
       "growthSource": "Analyst Forecast",
-      "description": "The Hackett Group, Inc. (NASDAQ: HCKT) is an ROI-led, AI enterprise transformation firm that helps clients enable AI world-class performance. Its experts and engineers leverage proprietary AI delivery platforms - Hackett AI XPLR, ZBrain, XT, AIXelerator and AskHackett - to accelerate and enhance the delivery of the company's solutions and services. The AI platforms are powered by the company's domain-specific Hackett Solution Language Model informed by Hackett Process and Performance Intelligence - including Digital World Class® benchmark metrics, best practice process flows and service delivery model solution frameworks, which accelerate and enhance the delivery of its services. The Hackett Group's proprietary insights are based on benchmarking results from leading global organizations, including 98% of Dow Jones Global Titans, 97% of the Dow Jones Industrials and 90% of the Fortune 100. Visit www.thehackettgroup.com.",
+      "description": "The Hackett Group, Inc. (NASDAQ: HCKT) is an ROI-led, AI enterprise transformation firm that helps clients enable AI world-class performance. Its experts and engineers leverage proprietary AI delivery platforms - Hackett AI XPLR, ZBrain, XT, AIXelerator and AskHackett - to accelerate and enhance the delivery of the company's solutions and services. The AI platforms are powered by the company's domain-specific Hackett Solution Language Model informed by Hackett Process and Performance Intelligence - including Digital World Class® benchmark metrics, best practice process flows and service delivery model solution frameworks, which accelerate and enhance the delivery of its services. The Hackett Group's proprietary insights are based on benchmarking results from leading global organizations, including 98% of Dow Jones Global Titans, 97% of the Dow Jones Industrials and 90% of the Fortune 100.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -18681,7 +18651,7 @@
       "paymentDate": "03/16/2026",
       "growthRate": "-10.4%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Microchip Technology Inc. is a broadline supplier of semiconductors committed to making innovative design easier through total system solutions that address critical challenges at the intersection of emerging technologies and durable end markets. Its easy-to-use development tools and comprehensive product portfolio support customers throughout the design process, from concept to completion. Headquartered in Chandler, Arizona, Microchip offers outstanding technical support and delivers solutions across the industrial, automotive, consumer, aerospace and defense, communications and computing markets.",
+      "description": "Microchip Technology Inc. is a broadline supplier of semiconductors committed to making innovative design easier through total system solutions that address critical challenges at the intersection of emerging technologies and durable end markets. Its easy-to-use development tools and comprehensive product portfolio supports customers throughout the design process, from concept to completion. Headquartered in Chandler, Arizona, Microchip offers outstanding technical support and delivers solutions across the industrial, automotive, consumer, aerospace and defense, communications and computing markets.",
       "dividendHistory": [
         {
           "year": "2025",
@@ -19437,7 +19407,7 @@
       "paymentDate": "03/31/2026",
       "growthRate": "-0.24%",
       "growthSource": "Analyst Forecast",
-      "description": "Founded in 1902, Lamar Advertising Company (Nasdaq: LAMR) is one of the largest outdoor advertising companies in North America, with over 359,000 displays across the United States and Canada. Lamar offers advertisers a variety of billboard, interstate logo, transit and airport advertising formats, helping both local businesses and national brands reach broad audiences every day. In addition to its more traditional out-of- home inventory, Lamar is proud to offer its customers the largest network of digital billboards in the United States with over 5,600 displays.",
+      "description": "Founded in 1902, Lamar Advertising Company is one of the largest outdoor advertising companies in North America, with over 359,000 displays across the United States and Canada. Lamar offers advertisers a variety of billboard, interstate logo, transit and airport advertising formats, helping both local businesses and national brands reach broad audiences every day. In addition to its more traditional out-of-home inventory, Lamar is proud to offer its customers the largest network of digital billboards in the United States with over 5,600 displays.",
       "dividendHistory": [
         {
           "year": "2014",
@@ -26115,7 +26085,7 @@
       "paymentDate": "04/01/2026",
       "growthRate": "30.13%",
       "growthSource": "Analyst Forecast",
-      "description": "As the principal subsidiary of Valley National Bancorp (NASDAQ: VLY), Valley National Bank is a regional financial institution with over $64 billion in assets. Founded in 1927, Valley has more than 220 offices nationwide and serves clients across New Jersey, New York, Florida, Alabama, California, Illinois, Pennsylvania and Arizona. Valley delivers a full range of consumer, commercial, and wealth management solutions designed to support everything from homeownership and business growth to long-term financial planning. Big enough to support complex financial needs and small enough to stay deeply connected, Valley is grounded in a relationship-led approach focused on understanding people first. That same relationship-led approach guides Valley's commitment to community investment and responsible corporate citizenship.",
+      "description": "As the principal subsidiary of Valley National Bancorp (NASDAQ: VLY), Valley National Bank is a regional financial institution with over $64 billion in assets. Founded in 1927, Valley has more than 220 branch locations and commercial offices nationwide and serves clients across New Jersey, New York, Florida, Alabama, California, Illinois, Pennsylvania and Arizona. Valley delivers a full range of consumer, commercial, and wealth management solutions designed to support everything from homeownership and business growth to long-term financial planning. Big enough to support complex financial needs and small enough to stay deeply connected, Valley is grounded in a relationship-led approach focused on understanding people first. That same relationship-led approach guides Valley's commitment to community investment and responsible corporate citizenship.",
       "dividendHistory": [
         {
           "year": "2000",
@@ -28047,7 +28017,7 @@
       "paymentDate": "03/03/2026",
       "growthRate": "5.64%",
       "growthSource": "Analyst Forecast",
-      "description": "Phillips Edison & Company, Inc. ('PECO') is one of the nation's largest owners and operators of high-quality, grocery-anchored neighborhood shopping centers. Founded in 1991, PECO has generated strong results through its vertically-integrated operating platform and national footprint of well-occupied shopping centers. PECO's centers feature a mix of national and regional retailers providing necessity-based goods and services in fundamentally strong markets throughout the United States. PECO's top grocery anchors include Kroger, Publix, Albertsons and Ahold Delhaize. As of March 31, 2025, PECO managed 321 shopping centers, including 298 wholly-owned centers comprising 33.5 million square feet across 31 states and 23 shopping centers owned in three institutional joint ventures. PECO is focused on creating great omni-channel, grocery-anchored shopping experiences and improving communities, one neighborhood shopping center at a time.",
+      "description": "Phillips Edison & Company, Inc. ('PECO') is one of the nation's largest owners and operators of high-quality, grocery-anchored neighborhood shopping centers. Founded in 1991, PECO has generated strong results through its vertically-integrated operating platform and national footprint of well-occupied shopping centers. PECO's centers feature a mix of national and regional retailers providing necessity-based goods and services in fundamentally strong markets throughout the United States. PECO's top grocery anchors include Kroger, Publix, Albertsons and Ahold Delhaize. As of March 31, 2026, PECO managed 326 shopping centers, including 299 wholly-owned centers comprising 33.7 million square feet across 31 states and 27 shopping centers owned in three institutional joint ventures. PECO is focused on creating great omni-channel, grocery-anchored shopping experiences and improving communities, one neighborhood shopping center at a time.",
       "dividendHistory": [
         {
           "year": "2021",
@@ -28391,7 +28361,7 @@
       "paymentDate": "04/15/2026",
       "growthRate": "N/A",
       "growthSource": "",
-      "description": "Mount Logan Capital Inc. is an integrated alternative asset management and insurance solutions firm focused on generating durable, fee-based revenue and long-term value creation. The Company leverages differentiated investment strategies alongside permanent insurance capital to deliver attractive, risk-adjusted returns across market cycles. Through its subsidiaries, Mount Logan Management LLC and Ability Insurance Company, Mount Logan manages and invests across private and public credit markets in North America and operates an insurance platform that provides long-duration liabilities to support its credit investment strategies. This integrated platform is designed to provide stable earnings, downside protection, and a low risk of principal impairment through the credit cycle. As of December 31, 2025, Mount Logan Capital had over $2.1 billion in assets under management.",
+      "description": "Mount Logan Capital Inc. is an integrated alternative asset management and insurance solutions firm focused on generating durable, fee-based revenue and long-term value creation. The Company leverages differentiated investment strategies alongside permanent insurance capital to deliver attractive, risk-adjusted returns across market cycles. Through its subsidiaries, Mount Logan Management LLC and Ability Insurance Company, Mount Logan manages and invests across private and public credit markets in North America and operates an insurance platform that provides long-duration liabilities to support its credit investment strategies. This integrated platform is designed to provide stable earnings, downside protection, and a low risk of principal impairment through the credit cycle.",
       "dividendHistory": [
         {
           "year": "2025",
@@ -31822,120 +31792,6 @@
       "dividendGrowth": {
         "rate": "-4.2%",
         "years": 25
-      }
-    },
-    {
-      "symbol": "HAS",
-      "name": "Hasbro, Inc. Common Stock",
-      "price": "$95.25",
-      "marketCap": "13,476,988,413",
-      "sector": "Consumer Discretionary",
-      "industry": "Recreational Games/Products/Toys",
-      "dividendYield": "2.93%",
-      "annualDividend": "$2.8",
-      "exDividendDate": "02/18/2026",
-      "paymentDate": "03/04/2026",
-      "growthRate": "4.75%",
-      "growthSource": "Analyst Forecast",
-      "description": "Hasbro is a leading games, IP and toy company whose mission is to create joy and community through the magic of play. Hasbro delivers groundbreaking play experiences for fans of all ages around the world, through physical and digital games, video games, toys, licensed consumer products, location-based entertainment, film, TV and more. Through its franchise-first approach, Hasbro unlocks value from both new and legacy IP, including MAGIC: THE GATHERING, DUNGEONS & DRAGONS, MONOPOLY, HASBRO GAMES, NERF, TRANSFORMERS, PLAY-DOH and PEPPA PIG, as well as premier partner brands. Powered by its portfolio of thousands of iconic marks and a diversified network of partners and subsidiary studios, Hasbro brings fans together wherever they are, from tabletop to screen.",
-      "dividendHistory": [
-        {
-          "year": "2000",
-          "amount": "$0.06"
-        },
-        {
-          "year": "2001",
-          "amount": "$0.09"
-        },
-        {
-          "year": "2004",
-          "amount": "$0.12"
-        },
-        {
-          "year": "2005",
-          "amount": "$0.33"
-        },
-        {
-          "year": "2006",
-          "amount": "$0.45"
-        },
-        {
-          "year": "2007",
-          "amount": "$0.60"
-        },
-        {
-          "year": "2008",
-          "amount": "$0.76"
-        },
-        {
-          "year": "2009",
-          "amount": "$0.80"
-        },
-        {
-          "year": "2010",
-          "amount": "$0.95"
-        },
-        {
-          "year": "2013",
-          "amount": "$0.80"
-        },
-        {
-          "year": "2014",
-          "amount": "$1.69"
-        },
-        {
-          "year": "2015",
-          "amount": "$1.81"
-        },
-        {
-          "year": "2016",
-          "amount": "$1.99"
-        },
-        {
-          "year": "2017",
-          "amount": "$2.22"
-        },
-        {
-          "year": "2018",
-          "amount": "$2.46"
-        },
-        {
-          "year": "2019",
-          "amount": "$2.67"
-        },
-        {
-          "year": "2020",
-          "amount": "$2.72"
-        },
-        {
-          "year": "2021",
-          "amount": "$2.72"
-        },
-        {
-          "year": "2022",
-          "amount": "$2.78"
-        },
-        {
-          "year": "2023",
-          "amount": "$2.80"
-        },
-        {
-          "year": "2024",
-          "amount": "$2.80"
-        },
-        {
-          "year": "2025",
-          "amount": "$2.80"
-        },
-        {
-          "year": "2026",
-          "amount": "$0.70"
-        }
-      ],
-      "dividendYears": 23,
-      "dividendGrowth": {
-        "rate": "9.9%",
-        "years": 26
       }
     },
     {
@@ -36135,7 +35991,7 @@
       "paymentDate": "03/30/2026",
       "growthRate": "-109.64%",
       "growthSource": "Analyst Forecast",
-      "description": "Gilead Sciences, Inc. is a biopharmaceutical company that has pursued and achieved breakthroughs in medicine for more than three decades, with the goal of creating a healthier world for all people. The company is committed to advancing innovative medicines to prevent and treat life-threatening diseases, including HIV, viral hepatitis, COVID-19, cancer and inflammation. Gilead operates in more than 35 countries worldwide, with headquarters in Foster City, California.",
+      "description": "Gilead Sciences, Inc. is a biopharmaceutical company that has pursued and achieved breakthroughs in medicine for more than three decades, with the goal of creating a healthier world for all people. The company is committed to advancing innovative medicines to prevent and treat life-threatening diseases, including HIV, viral hepatitis, COVID-19, and cancer. Gilead operates in more than 35 countries worldwide, with headquarters in Foster City, California.",
       "dividendHistory": [
         {
           "year": "2015",
@@ -39733,7 +39589,7 @@
       "paymentDate": "03/12/2026",
       "growthRate": "4.8%",
       "growthSource": "Analyst Forecast",
-      "description": "T-Mobile US, Inc. (NASDAQ: TMUS) is America's supercharged Un-carrier, delivering an advanced 4G LTE and transformative nationwide 5G network that will offer reliable connectivity for all. T-Mobile's customers benefit from its unmatched combination of value and quality, unwavering obsession with offering them the best possible service experience and undisputable drive for disruption that creates competition and innovation in wireless and beyond. Based in Bellevue, Wash., T-Mobile provides services through its subsidiaries and operates its flagship brands, T-Mobile, Metro by T-Mobile and Mint Mobile.",
+      "description": "As the supercharged Un-carrier, T-Mobile US, Inc. (NASDAQ: TMUS) is powered by an award-winning 5G network that connects more people, in more places, than ever before. With T-Mobile's unique value proposition of best network, best value and best experiences, the Un-carrier is redefining connectivity and fueling competition while continuing to drive the next wave of innovation in wireless and beyond. Headquartered in Bellevue, Wash., T-Mobile provides services through its subsidiaries and operates its flagship brands, T-Mobile, Metro by T-Mobile and Mint Mobile.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -42655,7 +42511,7 @@
       "paymentDate": "03/18/2026",
       "growthRate": "-1.58%",
       "growthSource": "Analyst Forecast",
-      "description": "Equinix , Inc. (Nasdaq: EQIX) shortens the path to boundless connectivity anywhere in the world. Its digital infrastructure, data center footprint and interconnected ecosystems empower innovations that enhance our work, life and planet. Equinix connects economies, countries, organizations and communities, delivering seamless digital experiences and cutting-edge AI-quickly, efficiently and everywhere.",
+      "description": "Equinix, Inc. ( Nasdaq : EQIX ) shortens the path to boundless connectivity anywhere in the world. Its digital infrastructure, data center footprint and interconnected ecosystems empower innovations that enhance our work, life and planet. Equinix connects economies, countries, organizations and communities, delivering seamless digital experiences and cutting-edge AI-quickly, efficiently and everywhere.",
       "dividendHistory": [
         {
           "year": "2014",
@@ -42835,7 +42691,7 @@
       "paymentDate": "03/10/2026",
       "growthRate": "90.3%",
       "growthSource": "Analyst Forecast",
-      "description": "Microchip Technology Inc. is a broadline supplier of semiconductors committed to making innovative design easier through total system solutions that address critical challenges at the intersection of emerging technologies and durable end markets. Its easy-to-use development tools and comprehensive product portfolio support customers throughout the design process, from concept to completion. Headquartered in Chandler, Arizona, Microchip offers outstanding technical support and delivers solutions across the industrial, automotive, consumer, aerospace and defense, communications and computing markets.",
+      "description": "Microchip Technology Inc. is a broadline supplier of semiconductors committed to making innovative design easier through total system solutions that address critical challenges at the intersection of emerging technologies and durable end markets. Its easy-to-use development tools and comprehensive product portfolio supports customers throughout the design process, from concept to completion. Headquartered in Chandler, Arizona, Microchip offers outstanding technical support and delivers solutions across the industrial, automotive, consumer, aerospace and defense, communications and computing markets.",
       "dividendHistory": [
         {
           "year": "2002",
@@ -43224,124 +43080,6 @@
       "dividendGrowth": {
         "rate": "-2.2%",
         "years": 13
-      }
-    },
-    {
-      "symbol": "TXN",
-      "name": "Texas Instruments Incorporated Common Stock",
-      "price": "$302.73",
-      "marketCap": "275,512,390,619",
-      "sector": "Technology",
-      "industry": "Semiconductors",
-      "dividendYield": "1.84%",
-      "annualDividend": "$5.68",
-      "exDividendDate": "05/05/2026",
-      "paymentDate": "05/19/2026",
-      "growthRate": "41.08%",
-      "growthSource": "Analyst Forecast",
-      "description": "Texas Instruments Incorporated (Nasdaq: TXN) is a global semiconductor company that designs, manufactures and sells analog and embedded processing chips for markets such as industrial, automotive, data center, personal electronics and communications equipment. At our core, we have a passion to create a better world by making electronics more affordable through semiconductors. This passion is alive today as each generation of innovation builds upon the last to make our technology more reliable, more affordable and lower power, making it possible for semiconductors to go into electronics everywhere.",
-      "dividendHistory": [
-        {
-          "year": "2000",
-          "amount": "$0.02"
-        },
-        {
-          "year": "2001",
-          "amount": "$0.06"
-        },
-        {
-          "year": "2004",
-          "amount": "$0.05"
-        },
-        {
-          "year": "2005",
-          "amount": "$0.11"
-        },
-        {
-          "year": "2006",
-          "amount": "$0.13"
-        },
-        {
-          "year": "2007",
-          "amount": "$0.30"
-        },
-        {
-          "year": "2008",
-          "amount": "$0.41"
-        },
-        {
-          "year": "2009",
-          "amount": "$0.45"
-        },
-        {
-          "year": "2010",
-          "amount": "$0.49"
-        },
-        {
-          "year": "2011",
-          "amount": "$0.56"
-        },
-        {
-          "year": "2013",
-          "amount": "$0.58"
-        },
-        {
-          "year": "2014",
-          "amount": "$1.24"
-        },
-        {
-          "year": "2015",
-          "amount": "$1.40"
-        },
-        {
-          "year": "2016",
-          "amount": "$1.64"
-        },
-        {
-          "year": "2017",
-          "amount": "$2.12"
-        },
-        {
-          "year": "2018",
-          "amount": "$2.63"
-        },
-        {
-          "year": "2019",
-          "amount": "$3.21"
-        },
-        {
-          "year": "2020",
-          "amount": "$3.72"
-        },
-        {
-          "year": "2021",
-          "amount": "$4.21"
-        },
-        {
-          "year": "2022",
-          "amount": "$4.69"
-        },
-        {
-          "year": "2023",
-          "amount": "$5.02"
-        },
-        {
-          "year": "2024",
-          "amount": "$5.26"
-        },
-        {
-          "year": "2025",
-          "amount": "$5.50"
-        },
-        {
-          "year": "2026",
-          "amount": "$2.84"
-        }
-      ],
-      "dividendYears": 24,
-      "dividendGrowth": {
-        "rate": "21.0%",
-        "years": 26
       }
     },
     {
@@ -46301,7 +46039,7 @@
       "paymentDate": "04/02/2026",
       "growthRate": "19.69%",
       "growthSource": "Analyst Forecast",
-      "description": "C.H. Robinson is the global leader in Lean AI supply chains. For more than a century, companies everywhere have looked to us to reimagine how goods move. Now, as we redefine what's next for the industry, that same drive fuels our commitment to Building Tomorrow's Supply Chains, Today. Trusted by 75,000 customers and 450,000 contract carriers, we manage 37 million shipments annually, representing $23 billion in freight. We deliver tailored solutions across the world via truckload, less-than-truckload, ocean, air, and more. With our unique combination of human insight and Lean AI working as one, supply chains move faster, smarter, and more sustainably. As a responsible global citizen, we proudly contribute millions to the causes that matter most to our employees. For more information, visit us at chrobinson.com (Nasdaq: CHRW).",
+      "description": "C.H. Robinson is the global leader in Lean AI supply chains. For more than a century, companies everywhere have looked to us to reimagine how goods move. Now, as we redefine what's next for the industry, that same drive fuels our commitment to Building Tomorrow's Supply Chains, Today. Trusted by 75,000 customers and 450,000 contract carriers, we manage 37 million shipments annually, representing $23 billion in freight. We deliver tailored solutions across the world via truckload, less-than-truckload, ocean, air and more. With our unique combination of human insight and Lean AI working as one, supply chains move faster, smarter and more sustainably. As a responsible global citizen, we proudly contribute millions to the causes that matter most to our employees. For more information, visit us at chrobinson.",
       "dividendHistory": [
         {
           "year": "1997",
@@ -48141,7 +47879,7 @@
       "paymentDate": "03/31/2026",
       "growthRate": "-1.65%",
       "growthSource": "Analyst Forecast",
-      "description": "Iridium Communications Inc. (Nasdaq: IRDM) operates the world's only truly global mobile satellite network, delivering reliable voice, data, and positioning, navigation and timing (PNT) services anywhere on Earth. Iridium supports safety- and mission-critical operations for diverse markets such as aviation, maritime, government, emergency services, critical infrastructure, autonomous systems, and remote monitoring applications, where connectivity is essential. Headquartered in McLean, Va., Iridium provides its products and services through an ecosystem of 500-plus partner companies around the world.",
+      "description": "Iridium Communications Inc. (Nasdaq: IRDM) operates the world's only truly global mobile satellite network, delivering reliable voice, data, and positioning, navigation, and timing (PNT) services anywhere on Earth. Iridium supports safety- and mission-critical operations for diverse markets such as aviation, maritime, government, emergency services, critical infrastructure, autonomous systems, and remote monitoring applications, where connectivity is essential. Headquartered in McLean, Virginia, Iridium provides its products and services through an ecosystem of 500-plus partner companies around the world.",
       "dividendHistory": [
         {
           "year": "2023",
@@ -48677,7 +48415,7 @@
       "paymentDate": "03/30/2026",
       "growthRate": "-20.69%",
       "growthSource": "Analyst Forecast",
-      "description": "G-III Apparel Group, Ltd. is a global fashion leader with expertise in design, sourcing, distribution, and marketing. The Company owns and licenses a portfolio of more than 30 preeminent brands, each differentiated by unique brand propositions, product categories, and consumer touchpoints. G-III owns ten iconic brands, including DKNY, Donna Karan, Karl Lagerfeld, and Vilebrequin, and licenses over 20 of the most sought-after names in global fashion, including Calvin Klein, Tommy Hilfiger, Levi's, Nautica, Halston, Converse, BCBG, and major national sports leagues, among others.",
+      "description": "G-III Apparel Group, Ltd. is a global fashion leader with expertise in design, sourcing, distribution, and marketing. The Company owns and licenses a portfolio of more than 30 preeminent brands, each differentiated by unique brand propositions, product categories, and consumer touchpoints. G-III owns ten iconic brands, including DKNY, Donna Karan, Karl Lagerfeld, Sonia Rykiel, and Vilebrequin, and licenses over 20 of the most sought-after names in global fashion, including Calvin Klein, Tommy Hilfiger, Levi's, Halston, Champion, Converse, Cole Haan, BCBG, French Connection, Starter as well as major sports leagues such as the NFL, NBA, NHL and MLB, among others.",
       "dividendHistory": [
         {
           "year": "2025",
@@ -49847,7 +49585,7 @@
       "paymentDate": "03/30/2026",
       "growthRate": "10.92%",
       "growthSource": "Analyst Forecast",
-      "description": "Nasdaq (Nasdaq: NDAQ) is a leading global technology company serving corporate clients, investment managers, banks, brokers, and exchange operators as they navigate and interact with the global capital markets and the broader financial system. We aspire to deliver world-leading platforms that improve the liquidity, transparency, and integrity of the global economy. Our diverse offering of data, analytics, software, exchange capabilities, and client-centric services enables clients to optimize and execute their business vision with confidence. To learn more about the company, technology solutions, and career opportunities, visit us on LinkedIn, on X @Nasdaq, or at www.nasdaq.com.",
+      "description": "Nasdaq (Nasdaq: NDAQ) is a leading technology platform that powers the world's economies. We architect the infrastructure of the world's most modern markets, power the innovation economy, and build trust in the financial system. We empower economic opportunity by designing and deploying advanced technology, data, and intelligence solutions that enable our clients to capture opportunities, navigate risk, and strengthen resilience.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -50024,92 +49762,6 @@
       "dividendGrowth": {
         "rate": "5.3%",
         "years": 31
-      }
-    },
-    {
-      "symbol": "MEOH",
-      "name": "Methanex Corporation Common Stock",
-      "price": "$63.38",
-      "marketCap": "4,903,346,989",
-      "sector": "Industrials",
-      "industry": "Major Chemicals",
-      "dividendYield": "1.18%",
-      "annualDividend": "$0.74",
-      "exDividendDate": "03/17/2026",
-      "paymentDate": "03/31/2026",
-      "growthRate": "167%",
-      "growthSource": "Analyst Forecast",
-      "description": "Methanex is a Vancouver -based, publicly traded company and is the world's largest producer and supplier of methanol to customers globally. Methanex shares are listed for trading on the Toronto Stock Exchange in Canada under the trading symbol 'MX' and on the Nasdaq Global Market in the United States under the trading symbol 'MEOH'.",
-      "dividendHistory": [
-        {
-          "year": "2002",
-          "amount": "$0.05"
-        },
-        {
-          "year": "2003",
-          "amount": "$0.35"
-        },
-        {
-          "year": "2013",
-          "amount": "$0.40"
-        },
-        {
-          "year": "2014",
-          "amount": "$0.95"
-        },
-        {
-          "year": "2015",
-          "amount": "$1.08"
-        },
-        {
-          "year": "2016",
-          "amount": "$1.10"
-        },
-        {
-          "year": "2017",
-          "amount": "$1.17"
-        },
-        {
-          "year": "2018",
-          "amount": "$1.32"
-        },
-        {
-          "year": "2019",
-          "amount": "$1.41"
-        },
-        {
-          "year": "2020",
-          "amount": "$0.47"
-        },
-        {
-          "year": "2021",
-          "amount": "$0.32"
-        },
-        {
-          "year": "2022",
-          "amount": "$0.62"
-        },
-        {
-          "year": "2023",
-          "amount": "$0.73"
-        },
-        {
-          "year": "2024",
-          "amount": "$0.74"
-        },
-        {
-          "year": "2025",
-          "amount": "$0.74"
-        },
-        {
-          "year": "2026",
-          "amount": "$0.37"
-        }
-      ],
-      "dividendYears": 16,
-      "dividendGrowth": {
-        "rate": "8.7%",
-        "years": 24
       }
     },
     {
@@ -50329,7 +49981,7 @@
       "paymentDate": "04/10/2026",
       "growthRate": "7.46%",
       "growthSource": "Analyst Forecast",
-      "description": "Academy is a leading full-line sporting goods and outdoor recreation retailer in the United States. Originally founded in 1938 as a family business in Texas, Academy has grown to more than 300 stores across 21 states and counting. Academy's mission is to provide 'Fun for All' and Academy fulfills this mission with a localized merchandising strategy and value proposition that strongly connects with a broad range of consumers. Academy's product assortment focuses on key categories of outdoor, apparel, sports & recreation and footwear through both leading national brands and a portfolio of private label brands.",
+      "description": "Academy is a leading full-line sporting goods and outdoor recreation retailer in the United States. Originally founded in 1938 as a family business in Texas, Academy has grown to more than 300 stores across 21 states and counting. Academy's mission is to provide Fun for All and Academy fulfills this mission with a localized merchandising strategy and value proposition that strongly connects with a broad range of consumers. Academy's product assortment focuses on key categories of outdoor, apparel, sports & recreation and footwear through both leading national brands and a portfolio of private label brands.",
       "dividendHistory": [
         {
           "year": "2022",
@@ -52153,7 +51805,7 @@
       "paymentDate": "06/05/2026",
       "growthRate": "12.25%",
       "growthSource": "Analyst Forecast",
-      "description": "Founded in 1994 and headquartered in Dallas, TX, Wingstop Inc. (NASDAQ: WING) operates and franchises more than 3,000 restaurants worldwide, with approximately 98% of the total restaurant count owned by brand partners. Generating over $5 billion in system-wide sales in fiscal 2025, Wingstop offers made-to-order, always fresh classic and boneless wings, tenders, and chicken sandwiches in 12 bold, distinctive flavors, alongside signature sides and iconic housemade ranch and bleu cheese dips. Dedicated to Serving the World Flavor, Wingstop is the Official Chicken Partner of the NBA with a vision to become a Top 10 Global Restaurant Brand.",
+      "description": "Founded in 1994 and headquartered in Dallas, TX, Wingstop Inc. (NASDAQ: WING) operates and franchises more than 3,000 restaurants worldwide, with approximately 98% of the total restaurant count owned by brand partners. Generating over $5 billion in system-wide sales in fiscal 2025, Wingstop offers made-to-order, always fresh classic and boneless wings, tenders and chicken sandwiches in 12 bold, distinctive flavors, alongside signature sides and iconic housemade ranch and bleu cheese dips. Dedicated to Serving the World Flavor, Wingstop is the Official Chicken Partner of the NBA with a vision to become a Top 10 Global Restaurant Brand.",
       "dividendHistory": [
         {
           "year": "2016",
@@ -54017,7 +53669,7 @@
       "paymentDate": "03/31/2026",
       "growthRate": "7.28%",
       "growthSource": "Analyst Forecast",
-      "description": "IGI is an international specialty risks commercial insurer and reinsurer underwriting a diverse portfolio of specialty lines. Established in 2001, IGI has a worldwide portfolio of energy, property, general aviation, construction & engineering, ports & terminals, marine cargo, marine trades, contingency, political violence, financial institutions, general third-party liability (casualty), legal expenses, professional indemnity, D&O, marine liability and reinsurance treaty business. Registered in Bermuda, with operations in Bermuda, London, Malta, Dubai, Amman, Oslo, Kuala Lumpur and Casablanca, IGI aims to deliver outstanding levels of service to clients and brokers. IGI is rated 'A' (Excellent)/Stable by AM Best and 'A' (Strong)/Stable by S&P Global Ratings.",
+      "description": "IGI is an international specialty risks commercial insurer and reinsurer underwriting a diverse portfolio of specialty lines. Established in 2001, IGI has a worldwide portfolio of energy, property, general aviation, construction & engineering, ports & terminals, marine cargo, marine trades, contingency, political violence, financial institutions, general third-party liability (casualty), legal expenses, professional indemnity, D&O, marine liability and reinsurance treaty business. Registered in Bermuda, with operations in Bermuda, London, Malta, Dubai, Amman, Oslo, Kuala Lumpur and Casablanca, IGI aims to deliver outstanding levels of service to clients and brokers. IGI is rated 'A' (Excellent)/Stable by AM Best and 'A' (Strong)/Stable by S&P Global Ratings. For more information about IGI, please visit www.iginsure.com.",
       "dividendHistory": [
         {
           "year": "2020",
@@ -54891,7 +54543,7 @@
       "paymentDate": "06/01/2026",
       "growthRate": "11.01%",
       "growthSource": "Analyst Forecast",
-      "description": "Esquire Financial Holdings, Inc. is a financial holding company headquartered in Jericho, New York, with one branch office in Jericho, New York and an administrative office in Boca Raton, Florida. Its wholly-owned subsidiary, Esquire Bank, is a full-service commercial bank dedicated to serving the financial needs of the litigation industry and small businesses nationally, as well as commercial and retail customers in the New York metropolitan area. The Bank offers tailored financial and payment processing solutions to the litigation community and their clients as well as dynamic and flexible payment processing solutions to small business owners.",
+      "description": "Esquire Financial Holdings, Inc. is a financial holding company headquartered in Jericho, New York. Its wholly owned subsidiary, Esquire Bank, is a full-service commercial bank, with branch offices in Jericho, New York and Los Angeles, California, as well as an administrative office in Boca Raton, Florida. The Bank is dedicated to serving the financial needs of the litigation industry and small businesses nationally, as well as commercial and retail customers in the New York and Los Angeles metropolitan areas. The Bank offers tailored financial and payment processing solutions to the litigation community and their clients as well as dynamic and flexible payment processing solutions to small business owners.",
       "dividendHistory": [
         {
           "year": "2022",
@@ -55831,7 +55483,7 @@
       "paymentDate": "04/15/2026",
       "growthRate": "N/A",
       "growthSource": "",
-      "description": "Elemental Royalty is a new mid-tier, gold-focused streaming and royalty company with a globally diversified portfolio of 18 producing assets and more than 200 royalties, anchored by cornerstone assets and operated by world-class mining partners. Formed through the merger of Elemental Altus and EMX, the Company combines Elemental Altus's track record of accretive royalty acquisitions with EMX's strengths in royalty generation and disciplined growth. This complementary strategy delivers both immediate cash flow and long-term value creation, supported by a best-in-class asset base, diversified production, and sector-leading management expertise.",
+      "description": "Elemental is a new mid-tier, gold-focused streaming and royalty company with a globally diversified portfolio of 18 producing assets and more than 200 royalties, anchored by cornerstone assets and operated by mining partners. Formed through the merger of Elemental Altus and EMX, the Company combines Elemental Altus' track record of accretive royalty acquisitions with EMX's strengths in royalty generation and disciplined growth. This complementary strategy delivers both immediate cash flow and long-term value creation, supported by a best-in-class asset base, diversified production, and sector-leading management expertise.",
       "dividendHistory": [
         {
           "year": "2026",
@@ -56013,7 +55665,7 @@
       "paymentDate": "06/05/2026",
       "growthRate": "25.17%",
       "growthSource": "Analyst Forecast",
-      "description": "Constellation Energy Corporation (Nasdaq: CEG), a Fortune 200 company headquartered in Baltimore, is the largest private-sector power producer in the world and the nation's largest producer of clean and reliable energy. With 55 gigawatts of capacity from nuclear, natural gas, oil, geothermal, hydro, wind and solar facilities, our fleet has the generating capacity to power the equivalent of 27 million homes, providing about 10% of the nation's clean energy and delivering the around-the-clock reliability needed to power America's growing economy. We are also the largest nuclear energy company in the U.S. and a leading competitive retail supplier, serving approximately 2.5 million customer accounts nationwide, including 80% of the Fortune 100. We are committed to investing in innovation and new technologies to drive the transition to a reliable, sustainable and secure energy future.",
+      "description": "Constellation Energy Corporation (Nasdaq: CEG), a Fortune 200 company headquartered in Baltimore, is the largest private-sector power producer in the world and the nation's largest producer of clean and reliable energy. With 55 gigawatts of capacity from nuclear, natural gas, geothermal, hydro, wind and solar facilities, our fleet has the generating capacity to power the equivalent of 27 million homes, providing about 10% of the nation's clean energy and delivering the around-the-clock reliability needed to power America's growing economy. We are also the largest nuclear energy company in the U.S. and a leading competitive retail supplier, serving approximately 2.5 million customer accounts nationwide, including 80% of the Fortune 100. We are committed to investing in innovation and new technologies to drive the transition to a reliable, sustainable and secure energy future.",
       "dividendHistory": [
         {
           "year": "2022",
@@ -58125,7 +57777,7 @@
       "paymentDate": "03/12/2026",
       "growthRate": "18.51%",
       "growthSource": "Analyst Forecast",
-      "description": "Applied Materials, Inc. (Nasdaq: AMAT) is the leader in materials engineering solutions that are at the foundation of virtually every new semiconductor and advanced display in the world. The technology we create is essential to advancing AI and accelerating the commercialization of next-generation chips. At Applied, we push the boundaries of science and engineering to deliver material innovation that changes the world.",
+      "description": "Applied Materials, Inc. (Nasdaq: AMAT) is the leader in materials engineering solutions that are at the foundation of virtually every new semiconductor and advanced display in the world. The technology we create is essential to advancing AI and accelerating the commercialization of next-generation chips. At Applied, we push the boundaries of science and engineering to deliver material innovation that changes the world. Learn more at www.appliedmaterials.com.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -58983,7 +58635,7 @@
       "paymentDate": "03/13/2026",
       "growthRate": "12.18%",
       "growthSource": "Analyst Forecast",
-      "description": "Interactive Brokers Group, Inc. (NASDAQ: IBKR) is a member of the S&P 500. Its affiliates provide automated trade execution and custody of securities, commodities, foreign exchange, and forecast contracts around the clock on over 170 markets in numerous countries and currencies from a single unified platform to clients worldwide. We serve individual investors, hedge funds, proprietary trading groups, financial advisors and introducing brokers. Our four decades of focus on technology and automation have enabled us to equip our clients with a uniquely sophisticated platform to manage their investment portfolios. We strive to provide our clients with advantageous execution prices and trading, risk and portfolio management tools, research facilities and investment products, all at low or no cost, positioning them to achieve superior returns on investments.",
+      "description": "Interactive Brokers Group, Inc. (NASDAQ: IBKR) is a member of the S&P 500. Its affiliates provide automated trade execution and custody of securities, commodities, foreign exchange, and prediction markets around the clock on over 170 markets in numerous countries and currencies from a single unified platform to clients worldwide. We serve individual investors, hedge funds, proprietary trading groups, financial advisors and introducing brokers. Our four decades of focus on technology and automation have enabled us to equip our clients with a uniquely sophisticated platform to manage their investment portfolios. We strive to provide our clients with advantageous execution prices and trading, risk and portfolio management tools, research facilities and investment products, all at low or no cost, positioning them to achieve superior returns on investments.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -60889,7 +60541,7 @@
       "paymentDate": "03/18/2026",
       "growthRate": "111.23%",
       "growthSource": "Analyst Forecast",
-      "description": "WD, also known as Western Digital, builds the storage infrastructure that powers certainty in the AI-driven data economy. At the forefront of innovation, WD partners with the world's leading hyperscalers, cloud service providers, and enterprises to enable reliable storage solutions that are proven and trusted at scale. Driven by a culture of innovation and execution, WD helps customers store, protect, and use the world's data with confidence.",
+      "description": "WD, also known as Western Digital, builds the storage infrastructure that powers certainty in the AI-driven data economy. At the forefront of innovation, WD partners with the world's leading hyperscalers, cloud service providers, and enterprises to deliver reliable storage solutions that are proven and trusted at scale. Driven by a culture of innovation and execution, WD helps customers store, protect, and use the world's data with confidence.",
       "dividendHistory": [
         {
           "year": "2013",
