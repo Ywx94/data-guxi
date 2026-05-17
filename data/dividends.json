@@ -1,15 +1,15 @@
 {
   "success": true,
-  "lastUpdated": "2026-05-16T23:07:15.044Z",
-  "count": 808,
+  "lastUpdated": "2026-05-17T23:10:08.622Z",
+  "count": 811,
   "totalScanned": 7071,
   "stats": {
-    "totalDividendStocks": 808,
-    "withGrowthData": 774,
+    "totalDividendStocks": 811,
+    "withGrowthData": 777,
     "withoutGrowthData": 34,
-    "withDividendHistory": 808,
-    "avgDividendYears": "13.2",
-    "durationMinutes": "13.89"
+    "withDividendHistory": 811,
+    "avgDividendYears": "13.3",
+    "durationMinutes": "13.48"
   },
   "sectors": [
     {
@@ -18,15 +18,15 @@
     },
     {
       "name": "Consumer Discretionary",
-      "count": 117
+      "count": 118
     },
     {
       "name": "Technology",
-      "count": 71
+      "count": 72
     },
     {
       "name": "Industrials",
-      "count": 68
+      "count": 69
     },
     {
       "name": "Real Estate",
@@ -87,11 +87,11 @@
       "count": 20
     },
     {
-      "name": "N/A",
-      "count": 18
+      "name": "Semiconductors",
+      "count": 19
     },
     {
-      "name": "Semiconductors",
+      "name": "N/A",
       "count": 18
     },
     {
@@ -227,6 +227,14 @@
       "count": 5
     },
     {
+      "name": "Recreational Games/Products/Toys",
+      "count": 5
+    },
+    {
+      "name": "Major Chemicals",
+      "count": 5
+    },
+    {
       "name": "Electrical Products",
       "count": 5
     },
@@ -251,10 +259,6 @@
       "count": 4
     },
     {
-      "name": "Recreational Games/Products/Toys",
-      "count": 4
-    },
-    {
       "name": "Other Specialty Stores",
       "count": 4
     },
@@ -268,10 +272,6 @@
     },
     {
       "name": "Services-Misc. Amusement & Recreation",
-      "count": 4
-    },
-    {
-      "name": "Major Chemicals",
       "count": 4
     },
     {
@@ -31131,112 +31131,6 @@
       }
     },
     {
-      "symbol": "PBHC",
-      "name": "Pathfinder Bancorp, Inc. Common Stock (MD)",
-      "price": "$13.49",
-      "marketCap": "65,780,113",
-      "sector": "Finance",
-      "industry": "Major Banks",
-      "dividendYield": "2.96%",
-      "annualDividend": "$0.4",
-      "exDividendDate": "04/17/2026",
-      "paymentDate": "05/08/2026",
-      "growthRate": "8.5%",
-      "growthSource": "4yr Revenue CAGR",
-      "description": "Pathfinder Bancorp, Inc. (NASDAQ: PBHC) is the bank holding company for Pathfinder Bank, which serves Central New York customers throughout Oswego, Syracuse, and their neighboring communities. Strategically located branches, as well as diversified consumer, mortgage, and commercial loan portfolios, reflect the state-chartered Bank's commitment to in-market relationships and local customer service. The Company also offers investment services to individuals and businesses. More information is available at pathfinderbank.com and ir.pathfinderbank.com.",
-      "dividendHistory": [
-        {
-          "year": "1997",
-          "amount": "$0.21"
-        },
-        {
-          "year": "1998",
-          "amount": "$0.20"
-        },
-        {
-          "year": "1999",
-          "amount": "$0.23"
-        },
-        {
-          "year": "2000",
-          "amount": "$0.24"
-        },
-        {
-          "year": "2001",
-          "amount": "$0.26"
-        },
-        {
-          "year": "2002",
-          "amount": "$0.30"
-        },
-        {
-          "year": "2003",
-          "amount": "$0.10"
-        },
-        {
-          "year": "2013",
-          "amount": "$0.09"
-        },
-        {
-          "year": "2014",
-          "amount": "$0.12"
-        },
-        {
-          "year": "2015",
-          "amount": "$0.14"
-        },
-        {
-          "year": "2016",
-          "amount": "$0.20"
-        },
-        {
-          "year": "2017",
-          "amount": "$0.21"
-        },
-        {
-          "year": "2018",
-          "amount": "$0.24"
-        },
-        {
-          "year": "2019",
-          "amount": "$0.24"
-        },
-        {
-          "year": "2020",
-          "amount": "$0.24"
-        },
-        {
-          "year": "2021",
-          "amount": "$0.27"
-        },
-        {
-          "year": "2022",
-          "amount": "$0.34"
-        },
-        {
-          "year": "2023",
-          "amount": "$0.36"
-        },
-        {
-          "year": "2024",
-          "amount": "$0.39"
-        },
-        {
-          "year": "2025",
-          "amount": "$0.40"
-        },
-        {
-          "year": "2026",
-          "amount": "$0.20"
-        }
-      ],
-      "dividendYears": 21,
-      "dividendGrowth": {
-        "rate": "-0.2%",
-        "years": 29
-      }
-    },
-    {
       "symbol": "AEP",
       "name": "American Electric Power Company, Inc. Common Stock",
       "price": "$125.15",
@@ -31795,6 +31689,120 @@
       }
     },
     {
+      "symbol": "HAS",
+      "name": "Hasbro, Inc. Common Stock",
+      "price": "$95.25",
+      "marketCap": "13,476,988,413",
+      "sector": "Consumer Discretionary",
+      "industry": "Recreational Games/Products/Toys",
+      "dividendYield": "2.93%",
+      "annualDividend": "$2.8",
+      "exDividendDate": "02/18/2026",
+      "paymentDate": "03/04/2026",
+      "growthRate": "4.75%",
+      "growthSource": "Analyst Forecast",
+      "description": "Hasbro is a leading games, IP and toy company whose mission is to create joy and community through the magic of play. With over 164 years of expertise, Hasbro delivers groundbreaking play experiences and reaches over 500 million kids, families and fans around the world, through physical and digital games, video games, toys, licensed consumer products, location-based entertainment, film, TV and more. Through its franchise-first approach, Hasbro unlocks value from both new and legacy IP, including MAGIC: THE GATHERING, DUNGEONS & DRAGONS, MONOPOLY, HASBRO GAMES, NERF, TRANSFORMERS, PLAY-DOH and PEPPA PIG, as well as premier partner brands. Powered by its portfolio of thousands of iconic marks and a diversified network of partners and subsidiary studios, Hasbro brings fans together wherever they are, from tabletop to screen.",
+      "dividendHistory": [
+        {
+          "year": "2000",
+          "amount": "$0.06"
+        },
+        {
+          "year": "2001",
+          "amount": "$0.09"
+        },
+        {
+          "year": "2004",
+          "amount": "$0.12"
+        },
+        {
+          "year": "2005",
+          "amount": "$0.33"
+        },
+        {
+          "year": "2006",
+          "amount": "$0.45"
+        },
+        {
+          "year": "2007",
+          "amount": "$0.60"
+        },
+        {
+          "year": "2008",
+          "amount": "$0.76"
+        },
+        {
+          "year": "2009",
+          "amount": "$0.80"
+        },
+        {
+          "year": "2010",
+          "amount": "$0.95"
+        },
+        {
+          "year": "2013",
+          "amount": "$0.80"
+        },
+        {
+          "year": "2014",
+          "amount": "$1.69"
+        },
+        {
+          "year": "2015",
+          "amount": "$1.81"
+        },
+        {
+          "year": "2016",
+          "amount": "$1.99"
+        },
+        {
+          "year": "2017",
+          "amount": "$2.22"
+        },
+        {
+          "year": "2018",
+          "amount": "$2.46"
+        },
+        {
+          "year": "2019",
+          "amount": "$2.67"
+        },
+        {
+          "year": "2020",
+          "amount": "$2.72"
+        },
+        {
+          "year": "2021",
+          "amount": "$2.72"
+        },
+        {
+          "year": "2022",
+          "amount": "$2.78"
+        },
+        {
+          "year": "2023",
+          "amount": "$2.80"
+        },
+        {
+          "year": "2024",
+          "amount": "$2.80"
+        },
+        {
+          "year": "2025",
+          "amount": "$2.80"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.70"
+        }
+      ],
+      "dividendYears": 23,
+      "dividendGrowth": {
+        "rate": "9.9%",
+        "years": 26
+      }
+    },
+    {
       "symbol": "TSBK",
       "name": "Timberland Bancorp, Inc. Common Stock",
       "price": "$39.16",
@@ -32348,6 +32356,112 @@
       "dividendGrowth": {
         "rate": "4.3%",
         "years": 9
+      }
+    },
+    {
+      "symbol": "PBHC",
+      "name": "Pathfinder Bancorp, Inc. Common Stock (MD)",
+      "price": "$13.49",
+      "marketCap": "65,780,113",
+      "sector": "Finance",
+      "industry": "Major Banks",
+      "dividendYield": "2.86%",
+      "annualDividend": "$0.4",
+      "exDividendDate": "04/17/2026",
+      "paymentDate": "05/08/2026",
+      "growthRate": "8.5%",
+      "growthSource": "4yr Revenue CAGR",
+      "description": "Pathfinder Bancorp, Inc. (NASDAQ: PBHC) is the bank holding company for Pathfinder Bank, which serves Central New York customers throughout Oswego, Syracuse, and their neighboring communities. Strategically located branches, as well as diversified consumer, mortgage, and commercial loan portfolios, reflect the state-chartered Bank's commitment to in-market relationships and local customer service. The Company also offers investment services to individuals and businesses. More information is available at pathfinderbank.com and ir.pathfinderbank.com.",
+      "dividendHistory": [
+        {
+          "year": "1997",
+          "amount": "$0.21"
+        },
+        {
+          "year": "1998",
+          "amount": "$0.20"
+        },
+        {
+          "year": "1999",
+          "amount": "$0.23"
+        },
+        {
+          "year": "2000",
+          "amount": "$0.24"
+        },
+        {
+          "year": "2001",
+          "amount": "$0.26"
+        },
+        {
+          "year": "2002",
+          "amount": "$0.30"
+        },
+        {
+          "year": "2003",
+          "amount": "$0.10"
+        },
+        {
+          "year": "2013",
+          "amount": "$0.09"
+        },
+        {
+          "year": "2014",
+          "amount": "$0.12"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.14"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.20"
+        },
+        {
+          "year": "2017",
+          "amount": "$0.21"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.24"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.24"
+        },
+        {
+          "year": "2020",
+          "amount": "$0.24"
+        },
+        {
+          "year": "2021",
+          "amount": "$0.27"
+        },
+        {
+          "year": "2022",
+          "amount": "$0.34"
+        },
+        {
+          "year": "2023",
+          "amount": "$0.36"
+        },
+        {
+          "year": "2024",
+          "amount": "$0.39"
+        },
+        {
+          "year": "2025",
+          "amount": "$0.40"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.20"
+        }
+      ],
+      "dividendYears": 21,
+      "dividendGrowth": {
+        "rate": "-0.2%",
+        "years": 29
       }
     },
     {
@@ -43083,6 +43197,124 @@
       }
     },
     {
+      "symbol": "TXN",
+      "name": "Texas Instruments Incorporated Common Stock",
+      "price": "$302.73",
+      "marketCap": "275,512,390,619",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "dividendYield": "1.84%",
+      "annualDividend": "$5.68",
+      "exDividendDate": "05/05/2026",
+      "paymentDate": "05/19/2026",
+      "growthRate": "41.08%",
+      "growthSource": "Analyst Forecast",
+      "description": "Texas Instruments Incorporated (Nasdaq: TXN) is a global semiconductor company that designs, manufactures and sells analog and embedded processing chips for markets such as industrial, automotive, data center, personal electronics and communications equipment. At our core, we have a passion to create a better world by making electronics more affordable through semiconductors. This passion is alive today as each generation of innovation builds upon the last to make our technology more reliable, more affordable and lower power, making it possible for semiconductors to go into electronics everywhere.",
+      "dividendHistory": [
+        {
+          "year": "2000",
+          "amount": "$0.02"
+        },
+        {
+          "year": "2001",
+          "amount": "$0.06"
+        },
+        {
+          "year": "2004",
+          "amount": "$0.05"
+        },
+        {
+          "year": "2005",
+          "amount": "$0.11"
+        },
+        {
+          "year": "2006",
+          "amount": "$0.13"
+        },
+        {
+          "year": "2007",
+          "amount": "$0.30"
+        },
+        {
+          "year": "2008",
+          "amount": "$0.41"
+        },
+        {
+          "year": "2009",
+          "amount": "$0.45"
+        },
+        {
+          "year": "2010",
+          "amount": "$0.49"
+        },
+        {
+          "year": "2011",
+          "amount": "$0.56"
+        },
+        {
+          "year": "2013",
+          "amount": "$0.58"
+        },
+        {
+          "year": "2014",
+          "amount": "$1.24"
+        },
+        {
+          "year": "2015",
+          "amount": "$1.40"
+        },
+        {
+          "year": "2016",
+          "amount": "$1.64"
+        },
+        {
+          "year": "2017",
+          "amount": "$2.12"
+        },
+        {
+          "year": "2018",
+          "amount": "$2.63"
+        },
+        {
+          "year": "2019",
+          "amount": "$3.21"
+        },
+        {
+          "year": "2020",
+          "amount": "$3.72"
+        },
+        {
+          "year": "2021",
+          "amount": "$4.21"
+        },
+        {
+          "year": "2022",
+          "amount": "$4.69"
+        },
+        {
+          "year": "2023",
+          "amount": "$5.02"
+        },
+        {
+          "year": "2024",
+          "amount": "$5.26"
+        },
+        {
+          "year": "2025",
+          "amount": "$5.50"
+        },
+        {
+          "year": "2026",
+          "amount": "$2.84"
+        }
+      ],
+      "dividendYears": 24,
+      "dividendGrowth": {
+        "rate": "21.0%",
+        "years": 26
+      }
+    },
+    {
       "symbol": "CALM",
       "name": "Cal-Maine Foods, Inc. Common Stock",
       "price": "$76.88",
@@ -49762,6 +49994,92 @@
       "dividendGrowth": {
         "rate": "5.3%",
         "years": 31
+      }
+    },
+    {
+      "symbol": "MEOH",
+      "name": "Methanex Corporation Common Stock",
+      "price": "$63.38",
+      "marketCap": "4,903,346,989",
+      "sector": "Industrials",
+      "industry": "Major Chemicals",
+      "dividendYield": "1.18%",
+      "annualDividend": "$0.74",
+      "exDividendDate": "03/17/2026",
+      "paymentDate": "03/31/2026",
+      "growthRate": "167%",
+      "growthSource": "Analyst Forecast",
+      "description": "Methanex is a Vancouver -based, publicly traded company and is the world's largest producer and supplier of methanol to customers globally. Methanex shares are listed for trading on the Toronto Stock Exchange in Canada under the trading symbol 'MX' and on the Nasdaq Global Market in the United States under the trading symbol 'MEOH'.",
+      "dividendHistory": [
+        {
+          "year": "2002",
+          "amount": "$0.05"
+        },
+        {
+          "year": "2003",
+          "amount": "$0.35"
+        },
+        {
+          "year": "2013",
+          "amount": "$0.40"
+        },
+        {
+          "year": "2014",
+          "amount": "$0.95"
+        },
+        {
+          "year": "2015",
+          "amount": "$1.08"
+        },
+        {
+          "year": "2016",
+          "amount": "$1.10"
+        },
+        {
+          "year": "2017",
+          "amount": "$1.17"
+        },
+        {
+          "year": "2018",
+          "amount": "$1.32"
+        },
+        {
+          "year": "2019",
+          "amount": "$1.41"
+        },
+        {
+          "year": "2020",
+          "amount": "$0.47"
+        },
+        {
+          "year": "2021",
+          "amount": "$0.32"
+        },
+        {
+          "year": "2022",
+          "amount": "$0.62"
+        },
+        {
+          "year": "2023",
+          "amount": "$0.73"
+        },
+        {
+          "year": "2024",
+          "amount": "$0.74"
+        },
+        {
+          "year": "2025",
+          "amount": "$0.74"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.37"
+        }
+      ],
+      "dividendYears": 16,
+      "dividendGrowth": {
+        "rate": "8.7%",
+        "years": 24
       }
     },
     {
