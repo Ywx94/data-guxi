@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": "2026-05-24T23:13:44.244Z",
+  "lastUpdated": "2026-05-25T23:22:49.364Z",
   "count": 809,
   "totalScanned": 7141,
   "stats": {
@@ -9,7 +9,7 @@
     "withoutGrowthData": 34,
     "withDividendHistory": 809,
     "avgDividendYears": "13.3",
-    "durationMinutes": "12.08"
+    "durationMinutes": "11.44"
   },
   "sectors": [
     {
@@ -967,12 +967,12 @@
         },
         {
           "year": "2026",
-          "amount": "$1.80"
+          "amount": "$2.40"
         }
       ],
       "dividendYears": 14,
       "dividendGrowth": {
-        "rate": "-1.5%",
+        "rate": "0.7%",
         "years": 13
       }
     },
@@ -1933,7 +1933,7 @@
       "annualDividend": "$1.6",
       "exDividendDate": "03/31/2026",
       "paymentDate": "04/16/2026",
-      "growthRate": "-7.55%",
+      "growthRate": "-8.34%",
       "growthSource": "Analyst Forecast",
       "description": "Carlyle Secured Lending, Inc. is a publicly traded (NASDAQ: CGBD) business development company ('BDC') which began investing in 2013. The Company focuses on providing directly originated, financing solutions across the capital structure, with a focus on senior secured lending to middle-market companies primarily located in the United States. Carlyle Secured Lending is externally managed by Carlyle Global Credit Investment Management L. L. C., an SEC -registered investment adviser and wholly owned subsidiary of Carlyle.",
       "dividendHistory": [
@@ -1995,7 +1995,7 @@
       "annualDividend": "$1.68",
       "exDividendDate": "03/31/2026",
       "paymentDate": "04/15/2026",
-      "growthRate": "-22.98%",
+      "growthRate": "-23.54%",
       "growthSource": "Analyst Forecast",
       "description": "Crescent BDC is a business development company that seeks to maximize the total return of its stockholders in the form of current income and capital appreciation by providing capital solutions to middle market companies with sound business fundamentals and strong growth prospects. Crescent BDC utilizes the extensive experience, origination capabilities and disciplined investment process of Crescent. Crescent BDC is externally managed by Crescent Cap Advisors, LLC, a subsidiary of Crescent. Crescent BDC has elected to be regulated as a business development company under the Investment Company Act of 1940.",
       "dividendHistory": [
@@ -5175,7 +5175,7 @@
       "annualDividend": "$8",
       "exDividendDate": "04/08/2026",
       "paymentDate": "04/15/2026",
-      "growthRate": "8.45%",
+      "growthRate": "-5.76%",
       "growthSource": "Analyst Forecast",
       "description": "Millicom (NASDAQ: TIGO) is a leading provider of fixed and mobile telecommunications services in Latin America. Through its TIGO® and Tigo Business® brands, the company provides a wide range of digital services and products, including TIGO Money for mobile financial services, TIGO Sports for local entertainment, TIGO ONEtv for pay TV, high-speed data, voice, and business-to-business solutions such as cloud and security. As of March 31, 2026, Millicom, including its Honduras Joint Venture and Chile associate, employed over 20,000 people and provided mobile and fiber-cable services through its digital highways to more than 69 million customers, with a fiber-cable footprint over 22 million homes passed. Founded in 1990, Millicom International Cellular S.A. is headquartered in Luxembourg with principal executive offices in Doral, Florida.",
       "dividendHistory": [
@@ -6823,7 +6823,7 @@
       "dividendHistory": [
         {
           "year": "2026",
-          "amount": "$0.41"
+          "amount": "$0.93"
         }
       ],
       "dividendYears": 1,
@@ -7205,12 +7205,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.52"
+          "amount": "$1.03"
         }
       ],
       "dividendYears": 5,
       "dividendGrowth": {
-        "rate": "-0.9%",
+        "rate": "17.5%",
         "years": 4
       }
     },
@@ -7447,12 +7447,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.48"
+          "amount": "$0.95"
         }
       ],
       "dividendYears": 6,
       "dividendGrowth": {
-        "rate": "-13.1%",
+        "rate": "-0.4%",
         "years": 5
       }
     },
@@ -7733,7 +7733,7 @@
       "annualDividend": "$1.56",
       "exDividendDate": "04/02/2026",
       "paymentDate": "05/04/2026",
-      "growthRate": "-26.41%",
+      "growthRate": "-26.49%",
       "growthSource": "Analyst Forecast",
       "description": "For more than 155 years, The Campbell's Company (NASDAQ:CPB) (Campbell's) has been connecting people through food they love. Headquartered in Camden, N.J. since 1869, generations of consumers have trusted us to provide delicious and affordable food and beverages. Today, the company is a North American focused brand powerhouse, generating fiscal 2025 net sales of $10.3 billion across two divisions: Meals & Beverages and Snacks. Our portfolio of 16 leadership brands includes Campbell's, Cape Cod, Chunky, Goldfish, Kettle Brand, Lance, Late July, Pace, Pacific Foods, Pepperidge Farm, Prego, Rao's, Snack Factory, Snyder's of Hanover, Swanson and V8.",
       "dividendHistory": [
@@ -8383,12 +8383,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.48"
+          "amount": "$0.95"
         }
       ],
       "dividendYears": 3,
       "dividendGrowth": {
-        "rate": "54.9%",
+        "rate": "117.9%",
         "years": 2
       }
     },
@@ -8681,12 +8681,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.47"
+          "amount": "$0.94"
         }
       ],
       "dividendYears": 7,
       "dividendGrowth": {
-        "rate": "-2.6%",
+        "rate": "9.3%",
         "years": 6
       }
     },
@@ -9155,7 +9155,7 @@
       "annualDividend": "$0.56",
       "exDividendDate": "03/02/2026",
       "paymentDate": "03/16/2026",
-      "growthRate": "-34.11%",
+      "growthRate": "-34.34%",
       "growthSource": "Analyst Forecast",
       "description": "The Wendy's Company (Nasdaq: WEN ) and Wendy's franchisees employ hundreds of thousands of people across more than 7,000 restaurants worldwide. Founded in 1969, Wendy's is committed to the promise of Fresh Famous Food, Made Right, For You, delivered to customers through its craveable menu including made-to-order square hamburgers using fresh beef***, and fan favorites like the Spicy Chicken Sandwich and nuggets, Baconator®, and the Frosty® dessert. Wendy's supports the Dave Thomas Foundation for Adoption, established by its founder, which seeks to dramatically increase the number of adoptions of children waiting in North America's foster care system.",
       "dividendHistory": [
@@ -9461,12 +9461,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.38"
+          "amount": "$0.75"
         }
       ],
       "dividendYears": 6,
       "dividendGrowth": {
-        "rate": "-20.0%",
+        "rate": "-8.4%",
         "years": 5
       }
     },
@@ -9903,12 +9903,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.74"
+          "amount": "$1.19"
         }
       ],
       "dividendYears": 5,
       "dividendGrowth": {
-        "rate": "-6.1%",
+        "rate": "5.8%",
         "years": 4
       }
     },
@@ -12427,12 +12427,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.78"
+          "amount": "$1.60"
         }
       ],
       "dividendYears": 13,
       "dividendGrowth": {
-        "rate": "-21.5%",
+        "rate": "-16.7%",
         "years": 12
       }
     },
@@ -12619,12 +12619,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.14"
+          "amount": "$0.28"
         }
       ],
       "dividendYears": 2,
       "dividendGrowth": {
-        "rate": "-66.7%",
+        "rate": "-33.3%",
         "years": 1
       }
     },
@@ -13005,12 +13005,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.63"
+          "amount": "$1.00"
         }
       ],
       "dividendYears": 6,
       "dividendGrowth": {
-        "rate": "2.4%",
+        "rate": "12.3%",
         "years": 5
       }
     },
@@ -14105,7 +14105,7 @@
       "annualDividend": "$2.72",
       "exDividendDate": "05/14/2026",
       "paymentDate": "05/21/2026",
-      "growthRate": "72.14%",
+      "growthRate": "76.09%",
       "growthSource": "Analyst Forecast",
       "description": "Viper is a corporation formed by Diamondback to own, acquire and exploit oil and natural gas properties in North America, with a focus on owning and acquiring mineral and royalty interests in oil-weighted basins, primarily the Permian Basin in West Texas.",
       "dividendHistory": [
@@ -14513,7 +14513,7 @@
       "annualDividend": "$2.36",
       "exDividendDate": "05/11/2026",
       "paymentDate": "05/26/2026",
-      "growthRate": "18.87%",
+      "growthRate": "18.81%",
       "growthSource": "Analyst Forecast",
       "description": "TPG RE Finance Trust, Inc. is a commercial real estate finance company that originates, acquires, and manages primarily first mortgage loans secured by institutional properties located in primary and select secondary markets in the United States. The Company is externally managed by TPG RE Finance Trust Management, L.P., a part of TPG Real Estate, which is the real estate investment platform of global alternative asset management firm TPG Inc. (NASDAQ: TPG).",
       "dividendHistory": [
@@ -18765,7 +18765,7 @@
       "annualDividend": "$1.52",
       "exDividendDate": "03/06/2026",
       "paymentDate": "04/01/2026",
-      "growthRate": "5.37%",
+      "growthRate": "5.51%",
       "growthSource": "Analyst Forecast",
       "description": "With over 150 years as a community-focused, regional financial services partner, WesBanco Inc. (NASDAQ: WSBC) and its subsidiaries build lasting prosperity through relationships and solutions that empower our customers for success in their financial journeys. Customers across our ten-state footprint choose WesBanco for the comprehensive range and personalized delivery of our retail and commercial banking solutions, as well as trust, brokerage, wealth management and insurance services, all designed to advance their financial goals. Through the strength of our teams, we leverage large bank capabilities and local focus to help make every community we serve a better place for people and businesses to thrive. Headquartered in Wheeling, West Virginia, WesBanco has $27.5 billion in total assets, with our Trust and Investment Services holding $7.8 billion of assets under management and securities account values (including annuities) of $2.",
       "dividendHistory": [
@@ -20175,12 +20175,12 @@
         },
         {
           "year": "2026",
-          "amount": "$1.16"
+          "amount": "$1.88"
         }
       ],
       "dividendYears": 13,
       "dividendGrowth": {
-        "rate": "-6.1%",
+        "rate": "-2.3%",
         "years": 12
       }
     },
@@ -20633,12 +20633,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.75"
+          "amount": "$1.55"
         }
       ],
       "dividendYears": 6,
       "dividendGrowth": {
-        "rate": "28.1%",
+        "rate": "35.5%",
         "years": 13
       }
     },
@@ -21651,7 +21651,7 @@
       "annualDividend": "$3.02",
       "exDividendDate": "03/11/2026",
       "paymentDate": "04/01/2026",
-      "growthRate": "4.47%",
+      "growthRate": "4.55%",
       "growthSource": "Analyst Forecast",
       "description": "Regency Centers is a preeminent national owner, operator, and developer of shopping centers located in suburban trade areas with compelling demographics. Our portfolio includes thriving properties merchandised with highly productive grocers, restaurants, service providers, and best-in-class retailers that connect to their neighborhoods, communities, and customers. Operating as a fully integrated real estate company, Regency Centers is a qualified real estate investment trust (REIT) that is self-administered, self-managed, and an S&P 500 Index member.",
       "dividendHistory": [
@@ -22997,12 +22997,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.29"
+          "amount": "$0.58"
         }
       ],
       "dividendYears": 7,
       "dividendGrowth": {
-        "rate": "-15.9%",
+        "rate": "-5.6%",
         "years": 6
       }
     },
@@ -23251,7 +23251,7 @@
       "annualDividend": "$5.2",
       "exDividendDate": "05/20/2026",
       "paymentDate": "06/05/2026",
-      "growthRate": "100.49%",
+      "growthRate": "115.44%",
       "growthSource": "Analyst Forecast",
       "description": "Chord Energy Corporation is an independent exploration and production company with quality and sustainable long-lived assets primarily in the Williston Basin. The Company is uniquely positioned with a best-in-class balance sheet and is focused on rigorous capital discipline and generating free cash flow by operating efficiently, safely and responsibly to develop its unconventional onshore oil-rich resources in the continental United States.",
       "dividendHistory": [
@@ -23375,12 +23375,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.32"
+          "amount": "$0.64"
         }
       ],
       "dividendYears": 19,
       "dividendGrowth": {
-        "rate": "2.6%",
+        "rate": "5.3%",
         "years": 27
       }
     },
@@ -26201,7 +26201,7 @@
       "annualDividend": "$0.4",
       "exDividendDate": "03/02/2026",
       "paymentDate": "03/16/2026",
-      "growthRate": "-50.96%",
+      "growthRate": "-44.23%",
       "growthSource": "Analyst Forecast",
       "description": "Patterson-UTI is a leading provider of drilling and completion services to oil and natural gas exploration and production companies in the United States and other select countries, including contract drilling services, integrated well completion services and directional drilling services in the United States, and specialized drill bit solutions in the United States, Middle East and many other regions around the world.",
       "dividendHistory": [
@@ -28645,7 +28645,7 @@
       "annualDividend": "$2.8",
       "exDividendDate": "02/18/2026",
       "paymentDate": "03/04/2026",
-      "growthRate": "7.02%",
+      "growthRate": "6.84%",
       "growthSource": "Analyst Forecast",
       "description": "Hasbro is a leading games, IP and toy company whose mission is to create joy and community through the magic of play. Hasbro delivers groundbreaking play experiences for fans of all ages around the world, through physical and digital games, video games, toys, licensed consumer products, location-based entertainment, film, TV and more. Through its franchise-first approach, Hasbro unlocks value from both new and legacy IP, including MAGIC: THE GATHERING, DUNGEONS & DRAGONS, MONOPOLY, HASBRO GAMES, NERF, TRANSFORMERS, PLAY-DOH and PEPPA PIG, as well as premier partner brands. Powered by its portfolio of thousands of iconic marks and a diversified network of partners and subsidiary studios, Hasbro brings fans together wherever they are, from tabletop to screen.",
       "dividendHistory": [
@@ -28759,7 +28759,7 @@
       "annualDividend": "$1.4",
       "exDividendDate": "05/18/2026",
       "paymentDate": "05/28/2026",
-      "growthRate": "0.58%",
+      "growthRate": "0.69%",
       "growthSource": "Analyst Forecast",
       "description": "Carlyle (NASDAQ: CG) is a global investment firm with deep industry expertise that deploys private capital across three business segments: Global Private Equity, Global Credit, and Carlyle AlpInvest. With $475 billion of assets under management as of March 31, 2026, Carlyle's purpose is to invest wisely and create value on behalf of its investors, portfolio companies, and the communities in which we live and invest. Carlyle employs more than 2,500 people in 28 offices across four continents. Further information is available at www.carlyle.com. Follow Carlyle on X @OneCarlyle and LinkedIn at The Carlyle Group.",
       "dividendHistory": [
@@ -28985,7 +28985,7 @@
       "annualDividend": "$3.2",
       "exDividendDate": "03/11/2026",
       "paymentDate": "03/27/2026",
-      "growthRate": "13.2%",
+      "growthRate": "13.22%",
       "growthSource": "Analyst Forecast",
       "description": "Principal Financial Group ® (Nasdaq: PFG) is a global financial company with approximately 19,000 employees1 passionate about improving the wealth and well-being of people and businesses. In business for 146 years, we're helping over 75 million customers1 plan, insure, invest, and retire, while working to support the communities where we do business, and building an inclusive workforce. Principal® is proud to be recognized as one of the 2026 World's Most Ethical Companies2 and named as a 'Best Places to Work in Money Management3.' Learn more about Principal and our commitment to building a better future at principal.com.",
       "dividendHistory": [
@@ -34251,12 +34251,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.48"
+          "amount": "$0.96"
         }
       ],
       "dividendYears": 20,
       "dividendGrowth": {
-        "rate": "-1.1%",
+        "rate": "1.4%",
         "years": 28
       }
     },
@@ -34271,7 +34271,7 @@
       "annualDividend": "$1",
       "exDividendDate": "04/22/2026",
       "paymentDate": "05/22/2026",
-      "growthRate": "32.65%",
+      "growthRate": "34.16%",
       "growthSource": "Analyst Forecast",
       "description": "APA Corporation owns consolidated subsidiaries that explore for and produce oil and natural gas in the United States, Egypt and the United Kingdom and that explore for oil and natural gas offshore Suriname and elsewhere.",
       "dividendHistory": [
@@ -34353,12 +34353,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.50"
+          "amount": "$0.75"
         }
       ],
       "dividendYears": 20,
       "dividendGrowth": {
-        "rate": "5.0%",
+        "rate": "6.7%",
         "years": 26
       }
     },
@@ -35029,7 +35029,7 @@
       "annualDividend": "$3.28",
       "exDividendDate": "03/13/2026",
       "paymentDate": "03/30/2026",
-      "growthRate": "-109.42%",
+      "growthRate": "-109.74%",
       "growthSource": "Analyst Forecast",
       "description": "Gilead Sciences, Inc. is a biopharmaceutical company that has pursued and achieved breakthroughs in medicine for more than three decades, with the goal of creating a healthier world for all people. The company is committed to advancing innovative medicines to prevent and treat life-threatening diseases, including HIV, viral hepatitis, COVID-19, cancer and inflammation. In 2025, Gilead announced a planned $32 billion investment to further strengthen its U.S. footprint to power the next era of discovery, job creation and public health preparedness - while continuing to invest globally to ensure patients everywhere benefit from its scientific innovation. Gilead operates in more than 35 countries worldwide, with headquarters in Foster City, Calif.",
       "dividendHistory": [
@@ -35863,12 +35863,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.54"
+          "amount": "$1.14"
         }
       ],
       "dividendYears": 10,
       "dividendGrowth": {
-        "rate": "0.4%",
+        "rate": "9.1%",
         "years": 9
       }
     },
@@ -36827,7 +36827,7 @@
       "annualDividend": "$2.3",
       "exDividendDate": "05/14/2026",
       "paymentDate": "06/04/2026",
-      "growthRate": "45.39%",
+      "growthRate": "44.28%",
       "growthSource": "Analyst Forecast",
       "description": "Expand Energy Corporation (NASDAQ: EXE) is North America's largest natural gas producer, powered by dedicated and innovative employees focused on expanding the value of natural gas by connecting global scale to growing markets.  Expand Energy's returns-driven strategy strives to create sustainable value for its stakeholders by leveraging its advantaged portfolio, financial strength and operational excellence.  Expand Energy is committed to expanding America's energy reach to fuel a more affordable, reliable, lower carbon future.",
       "dividendHistory": [
@@ -38985,7 +38985,7 @@
       "annualDividend": "$4.4",
       "exDividendDate": "05/14/2026",
       "paymentDate": "05/21/2026",
-      "growthRate": "42.69%",
+      "growthRate": "45.81%",
       "growthSource": "Analyst Forecast",
       "description": "Diamondback is an independent oil and natural gas company headquartered in Midland, Texas focused on the acquisition, development, exploration and exploitation of unconventional, onshore oil and natural gas reserves primarily in the Permian Basin in West Texas.",
       "dividendHistory": [
@@ -39085,7 +39085,7 @@
       "annualDividend": "$2",
       "exDividendDate": "03/17/2026",
       "paymentDate": "03/31/2026",
-      "growthRate": "-13.39%",
+      "growthRate": "-16.68%",
       "growthSource": "Analyst Forecast",
       "description": "Universal Display Corporation (Nasdaq: OLED) is a leader in the research, development and commercialization of organic light emitting diode (OLED) technologies and materials for use in display and solid-state lighting applications. Founded in 1994 and with subsidiaries and offices around the world, the Company currently owns, exclusively licenses or has the sole right to sublicense more than 7,000 patents issued and pending worldwide. Universal Display licenses its proprietary technologies, including its breakthrough high-efficiency UniversalPHOLED® phosphorescent OLED technology that can enable the development of energy-efficient and eco-friendly displays and solid-state lighting. The Company also develops and offers high-quality, state-of-the-art UniversalPHOLED materials that are recognized as key ingredients in the fabrication of OLEDs with peak performance.",
       "dividendHistory": [
@@ -40413,7 +40413,7 @@
       "annualDividend": "$1.12",
       "exDividendDate": "02/27/2026",
       "paymentDate": "03/13/2026",
-      "growthRate": "18.52%",
+      "growthRate": "19.1%",
       "growthSource": "Analyst Forecast",
       "description": "StepStone Group Inc. (Nasdaq: STEP) is a global private markets investment firm focused on providing customized investment solutions and advisory and data services to its clients. As of September 30, 2025, StepStone was responsible for approximately $771 billion of total capital, including $209 billion of assets under management. StepStone's clients include some of the world's largest public and private defined benefit and defined contribution pension funds, sovereign wealth funds and insurance companies, as well as prominent endowments, foundations, family offices and private wealth clients, which include high-net-worth and mass affluent individuals. StepStone partners with its clients to develop and build private markets portfolios designed to meet their specific objectives across the private equity, infrastructure, private debt and real estate asset classes.",
       "dividendHistory": [
@@ -40705,7 +40705,7 @@
       "annualDividend": "$0.84",
       "exDividendDate": "03/11/2026",
       "paymentDate": "03/20/2026",
-      "growthRate": "23.53%",
+      "growthRate": "22.75%",
       "growthSource": "Analyst Forecast",
       "description": "Steve Madden designs, sources and markets fashion-forward footwear, accessories and apparel. In addition to marketing products under its own brands including Steve Madden®, Kurt Geiger London®, Dolce Vita ®, Betsey Johnson ®, Carvela®, Blondo® and ATM®, Steve Madden licenses footwear, handbags and other accessory categories for the Anne Klein® brand. Steve Madden also designs and sources products under private label brand names for various retailers. Steve Madden's wholesale distribution includes department stores, mass merchants, off-price retailers, shoe chains, online retailers, national chains, specialty retailers and independent stores. Steve Madden also directly operates brick-and-mortar retail stores and e-commerce websites. In addition, Steve Madden licenses certain of its brands to third parties for the marketing and sale of certain products in the apparel, accessory and home categories.",
       "dividendHistory": [
@@ -41795,12 +41795,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.34"
+          "amount": "$0.68"
         }
       ],
       "dividendYears": 18,
       "dividendGrowth": {
-        "rate": "2.5%",
+        "rate": "5.1%",
         "years": 28
       }
     },
@@ -41937,12 +41937,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.38"
+          "amount": "$0.59"
         }
       ],
       "dividendYears": 30,
       "dividendGrowth": {
-        "rate": "0.8%",
+        "rate": "2.0%",
         "years": 38
       }
     },
@@ -42065,7 +42065,7 @@
       "annualDividend": "$1.04",
       "exDividendDate": "03/16/2026",
       "paymentDate": "03/31/2026",
-      "growthRate": "-44.55%",
+      "growthRate": "-45.3%",
       "growthSource": "Analyst Forecast",
       "description": "Red Rock Resorts is a holding company that owns an indirect equity interest in and manages Station Casinos LLC ('Station Casinos '). Station Casinos is the leading provider of gaming, hospitality and entertainment to the residents of Las Vegas, Nevada.Station Casinos ' properties, which are located throughout the Las Vegas valley, are regional entertainment destinations and include various amenities, including numerous restaurants, entertainment venues, movie theaters, bowling and convention/banquet space, as well as traditional casino gaming offerings such as video poker, slot machines, table games, bingo and race and sports wagering.",
       "dividendHistory": [
@@ -42627,7 +42627,7 @@
       "annualDividend": "$1",
       "exDividendDate": "03/09/2026",
       "paymentDate": "03/18/2026",
-      "growthRate": "-33.39%",
+      "growthRate": "-54.46%",
       "growthSource": "Analyst Forecast",
       "description": "Golar LNG Limited (NASDAQ: GLNG) is a LNG infrastructure company. Through its 80-year history, the company has pioneered maritime LNG infrastructure including the world's first Floating LNG liquefaction terminal (FLNG) and Floating Storage and Regasification Unit (FSRU) projects based on the conversion of existing LNG carriers. Today Golar is focused on its FLNG business where it remains the only proven provider of FLNG as a service.",
       "dividendHistory": [
@@ -43701,7 +43701,7 @@
       "annualDividend": "$1.44",
       "exDividendDate": "03/02/2026",
       "paymentDate": "03/16/2026",
-      "growthRate": "-4.67%",
+      "growthRate": "-8%",
       "growthSource": "Analyst Forecast",
       "description": "UFP Industries, Inc. is a holding company whose operating subsidiaries - UFP Packaging, UFP Construction and UFP Retail Solutions - manufacture, distribute and sell a wide variety of value-added products used in residential and commercial construction, packaging and other industrial applications worldwide. Founded in 1955, the company is headquartered in Grand Rapids, Mich., with affiliates in North America, Europe, Asia and Australia.",
       "dividendHistory": [
@@ -44423,12 +44423,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.07"
+          "amount": "$0.14"
         }
       ],
       "dividendYears": 17,
       "dividendGrowth": {
-        "rate": "-7.0%",
+        "rate": "-4.5%",
         "years": 26
       }
     },
@@ -44443,7 +44443,7 @@
       "annualDividend": "$5",
       "exDividendDate": "12/12/2025",
       "paymentDate": "12/30/2025",
-      "growthRate": "9.47%",
+      "growthRate": "9.62%",
       "growthSource": "Analyst Forecast",
       "description": "As the world's leading derivatives marketplace, CME Group ( www.cmegroup.com ) enables clients to trade futures, options, cash and OTC markets, optimize portfolios, and analyze data - empowering market participants worldwide to efficiently manage risk and capture opportunities. CME Group exchanges offer the widest range of global benchmark products across all major asset classes based on interest rates, equity indexes, foreign exchange, cryptocurrencies, energy, agricultural products and metals. The company offers futures and options on futures trading through the CME Globex platform, fixed income trading via BrokerTec and foreign exchange trading on the EBS platform. In addition, it operates one of the world's leading central counterparty clearing providers, CME Clearing.",
       "dividendHistory": [
@@ -45035,12 +45035,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.35"
+          "amount": "$0.70"
         }
       ],
       "dividendYears": 16,
       "dividendGrowth": {
-        "rate": "1.8%",
+        "rate": "4.6%",
         "years": 26
       }
     },
@@ -46135,7 +46135,7 @@
       "annualDividend": "$4.8",
       "exDividendDate": "04/09/2026",
       "paymentDate": "04/17/2026",
-      "growthRate": "13.48%",
+      "growthRate": "13.79%",
       "growthSource": "Analyst Forecast",
       "description": "Intuit is the global financial technology platform that powers prosperity for the people and communities we serve. With approximately 100 million customers worldwide using products such as TurboTax, Credit Karma, QuickBooks, Mailchimp, and Intuit Enterprise Suite, we believe that everyone should have the opportunity to prosper. We never stop working to find new, innovative ways to make that possible. Please visit us at Intuit.com and find us on social for the latest information about Intuit and our products and services.",
       "dividendHistory": [
@@ -46193,12 +46193,12 @@
         },
         {
           "year": "2026",
-          "amount": "$2.40"
+          "amount": "$3.60"
         }
       ],
       "dividendYears": 14,
       "dividendGrowth": {
-        "rate": "21.5%",
+        "rate": "25.4%",
         "years": 13
       }
     },
@@ -47611,7 +47611,7 @@
       "annualDividend": "$0.8",
       "exDividendDate": "03/30/2026",
       "paymentDate": "04/09/2026",
-      "growthRate": "11.51%",
+      "growthRate": "14.63%",
       "growthSource": "Analyst Forecast",
       "description": "Flexsteel Industries, Inc. and Subsidiaries (the 'Company') is one of the largest residential furniture manufacturers, importers, and marketers in the U.S., known for crafting comfortable, durable seating and timeless designs for rooms throughout the home. For more than 130 years, Flexsteel has built furniture with care, highlighted by its patented Blue Steel Spring technology that delivers lasting comfort and support. Today, Flexsteel products are available nationwide through retail partners and online channels, helping people create inviting, livable spaces they can enjoy for years to come.",
       "dividendHistory": [
@@ -48513,12 +48513,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.15"
+          "amount": "$0.30"
         }
       ],
       "dividendYears": 4,
       "dividendGrowth": {
-        "rate": "-33.9%",
+        "rate": "-16.8%",
         "years": 3
       }
     },
@@ -49061,7 +49061,7 @@
       "annualDividend": "$0.56",
       "exDividendDate": "03/04/2026",
       "paymentDate": "03/25/2026",
-      "growthRate": "-0.17%",
+      "growthRate": "-0.2%",
       "growthSource": "Analyst Forecast",
       "description": "PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure. PayPal empowers consumers and businesses in approximately 200 markets across 14,000 banks globally to join and thrive in the global economy.",
       "dividendHistory": [
@@ -49373,12 +49373,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.13"
+          "amount": "$0.25"
         }
       ],
       "dividendYears": 3,
       "dividendGrowth": {
-        "rate": "-49.0%",
+        "rate": "-29.3%",
         "years": 2
       }
     },
@@ -49431,7 +49431,7 @@
       "annualDividend": "$0.56",
       "exDividendDate": "02/27/2026",
       "paymentDate": "03/13/2026",
-      "growthRate": "17.57%",
+      "growthRate": "17.99%",
       "growthSource": "Analyst Forecast",
       "description": "CSX, based in Jacksonville, Florida, is a premier transportation company. It provides rail, intermodal and rail-to-truck transload services and solutions to customers across a broad array of markets, including energy, industrial, construction, agricultural, and consumer products. For nearly 200 years, CSX has played a critical role in the nation's economic expansion and industrial development. Its network connects every major metropolitan area in the eastern United States, where nearly two-thirds of the nation's population resides. It also links more than 240 short-line railroads and more than 70 ocean, river and lake ports with major population centers and farming towns alike.",
       "dividendHistory": [
@@ -49809,7 +49809,7 @@
       "annualDividend": "$1.08",
       "exDividendDate": "03/16/2026",
       "paymentDate": "03/30/2026",
-      "growthRate": "10.92%",
+      "growthRate": "11.06%",
       "growthSource": "Analyst Forecast",
       "description": "Nasdaq (Nasdaq: NDAQ) is a leading technology platform that powers the world's economies. We architect the infrastructure of the world's most modern markets, power the innovation economy, and build trust in the financial system. We empower economic opportunity by designing and deploying advanced technology, data, and intelligence solutions that enable our clients to capture opportunities, navigate risk, and strengthen resilience.",
       "dividendHistory": [
@@ -50463,7 +50463,7 @@
       "annualDividend": "$4.4",
       "exDividendDate": "03/03/2026",
       "paymentDate": "03/17/2026",
-      "growthRate": "47.25%",
+      "growthRate": "54.82%",
       "growthSource": "Analyst Forecast",
       "description": "Analog Devices, Inc. (NASDAQ: ADI ) is a global semiconductor leader that bridges the physical and digital worlds to enable breakthroughs at the Intelligent Edge. ADI combines analog, digital, AI, and software technologies into solutions that combat climate change, reliably connect humans and the world, and help drive advancements in automation and robotics, mobility, healthcare, energy and data centers. With revenue of more than $11 billion in FY25, ADI ensures today's innovators stay Ahead of What's Possible.",
       "dividendHistory": [
@@ -50557,12 +50557,12 @@
         },
         {
           "year": "2026",
-          "amount": "$1.10"
+          "amount": "$2.20"
         }
       ],
       "dividendYears": 23,
       "dividendGrowth": {
-        "rate": "10.6%",
+        "rate": "14.1%",
         "years": 22
       }
     },
@@ -50655,7 +50655,7 @@
       "annualDividend": "$3.28",
       "exDividendDate": "03/19/2026",
       "paymentDate": "04/03/2026",
-      "growthRate": "11.99%",
+      "growthRate": "12.35%",
       "growthSource": "Analyst Forecast",
       "description": "Nordson engineers, manufactures, and markets differentiated products and systems used for dispensing and processing adhesives, coatings, polymers, sealants and biomaterials; and for managing fluids, testing and inspecting for quality, treating surfaces and curing. These products are supported with extensive application expertise and direct global sales and service. We serve a wide variety of consumer non-durable, consumer durable and technology end markets including packaging, nonwovens, electronics, medical, appliances, energy, transportation, building and construction, and general product assembly and finishing. Founded in 1954 and headquartered in Westlake, Ohio, the company has operations and support offices in more than 30 countries. Visit Nordson on the web at nordson.com.",
       "dividendHistory": [
@@ -52525,12 +52525,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.11"
+          "amount": "$0.22"
         }
       ],
       "dividendYears": 10,
       "dividendGrowth": {
-        "rate": "9.2%",
+        "rate": "17.9%",
         "years": 9
       }
     },
@@ -53603,12 +53603,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.03"
+          "amount": "$0.05"
         }
       ],
       "dividendYears": 2,
       "dividendGrowth": {
-        "rate": "-40.0%",
+        "rate": "0.0%",
         "years": 1
       }
     },
@@ -53661,7 +53661,7 @@
       "annualDividend": "$0.99",
       "exDividendDate": "05/08/2026",
       "paymentDate": "05/26/2026",
-      "growthRate": "9.58%",
+      "growthRate": "9.49%",
       "growthSource": "Analyst Forecast",
       "description": "Walmart Inc. (Nasdaq: WMT) is a people-led, tech-powered omnichannel retailer helping people save money and live better - anytime and anywhere - in stores, online, and through their mobile devices. Each week, approximately 280 million customers and members visit more than 10,900 stores and numerous eCommerce websites in 19 countries. With fiscal year 2026 revenue of $713 billion, Walmart employs approximately 2.1 million associates worldwide. Walmart continues to be a leader in sustainability, corporate philanthropy, and employment opportunity. Additional information about Walmart can be found by visiting corporate.walmart.com, on Facebook at facebook.com/walmart, on X at x.com/walmart, and on LinkedIn at linkedin.com/company/walmart.",
       "dividendHistory": [
@@ -53783,7 +53783,7 @@
       "annualDividend": "$1.78",
       "exDividendDate": "03/13/2026",
       "paymentDate": "03/31/2026",
-      "growthRate": "11.54%",
+      "growthRate": "17.16%",
       "growthSource": "Analyst Forecast",
       "description": "Ross Stores, Inc. is an S&P 500, Fortune 500, and Nasdaq 100 ( ROST ) company headquartered in Dublin, California, with fiscal 2025 revenues of $22.8 billion. Currently, the Company operates Ross Dress for Less ® ('Ross'), the largest off-price apparel and home fashion chain in the United States with 1,917 locations in 44 states, the District of Columbia, Guam, and Puerto Rico. Ross offers first-quality, in-season, brand name and designer apparel, accessories, footwear, and home fashions for the entire family at savings of 20% to 60% off department and specialty store regular prices every day. The Company also operates 365 dd's DISCOUNTS ® stores in 23 states that feature a more moderately-priced assortment of first-quality, in-season apparel, accessories, footwear, and home fashions for the entire family at savings of 20% to 70% off moderate department and discount store regular prices every day. Additional information is available at www.rossstores.com.",
       "dividendHistory": [
@@ -55069,12 +55069,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.46"
+          "amount": "$0.92"
         }
       ],
       "dividendYears": 30,
       "dividendGrowth": {
-        "rate": "10.6%",
+        "rate": "12.6%",
         "years": 38
       }
     },
@@ -55929,7 +55929,7 @@
       "annualDividend": "$1.706",
       "exDividendDate": "05/15/2026",
       "paymentDate": "06/05/2026",
-      "growthRate": "25.17%",
+      "growthRate": "25.22%",
       "growthSource": "Analyst Forecast",
       "description": "Constellation Energy Corporation (Nasdaq: CEG), a Fortune 200 company headquartered in Baltimore, is the largest private-sector power producer in the world and the nation's largest producer of clean and reliable energy. With 55 gigawatts of capacity from nuclear, natural gas, geothermal, hydro, wind and solar facilities, our fleet has the generating capacity to power the equivalent of 27 million homes, providing about 10% of the nation's clean energy and delivering the around-the-clock reliability needed to power America's growing economy. We are also the largest nuclear energy company in the U.S. and a leading competitive retail supplier, serving approximately 2.5 million customer accounts nationwide, including 80% of the Fortune 100. We are committed to investing in innovation and new technologies to drive the transition to a reliable, sustainable and secure energy future.",
       "dividendHistory": [
@@ -58423,12 +58423,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.03"
+          "amount": "$0.06"
         }
       ],
       "dividendYears": 29,
       "dividendGrowth": {
-        "rate": "-0.8%",
+        "rate": "1.1%",
         "years": 38
       }
     },
@@ -59275,12 +59275,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.26"
+          "amount": "$0.52"
         }
       ],
       "dividendYears": 13,
       "dividendGrowth": {
-        "rate": "-5.9%",
+        "rate": "-0.3%",
         "years": 12
       }
     },
@@ -60019,12 +60019,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.05"
+          "amount": "$0.10"
         }
       ],
       "dividendYears": 24,
       "dividendGrowth": {
-        "rate": "-1.0%",
+        "rate": "1.1%",
         "years": 32
       }
     },
@@ -60759,7 +60759,7 @@
       "annualDividend": "$0.4",
       "exDividendDate": "05/22/2026",
       "paymentDate": "06/05/2026",
-      "growthRate": "40.42%",
+      "growthRate": "45.11%",
       "growthSource": "Analyst Forecast",
       "description": "Advanced Energy Industries, Inc. (Nasdaq: AEIS) is a global leader in the design and manufacture of highly engineered, precision power conversion, measurement and control solutions for mission-critical applications and processes. Advanced Energy's power solutions enable customer innovation in complex applications for a wide range of industries including semiconductor equipment, industrial production, medical and life sciences, data center computing, networking, and telecommunications. With engineering know-how and responsive service and support for customers around the globe, Advanced Energy builds collaborative partnerships to meet technology advances, propels growth of its customers, and innovates the future of power. Advanced Energy has devoted four decades to perfecting power.",
       "dividendHistory": [
@@ -60883,12 +60883,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.14"
+          "amount": "$0.21"
         }
       ],
       "dividendYears": 19,
       "dividendGrowth": {
-        "rate": "-3.8%",
+        "rate": "-2.4%",
         "years": 27
       }
     },
@@ -61023,12 +61023,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.12"
+          "amount": "$0.18"
         }
       ],
       "dividendYears": 14,
       "dividendGrowth": {
-        "rate": "5.5%",
+        "rate": "8.8%",
         "years": 13
       }
     },
@@ -61235,7 +61235,7 @@
       "annualDividend": "$0.04",
       "exDividendDate": "03/11/2026",
       "paymentDate": "04/01/2026",
-      "growthRate": "72.45%",
+      "growthRate": "74.66%",
       "growthSource": "Analyst Forecast",
       "description": "NVIDIA (NASDAQ: NVDA) is the world leader in AI and accelerated computing.",
       "dividendHistory": [
