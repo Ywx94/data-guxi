@@ -1,20 +1,20 @@
 {
   "success": true,
-  "lastUpdated": "2026-05-29T23:30:27.710Z",
-  "count": 810,
+  "lastUpdated": "2026-05-30T23:15:06.147Z",
+  "count": 808,
   "totalScanned": 7166,
   "stats": {
-    "totalDividendStocks": 810,
-    "withGrowthData": 776,
+    "totalDividendStocks": 808,
+    "withGrowthData": 774,
     "withoutGrowthData": 34,
-    "withDividendHistory": 810,
+    "withDividendHistory": 808,
     "avgDividendYears": "13.3",
-    "durationMinutes": "11.64"
+    "durationMinutes": "12.10"
   },
   "sectors": [
     {
       "name": "Finance",
-      "count": 382
+      "count": 381
     },
     {
       "name": "Consumer Discretionary",
@@ -38,7 +38,7 @@
     },
     {
       "name": "Energy",
-      "count": 22
+      "count": 21
     },
     {
       "name": "Utilities",
@@ -68,7 +68,7 @@
   "industries": [
     {
       "name": "Major Banks",
-      "count": 207
+      "count": 206
     },
     {
       "name": "Real Estate Investment Trusts",
@@ -239,10 +239,6 @@
       "count": 5
     },
     {
-      "name": "Coal Mining",
-      "count": 4
-    },
-    {
       "name": "Misc Corporate Leasing Services",
       "count": 4
     },
@@ -276,6 +272,10 @@
     },
     {
       "name": "Textiles",
+      "count": 3
+    },
+    {
+      "name": "Coal Mining",
       "count": 3
     },
     {
@@ -16206,44 +16206,6 @@
       "dividendGrowth": {
         "rate": "-3.6%",
         "years": 37
-      }
-    },
-    {
-      "symbol": "BAFN",
-      "name": "BayFirst Financial Corp. Common Stock",
-      "price": "$6.205",
-      "marketCap": "25,490,587",
-      "sector": "Finance",
-      "industry": "Major Banks",
-      "dividendYield": "5.22%",
-      "annualDividend": "$0.32",
-      "exDividendDate": "05/30/2025",
-      "paymentDate": "06/15/2025",
-      "growthRate": "10.4%",
-      "growthSource": "4yr Revenue CAGR",
-      "description": "BayFirst Financial Corp. is a registered bank holding company based in St. Petersburg, Florida which commenced operations on September 1, 2000. Its primary source of income is derived from its wholly owned subsidiary, BayFirst National Bank, a national banking association which commenced business operations on February 12, 1999. The Bank currently operates twelve full-service banking offices throughout the Tampa Bay - Sarasota region and offers a broad range of commercial and consumer banking services to businesses and individuals. As of March 31, 2026, BayFirst Financial Corp. had $1.20 billion in total assets.",
-      "dividendHistory": [
-        {
-          "year": "2022",
-          "amount": "$0.32"
-        },
-        {
-          "year": "2023",
-          "amount": "$0.32"
-        },
-        {
-          "year": "2024",
-          "amount": "$0.32"
-        },
-        {
-          "year": "2025",
-          "amount": "$0.16"
-        }
-      ],
-      "dividendYears": 4,
-      "dividendGrowth": {
-        "rate": "-20.6%",
-        "years": 3
       }
     },
     {
@@ -44892,44 +44854,6 @@
       "dividendGrowth": {
         "rate": "4.2%",
         "years": 13
-      }
-    },
-    {
-      "symbol": "METC",
-      "name": "Ramaco Resources, Inc. Class A Common Stock",
-      "price": "$15.61",
-      "marketCap": "1,017,379,611",
-      "sector": "Energy",
-      "industry": "Coal Mining",
-      "dividendYield": "1.65%",
-      "annualDividend": "$0.275",
-      "exDividendDate": "05/30/2025",
-      "paymentDate": "06/13/2025",
-      "growthRate": "73.06%",
-      "growthSource": "Analyst Forecast",
-      "description": "Ramaco Resources, Inc. is an operator and developer of high-quality, low-cost metallurgical coal in southern West Virginia, and southwestern Virginia and exploring a coal, rare earth and other critical minerals project in Wyoming. The Company's executive offices are located in Lexington, Kentucky, with operational offices in Charleston, West Virginia and Sheridan, Wyoming. The Company currently has four active metallurgical coal mining complexes in Central Appalachia and one coal mine and rare earth element and other critical mineral exploration stage property near Sheridan, Wyoming (the \" Brook Mine \"). The Brook Mine remains an exploration stage property, and no assurance can be given that it will be successfully developed into a commercial scale mine or that any inferred mineral resources estimated will be converted into higher confidence mineral resources or eventually mineral reserves.",
-      "dividendHistory": [
-        {
-          "year": "2022",
-          "amount": "$0.45"
-        },
-        {
-          "year": "2023",
-          "amount": "$0.50"
-        },
-        {
-          "year": "2024",
-          "amount": "$0.55"
-        },
-        {
-          "year": "2025",
-          "amount": "$0.21"
-        }
-      ],
-      "dividendYears": 4,
-      "dividendGrowth": {
-        "rate": "-22.4%",
-        "years": 3
       }
     },
     {
