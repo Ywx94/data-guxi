@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": "2026-06-06T23:23:10.359Z",
+  "lastUpdated": "2026-06-07T23:27:06.910Z",
   "count": 807,
   "totalScanned": 7131,
   "stats": {
@@ -9,7 +9,7 @@
     "withoutGrowthData": 33,
     "withDividendHistory": 807,
     "avgDividendYears": "13.3",
-    "durationMinutes": "15.34"
+    "durationMinutes": "16.41"
   },
   "sectors": [
     {
@@ -18573,6 +18573,104 @@
       }
     },
     {
+      "symbol": "NWFL",
+      "name": "Norwood Financial Corp. Common Stock",
+      "price": "$30.79",
+      "marketCap": "335,324,622",
+      "sector": "Finance",
+      "industry": "Major Banks",
+      "dividendYield": "4.36%",
+      "annualDividend": "$1.28",
+      "exDividendDate": "04/15/2026",
+      "paymentDate": "05/01/2026",
+      "growthRate": "10.93%",
+      "growthSource": "Analyst Forecast",
+      "description": "Norwood Financial Corp,through its subsidiary, Wayne Bank operates 33 Community Offices serving Wayne, Pike,Monroe,Lackawanna,Luzerne,Chester,Cumberland,and Lancaster Counties in Pennsylvania,along with Delaware,Sullivan,Otsego, Ontario,and Yates Counties in New York. The Company has total assets of $2.9 billion. The Company's stock is traded on the Nasdaq Global Market under the symbol 'NWFL'. For more information, visit wayne.bank.",
+      "dividendHistory": [
+        {
+          "year": "1999",
+          "amount": "$0.42"
+        },
+        {
+          "year": "2000",
+          "amount": "$0.51"
+        },
+        {
+          "year": "2001",
+          "amount": "$0.80"
+        },
+        {
+          "year": "2002",
+          "amount": "$0.88"
+        },
+        {
+          "year": "2003",
+          "amount": "$0.48"
+        },
+        {
+          "year": "2013",
+          "amount": "$0.89"
+        },
+        {
+          "year": "2014",
+          "amount": "$1.20"
+        },
+        {
+          "year": "2015",
+          "amount": "$1.23"
+        },
+        {
+          "year": "2016",
+          "amount": "$1.24"
+        },
+        {
+          "year": "2017",
+          "amount": "$1.18"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.88"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.96"
+        },
+        {
+          "year": "2020",
+          "amount": "$1.00"
+        },
+        {
+          "year": "2021",
+          "amount": "$1.04"
+        },
+        {
+          "year": "2022",
+          "amount": "$1.12"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.16"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.20"
+        },
+        {
+          "year": "2025",
+          "amount": "$1.24"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.64"
+        }
+      ],
+      "dividendYears": 19,
+      "dividendGrowth": {
+        "rate": "1.6%",
+        "years": 27
+      }
+    },
+    {
       "symbol": "CFFN",
       "name": "Capitol Federal Financial, Inc. Common Stock",
       "price": "$7.85",
@@ -19556,104 +19654,6 @@
       "dividendGrowth": {
         "rate": "-4.1%",
         "years": 6
-      }
-    },
-    {
-      "symbol": "NWFL",
-      "name": "Norwood Financial Corp. Common Stock",
-      "price": "$30.79",
-      "marketCap": "335,324,622",
-      "sector": "Finance",
-      "industry": "Major Banks",
-      "dividendYield": "4.23%",
-      "annualDividend": "$1.28",
-      "exDividendDate": "04/15/2026",
-      "paymentDate": "05/01/2026",
-      "growthRate": "10.93%",
-      "growthSource": "Analyst Forecast",
-      "description": "Norwood Financial Corp,through its subsidiary, Wayne Bank operates 33 Community Offices serving Wayne, Pike,Monroe,Lackawanna,Luzerne,Chester,Cumberland,and Lancaster Counties in Pennsylvania,along with Delaware,Sullivan,Otsego, Ontario,and Yates Counties in New York. The Company has total assets of $2.9 billion. The Company's stock is traded on the Nasdaq Global Market under the symbol 'NWFL'. For more information, visit wayne.bank.",
-      "dividendHistory": [
-        {
-          "year": "1999",
-          "amount": "$0.42"
-        },
-        {
-          "year": "2000",
-          "amount": "$0.51"
-        },
-        {
-          "year": "2001",
-          "amount": "$0.80"
-        },
-        {
-          "year": "2002",
-          "amount": "$0.88"
-        },
-        {
-          "year": "2003",
-          "amount": "$0.48"
-        },
-        {
-          "year": "2013",
-          "amount": "$0.89"
-        },
-        {
-          "year": "2014",
-          "amount": "$1.20"
-        },
-        {
-          "year": "2015",
-          "amount": "$1.23"
-        },
-        {
-          "year": "2016",
-          "amount": "$1.24"
-        },
-        {
-          "year": "2017",
-          "amount": "$1.18"
-        },
-        {
-          "year": "2018",
-          "amount": "$0.88"
-        },
-        {
-          "year": "2019",
-          "amount": "$0.96"
-        },
-        {
-          "year": "2020",
-          "amount": "$1.00"
-        },
-        {
-          "year": "2021",
-          "amount": "$1.04"
-        },
-        {
-          "year": "2022",
-          "amount": "$1.12"
-        },
-        {
-          "year": "2023",
-          "amount": "$1.16"
-        },
-        {
-          "year": "2024",
-          "amount": "$1.20"
-        },
-        {
-          "year": "2025",
-          "amount": "$1.24"
-        },
-        {
-          "year": "2026",
-          "amount": "$0.64"
-        }
-      ],
-      "dividendYears": 19,
-      "dividendGrowth": {
-        "rate": "1.6%",
-        "years": 27
       }
     },
     {
