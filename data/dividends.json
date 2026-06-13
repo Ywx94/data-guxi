@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": "2026-06-12T23:38:04.971Z",
+  "lastUpdated": "2026-06-13T23:21:53.322Z",
   "count": 801,
   "totalScanned": 7137,
   "stats": {
@@ -9,7 +9,7 @@
     "withoutGrowthData": 32,
     "withDividendHistory": 801,
     "avgDividendYears": "13.3",
-    "durationMinutes": "15.63"
+    "durationMinutes": "11.16"
   },
   "sectors": [
     {
@@ -55279,7 +55279,7 @@
       "annualDividend": "$0.16",
       "exDividendDate": "04/24/2026",
       "paymentDate": "05/22/2026",
-      "growthRate": "11.7%",
+      "growthRate": "4.3%",
       "growthSource": "4yr Revenue CAGR",
       "description": "Friedman Industries, Incorporated ('the Company'), headquartered in Longview, Texas, is a diversified metals processing and pipe manufacturing company operating through two segments: Flat-Roll Products and Tubular Products. The Flat-Roll Products segment includes processing facilities in Hickman, Arkansas; Decatur, Alabama; Miami, Florida; East Chicago, Indiana; Granite City, Illinois; and Sinton, Texas, as well as a distribution facility in Orlando, Florida. This segment processes carbon steel, stainless steel, and aluminum flat-rolled products. The Hickman, East Chicago, and Granite City facilities operate temper mills and corrective leveling cut-to-length lines; the Sinton and Decatur facilities operate stretcher leveler cut-to-length lines; and the Miami facility operates both a corrective leveling cut-to-length line and a slitting line.",
       "dividendHistory": [
