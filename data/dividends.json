@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": "2026-06-19T00:00:42.511Z",
+  "lastUpdated": "2026-06-19T23:16:47.792Z",
   "count": 800,
   "totalScanned": 7141,
   "stats": {
@@ -9,7 +9,7 @@
     "withoutGrowthData": 32,
     "withDividendHistory": 800,
     "avgDividendYears": "13.3",
-    "durationMinutes": "12.19"
+    "durationMinutes": "14.22"
   },
   "sectors": [
     {
@@ -1735,12 +1735,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.47"
+          "amount": "$0.94"
         }
       ],
       "dividendYears": 5,
       "dividendGrowth": {
-        "rate": "-31.2%",
+        "rate": "-18.2%",
         "years": 4
       }
     },
@@ -2399,12 +2399,12 @@
         },
         {
           "year": "2026",
-          "amount": "$5.83"
+          "amount": "$6.92"
         }
       ],
       "dividendYears": 2,
       "dividendGrowth": {
-        "rate": "171.2%",
+        "rate": "221.9%",
         "years": 1
       }
     },
@@ -2743,12 +2743,12 @@
         },
         {
           "year": "2026",
-          "amount": "$1.02"
+          "amount": "$1.53"
         }
       ],
       "dividendYears": 6,
       "dividendGrowth": {
-        "rate": "-4.1%",
+        "rate": "4.0%",
         "years": 5
       }
     },
@@ -11521,12 +11521,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.32"
+          "amount": "$0.64"
         }
       ],
       "dividendYears": 7,
       "dividendGrowth": {
-        "rate": "2.9%",
+        "rate": "15.5%",
         "years": 6
       }
     },
@@ -12147,7 +12147,7 @@
       "annualDividend": "$1.2",
       "exDividendDate": "05/15/2026",
       "paymentDate": "05/29/2026",
-      "growthRate": "1.12%",
+      "growthRate": "0.5%",
       "growthSource": "Analyst Forecast",
       "description": "Sabra Health Care REIT, Inc., a Maryland corporation, operates as a self-administered, self-managed real estate investment trust (a 'REIT') that, through its subsidiaries, owns and invests in real estate serving the healthcare industry throughout the United States and Canada.",
       "dividendHistory": [
@@ -12713,12 +12713,12 @@
         },
         {
           "year": "2026",
-          "amount": "$1.12"
+          "amount": "$1.68"
         }
       ],
       "dividendYears": 31,
       "dividendGrowth": {
-        "rate": "4.6%",
+        "rate": "5.8%",
         "years": 38
       }
     },
@@ -13269,12 +13269,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.05"
+          "amount": "$0.10"
         }
       ],
       "dividendYears": 6,
       "dividendGrowth": {
-        "rate": "-48.0%",
+        "rate": "-40.2%",
         "years": 5
       }
     },
@@ -14238,12 +14238,16 @@
         {
           "year": "2025",
           "amount": "$0.20"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.30"
         }
       ],
-      "dividendYears": 21,
+      "dividendYears": 22,
       "dividendGrowth": {
-        "rate": "-3.7%",
-        "years": 29
+        "rate": "-2.3%",
+        "years": 30
       }
     },
     {
@@ -16137,7 +16141,7 @@
       "annualDividend": "$5.12",
       "exDividendDate": "06/05/2026",
       "paymentDate": "07/02/2026",
-      "growthRate": "-0.65%",
+      "growthRate": "-0.61%",
       "growthSource": "Analyst Forecast",
       "description": "Kimberly-Clark (NASDAQ: KMB) and its trusted brands are an indispensable part of life for people in more than 175 countries and territories. Our portfolio of brands, including Huggies, Kleenex, Scott, Kotex, Cottonelle, Poise, Depend, Andrex, Pull-Ups, Goodnites, Intimus, Plenitud, Sweety, Softex, Viva and WypAll, hold No. 1 or No. 2 share positions in approximately 70 countries. Our company's purpose is to deliver Better Care for a Better World. We are committed to using sustainable practices designed to support a healthy planet, build strong communities, and enable our business to thrive for decades to come. To keep up with the latest news and learn more about the company's more than 150-year history of innovation, visit https://www.kimberly-clark.com/en-us/.",
       "dividendHistory": [
@@ -21945,7 +21949,7 @@
       "annualDividend": "$0.52",
       "exDividendDate": "03/19/2026",
       "paymentDate": "04/02/2026",
-      "growthRate": "-13.9%",
+      "growthRate": "2.2%",
       "growthSource": "4yr Revenue CAGR",
       "description": "Smith & Wesson Brands, Inc. (NASDAQ Global Select: SWBI) is a U.S.-based leader in firearm manufacturing and design, delivering a broad portfolio of quality handgun, long gun, and suppressor products to the global consumer and professional markets under the iconic Smith & Wesson® and Gemtech® brands.",
       "dividendHistory": [
@@ -21975,12 +21979,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.13"
+          "amount": "$0.26"
         }
       ],
       "dividendYears": 7,
       "dividendGrowth": {
-        "rate": "4.5%",
+        "rate": "17.3%",
         "years": 6
       }
     },
@@ -24387,12 +24391,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.19"
+          "amount": "$0.38"
         }
       ],
       "dividendYears": 30,
       "dividendGrowth": {
-        "rate": "-0.1%",
+        "rate": "1.7%",
         "years": 38
       }
     },
@@ -24611,12 +24615,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.32"
+          "amount": "$0.48"
         }
       ],
       "dividendYears": 21,
       "dividendGrowth": {
-        "rate": "-5.0%",
+        "rate": "-3.6%",
         "years": 28
       }
     },
@@ -28111,12 +28115,12 @@
         },
         {
           "year": "2026",
-          "amount": "$1.12"
+          "amount": "$1.68"
         }
       ],
       "dividendYears": 26,
       "dividendGrowth": {
-        "rate": "0.6%",
+        "rate": "1.9%",
         "years": 34
       }
     },
@@ -34239,12 +34243,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.52"
+          "amount": "$0.78"
         }
       ],
       "dividendYears": 21,
       "dividendGrowth": {
-        "rate": "1.6%",
+        "rate": "2.9%",
         "years": 34
       }
     },
@@ -35171,7 +35175,7 @@
       "annualDividend": "$2.48",
       "exDividendDate": "05/15/2026",
       "paymentDate": "05/29/2026",
-      "growthRate": "13.56%",
+      "growthRate": "12.62%",
       "growthSource": "Analyst Forecast",
       "description": "Since 1971, Starbucks Coffee Company has been committed to responsibly sourcing and roasting high-quality arabica coffee. Today, with a global footprint of more than 41,000 company-operated and licensed coffeehouses and a growing presence in consumer-packaged goods, we are the world's premier purveyor of specialty coffee. Through our unwavering commitment to excellence and our guiding principles, we bring the unique Starbucks Experience to life for every customer through every cup. To share in the experience, please visit us in our stores or online at about.starbucks.com or www.starbucks.com.",
       "dividendHistory": [
@@ -36441,12 +36445,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.43"
+          "amount": "$0.86"
         }
       ],
       "dividendYears": 28,
       "dividendGrowth": {
-        "rate": "1.3%",
+        "rate": "3.3%",
         "years": 36
       }
     },
@@ -39165,7 +39169,7 @@
       "paymentDate": "06/05/2026",
       "growthRate": "7.74%",
       "growthSource": "Analyst Forecast",
-      "description": "Honeywell is an integrated operating company serving a broad range of industries and geographies around the world, with a portfolio that is underpinned by our Honeywell Accelerator operating system and Honeywell Forge platform. As a trusted partner, we help organizations solve the world's toughest, most complex challenges, providing actionable solutions and innovations for aerospace, building automation, industrial automation, process automation, and process technology that help make the world smarter and safer as well as more sustainable.",
+      "description": "Honeywell is an integrated operating company serving a broad range of industries and geographies around the world, with a portfolio that is underpinned by our Honeywell Accelerator operating system and Honeywell Forge platform. As a trusted partner, we help organizations solve the world's toughest, most complex challenges, providing actionable solutions and innovations for aerospace, building automation, industrial automation, process automation, and process technology, that help make the world smarter and safer as well as more secure and sustainable.",
       "dividendHistory": [
         {
           "year": "2000",
@@ -41189,7 +41193,7 @@
       "annualDividend": "$1.82",
       "exDividendDate": "05/22/2026",
       "paymentDate": "06/05/2026",
-      "growthRate": "122.63%",
+      "growthRate": "123.6%",
       "growthSource": "Analyst Forecast",
       "description": "Microchip Technology Inc. is a broadline supplier of semiconductors committed to making innovative design easier through total system solutions that address critical challenges at the intersection of emerging technologies and durable end markets. Its easy-to-use development tools and comprehensive product portfolio supports customers throughout the design process, from concept to completion. Headquartered in Chandler, Arizona, Microchip offers outstanding technical support and delivers solutions across the industrial, automotive, consumer, aerospace and defense, communications and computing markets.",
       "dividendHistory": [
@@ -43307,12 +43311,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.07"
+          "amount": "$0.14"
         }
       ],
       "dividendYears": 15,
       "dividendGrowth": {
-        "rate": "-5.2%",
+        "rate": "-2.4%",
         "years": 24
       }
     },
@@ -44575,7 +44579,7 @@
       "annualDividend": "$1.08",
       "exDividendDate": "06/01/2026",
       "paymentDate": "06/15/2026",
-      "growthRate": "15.02%",
+      "growthRate": "14.76%",
       "growthSource": "Analyst Forecast",
       "description": "SS&C is a global provider of services and software for the financial services and healthcare industries. Founded in 1986, SS&C is headquartered in Windsor, Connecticut, and has offices around the world. Some 20,000 financial services and healthcare organizations, from the world's largest companies to small and mid-market firms, rely on SS&C for expertise, scale and technology.",
       "dividendHistory": [
@@ -45641,12 +45645,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.11"
+          "amount": "$0.23"
         }
       ],
       "dividendYears": 13,
       "dividendGrowth": {
-        "rate": "22.1%",
+        "rate": "29.9%",
         "years": 12
       }
     },
@@ -47495,7 +47499,7 @@
       "annualDividend": "$4.056",
       "exDividendDate": "03/25/2026",
       "paymentDate": "04/09/2026",
-      "growthRate": "31.22%",
+      "growthRate": "31.42%",
       "growthSource": "Analyst Forecast",
       "description": "NXP Semiconductors N.V. (NASDAQ: NXPI) is the trusted partner for innovative solutions in the automotive, industrial & IoT, mobile, and communications infrastructure markets. NXP's 'Brighter Together' approach combines leading-edge technology with pioneering people to develop system solutions that make the connected world better, safer, and more secure. The company has operations in more than 30 countries and posted revenue of $12.27 billion in 2025.",
       "dividendHistory": [
@@ -48651,7 +48655,7 @@
       "annualDividend": "$3.24",
       "exDividendDate": "05/19/2026",
       "paymentDate": "05/27/2026",
-      "growthRate": "7.66%",
+      "growthRate": "7.43%",
       "growthSource": "Analyst Forecast",
       "description": "Verisign (NASDAQ: VRSN), a global provider of critical internet infrastructure and domain name registry services, enables internet navigation for many of the world's most recognized domain names. Verisign helps enable the security, stability, and resiliency of the Domain Name System and the internet by providing root zone maintainer services, operating two of the 13 global internet root servers, and providing registration services and authoritative resolution for the .com and .net top-level domains, which support the majority of global e-commerce. To learn more please visit verisign.com.",
       "dividendHistory": [
@@ -49595,7 +49599,7 @@
       "annualDividend": "$1.24",
       "exDividendDate": "05/29/2026",
       "paymentDate": "06/12/2026",
-      "growthRate": "15.52%",
+      "growthRate": "17.42%",
       "growthSource": "Analyst Forecast",
       "description": "eBay Inc. (Nasdaq: EBAY ) is a global commerce leader that connects people and builds communities to create economic opportunity for all. Our technology empowers millions of buyers and sellers in more than 190 markets around the world, providing everyone the opportunity to grow and thrive. Founded in 1995 in San Jose, California, eBay is one of the world's largest and most vibrant marketplaces for discovering great value and unique selection. In 2025, eBay enabled nearly $80 billion of gross merchandise volume.",
       "dividendHistory": [
@@ -51145,12 +51149,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.05"
+          "amount": "$0.11"
         }
       ],
       "dividendYears": 2,
       "dividendGrowth": {
-        "rate": "-75.0%",
+        "rate": "-45.0%",
         "years": 1
       }
     },
@@ -51167,7 +51171,7 @@
       "paymentDate": "06/03/2026",
       "growthRate": "34%",
       "growthSource": "Analyst Forecast",
-      "description": "Marex Group plc (NASDAQ: MRX ) provides market access, infrastructure services and essential liquidity to clients across global commodity and financial markets. The Group provides comprehensive breadth and depth of coverage across four services: Clearing, Agency and Execution, Market Making and Hedging and Investment Solutions. It has a leading franchise in many major metals, energy and agricultural products, with access to more than 60 exchanges. Marex has over 3,400 active clients, including some of the largest commodity producers, consumers and traders, banks, hedge funds and asset managers. With more than 50 offices worldwide, the Group has over 3000 employees across Europe, Asia and the Americas.",
+      "description": "Marex Group plc (NASDAQ: MRX ) provides market access, infrastructure services and essential liquidity to clients across global commodity and financial markets. The Group provides comprehensive breadth and depth of coverage across four services: Clearing, Agency and Execution, Market Making and Hedging and Investment Solutions. It has a leading franchise in many major metals, energy and agricultural products, with access to more than 60 exchanges. Marex has over 3,400 active clients, including some of the largest commodity producers, consumers and traders, banks, hedge funds and asset managers. With more than 50 offices worldwide, the Group has over 3000 employees across Europe, Asia and the Americas. For more information visit www. marex. com.",
       "dividendHistory": [
         {
           "year": "2024",
@@ -52009,12 +52013,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.06"
+          "amount": "$0.12"
         }
       ],
       "dividendYears": 14,
       "dividendGrowth": {
-        "rate": "-8.1%",
+        "rate": "-3.1%",
         "years": 13
       }
     },
@@ -54781,7 +54785,7 @@
       "paymentDate": "03/31/2026",
       "growthRate": "81.83%",
       "growthSource": "Analyst Forecast",
-      "description": "Broadcom Inc. (NASDAQ: AVGO) is a technology leader that designs, develops, and supplies semiconductors and infrastructure software for global organizations' complex, mission-critical needs. Broadcom combines long-term R&D investment with superb execution to deliver the best technology, at scale. Broadcom is a Delaware corporation headquartered in Palo Alto, CA. For more information, visit www.broadcom.com.",
+      "description": "Broadcom Inc. (NASDAQ: AVGO) is a technology leader that designs, develops, and supplies semiconductors and infrastructure software for global organizations' complex, mission-critical needs. Broadcom combines long-term R&D investment with superb execution to deliver the best technology, at scale.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -55005,7 +55009,7 @@
       "annualDividend": "$2",
       "exDividendDate": "05/07/2026",
       "paymentDate": "05/21/2026",
-      "growthRate": "110.05%",
+      "growthRate": "121.29%",
       "growthSource": "Analyst Forecast",
       "description": "Silicon Motion Technology Corporation (NasdaqGS: SIMO) is the global leader in supplying NAND flash controllers for solid-state storage devices. The company ships more SSD controllers than any other supplier worldwide for servers, PCs, and other edge devices, and is also the leading merchant provider of eMMC and UFS embedded storage controllers used in smartphones, IoT products, and automotive applications. Silicon Motion delivers customized, high-performance controller solutions for Enterprise SSDs, Edge SSDs, Embedded UFS & eMMC controllers, as well as Enterprise Boot Drives and Ferri solutions for automotive. Its controllers and storage solutions are designed to power the worlds most advanced AI Infrastructure, Edge AI, and Physical AI, combining high performance, low power, and proven reliability.",
       "dividendHistory": [
@@ -55389,7 +55393,7 @@
       "annualDividend": "$0.32",
       "exDividendDate": "05/18/2026",
       "paymentDate": "05/29/2026",
-      "growthRate": "-1.5%",
+      "growthRate": "-2.67%",
       "growthSource": "Analyst Forecast",
       "description": "Bio-Techne Corporation (NASDAQ: TECH) is a global life sciences company headquartered in Minnesota, celebrating 50 years of empowering scientific and diagnostic communities to reach better answers. The company provides high-quality reagents, analytical instruments, and precision diagnostics. Its portfolio is organized into three customer-focused brands: R&D Systems, Bio-Techne Spatial, and Bio-Techne Diagnostics, reflecting the scientific journey from discovery to translational research to clinical decision making. Bio-Techne operates in 34 locations worldwide and employs approximately 3,000 people. In fiscal year 2025, the company generated over $1.2 billion in net sales. Its more than 500,000 products are used globally by academic researchers, biopharmaceutical and biotechnology companies, and clinical diagnostic laboratories.",
       "dividendHistory": [
@@ -56057,7 +56061,7 @@
       "annualDividend": "$1.16",
       "exDividendDate": "06/03/2026",
       "paymentDate": "06/17/2026",
-      "growthRate": "11.18%",
+      "growthRate": "12.15%",
       "growthSource": "Analyst Forecast",
       "description": "Old Dominion Freight Line, Inc. is one of the largest North American LTL motor carriers and provides regional, inter-regional and national LTL services through a single integrated, union-free organization. Our service offerings, which include expedited transportation, are provided through an expansive network of service centers located throughout the continental United States. The Company also maintains strategic alliances with other carriers to provide LTL services throughout North America. In addition to its core LTL services, the Company offers a range of value-added services including container drayage, truckload brokerage, and supply chain consulting.",
       "dividendHistory": [
@@ -56421,12 +56425,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.10"
+          "amount": "$0.15"
         }
       ],
       "dividendYears": 29,
       "dividendGrowth": {
-        "rate": "-1.8%",
+        "rate": "-0.8%",
         "years": 38
       }
     },
@@ -58133,7 +58137,7 @@
       "annualDividend": "$1.08",
       "exDividendDate": "05/11/2026",
       "paymentDate": "05/14/2026",
-      "growthRate": "17.23%",
+      "growthRate": "17.25%",
       "growthSource": "Analyst Forecast",
       "description": "Apple revolutionized personal technology with the introduction of the Macintosh in 1984. Today, Apple leads the world in innovation with iPhone, iPad, Mac, AirPods, Apple Watch, and Apple Vision Pro. Apple's six software platforms - iOS, iPadOS, macOS, watchOS, visionOS, and tvOS - provide seamless experiences across all Apple devices and empower people with breakthrough services including the App Store, Apple Music, Apple Pay, iCloud, and Apple TV. Apple's more than 150,000 employees are dedicated to making the best products on earth and to leaving the world better than we found it.",
       "dividendHistory": [
@@ -59001,12 +59005,12 @@
         },
         {
           "year": "2026",
-          "amount": "$1.14"
+          "amount": "$1.79"
         }
       ],
       "dividendYears": 28,
       "dividendGrowth": {
-        "rate": "9.1%",
+        "rate": "10.4%",
         "years": 36
       }
     },
@@ -60479,7 +60483,7 @@
       "annualDividend": "$0.6",
       "exDividendDate": "03/30/2026",
       "paymentDate": "04/15/2026",
-      "growthRate": "671.21%",
+      "growthRate": "675.59%",
       "growthSource": "Analyst Forecast",
       "description": "Micron Technology, Inc. is an industry leader in innovative memory and storage solutions transforming how the world uses information to enrich life for all. With a relentless focus on our customers, technology leadership, and manufacturing and operational excellence, Micron delivers a rich portfolio of high-performance DRAM, NAND, and NOR memory and storage products. Every day, the innovations that our people create fuel the data economy, enabling advances in artificial intelligence (AI) and compute-intensive applications that unleash opportunities - from the data center to the intelligent edge and across the client and mobile user experience. To learn more about Micron Technology, Inc. (Nasdaq: MU), visit micron.com.",
       "dividendHistory": [
