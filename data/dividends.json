@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": "2026-06-19T23:16:47.792Z",
+  "lastUpdated": "2026-06-20T23:26:28.291Z",
   "count": 800,
   "totalScanned": 7141,
   "stats": {
@@ -9,7 +9,7 @@
     "withoutGrowthData": 32,
     "withDividendHistory": 800,
     "avgDividendYears": "13.3",
-    "durationMinutes": "14.22"
+    "durationMinutes": "12.65"
   },
   "sectors": [
     {
@@ -17967,7 +17967,7 @@
       "annualDividend": "$0.2",
       "exDividendDate": "05/14/2026",
       "paymentDate": "05/21/2026",
-      "growthRate": "0.4%",
+      "growthRate": "4.8%",
       "growthSource": "4yr Revenue CAGR",
       "description": "Jerash Holdings (US), Inc. manufactures and exports custom, ready-made, sportswear and outerwear for leading global brands and retailers, including VF Corporation (which owns brands such as The North Face, Timberland, and Vans), New Balance, G-III (which licenses brands such as DKNY and Nautica), Acushnet Holdings Corp (which owns the brand FootJoy), American Eagle, and Skechers. Jerash's existing production facilities in Jordan comprise six factory units and four warehouses, and Jerash currently employs approximately 6,000 people. Additional information is available at www.jerashholdings.com.",
       "dividendHistory": [
