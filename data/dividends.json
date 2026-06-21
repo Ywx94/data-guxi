@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": "2026-06-20T23:26:28.291Z",
+  "lastUpdated": "2026-06-21T23:34:41.140Z",
   "count": 800,
   "totalScanned": 7141,
   "stats": {
@@ -9,7 +9,7 @@
     "withoutGrowthData": 32,
     "withDividendHistory": 800,
     "avgDividendYears": "13.3",
-    "durationMinutes": "12.65"
+    "durationMinutes": "14.62"
   },
   "sectors": [
     {
