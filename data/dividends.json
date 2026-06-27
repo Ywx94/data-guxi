@@ -1,15 +1,15 @@
 {
   "success": true,
-  "lastUpdated": "2026-06-26T23:27:12.704Z",
-  "count": 799,
+  "lastUpdated": "2026-06-27T23:23:18.113Z",
+  "count": 798,
   "totalScanned": 7121,
   "stats": {
-    "totalDividendStocks": 799,
-    "withGrowthData": 767,
+    "totalDividendStocks": 798,
+    "withGrowthData": 766,
     "withoutGrowthData": 32,
-    "withDividendHistory": 799,
+    "withDividendHistory": 798,
     "avgDividendYears": "13.3",
-    "durationMinutes": "14.95"
+    "durationMinutes": "15.27"
   },
   "sectors": [
     {
@@ -22,7 +22,7 @@
     },
     {
       "name": "Technology",
-      "count": 70
+      "count": 69
     },
     {
       "name": "Industrials",
@@ -88,7 +88,7 @@
     },
     {
       "name": "Semiconductors",
-      "count": 20
+      "count": 19
     },
     {
       "name": "N/A",
@@ -46214,72 +46214,6 @@
       "dividendGrowth": {
         "rate": "-17.6%",
         "years": 11
-      }
-    },
-    {
-      "symbol": "IMOS",
-      "name": "ChipMOS TECHNOLOGIES INC. American Depositary Shares",
-      "price": "$60.54",
-      "marketCap": "2,118,848,904",
-      "sector": "Technology",
-      "industry": "Semiconductors",
-      "dividendYield": "1.42%",
-      "annualDividend": "$0.835969",
-      "exDividendDate": "06/27/2025",
-      "paymentDate": "07/25/2025",
-      "growthRate": "-0.1%",
-      "growthSource": "4yr Revenue CAGR",
-      "description": "ChipMOS TECHNOLOGIES INC. ('ChipMOS' or the 'Company') (Taiwan Stock Exchange: 8150 and Nasdaq: IMOS) ( www.chipmos.com ) is an industry leading provider of outsourced semiconductor assembly and test services. With advanced facilities in Hsinchu Science Park, Hsinchu Industrial Park and Southern Taiwan Science Park in Taiwan, ChipMOS is known for its track record of excellence and history of innovation. The Company provides end-to-end assembly and test services to leading fabless semiconductor companies, integrated device manufacturers and independent semiconductor foundries serving virtually all end markets worldwide.",
-      "dividendHistory": [
-        {
-          "year": "2016",
-          "amount": "$1.31"
-        },
-        {
-          "year": "2017",
-          "amount": "$0.66"
-        },
-        {
-          "year": "2018",
-          "amount": "$1.16"
-        },
-        {
-          "year": "2019",
-          "amount": "$0.76"
-        },
-        {
-          "year": "2020",
-          "amount": "$1.23"
-        },
-        {
-          "year": "2021",
-          "amount": "$1.58"
-        },
-        {
-          "year": "2022",
-          "amount": "$2.92"
-        },
-        {
-          "year": "2023",
-          "amount": "$1.48"
-        },
-        {
-          "year": "2024",
-          "amount": "$1.11"
-        },
-        {
-          "year": "2025",
-          "amount": "$0.84"
-        },
-        {
-          "year": "2026",
-          "amount": "$0.78"
-        }
-      ],
-      "dividendYears": 11,
-      "dividendGrowth": {
-        "rate": "-5.1%",
-        "years": 10
       }
     },
     {
