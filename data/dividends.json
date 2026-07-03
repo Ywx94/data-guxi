@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": "2026-07-02T23:24:55.041Z",
+  "lastUpdated": "2026-07-03T23:23:13.605Z",
   "count": 800,
   "totalScanned": 7159,
   "stats": {
@@ -9,7 +9,7 @@
     "withoutGrowthData": 33,
     "withDividendHistory": 800,
     "avgDividendYears": "13.3",
-    "durationMinutes": "12.11"
+    "durationMinutes": "13.57"
   },
   "sectors": [
     {
@@ -4147,7 +4147,7 @@
       "paymentDate": "06/26/2026",
       "growthRate": "-16.51%",
       "growthSource": "Analyst Forecast",
-      "description": "SLR Investment Corp. is a closed-end investment company that has elected to be regulated as a business development company under the Investment Company Act of 1940. A specialty finance company with expertise in several niche markets, the Company primarily invests in leveraged, U.S. upper middle market companies in the form of cash flow, asset-based, and life sciences senior secured loans.",
+      "description": "SLR Investment Corp. is a closed-end investment company that has elected to be treated as a business development company under the Investment Company Act of 1940. A specialty finance company with expertise in several niche markets, the Company primarily invests directly and indirectly in leveraged, U. S. middle market companies in the form of cash flow senior secured loans including first lien and second lien debt instruments and asset-based loans including senior secured loans collateralized on a first lien basis primarily by current assets.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -5335,12 +5335,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.98"
+          "amount": "$1.17"
         }
       ],
       "dividendYears": 12,
       "dividendGrowth": {
-        "rate": "-2.8%",
+        "rate": "-1.2%",
         "years": 11
       }
     },
@@ -7059,7 +7059,7 @@
       "paymentDate": "06/19/2026",
       "growthRate": "-41.76%",
       "growthSource": "Analyst Forecast",
-      "description": "Silvercrest was founded in April 2002 as an independent, employee-owned registered investment adviser. With offices in New York, Boston, Virginia, New Jersey, California, Wisconsin, Atlanta and Singapore, Silvercrest provides traditional and alternative investment advisory and family office services to wealthy families and select institutional investors.",
+      "description": "Silvercrest Asset Management Group LLC (the 'firm') is the principal operating subsidiary of Silvercrest Asset Management Group Inc. Silvercrest was founded in April 2002 as an independent, employee-owned registered investment adviser, headquartered in New York. The firm has seven additional offices in the United States, an office in Singapore, and team members based in Europe and Australia. As of March 31, 2026, the firm reported assets under management of $35.7 billion.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -7619,7 +7619,7 @@
       "paymentDate": "07/15/2026",
       "growthRate": "0.5%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "National Healthcare Properties, Inc. (Nasdaq: NHP / NHPAP / NHPBP) is a self-managed real estate investment trust focused on acquiring, owning and investing in a diversified portfolio of healthcare real estate, with an emphasis on providing senior housing to serve a growing elderly population in the United States.",
+      "description": "National Healthcare Properties, Inc. (Nasdaq: NHP / NHPAP / NHPBP) is a self-managed real estate investment trust focused on acquiring, owning and investing in a diversified portfolio of healthcare real estate, with an emphasis on providing senior housing to serve a growing elderly population in the United States. Additional information about the Company can be found on its website at nhpreit.com.",
       "dividendHistory": [
         {
           "year": "2020",
@@ -7741,7 +7741,7 @@
       "paymentDate": "07/15/2026",
       "growthRate": "0.5%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "National Healthcare Properties, Inc. (Nasdaq: NHP / NHPAP / NHPBP) is a self-managed real estate investment trust focused on acquiring, owning and investing in a diversified portfolio of healthcare real estate, with an emphasis on providing senior housing to serve a growing elderly population in the United States.",
+      "description": "National Healthcare Properties, Inc. (Nasdaq: NHP / NHPAP / NHPBP) is a self-managed real estate investment trust focused on acquiring, owning and investing in a diversified portfolio of healthcare real estate, with an emphasis on providing senior housing to serve a growing elderly population in the United States. Additional information about the Company can be found on its website at nhpreit.com.",
       "dividendHistory": [
         {
           "year": "2022",
@@ -8841,7 +8841,7 @@
       "annualDividend": "$3.28",
       "exDividendDate": "06/12/2026",
       "paymentDate": "06/26/2026",
-      "growthRate": "3.16%",
+      "growthRate": "3.3%",
       "growthSource": "Analyst Forecast",
       "description": "GLPI is engaged in the business of acquiring, financing, and owning real estate property to be leased to gaming operators in triple-net lease arrangements, pursuant to which the tenant is responsible for all facility maintenance, insurance required in connection with the leased properties and the business conducted on the leased properties, taxes levied on or with respect to the leased properties and all utilities and other services necessary or appropriate for the leased properties and the business conducted on the leased properties.",
       "dividendHistory": [
@@ -11657,7 +11657,7 @@
       "annualDividend": "$1.56",
       "exDividendDate": "07/02/2026",
       "paymentDate": "08/03/2026",
-      "growthRate": "-26.42%",
+      "growthRate": "-26.45%",
       "growthSource": "Analyst Forecast",
       "description": "For more than 155 years, The Campbell's Company (NASDAQ:CPB) has been connecting people through food they love. Headquartered in Camden, N.J. since 1869, generations of consumers have trusted Campbell's to provide delicious and affordable food and beverages. Today, the company is a North American focused brand powerhouse, generating fiscal 2025 net sales of $10.3 billion across two divisions: Meals & Beverages and Snacks. Campbell's portfolio of 16 leadership brands includes: Campbell's, Cape Cod, Chunky, Goldfish, Kettle Brand, Lance, Late July, Pace, Pacific Foods, Pepperidge Farm, Prego, Rao's, Snack Factory pretzel crisps, Snyder's of Hanover, Swanson and V8.",
       "dividendHistory": [
@@ -13025,7 +13025,7 @@
       "paymentDate": "07/01/2026",
       "growthRate": "10.6%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Popular, Inc. is the leading financial institution by both assets and deposits in Puerto Rico and ranks among the top 50 U.S. bank holding companies by assets. Founded in 1893, Banco Popular de Puerto Rico, Popular's principal subsidiary, provides retail, mortgage and commercial banking services in Puerto Rico and the U.S. Virgin Islands. Popular also offers in Puerto Rico auto and equipment leasing and financing, investment banking, broker-dealer and insurance services through specialized subsidiaries. In the mainland United States, Popular provides retail, mortgage and commercial banking services through its New York-chartered banking subsidiary, Popular Bank, which has branches located in New York, New Jersey and Florida.",
+      "description": "Popular, Inc. (NASDAQ: BPOP) is the leading financial institution by both assets and deposits in Puerto Rico and ranks among the top 50 U.S. bank holding companies by assets. Founded in 1893, Banco Popular de Puerto Rico, Popular's principal subsidiary, provides retail, mortgage and commercial banking services in Puerto Rico and the U.S. Virgin Islands. Popular also offers in Puerto Rico auto and equipment leasing and financing, investment banking, broker-dealer and insurance services through specialized subsidiaries. In the mainland United States, Popular provides retail, mortgage and commercial banking services through its New York -chartered banking subsidiary, Popular Bank, which has branches located in New York, New Jersey and Florida.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -13081,12 +13081,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.77"
+          "amount": "$0.89"
         }
       ],
       "dividendYears": 14,
       "dividendGrowth": {
-        "rate": "-3.8%",
+        "rate": "-2.8%",
         "years": 13
       }
     },
@@ -13421,7 +13421,7 @@
       "annualDividend": "$1.44",
       "exDividendDate": "04/24/2026",
       "paymentDate": "05/05/2026",
-      "growthRate": "-0.77%",
+      "growthRate": "-1.12%",
       "growthSource": "Analyst Forecast",
       "description": "Concentrix Corporation (NASDAQ: CNXC), is the Fortune 500® technology and services company, helping the world's best brands create intelligent operations that perform in the real world. We design, build, and run integrated human and AI solutions, harnessing the insight from billions of real-world interactions to help 2,000+ of the world's most complex organizations solve their toughest business challenges. Backed by 20+ years of operational experience and battle tested AI, we're the intelligent transformation partner that helps clients across every major industry move from ambition to measurable, scalable performance. Virtually everywhere. To learn more, visit concentrix.com.",
       "dividendHistory": [
@@ -13693,9 +13693,9 @@
       "annualDividend": "$2.422477",
       "exDividendDate": "05/04/2026",
       "paymentDate": "06/03/2026",
-      "growthRate": "12.02%",
+      "growthRate": "11.36%",
       "growthSource": "Analyst Forecast",
-      "description": "Sanofi is an R&D driven, AI-powered biopharma company committed to improving people's lives and delivering compelling growth. We apply our deep understanding of the immune system to invent medicines and vaccines that treat and protect millions of people around the world, with an innovative pipeline that could benefit millions more.Our team is guided by one purpose: we chase the miracles of science to improve people's lives; this inspires us to drive progress and deliver positive impact for our people and the communities we serve, by addressing the most urgent healthcare, environmental, and societal challenges of our time.",
+      "description": "Sanofi is an R&D driven, AI-powered biopharma company committed to improving people's lives and delivering compelling growth. We apply our deep understanding of the immune system to invent medicines and vaccines that treat and protect millions of people around the world, with an innovative pipeline that could benefit millions more. Our team is guided by one purpose: we chase the miracles of science to improve people's lives; this inspires us to drive progress and deliver positive impact for our people and the communities we serve, by addressing the most urgent healthcare, environmental, and societal challenges of our time.",
       "dividendHistory": [
         {
           "year": "2004",
@@ -13809,7 +13809,7 @@
       "paymentDate": "01/09/2026",
       "growthRate": "-11.38%",
       "growthSource": "Analyst Forecast",
-      "description": "Dentsply Sirona is the world's largest diversified manufacturer of professional dental products and technologies, with over a century of innovation and service to the dental industry and patients worldwide. Dentsply Sirona develops, manufactures, and markets a comprehensive solutions offering including dental and oral health products as well as other consumable medical devices under a strong portfolio of world-class brands. Dentsply Sirona's innovative products provide high-quality, effective and connected solutions to advance patient care and deliver better and safer dental care. Dentsply Sirona is headquartered in Charlotte, North Carolina. The Company's shares are listed in the United States on Nasdaq under the symbol XRAY. Visit www.dentsplysirona.com for more information about Dentsply Sirona and its products.",
+      "description": "Dentsply Sirona is the world's largest diversified manufacturer of professional dental products and technologies, with over a century of innovation and service to the dental industry and patients worldwide. Dentsply Sirona develops, manufactures, and markets a comprehensive solutions offering including dental and oral health products as well as other consumable medical devices under a strong portfolio of world-class brands. Dentsply Sirona's innovative products provide, high-quality, effective and connected solutions to advance patient care and deliver better and safer dental care. Dentsply Sirona's headquarters is located in Charlotte, North Carolina. The Company's shares are listed in the United States on Nasdaq under the symbol XRAY. Visit www.dentsplysirona.com for more information about Dentsply Sirona and its products.",
       "dividendHistory": [
         {
           "year": "1994",
@@ -14019,12 +14019,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.52"
+          "amount": "$0.63"
         }
       ],
       "dividendYears": 6,
       "dividendGrowth": {
-        "rate": "0.0%",
+        "rate": "3.9%",
         "years": 5
       }
     },
@@ -15103,7 +15103,7 @@
       "annualDividend": "$0.76",
       "exDividendDate": "06/24/2026",
       "paymentDate": "07/01/2026",
-      "growthRate": "8.1%",
+      "growthRate": "9.17%",
       "growthSource": "Analyst Forecast",
       "description": "NewtekOne ®, Your Business Solutions Company®, is a financial holding company, which along with its bank and non-bank consolidated subsidiaries (collectively, 'NewtekOne'), provides a wide range of business and financial solutions under the Newtek® brand to independent business owners. Since 1999, NewtekOne has provided state-of-the-art, cost-efficient products and services and efficient business strategies to independent business owners across all 50 states to help them grow their sales, control their expenses, and reduce their risk. NewtekOne's and its subsidiaries' business and financial solutions include: banking (Newtek Bank, N.A.), Business Lending, SBA Lending Solutions, Electronic Payment Processing, eCommerce, Accounts Receivable Financing & Inventory Financing and Insurance Solutions, Web Services, and Payroll and Benefits Solutions.",
       "dividendHistory": [
@@ -15683,7 +15683,7 @@
       "paymentDate": "05/21/2026",
       "growthRate": "-9.64%",
       "growthSource": "Analyst Forecast",
-      "description": "First Interstate Bank, operated under First Interstate BancSystem, Inc. (Nasdaq: FIBK) and headquartered in Billings, Montana, oversees a banking division backed by $26. 4 billion in assets as of March 31, 2026. First Interstate offers a full suite of relationship-driven commercial services-commercial & industrial lending, commercial real estate financing, treasury and cash management, and merchant services-tailored to businesses ranging from emerging small enterprises to large corporations. Emphasizing local decision-making and a deep regional footprint across Western and Midwestern U.S. (including agriculture, healthcare, manufacturing sectors), First Interstate aims to deliver industry-focused solutions and foster long-term partnerships with its clients. Learn more at firstinterstate.com.",
+      "description": "First Interstate BancSystem, Inc. is a financial services holding company headquartered in Billings, Montana. It is the parent company of First Interstate Bank, a community bank with $30.1 billion in assets as of March 31, 2024. First Interstate proudly delivers financial solutions across Arizona, Colorado, Idaho, Iowa, Kansas, Minnesota, Missouri, Montana, Nebraska, North Dakota, Oregon, South Dakota, Washington, and Wyoming. A recognized leader in community banking services, First Interstate is driven by strong values as well as a commitment to delivering a rewarding experience to its employees, strong returns to shareholders, exceptional products and services to its clients, and resources to the communities it serves. More information is available at www.FIBK.com.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -15761,7 +15761,7 @@
       "paymentDate": "06/19/2026",
       "growthRate": "-5.25%",
       "growthSource": "Analyst Forecast",
-      "description": "AMERISAFE, Inc. is a specialty provider of workers' compensation insurance focused on small to mid-sized employers engaged in hazardous industries, principally construction, trucking, logging and lumber, agriculture, services, manufacturing, and maritime. AMERISAFE actively markets workers' compensation insurance in 27 states.",
+      "description": "AMERISAFE, Inc. is a specialty provider of workers'compensation insurance focused on small to mid-sized employers engaged in hazardous industries, principally construction, trucking, logging and lumber, agriculture, services, manufacturing, and maritime. AMERISAFE actively markets workers'compensation insurance in 27 states.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -16471,7 +16471,7 @@
       "paymentDate": "07/02/2026",
       "growthRate": "-0.61%",
       "growthSource": "Analyst Forecast",
-      "description": "Kimberly-Clark (NASDAQ: KMB) and its trusted brands are an indispensable part of life for people in more than 175 countries and territories. Our portfolio of brands, including Huggies, Kleenex, Scott, Kotex, Cottonelle, Poise, Depend, Andrex, Pull-Ups, Goodnites, Intimus, Plenitud, Sweety, Softex, Viva and WypAll, hold No. 1 or No. 2 share positions in approximately 70 countries. Our company's purpose is to deliver Better Care for a Better World. We are committed to using sustainable practices designed to support a healthy planet, build strong communities, and enable our business to thrive for decades to come. To keep up with the latest news and learn more about the company's more than 150-year history of innovation, visit https://www.kimberly-clark.com/en-us/.",
+      "description": "Kimberly-Clark (NASDAQ: KMB ) and its trusted brands are an indispensable part of life for people in more than 175 countries and territories. Our portfolio of brands, including Huggies, Kleenex, Scott, Kotex, Cottonelle, Poise, Depend, Pull-Ups, Goodnites, Intimus, Plenitud, Sweety, Softex, Viva and WypAll, hold No. 1 or No. 2 share positions in approximately 70 countries. Our company's purpose is to deliver Better Care for a Better World. We are committed to using sustainable practices designed to support a healthy planet, build strong communities, and enable our business to thrive for decades to come. To keep up with the latest news and learn more about the company's more than 150-year history of innovation, visit the Kimberly-Clark website.",
       "dividendHistory": [
         {
           "year": "2000",
@@ -16973,7 +16973,7 @@
       "paymentDate": "06/29/2026",
       "growthRate": "-0.27%",
       "growthSource": "Analyst Forecast",
-      "description": "T. Rowe Price (NASDAQ-GS: TROW) is a leading global asset management firm, entrusted with managing $1. 89 trillion in client assets as of May 31, 2026, about two-thirds of which are retirement-related. Renowned for over 85 years of investment excellence, retirement leadership, and independent proprietary research, the firm leverages its longstanding expertise to ask better questions that can drive better investment decisions. Built on a culture of integrity and prioritizing client interests, T. Rowe Price empowers millions of investors worldwide to thrive amidst evolving markets. Visit troweprice. com/newsroom for news and public policy commentary.",
+      "description": "Founded in 1937, T. Rowe Price (NASDAQ: TROW) helps people around the world achieve their long-term investment goals. As a large global asset management company known for investment excellence, retirement leadership, and independent proprietary research, the firm is built on a culture of integrity that puts client interests first. Investors rely on the award-winning firm for its retirement expertise and active management approach of equity, fixed income, alternatives, and multi-asset investment capabilities. T. Rowe Price manages USD $1.89 trillion in assets under management as of May 31, 2026, and serves millions of clients globally.",
       "dividendHistory": [
         {
           "year": "1988",
@@ -17919,9 +17919,9 @@
       "annualDividend": "$0.8",
       "exDividendDate": "05/15/2026",
       "paymentDate": "05/29/2026",
-      "growthRate": "10%",
+      "growthRate": "10.67%",
       "growthSource": "Analyst Forecast",
-      "description": "Bassett Furniture Industries, Inc. (NASDAQ: BSET) is a leading provider of high-quality home furnishings. The Company's network of 87 company- and licensee-owned Bassett Home Furnishings stores accounts for approximately 60% of its wholesale business. The Bassett Home Furnishings stores feature the latest on-trend furniture styles, showcase the Company's capabilities in custom furniture design and manufacturing, provide free in-home design visits, and display coordinated decorating accessories in a professional and friendly environment. Bassett also has a significant traditional wholesale business with more than 1000 open market accounts. Most of the open market sales are through Bassett Design Centers and Bassett Custom Studios which function as a store within a multi-line store showcasing the Company's custom furniture capabilities. The wholesale business, including the Lane Venture outdoor brand, also services general furniture stores and a growing number of interior design firms.",
+      "description": "Bassett Furniture Industries, Inc. (NASDAQ: BSET) is a leading provider of high-quality home furnishings with a wide range of distribution types. Bassett sales approximately 60% of its products through its network of 87 company- and licensee-owned stores which feature the latest on-trend furniture styles, the Company's capabilities in custom furniture design and manufacturing, free in-home design visits, and coordinated decorating accessories in a professional and friendly environment. Bassett also has a significant traditional wholesale business with more than 1,000 open market accounts. Most of the open market sales are through Bassett Design Centers and Bassett Custom Studios which function as a store within a multi-line store featuring the Company's custom furniture capabilities. The wholesale business, including the Lane Venture outdoor brand, also services general furniture stores and a growing number of interior design firms.",
       "dividendHistory": [
         {
           "year": "1988",
@@ -18229,7 +18229,7 @@
       "annualDividend": "$3.2",
       "exDividendDate": "06/16/2026",
       "paymentDate": "07/07/2026",
-      "growthRate": "-2.58%",
+      "growthRate": "-6.32%",
       "growthSource": "Analyst Forecast",
       "description": "J & J Snack Foods Corp. is a leader and innovator in the snack food industry, providing innovative, niche, and affordable branded snack foods and beverages to foodservice and retail supermarket outlets.",
       "dividendHistory": [
@@ -19599,7 +19599,7 @@
       "paymentDate": "06/17/2026",
       "growthRate": "12.5%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Richmond Mutual Bancorporation, Inc., headquartered in Richmond, Indiana, is the holding company for First Bank Richmond, a community-oriented financial institution offering traditional financial and trust services within its local communities through its eight locations in Richmond, Centerville, Cambridge City and Shelbyville, Indiana, its six locations in Columbus, Sidney, Piqua and Troy, Ohio .",
+      "description": "Richmond Mutual Bancorporation, Inc., headquartered in Richmond, Indiana, is the holding company for First Bank Midwest, a community-oriented financial institution offering traditional financial and trust services within its local communities through its branch locations in Cambridge City, Centerville, Fishers, Frankfort, Kirklin, Lebanon, Michigantown, Mulberry, Noblesville, Richmond, Rossville, Shelbyville, Sheridan, Tipton and Westfield, Indiana, and its locations in Columbus, Sidney, Piqua and Troy, Ohio.",
       "dividendHistory": [
         {
           "year": "2020",
@@ -21709,7 +21709,7 @@
       "annualDividend": "$0.8",
       "exDividendDate": "04/01/2026",
       "paymentDate": "04/15/2026",
-      "growthRate": "2.8%",
+      "growthRate": "6.91%",
       "growthSource": "Analyst Forecast",
       "description": "CVB Financial Corp. ('CVBF') is the publicly traded holding company for Citizens Business Bank, National Association. CVBF is one of the 10 largest bank holding companies headquartered in California with over $15 billion in total assets. Citizens Business Bank is consistently recognized as one of the top performing banks in the nation and offers a wide array of banking, lending and investing services with more than 60 banking centers and three trust office locations serving California. Shares of CVB Financial Corp. common stock are listed on the NASDAQ under the ticker symbol 'CVBF'. For investor information on CVB Financial Corp., visit the company's website at www.cbbank.com and click on the ' Investors' tab.",
       "dividendHistory": [
@@ -22133,7 +22133,7 @@
       "annualDividend": "$2.8",
       "exDividendDate": "06/01/2026",
       "paymentDate": "06/11/2026",
-      "growthRate": "8.42%",
+      "growthRate": "7.63%",
       "growthSource": "Analyst Forecast",
       "description": "Hasbro is a leading games, IP and toy company whose mission is to create joy and community through the magic of play. With 165 years of expertise, Hasbro delivers groundbreaking play experiences and reaches more than 1 billion fans annually around the world, through physical and digital games, video games, toys, licensed consumer products, location-based entertainment, film, TV and more. Through its franchise-first approach, Hasbro unlocks value from both new and legacy IP, including Magic: The Gathering, Dungeons & Dragons, Monopoly, Hasbro Games, Nerf, Transformers, Play-Doh and Peppa Pig, as well as premier partner brands. Powered by its portfolio of thousands of iconic marks and a diversified network of partners and subsidiary studios, Hasbro brings fans together wherever they are, from tabletop to screen.",
       "dividendHistory": [
@@ -22247,7 +22247,7 @@
       "annualDividend": "$1.04",
       "exDividendDate": "05/18/2026",
       "paymentDate": "05/29/2026",
-      "growthRate": "5.91%",
+      "growthRate": "6.18%",
       "growthSource": "Analyst Forecast",
       "description": "First Hawaiian, Inc. (NASDAQ:FHB) is a bank holding company headquartered in Honolulu, Hawaii. Its principal subsidiary, First Hawaiian Bank, founded in 1858 under the name Bishop & Company, is Hawaii's oldest and largest financial institution with branch locations throughout Hawaii, Guam and Saipan. The company offers a comprehensive suite of banking services to consumer and commercial customers including deposit products, loans, wealth management, insurance, trust, retirement planning, credit card and merchant processing services. Customers may also access their accounts through ATMs, online and mobile banking channels. For more information about First Hawaiian, Inc., visit www.FHB.com.",
       "dividendHistory": [
@@ -22847,9 +22847,9 @@
       "annualDividend": "$2",
       "exDividendDate": "06/30/2026",
       "paymentDate": "07/14/2026",
-      "growthRate": "4.77%",
+      "growthRate": "4.64%",
       "growthSource": "Analyst Forecast",
-      "description": "Mondelz International, Inc. (Nasdaq: MDLZ) empowers people to snack right in over 150 countries around the world. With 2025 net revenues of approximately $38.5 billion, MDLZ is leading the future of snacking with iconic global and local brands such as Oreo, Ritz, LU, CLIF Bar and Tate's Bake Shop biscuits and baked snacks, as well as Cadbury Dairy Milk, Milka and Toblerone chocolate. Mondelz International is a proud member of the Dow Jones Best-in-Class North America and World Indices, formerly Dow Jones Sustainability Indices.",
+      "description": "Mondelz International, Inc. (Nasdaq: MDLZ) empowers people to snack right in over 150 countries around the world. With 2025 net revenues of approximately $38.5 billion, MDLZ is leading the future of snacking with iconic global and local brands such as Oreo, Ritz, LU, CLIF Bar and Tate's Bake Shop biscuits and baked snacks, as well as Cadbury Dairy Milk, Milka and Toblerone chocolate. Mondelz International is a proud member of the Dow Jones Best-in-Class North America and World Indices, formerly Dow Jones Sustainability Indices. Visit www.mondelezinternational.com or follow the company on X at x.",
       "dividendHistory": [
         {
           "year": "2004",
@@ -23975,7 +23975,7 @@
       "paymentDate": "05/27/2026",
       "growthRate": "7.98%",
       "growthSource": "Analyst Forecast",
-      "description": "Cognizant ( Nasdaq : CTSH ) is an AI Builder and technology services provider, bridging the gap between AI investment and enterprise value by building full-stack AI solutions for our clients. Our deep industry, process and engineering expertise enables us to build an organization's unique context into technology systems that amplify human potential, drive tangible outcomes and keep global enterprises ahead in a fast-changing world. See how at www.cognizant.ai or @cognizant.",
+      "description": "Cognizant (Nasdaq: CTSH) is an AI Builder and technology services provider, bridging the gap between AI investment and enterprise value by building full-stack AI solutions for our clients. Our deep industry, process and engineering expertise enables us to build an organization's unique context into technology systems that amplify human potential, drive tangible outcomes and keep global enterprises ahead in a fast-changing world.",
       "dividendHistory": [
         {
           "year": "2017",
@@ -25167,7 +25167,7 @@
       "paymentDate": "07/17/2026",
       "growthRate": "16.39%",
       "growthSource": "Analyst Forecast",
-      "description": "Horizon Bancorp, Inc. (NASDAQ GS: HBNC) is the $6.6 billion -asset commercial bank holding company for Horizon Bank, which serves customers across diverse and economically attractive Midwestern markets through convenient digital and virtual tools, as well as its Indiana and Michigan branches. Horizon's retail offerings include prime residential and other secured consumer lending to in-market customers, as well as a range of personal banking and wealth management solutions. Horizon also provides a comprehensive array of in-market business banking and treasury management services, as well as equipment financing solutions for customers regionally and nationally, with commercial lending representing over half of total loans. More information on Horizon, headquartered in Northwest Indiana's Michigan City, is available at horizonbank.com and investor.horizonbank.com.",
+      "description": "Horizon Bancorp, Inc. (NASDAQ: HBNC) is the $6.4 billion-asset (as of December 31, 2025) commercial bank holding company for Horizon Bank, which serves customers across diverse and economically attractive Midwestern markets through convenient digital and virtual tools, as well as its Indiana and Michigan branches. Horizon's retail offerings include prime residential and other secured consumer lending to in-market customers, as well as a range of personal banking and wealth management solutions. Horizon also provides a comprehensive array of in-market business banking and treasury management services, as well as equipment financing solutions for customers regionally and nationally, with commercial lending representing over half of total loans. More information on Horizon, headquartered in Northwest Indiana's Michigan City, is available at horizonbank.com and investor.horizonbank.com.",
       "dividendHistory": [
         {
           "year": "1998",
@@ -25329,7 +25329,7 @@
       "annualDividend": "$0.76",
       "exDividendDate": "07/01/2026",
       "paymentDate": "07/15/2026",
-      "growthRate": "0.93%",
+      "growthRate": "0.69%",
       "growthSource": "Analyst Forecast",
       "description": "Headquartered in Lancaster, Pa., Fulton Bank is a premier community bank in the Mid-Atlantic region. As a subsidiary of Fulton Financial Corporation, a $34 billion financial services holding company, Fulton Bank offers a broad array of products and services at more than 200 financial centers across Pennsylvania, New Jersey, Maryland, Delaware, and Virginia. At Fulton Bank, we seek to change lives for the better by building strong customer relationships, providing significant community support and empowering more than 3,400 employees to do the same. Through the Fulton Forward® initiative, we're helping build vibrant communities.",
       "dividendHistory": [
@@ -25673,7 +25673,7 @@
       "annualDividend": "$0.332546",
       "exDividendDate": "04/02/2026",
       "paymentDate": "04/17/2026",
-      "growthRate": "-3.68%",
+      "growthRate": "-4.78%",
       "growthSource": "Analyst Forecast",
       "description": "Ericsson's high-performing, programmable networks provide connectivity for billions of people every day. For 150 years, we've been pioneers in creating technology for communication. We offer mobile communication and connectivity solutions for service providers and enterprises. Together with our customers and partners, we make the digital world of tomorrow a reality. www.ericsson.",
       "dividendHistory": [
@@ -25949,7 +25949,7 @@
       "paymentDate": "05/14/2026",
       "growthRate": "8.26%",
       "growthSource": "Analyst Forecast",
-      "description": "Independent Bank Corporation (NASDAQ: IBCP) is a Grand Rapids -based bank holding company with approximately $5.5 billion in assets. Founded in 1864 as First National Bank of Ionia , the company operates 59 locations across Michigan's Lower Peninsula. Independent offers a full suite of retail and commercial banking, mortgage lending, and investment services designed to empower the communities it serves.",
+      "description": "Independent Bank Corporation (NASDAQ: IBCP) is a Grand Rapids -based bank holding company with approximately $5.6 billion in assets. Founded in 1864 as First National Bank of Ionia, the company operates 59 locations across Michigan's Lower Peninsula. Independent offers a full suite of retail and commercial banking, mortgage lending, and investment services designed to empower the communities it serves.",
       "dividendHistory": [
         {
           "year": "1988",
@@ -26375,7 +26375,7 @@
       "paymentDate": "06/26/2026",
       "growthRate": "13.28%",
       "growthSource": "Analyst Forecast",
-      "description": "Principal Financial Group® (Nasdaq: PFG) is a global financial company with approximately 19,000 employees passionate about improving the wealth and well-being of people and businesses. In business for 146 years, we're helping 82 million customers plan, insure, invest, and retire, while working to support the communities where we do business, and building an inclusive workforce. Principal® is proud to be recognized as one of the 2026 World's Most Ethical Companies and named as a 'Best Places to Work in Money Management.' Learn more about Principal and our commitment to building a better future at principal.com.",
+      "description": "Principal Financial Group® (Nasdaq: PFG) is a global financial company with approximately 19,000 employees1 passionate about improving the wealth and well-being of people and businesses. In business for 146 years, we're helping 82 million customers1 plan, insure, invest, and retire, while working to support the communities where we do business, and building an inclusive workforce. Principal® is proud to be recognized as one of the 2026 World's Most Ethical Companies2 and named as a 'Best Places to Work in Money Management3.' Learn more about Principal and our commitment to building a better future at principal.com.",
       "dividendHistory": [
         {
           "year": "2004",
@@ -26487,7 +26487,7 @@
       "annualDividend": "$2.56",
       "exDividendDate": "06/29/2026",
       "paymentDate": "07/09/2026",
-      "growthRate": "29.2%",
+      "growthRate": "29.08%",
       "growthSource": "Analyst Forecast",
       "description": "Independent Bank Corp. (NASDAQ Global Select Market: INDB) is the holding company for Rockland Trust Company, a full-service commercial bank headquartered in Massachusetts. With retail branches in Eastern Massachusetts, Worcester County, and Southern New Hampshire as well as commercial banking and investment management offices in Massachusetts, New Hampshire, and Rhode Island, Rockland Trust offers a wide range of banking, investment, and insurance services to individuals, families, and businesses. Rockland Trust also offers a full suite of mobile, online, and telephone banking services. Rockland Trust is an FDIC member and an Equal Housing Lender.",
       "dividendHistory": [
@@ -26619,7 +26619,7 @@
       "paymentDate": "04/30/2026",
       "growthRate": "22.32%",
       "growthSource": "Analyst Forecast",
-      "description": "Camden National Corporation (NASDAQ: CAC) is Northern New England's largest publicly traded bank holding company, with $7 billion in assets. Founded in 1875, Camden National Bank has 72 banking centers in Maine and New Hampshire and is a full-service community bank offering the latest digital banking, complemented by award-winning, personalized service. Additional information is available at CamdenNational.bank. Member FDIC. Equal Housing Lender. Comprehensive wealth management, investment, and financial planning services are delivered by Camden National Wealth Management.",
+      "description": "Camden National Corporation (NASDAQ: CAC) is Northern New England's largest publicly traded bank holding company, with $7 billion in assets. Founded in 1875, Camden National Bank, with 72 banking centers in Maine and New Hampshire, is a full-service community bank offering the latest in digital banking, complemented by award-winning, personalized service. Additional information is available at CamdenNational.bank. Member FDIC. Equal Housing Lender. Comprehensive wealth management, investment, and financial planning services are delivered by Camden National Wealth Management.",
       "dividendHistory": [
         {
           "year": "1999",
@@ -26703,12 +26703,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.84"
+          "amount": "$1.26"
         }
       ],
       "dividendYears": 21,
       "dividendGrowth": {
-        "rate": "6.6%",
+        "rate": "8.2%",
         "years": 27
       }
     },
@@ -27003,7 +27003,7 @@
       "paymentDate": "06/17/2026",
       "growthRate": "5.79%",
       "growthSource": "Analyst Forecast",
-      "description": "Viatris Inc. (Nasdaq: VTRS) is a global healthcare company whose mission is to empower people worldwide to live healthier at every stage of life. We meet the needs of patients around the world by acting decisively with ingenuity and resolve. Whether we're developing new medicines, working to maintain a resilient supply of needed therapies, or pursuing bold innovation, we strive to deliver solutions that are effective at scale and built to endure. We're purpose-built to make an impact with a dynamic portfolio that spans generics, established brands and innovative medicines that address areas of significant unmet need. We are headquartered in the U.S., with global centers in Pittsburgh, Shanghai, China, and Hyderabad, India. Learn more at viatris.com and investor.viatris.",
+      "description": "Viatris Inc. (Nasdaq: VTRS) is a global healthcare company whose mission is to empower people worldwide to live healthier at every stage of life. We meet the needs of patients around the world by acting decisively with ingenuity and resolve. Whether we're developing new medicines, working to maintain a resilient supply of needed therapies, or pursuing bold innovation, we strive to deliver solutions that are effective at scale and built to endure. We're purpose-built to make an impact with a broad portfolio that spans generics, value-added medicines, established brands, and innovative medicines that address areas of significant unmet need. We are headquartered in the U.S., with global centers in Pittsburgh, Shanghai, China, and Hyderabad, India.",
       "dividendHistory": [
         {
           "year": "2021",
@@ -28097,7 +28097,7 @@
       "annualDividend": "$1",
       "exDividendDate": "06/01/2026",
       "paymentDate": "06/15/2026",
-      "growthRate": "11.26%",
+      "growthRate": "10.92%",
       "growthSource": "Analyst Forecast",
       "description": "First Financial Bancorp. is a Cincinnati, Ohio based bank holding company. As of March 31, 2026, the Company had $22.8 billion in assets, $13.5 billion in loans, $17.9 billion in deposits and $2.9 billion in shareholders' equity. The Company's subsidiary, First Financial Bank, founded in 1863, provides banking and financial services products through its six lines of business: Commercial, Retail Banking, Investment Commercial Real Estate, Mortgage Banking, Commercial Finance and Wealth Management. These business units provide traditional banking services to business and retail clients. Wealth Management provides wealth planning, portfolio management, trust and estate, brokerage and retirement plan services and had approximately $4.1 billion in assets under management as of March 31, 2026.",
       "dividendHistory": [
@@ -28747,7 +28747,7 @@
       "paymentDate": "05/26/2026",
       "growthRate": "40.74%",
       "growthSource": "Analyst Forecast",
-      "description": "Arrow Financial Corporation is a bank holding company headquartered in Glens Falls, New York, providing banking, insurance and wealth management services from Plattsburgh to Albany. Arrow's full-service commercial bank Arrow Bank National Association was formerly named Glens Falls National Bank and Trust Company and Saratoga National Bank and Trust Company. The Bank, celebrating its 175th anniversary throughout 2026, provides a broad range of financial products, including online and mobile banking, mortgages, commercial loans, investments and more. Other subsidiaries include an insurance company, Upstate Agency, LLC. The Company's common stock is traded through the Nasdaq Exchange under the symbol \"AROW.\" Visit arrowfinancial.com for more information.",
+      "description": "Arrow Financial Corporation is a bank holding company headquartered in Glens Falls, New York, providing banking, insurance and wealth management services across northeastern New York and into the Mohawk Valley through its full-service commercial bank Arrow Bank National Association. Arrow Bank, celebrating its 175th anniversary throughout 2026, provides a broad range of financial products, including online and mobile banking, mortgages, commercial loans, investments and more. Other subsidiaries include an insurance company, Upstate Agency, LLC. Arrow's common stock is traded on the Nasdaq Global Select under the symbol 'AROW.' Visit arrowfinancial.com for more information.",
       "dividendHistory": [
         {
           "year": "1988",
@@ -29449,7 +29449,7 @@
       "paymentDate": "07/10/2026",
       "growthRate": "8.63%",
       "growthSource": "Analyst Forecast",
-      "description": "Alerus Financial Corporation (Nasdaq: ALRS) is a commercial wealth advisory services bank and national retirement services provider with corporate offices in Grand Forks, North Dakota, and the Minneapolis-St. Paul, Minnesota metropolitan area. Through its subsidiary, Alerus Financial, National Association (the 'Bank'), Alerus provides diversified and comprehensive financial solutions to business and consumer clients, including banking, wealth advisory services, and retirement and benefit plans and services. Alerus provides clients with a primary point of contact to help fully understand their unique needs and delivery channel preferences. Clients are provided with competitive products, valuable insight, and sound advice supported by digital solutions designed to meet their needs. Alerus operates 26 banking and commercial wealth offices, with locations in Grand Forks and Fargo, North Dakota; the Minneapolis-St.",
+      "description": "Alerus Financial Corporation (Nasdaq: ALRS) is a commercial wealth bank and national retirement services provider with corporate offices in Grand Forks, North Dakota, and the Minneapolis-St. Paul, Minnesota metropolitan area. Through its subsidiary, Alerus Financial, National Association, Alerus provides diversified and comprehensive financial solutions to business and consumer clients, including banking, wealth services, and retirement and benefits plans and services. Alerus provides clients with a primary point of contact to help fully understand the unique needs and delivery channel preferences of each client. Clients are provided with competitive products, valuable insight, and sound advice supported by digital solutions designed to meet the clients'needs. Alerus has banking and wealth offices in Grand Forks and Fargo, North Dakota, the Minneapolis-St. Paul, Minnesota metropolitan area, and Phoenix and Scottsdale, Arizona.",
       "dividendHistory": [
         {
           "year": "2019",
@@ -32051,9 +32051,9 @@
       "annualDividend": "$4.4",
       "exDividendDate": "05/14/2026",
       "paymentDate": "05/21/2026",
-      "growthRate": "45.61%",
+      "growthRate": "45.63%",
       "growthSource": "Analyst Forecast",
-      "description": "Diamondback is an independent oil and natural gas company headquartered in Midland, Texas focused on the acquisition, development, exploration and exploitation of unconventional, onshore oil and natural gas reserves in the Permian Basin in West Texas.",
+      "description": "Diamondback is an independent oil and natural gas company headquartered in Midland, Texas focused on the acquisition, development, exploration and exploitation of unconventional, onshore oil and natural gas reserves primarily in the Permian Basin in West Texas.",
       "dividendHistory": [
         {
           "year": "2018",
@@ -32237,7 +32237,7 @@
       "annualDividend": "$1.8",
       "exDividendDate": "05/14/2026",
       "paymentDate": "05/21/2026",
-      "growthRate": "5.7%",
+      "growthRate": "5.88%",
       "growthSource": "Analyst Forecast",
       "description": "Zions Bancorporation, N.A. is one of the nation's premier financial services companies with total assets of approximately $70 billion. Zions operates under local management teams and distinct brands in 11 western states: Arizona, California, Colorado, Idaho, Nevada, New Mexico, Oregon, Texas, Utah, Washington and Wyoming. The Bank is a national leader in Small Business Administration lending and public finance advisory services. The Bank has been the recipient of many local and national awards, primarily reflecting its strong customer service and products. The Bank has a strong commitment to the communities in which it operates. In addition, Zions is included in the S&P 500 and NASDAQ Financial 100 indices. Investor information and links to local banking brands can be accessed at zionsbancorporation.com.",
       "dividendHistory": [
@@ -33137,7 +33137,7 @@
       "annualDividend": "$1.08",
       "exDividendDate": "05/13/2026",
       "paymentDate": "05/28/2026",
-      "growthRate": "-15.42%",
+      "growthRate": "-14.7%",
       "growthSource": "Analyst Forecast",
       "description": "Apogee Enterprises, Inc. (Nasdaq: APOG) is a leading provider of architectural building products and services, as well as high-performance coated materials used in a variety of applications. Headquartered in Minneapolis, MN, our portfolio of industry-leading products and services includes architectural glass, windows, curtainwall, storefront and entrance systems, integrated project management and installation services, and high-performance coatings that provide protection, innovative design, and enhanced performance.",
       "dividendHistory": [
@@ -35007,7 +35007,7 @@
       "annualDividend": "$0.78",
       "exDividendDate": "05/15/2026",
       "paymentDate": "06/01/2026",
-      "growthRate": "24.81%",
+      "growthRate": "24.05%",
       "growthSource": "Analyst Forecast",
       "description": "ConnectOne Bancorp, Inc., is a modern financial services company that operates, through its subsidiary, ConnectOne Bank, and the Bank's fintech subsidiary, BoeFly, Inc. ConnectOne Bank is a high-performing commercial bank offering a full suite of banking & lending products and services that focus on small to middle-market businesses. BoeFly, Inc. is a fintech marketplace that connects borrowers in the franchise space with funding solutions through a network of partner banks. ConnectOne Bancorp, Inc. is traded on the Nasdaq Global Market under the trading symbol 'CNOB,' and information about ConnectOne may be found at https://www.connectonebank.com .",
       "dividendHistory": [
@@ -38179,7 +38179,7 @@
       "paymentDate": "06/17/2026",
       "growthRate": "-0.19%",
       "growthSource": "Analyst Forecast",
-      "description": "Equinix, Inc. ( Nasdaq : EQIX ) shortens the path to boundless connectivity anywhere in the world. Its digital infrastructure, data center footprint and interconnected ecosystems empower innovations that enhance our work, life and planet. Equinix connects economies, countries, organizations and communities, delivering seamless digital experiences and cutting-edge AI-quickly, efficiently and everywhere.",
+      "description": "Equinix, Inc. (Nasdaq: EQIX) shortens the path to boundless connectivity anywhere in the world. Its digital infrastructure, data center footprint and interconnected ecosystems empower innovations that enhance our work, life and planet. Equinix connects economies, countries, organizations and communities, delivering seamless digital experiences and cutting-edge AI-quickly, efficiently and everywhere.",
       "dividendHistory": [
         {
           "year": "2014",
@@ -39125,7 +39125,7 @@
       "paymentDate": "05/22/2026",
       "growthRate": "-10.63%",
       "growthSource": "Analyst Forecast",
-      "description": "First Bank is a New Jersey state-chartered bank with a branch network that traverses the New York to Philadelphia corridor and includes a single location in Palm Beach County, Florida. With $3.97 billion in assets as of March 31, 2026,First Bank offers a full range of deposit and loan products to individuals and businesses in its markets.",
+      "description": "First Bank is a New Jersey state-chartered bank with a branch network that traverses the New York to Philadelphia corridor and includes a single location in Palm Beach County, Florida. With $3.97 billion in assets as of March 31, 2026, First Bank offers a full range of deposit and loan products to individuals and businesses in its markets. First Bank's common stock is listed on the Nasdaq Global Market exchange under the symbol 'FRBA'.",
       "dividendHistory": [
         {
           "year": "2017",
@@ -39467,7 +39467,7 @@
       "paymentDate": "05/11/2026",
       "growthRate": "-7.49%",
       "growthSource": "Analyst Forecast",
-      "description": "Columbus McKinnon is a leading worldwide designer, manufacturer and marketer of intelligent motion solutions that move the world forward and improve lives by efficiently and ergonomically moving, lifting, positioning, and securing materials. Key products include hoists, crane components, precision conveyor systems, lifting hardware and securement, light rail workstations and digital power and motion control systems. The Company is focused on commercial and industrial applications that require the safety and quality provided by its superior design and engineering know-how.",
+      "description": "CMCO is a global leader in intelligent motion solutions designed to advance performance and productivity, helping customers move the world forward with confidence. Guided by its mission to deliver innovative solutions with unmatched safety, quality and reliability, CMCO enables efficient lifting, positioning, securing and movement of materials across a wide range of end markets. Its portfolio spans five key platforms: lifting hardware consumables, hoists and cranes, precision conveyance, automation and linear motion. Driven by a vision for a safer, more productive tomorrow, CMCO partners with customers to solve some of their most complex intralogistics challenges and keep industry in motion. Comprehensive information is available at www.cmco.com.",
       "dividendHistory": [
         {
           "year": "1996",
@@ -41449,7 +41449,7 @@
       "paymentDate": "07/01/2026",
       "growthRate": "24.53%",
       "growthSource": "Analyst Forecast",
-      "description": "Popular, Inc. is the leading financial institution by both assets and deposits in Puerto Rico and ranks among the top 50 U.S. bank holding companies by assets. Founded in 1893, Banco Popular de Puerto Rico, Popular's principal subsidiary, provides retail, mortgage and commercial banking services in Puerto Rico and the U.S. Virgin Islands. Popular also offers in Puerto Rico auto and equipment leasing and financing, investment banking, broker-dealer and insurance services through specialized subsidiaries. In the mainland United States, Popular provides retail, mortgage and commercial banking services through its New York-chartered banking subsidiary, Popular Bank, which has branches located in New York, New Jersey and Florida.",
+      "description": "Popular, Inc. (NASDAQ: BPOP) is the leading financial institution by both assets and deposits in Puerto Rico and ranks among the top 50 U.S. bank holding companies by assets. Founded in 1893, Banco Popular de Puerto Rico, Popular's principal subsidiary, provides retail, mortgage and commercial banking services in Puerto Rico and the U.S. Virgin Islands. Popular also offers in Puerto Rico auto and equipment leasing and financing, investment banking, broker-dealer and insurance services through specialized subsidiaries. In the mainland United States, Popular provides retail, mortgage and commercial banking services through its New York -chartered banking subsidiary, Popular Bank, which has branches located in New York, New Jersey and Florida.",
       "dividendHistory": [
         {
           "year": "1988",
@@ -43365,7 +43365,7 @@
       "paymentDate": "05/15/2026",
       "growthRate": "44.11%",
       "growthSource": "Analyst Forecast",
-      "description": "Kaiser Aluminum Corporation, headquartered in Franklin, Tenn., is a leading producer of semi-fabricated specialty aluminum products, serving customers worldwide with highly-engineered solutions for aerospace and high-strength, packaging, general engineering, automotive extrusions, and other industrial applications. The Company's North American facilities produce value-added plate, sheet, coil, extrusions, rod, bar, tube, and wire products, adhering to traditions of quality, innovation, and service that have been key components of the culture since the Company was founded in 1946. The Company's stock is included in the Russell 2000® index and the S&P Small Cap 600® index.",
+      "description": "Kaiser Aluminum Corporation, headquartered in Franklin, Tenn., is a leading producer of semi-fabricated specialty aluminum products, serving customers worldwide with highly-engineered solutions for aerospace and high-strength, packaging, general engineering, and automotive extrusions. The Company's North American facilities produce value-added plate, sheet, coil, extrusions, rod, bar, tube, and wire products, adhering to traditions of quality, innovation, and service that have been key components of the culture since the Company was founded in 1946. The Company's stock is included in the Russell 2000® index and the S&P Small Cap 600® index.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -43859,7 +43859,7 @@
       "paymentDate": "06/30/2026",
       "growthRate": "-50.85%",
       "growthSource": "Analyst Forecast",
-      "description": "Red Rock Resorts is a holding company that owns an indirect equity interest in and manages Station Casinos LLC ('Station Casinos '). Station Casinos is the leading provider of gaming, hospitality and entertainment to the residents of Las Vegas, Nevada.Station Casinos ' properties, which are located throughout the Las Vegas valley, are regional entertainment destinations and include various amenities, including numerous restaurants, entertainment venues, movie theaters, bowling and convention/banquet space, as well as traditional casino gaming offerings such as video poker, slot machines, table games, bingo and race and sports wagering.",
+      "description": "Red Rock Resorts is a holding company that owns an indirect equity interest in and manages Station Casinos LLC ('Station Casinos '). Station Casinos is the leading provider of gaming, hospitality and entertainment to the residents of Las Vegas, Nevada. Station Casinos ' properties, which are located throughout the Las Vegas valley, are regional entertainment destinations and include various amenities, including numerous restaurants, entertainment venues, movie theaters, bowling and convention/banquet space, as well as traditional casino gaming offerings such as video poker, slot machines, table games, bingo and race and sports wagering.",
       "dividendHistory": [
         {
           "year": "2016",
@@ -45993,7 +45993,7 @@
       "paymentDate": "07/15/2026",
       "growthRate": "14.32%",
       "growthSource": "Analyst Forecast",
-      "description": "At WTW (NASDAQ: WTW), we provide data-driven, insight-led solutions in the areas of people, risk and capital. Leveraging the global view and local expertise of our colleagues serving 140 countries and markets, we help organisations sharpen their strategy, enhance organisational resilience, motivate their workforce and maximise performance. Working shoulder to shoulder with our clients, we uncover opportunities for sustainable success - and provide perspective that moves you.",
+      "description": "At WTW (NASDAQ: WTW), we provide data-driven, insight-led solutions in the areas of people, risk and capital. Leveraging the global view and local expertise of our colleagues serving 140 countries and markets, we help organizations sharpen their strategy, enhance organizational resilience, motivate their workforce and maximize performance. Working shoulder to shoulder with our clients, we uncover opportunities for sustainable success-and provide perspective that moves you. Learn more at wtwco.com.",
       "dividendHistory": [
         {
           "year": "2004",
@@ -47715,7 +47715,7 @@
       "paymentDate": "05/27/2026",
       "growthRate": "7.43%",
       "growthSource": "Analyst Forecast",
-      "description": "Verisign (NASDAQ: VRSN), a global provider of critical internet infrastructure and domain name registry services, enables internet navigation for many of the world's most recognized domain names. Verisign helps enable the security, stability, and resiliency of the Domain Name System and the internet by providing root zone maintainer services, operating two of the 13 global internet root servers, and providing registration services and authoritative resolution for the .com and .net top-level domains, which support the majority of global e-commerce. To learn more please visit verisign.com.",
+      "description": "Verisign (NASDAQ: VRSN), a global provider of critical internet infrastructure and domain name registry services, enables internet navigation for many of the world's most recognized domain names. Verisign helps enable the security, stability, and resiliency of the Domain Name System and the internet by providing root zone maintainer services, operating two of the 13 global internet root servers, and providing registration services and authoritative resolution for the. com and. net top-level domains, which support the majority of global e-commerce.",
       "dividendHistory": [
         {
           "year": "2025",
@@ -49749,7 +49749,7 @@
       "paymentDate": "04/21/2026",
       "growthRate": "34.57%",
       "growthSource": "Analyst Forecast",
-      "description": "CF Bankshares Inc. (the 'Company') is a bank holding company that owns 100% of the stock of CFBank, National Association (' CFBank '). CFBank is a nationally chartered boutique Commercial bank operating primarily in Five (5) Major Metro Markets: Columbus, Cleveland, Cincinnati, and Akron Ohio, and Indianapolis, Indiana. The current Leadership Team and Board recapitalized the Company and CFBank in 2012 during the financial crisis, repositioning CFBank as a full-service Commercial Bank model. CFBank focuses on serving the financial needs of closely held businesses and entrepreneurs, by providing a comprehensive Commercial, Retail, and Mortgage Lending services presence. In all regional markets, CFBank provides commercial loans and equipment leases, commercial and residential real estate loans and treasury management depository services, residential mortgage lending, and full-service commercial and retail banking services and products.",
+      "description": "CF Bankshares Inc. (the 'Company') is a holding company that owns 100% of the stock of CFBank, National Association ('CFBank'). CFBank is a nationally chartered boutique Commercial bank operating primarily in Five (5) Major Metro Markets: Columbus, Cleveland, Cincinnati, and Akron Ohio, and Indianapolis, Indiana. The current Leadership Team and Board recapitalized the Company and CFBank in 2012 during the financial crisis, repositioning CFBank as a full-service Commercial Bank model. CFBank focuses on serving the financial needs of closely held businesses and entrepreneurs, by providing a comprehensive Commercial, Retail, and Mortgage Lending services presence. In all regional markets, CFBank provides commercial loans and equipment leases, commercial and residential real estate loans and treasury management depository services, residential mortgage lending, and full-service commercial and retail banking services and products.",
       "dividendHistory": [
         {
           "year": "1999",
@@ -49797,12 +49797,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.18"
+          "amount": "$0.27"
         }
       ],
       "dividendYears": 12,
       "dividendGrowth": {
-        "rate": "0.4%",
+        "rate": "2.0%",
         "years": 27
       }
     },
@@ -50281,7 +50281,7 @@
       "annualDividend": "$1",
       "exDividendDate": "06/08/2026",
       "paymentDate": "06/18/2026",
-      "growthRate": "13.09%",
+      "growthRate": "13.87%",
       "growthSource": "Analyst Forecast",
       "description": "The Company is the bank holding company for Red River Bank, a Louisiana state-chartered bank established in 1999 that provides a fully integrated suite of banking products and services tailored to the needs of our commercial and retail customers. Red River Bank operates from a network of 28 banking centers throughout Louisiana and three combined loan and deposit production offices, one each in New Orleans, Louisiana, Lafayette, Louisiana, and Shreveport, Louisiana.",
       "dividendHistory": [
@@ -50541,7 +50541,7 @@
       "paymentDate": "04/22/2026",
       "growthRate": "9.74%",
       "growthSource": "Analyst Forecast",
-      "description": "Roper Technologies is a constituent of the Nasdaq 100, S&P 500, and Fortune 1000. Roper has a proven, long-term track record of compounding cash flow and shareholder value. The Company operates market leading businesses that design and develop vertical software and technology enabled products for a variety of defensible niche markets. Roper utilizes a disciplined, analytical, and process-driven approach to redeploy its excess capital toward high-quality acquisitions.",
+      "description": "Roper Technologies is a constituent of the Nasdaq 100, S&P 500, and Fortune 500. Roper has a proven, long-term track record of compounding cash flow and shareholder value. The Company operates market leading businesses that design and develop vertical software and technology enabled products for a variety of defensible niche markets. Roper utilizes a disciplined, analytical, and process-driven approach to redeploy its excess capital toward high-quality acquisitions.",
       "dividendHistory": [
         {
           "year": "2000",
@@ -51257,7 +51257,7 @@
       "paymentDate": "06/03/2026",
       "growthRate": "34%",
       "growthSource": "Analyst Forecast",
-      "description": "Marex Group Limited (NASDAQ: MRX ) provides market access, infrastructure services and essential liquidity to clients across global commodity and financial markets. The Group provides comprehensive breadth and depth of coverage across four services: Clearing, Agency and Execution, Market Making and Hedging and Investment Solutions. It has a leading franchise in many major metals, energy and agricultural products, with access to more than 60 exchanges. Marex has over 3,400 active clients, including some of the largest commodity producers, consumers and traders, banks, hedge funds and asset managers. With more than 50 offices worldwide, the Group has over 3000 employees across Europe, Asia and the Americas. For more information visit www. marex. com.",
+      "description": "Marex Group plc (NASDAQ: MRX ) provides market access, infrastructure services and essential liquidity to clients across global commodity and financial markets. The Group provides comprehensive breadth and depth of coverage across four services: Clearing, Agency and Execution, Market Making and Hedging and Investment Solutions. It has a leading franchise in many major metals, energy and agricultural products, with access to more than 60 exchanges. Marex has over 3,400 active clients, including some of the largest commodity producers, consumers and traders, banks, hedge funds and asset managers. With more than 50 offices worldwide, the Group has over 3000 employees across Europe, Asia and the Americas.",
       "dividendHistory": [
         {
           "year": "2024",
@@ -52799,7 +52799,7 @@
       "paymentDate": "06/30/2026",
       "growthRate": "16.16%",
       "growthSource": "Analyst Forecast",
-      "description": "Marriott International, Inc. ( Nasdaq : MAR) is based in Bethesda, Maryland, USA, and encompasses a portfolio of compelling brands across luxury, premium, select, midscale, extended stay, and all-inclusive, with approximately 10,000 properties in 146 countries and territories, as of June 11, 2026. Marriott franchises, operates, and licenses hotel, residential, timeshare, yacht, outdoor, and other lodging products all around the world. The company offers Marriott Bonvoy®, its highly awarded travel platform. For more information, please visit our website at www. marriott. com, and for the latest company news, visit www. marriottnewscenter. com. In addition, connect with us on Facebook and @MarriottIntl on X and Instagram.",
+      "description": "Marriott International, Inc. (Nasdaq: MAR) is based in Bethesda, Maryland, USA, and encompasses a portfolio of compelling brands across luxury, premium, select, midscale, extended stay, and all-inclusive, with 10,000 properties in 146 countries and territories, as of June 11, 2026. Marriott franchises, operates, and licenses hotel, residential, timeshare, yacht, outdoor, and other lodging products all around the world. The company offers Marriott Bonvoy ®, its highly awarded travel platform.",
       "dividendHistory": [
         {
           "year": "2000",
@@ -53129,7 +53129,7 @@
       "annualDividend": "$0.8",
       "exDividendDate": "06/01/2026",
       "paymentDate": "06/15/2026",
-      "growthRate": "12.27%",
+      "growthRate": "11.24%",
       "growthSource": "Analyst Forecast",
       "description": "Texas Capital Bancshares, Inc. (NASDAQ®: TCBI), a member of the Russell 2000® Index and the S&P MidCap 400®, is the parent company of Texas Capital Bank ('TCB'). Texas Capital is the collective brand name for TCB and its separate, non-bank affiliates and wholly owned subsidiaries. Texas Capital is a full-service financial services firm that delivers customized solutions to businesses, entrepreneurs and individual customers. Founded in 1998, Texas Capital is headquartered in Dallas with offices and financial centers in Austin, Houston, San Antonio and Fort Worth and has built a network of clients across the country. With the ability to service clients through their entire lifecycles, Texas Capital has established commercial banking, consumer banking, investment banking and wealth management capabilities. Deposit and lending products and services are offered by TCB. For deposit products, Member FDIC. For more information, please visit texascapital.com .",
       "dividendHistory": [
@@ -55011,7 +55011,7 @@
       "paymentDate": "06/15/2026",
       "growthRate": "-18.09%",
       "growthSource": "Analyst Forecast",
-      "description": "Adeia (NASDAQ: ADEA) is the technology company known for developing foundational innovations that enable next-generation solutions for the semiconductor and media industries. We invent and license foundational technologies that shape the future of digital entertainment, electronics, and high-performance computing. Our portfolio transforms technologies into an experience that is intelligent, immersive, and personal. For more, please visit www.adeia.com.",
+      "description": "Adeia (Nasdaq: ADEA) is the technology company known for developing foundational innovations that enable next-generation solutions for the semiconductor and media industries. We invent and license foundational technologies that shape the future of digital entertainment, electronics, and high-performance computing. Our portfolio transforms technologies into an experience that is intelligent, immersive, and personal. For more, please visit www.adeia.com.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -55529,7 +55529,7 @@
       "paymentDate": "06/15/2026",
       "growthRate": "15.7%",
       "growthSource": "Analyst Forecast",
-      "description": "Tradeweb Markets Inc. (Nasdaq: TW) is a leading, global operator of electronic marketplaces for rates, credit, equities and money markets. Founded in 1996, Tradeweb provides access to markets, data and analytics, electronic trading, straight-through-processing and reporting for more than 50 products to clients in the institutional, wholesale, retail and corporates markets. Advanced technologies developed by Tradeweb enhance price discovery, order execution and trade workflows while allowing for greater scale and helping to reduce risks in client trading operations. Tradeweb serves more than 3,000 clients in more than 85 countries. On average, Tradeweb facilitated more than $2.8 trillion in notional value traded per day over the past four fiscal quarters.",
+      "description": "Tradeweb Markets Inc. (Nasdaq: TW) is a leading, global operator of electronic marketplaces for rates, credit, equities and money markets. Founded in 1996, Tradeweb provides access to markets, data and analytics, electronic trading, straight-through-processing and reporting for more than 50 products to clients in the institutional, wholesale, retail and corporates markets. Advanced technologies developed by Tradeweb enhance price discovery, order execution and trade workflows while allowing for greater scale and helping to reduce risks in client trading operations. Tradeweb serves more than 3,000 clients in more than 85 countries. On average, Tradeweb facilitated more than $2.8 trillion in notional value traded per day over the past four fiscal quarters. For more information, please go to www.tradeweb.com.",
       "dividendHistory": [
         {
           "year": "2019",
@@ -57249,7 +57249,7 @@
       "paymentDate": "07/03/2026",
       "growthRate": "6.41%",
       "growthSource": "Analyst Forecast",
-      "description": "QCR Holdings, Inc., headquartered in Moline, Illinois, is a relationship-driven, multi-bank holding company serving the Quad Cities, Cedar Rapids, Cedar Valley, Des Moines / Ankeny and Springfield communities through its wholly owned subsidiary banks. The banks provide full-service commercial and consumer banking and trust and wealth management services. Quad City Bank and Trust Company, based in Bettendorf, Iowa, commenced operations in 1994, Cedar Rapids Bank and Trust Company, based in Cedar Rapids, Iowa, commenced operations in 2001, Community State Bank, based in Ankeny, Iowa, was acquired by the Company in 2016, and Guaranty Bank, based in Springfield, Missouri, was acquired by the Company in 2018. Additionally, the Company serves the Waterloo/Cedar Falls, Iowa community through Community Bank & Trust, a division of Cedar Rapids Bank and Trust Company. The Company has 36 locations in Iowa, Missouri, and Illinois. As of March 31, 2026, the Company had $9.6 billion in assets, $7.",
+      "description": "QCR Holdings, Inc., headquartered in Moline, Illinois, is a relationship-driven, multi-bank holding company serving the Quad Cities, Cedar Rapids, Cedar Valley, Des Moines/Ankeny and Springfield communities through its wholly owned subsidiary banks. The banks provide full-service commercial and consumer banking and trust and wealth management services. Quad City Bank & Trust Company, based in Bettendorf, Iowa, commenced operations in 1994, Cedar Rapids Bank & Trust Company, based in Cedar Rapids, Iowa, commenced operations in 2001, Community State Bank, based in Ankeny, Iowa, was acquired by the Company in 2016, and Guaranty Bank, based in Springfield, Missouri, was acquired by the Company in 2018. Additionally, the Company serves the Waterloo/Cedar Falls, Iowa community through Community Bank & Trust, a division of Cedar Rapids Bank & Trust Company. The Company has 35 locations in Iowa, Missouri, and Illinois. As of March 31, 2026, the Company had $9.6 billion in assets, $7.",
       "dividendHistory": [
         {
           "year": "2002",
@@ -58349,7 +58349,7 @@
       "annualDividend": "$2.96",
       "exDividendDate": "06/24/2026",
       "paymentDate": "07/07/2026",
-      "growthRate": "96.4%",
+      "growthRate": "94.74%",
       "growthSource": "Analyst Forecast",
       "description": "Seagate (NASDAQ: STX) is a pioneer in mass-capacity data storage, accelerating ability to harness the full value of data. Our portfolio of advanced storage solutions helps hyperscale cloud providers, enterprises, and consumers protect, create and manage the data that powers their transformation and growth. For more than 45 years, Seagate has driven breakthrough innovations that bring sustainable, high-performance storage to the world at-scale.",
       "dividendHistory": [
@@ -59243,7 +59243,7 @@
       "paymentDate": "07/01/2026",
       "growthRate": "10.86%",
       "growthSource": "Analyst Forecast",
-      "description": "Pathward Financial, Inc. (Nasdaq: CASH) is a U.S. -based financial holding company driven by its purpose to power financial inclusion. Through our subsidiary, Pathward®, N.A., we strive to increase financial availability, choice, and opportunity across our Partner Solutions and Commercial Finance business lines. These strategic business lines provide support to individuals and businesses.",
+      "description": "Pathward Financial, Inc. (Nasdaq: CASH) is a U.S. -based financial holding company driven by its purpose to power financial inclusion. Through our subsidiary, Pathward®, N.A., we strive to increase financial availability, choice and opportunity across our Partner Solutions and Commercial Finance business lines. These strategic business lines provide support to individuals and businesses.",
       "dividendHistory": [
         {
           "year": "1994",
