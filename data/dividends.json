@@ -1,15 +1,15 @@
 {
   "success": true,
-  "lastUpdated": "2026-08-01T23:10:35.025Z",
-  "count": 797,
+  "lastUpdated": "2026-08-02T23:10:59.863Z",
+  "count": 798,
   "totalScanned": 7131,
   "stats": {
-    "totalDividendStocks": 797,
-    "withGrowthData": 763,
+    "totalDividendStocks": 798,
+    "withGrowthData": 764,
     "withoutGrowthData": 34,
-    "withDividendHistory": 797,
+    "withDividendHistory": 798,
     "avgDividendYears": "13.2",
-    "durationMinutes": "12.60"
+    "durationMinutes": "11.87"
   },
   "sectors": [
     {
@@ -26,7 +26,7 @@
     },
     {
       "name": "Industrials",
-      "count": 67
+      "count": 68
     },
     {
       "name": "Real Estate",
@@ -407,6 +407,10 @@
       "count": 2
     },
     {
+      "name": "Steel/Iron Ore",
+      "count": 2
+    },
+    {
       "name": "Newspapers/Magazines",
       "count": 2
     },
@@ -496,10 +500,6 @@
     },
     {
       "name": "Specialty Chemicals",
-      "count": 1
-    },
-    {
-      "name": "Steel/Iron Ore",
       "count": 1
     },
     {
@@ -52412,6 +52412,88 @@
       "dividendGrowth": {
         "rate": "1.9%",
         "years": 37
+      }
+    },
+    {
+      "symbol": "STLD",
+      "name": "Steel Dynamics, Inc.",
+      "price": "$251.26",
+      "marketCap": "36,012,615,391",
+      "sector": "Industrials",
+      "industry": "Steel/Iron Ore",
+      "dividendYield": "0.84%",
+      "annualDividend": "$2.12",
+      "exDividendDate": "06/30/2026",
+      "paymentDate": "07/10/2026",
+      "growthRate": "114.74%",
+      "growthSource": "Analyst Forecast",
+      "description": "Steel Dynamics is a leading industrial metals solutions company, with facilities located throughout the United States, and in Mexico. The company operates using a circular manufacturing model, producing lower-carbon-emission, quality products with recycled scrap as the primary input. Steel Dynamics is one of the largest domestic steel producers and metal recyclers in North America, combined with a meaningful downstream steel fabrication platform. The company has also recently added aluminum operations, further diversifying its product offerings to supply aluminum flat rolled products with higher recycled content to the countercyclical sustainable beverage can industry, in addition to the automotive and industrial sectors. Steel Dynamics is committed to operating with the highest integrity and to being the safest, most efficient producer of high-quality, broadly diversified, value-added metal products.",
+      "dividendHistory": [
+        {
+          "year": "2012",
+          "amount": "$0.10"
+        },
+        {
+          "year": "2013",
+          "amount": "$0.33"
+        },
+        {
+          "year": "2014",
+          "amount": "$0.46"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.55"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.56"
+        },
+        {
+          "year": "2017",
+          "amount": "$0.62"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.75"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.96"
+        },
+        {
+          "year": "2020",
+          "amount": "$1.00"
+        },
+        {
+          "year": "2021",
+          "amount": "$1.04"
+        },
+        {
+          "year": "2022",
+          "amount": "$1.36"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.70"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.84"
+        },
+        {
+          "year": "2025",
+          "amount": "$2.00"
+        },
+        {
+          "year": "2026",
+          "amount": "$1.06"
+        }
+      ],
+      "dividendYears": 15,
+      "dividendGrowth": {
+        "rate": "18.4%",
+        "years": 14
       }
     },
     {
