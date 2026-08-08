@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": "2026-08-07T22:56:12.162Z",
+  "lastUpdated": "2026-08-08T22:47:43.507Z",
   "count": 796,
   "totalScanned": 7127,
   "stats": {
@@ -9,7 +9,7 @@
     "withoutGrowthData": 35,
     "withDividendHistory": 796,
     "avgDividendYears": "13.3",
-    "durationMinutes": "15.25"
+    "durationMinutes": "13.76"
   },
   "sectors": [
     {
@@ -1077,7 +1077,7 @@
       "paymentDate": "06/02/2026",
       "growthRate": "-21.55%",
       "growthSource": "Analyst Forecast",
-      "description": "Runway Growth is a specialty finance company focused on providing flexible capital solutions to late- and growth-stage companies seeking an alternative to raising equity. Runway Growth is a closed-end investment fund that has elected to be regulated as a business development company under the Investment Company Act of 1940, as amended. Runway Growth is externally managed by Runway Growth Capital LLC, an affiliate of BC Partners Advisors L.P., and led by industry veteran David Spreng.",
+      "description": "Runway Growth is a specialty finance company focused on providing flexible capital solutions to late- and growth-stage companies seeking an alternative to raising equity. Runway Growth is a closed-end investment fund that has elected to be regulated as a business development company under the Investment Company Act of 1940, as amended. Runway Growth is externally managed by Runway Growth Capital LLC, an affiliate of BC Partners Advisors L.P. and led by industry veteran David Spreng.",
       "dividendHistory": [
         {
           "year": "2021",
@@ -15243,7 +15243,7 @@
       "paymentDate": "06/15/2026",
       "growthRate": "-2.83%",
       "growthSource": "Analyst Forecast",
-      "description": "Columbia Banking System, Inc. (Nasdaq: COLB) is headquartered in Tacoma, Washington and is the parent company of Columbia Bank, an award-winning preeminent regional bank with offices in Arizona, California, Colorado, Idaho, Nevada, Oregon, Texas, Utah, and Washington. Columbia Bank combines the resources, sophistication, and expertise of a national bank with a commitment to deliver superior, personalized service. The bank supports consumers and businesses through a full suite of services, including retail and commercial banking, Small Business Administration lending, institutional and corporate banking, and equipment leasing. Columbia Bank customers also have access to comprehensive investment and wealth management expertise as well as healthcare and private banking through Columbia Wealth Management.",
+      "description": "Columbia Bank is an award-winning preeminent regional bank with offices in Arizona, California, Colorado, Idaho, Nevada, Oregon, Texas, Utah, and Washington. It combines the resources, sophistication, and expertise of a national bank with a commitment to deliver superior, personalized service. The bank supports consumers and businesses through a full suite of services, including retail and commercial banking, Small Business Administration lending, institutional and corporate banking, and equipment leasing. Columbia Bank customers also have access to comprehensive investment and wealth management expertise as well as healthcare and private banking through Columbia Wealth Management. Columbia Bank is the principal subsidiary of Columbia Banking System, Inc. (Nasdaq: COLB). Learn more at columbiabank.com and columbiabankingsystem.com.",
       "dividendHistory": [
         {
           "year": "2003",
@@ -27187,7 +27187,7 @@
       "paymentDate": "07/15/2026",
       "growthRate": "-48.7%",
       "growthSource": "Analyst Forecast",
-      "description": "Millicom (NASDAQ: TIGO) is a leading provider of fixed and mobile telecommunications services in Latin America. Through its TIGO® and Tigo Business® brands, the company provides a wide range of digital services and products, including TIGO Money for mobile financial services, TIGO Sports for local entertainment, TIGO ONEtv for pay TV, high-speed data, voice, and business-to-business solutions such as cloud and security. As of March 31, 2026, Millicom, including its Honduras Joint Venture and Chile associate, employed over 20,000 people and provided mobile and fiber-cable services through its digital highways to more than 69 million customers, with a fiber-cable footprint over 22 million homes passed. Founded in 1990, Millicom International Cellular S.A. is headquartered in Luxembourg with principal executive offices in Doral, Florida.",
+      "description": "Millicom (NASDAQ: TIGO) is a leading provider of fixed and mobile telecommunications services in Latin America. Through its TIGO® and Tigo Business® brands, the company provides a wide range of digital services and products, including TIGO Money for mobile financial services, TIGO Sports for local entertainment, TIGO ONEtv for pay TV, high-speed data, voice, and business-to-business solutions such as cloud and security. As of June 30, 2026, Millicom, including its Honduras Joint Venture and Chile associate, employed over 20,000 people and provided mobile and fiber-cable services through its digital highways to more than 69 million customers, with a fiber-cable footprint over 22 million homes passed. Founded in 1990, Millicom International Cellular S.A. is headquartered in Luxembourg with principal executive offices in Doral, Florida.",
       "dividendHistory": [
         {
           "year": "2019",
@@ -28605,7 +28605,7 @@
       "paymentDate": "06/17/2026",
       "growthRate": "-11.07%",
       "growthSource": "Analyst Forecast",
-      "description": "SBA Communications Corporation is a leading independent owner and operator of wireless communications infrastructure including towers, buildings, rooftops, distributed antenna systems (DAS) and small cells. With a portfolio of more than 46,000 communications sites throughout the Americas and in Africa, SBA is listed on NASDAQ under the symbol SBAC. Our organization is part of the S&P 500 and one of the top Real Estate Investment Trusts (REITs) by market capitalization.",
+      "description": "SBA Communications Corporation is a leading independent owner and operator of wireless communications infrastructure including towers, buildings, rooftops, distributed antenna systems (DAS) and small cells. With a portfolio of more than 46,000 communications sites throughout the Americas and in Africa, SBA is listed on NASDAQ under the symbol SBAC. Our organization is part of the S&P 500 and one of the top Real Estate Investment Trusts (REITs) by market capitalization. For more information, please visit: www.sbasite.com.",
       "dividendHistory": [
         {
           "year": "2019",
@@ -41735,7 +41735,7 @@
       "paymentDate": "07/01/2026",
       "growthRate": "28.63%",
       "growthSource": "Analyst Forecast",
-      "description": "Northern Trust Corporation (Nasdaq: NTRS) is a leading provider of wealth management, asset servicing, asset management and banking services to corporations, institutions, affluent families and individuals. Founded in Chicago in 1889, Northern Trust has a global presence with offices in 24 U.S. states and Washington, D.C., and across 22 locations in Canada, Europe, the Middle East and the Asia-Pacific region. As of June 30, 2026, Northern Trust had assets under custody/administration of US$20 trillion, and assets under management of US$2 trillion. For more than 135 years, Northern Trust has earned distinction as an industry leader for exceptional service, financial expertise, integrity and innovation.",
+      "description": "Northern Trust Corporation (Nasdaq: NTRS) is a leading provider of wealth management, asset servicing, asset management and banking to corporations, institutions, affluent families and individuals. Founded in Chicago in 1889, Northern Trust has a global presence with offices in 24 U.S. states and Washington, D.C., and across 22 locations in Canada, Europe, the Middle East and the Asia-Pacific region. As of June 30, 2025, Northern Trust had assets under custody/administration of US$18.1 trillion, and assets under management of US$1.7 trillion. For more than 135 years, Northern Trust has earned distinction as an industry leader for exceptional service, financial expertise, integrity and innovation.",
       "dividendHistory": [
         {
           "year": "1988",
@@ -43379,7 +43379,7 @@
       "paymentDate": "05/29/2026",
       "growthRate": "21.3%",
       "growthSource": "Analyst Forecast",
-      "description": "Newmark Group, Inc. (Nasdaq: NMRK), together with its subsidiaries ('Newmark'), is a world leader in commercial real estate, seamlessly powering every phase of the property life cycle. Newmark's comprehensive suite of services and products is uniquely tailored to each client, from owners to occupiers, investors to founders, and startups to blue-chip companies. Combining the platform's global reach with market intelligence in both established and emerging property markets, Newmark provides superior service to clients across the industry spectrum. For the twelve months ended June 30, 2026, Newmark generated revenues of more than $3.6 billion. As of June 30, 2026, Newmark and its business partners together operated from approximately 200 offices with more than 10,000 professionals across four continents.",
+      "description": "Newmark Group, Inc. (Nasdaq: NMRK), together with its subsidiaries ('Newmark'), is a world leading commercial real estate advisor and service provider to large institutional investors and other owners, global corporations and other occupiers, and lenders. Built with purpose and driven by excellence, Newmark's comprehensive platform is uniquely tailored to provide superior outcomes to clients. For the twelve months ended June 30, 2026, Newmark generated revenues of more than $3.6 billion. As of June 30, 2026, Newmark and its business partners together operated from over 195 offices with more than 10,000 professionals across four continents.",
       "dividendHistory": [
         {
           "year": "2018",
@@ -44339,7 +44339,7 @@
       "paymentDate": "07/17/2026",
       "growthRate": "18.3%",
       "growthSource": "Analyst Forecast",
-      "description": "Intuit is the global financial technology platform that powers prosperity for the people and communities we serve. With approximately 100 million customers worldwide using products such as TurboTax, Credit Karma, QuickBooks, Mailchimp, and Intuit Enterprise Suite, we believe that everyone should have the opportunity to prosper. We never stop working to find new, innovative ways to make that possible.",
+      "description": "Intuit is the global financial technology platform that powers prosperity for the people and communities we serve. With approximately 100 million customers worldwide using products such as TurboTax, Credit Karma, QuickBooks, and Mailchimp, and Intuit Enterprise Suite, we believe that everyone should have the opportunity to prosper. We never stop working to find new, innovative ways to make that possible.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -45233,7 +45233,7 @@
       "paymentDate": "06/30/2026",
       "growthRate": "5.79%",
       "growthSource": "Analyst Forecast",
-      "description": "Texas Roadhouse is a growing restaurant company operating predominantly in the casual dining segment that first opened in 1993 and today has grown to over 830 restaurants system-wide in 49 states, one U.S. territory, and ten foreign countries.",
+      "description": "Texas Roadhouse, Inc. is a growing restaurant company operating predominantly in the casual dining segment that first opened in 1993 and today has grown to over 830 restaurants system-wide in 49 states, one U.S. territory, and ten foreign countries.",
       "dividendHistory": [
         {
           "year": "2013",
