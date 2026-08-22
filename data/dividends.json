@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": "2026-08-21T22:39:22.394Z",
+  "lastUpdated": "2026-08-22T22:42:23.550Z",
   "count": 803,
   "totalScanned": 7183,
   "stats": {
@@ -9,7 +9,7 @@
     "withoutGrowthData": 34,
     "withDividendHistory": 803,
     "avgDividendYears": "13.2",
-    "durationMinutes": "10.19"
+    "durationMinutes": "15.90"
   },
   "sectors": [
     {
@@ -1199,7 +1199,7 @@
       "annualDividend": "$0.42",
       "exDividendDate": "07/29/2026",
       "paymentDate": "08/20/2026",
-      "growthRate": "-1.0%",
+      "growthRate": "-7.8%",
       "growthSource": "4yr Revenue CAGR",
       "description": "Prospect is a business development company that primarily lends to and invests in middle market privately-held companies. Prospect's investment objective is to generate both current income and long-term capital appreciation.",
       "dividendHistory": [
