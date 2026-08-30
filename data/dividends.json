@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": "2026-08-29T03:49:33.832Z",
+  "lastUpdated": "2026-08-30T00:10:51.653Z",
   "count": 803,
   "totalScanned": 7132,
   "stats": {
@@ -9,7 +9,7 @@
     "withoutGrowthData": 36,
     "withDividendHistory": 803,
     "avgDividendYears": "13.2",
-    "durationMinutes": "14.68"
+    "durationMinutes": "12.35"
   },
   "sectors": [
     {
@@ -32493,7 +32493,7 @@
       "paymentDate": "09/08/2026",
       "growthRate": "20.59%",
       "growthSource": "Analyst Forecast",
-      "description": "Cathay General Bancorp (Nasdaq: CATY) is the holding company for Cathay Bank. Cathay General Bancorp's website is at www.cathaygeneralbancorp.com. Founded in 1962, Cathay Bank offers a wide range of financial services and currently operates over 60 branches across the nation in California, New York, Washington, Texas, Illinois, Massachusetts, Maryland, Nevada, and New Jersey. Overseas, it has a branch in Hong Kong, and representative offices in Beijing, Shanghai, Taipei, and Ho Chi Minh City. To learn more about Cathay Bank, please visit www.cathaybank.com.",
+      "description": "Cathay Bank, a subsidiary of Cathay General Bancorp (Nasdaq: CATY), opened its doors in 1962 in Los Angeles to serve the growing immigrant community. Today, we operate over 60 branches across the U.S., with a branch in Hong Kong, and representative offices in Beijing, Shanghai, Taipei, and Ho Chi Minh City. Learn more at cathaybank.com. FDIC insurance coverage is limited to deposit accounts at Cathay Bank's U.S. domestic branch locations.",
       "dividendHistory": [
         {
           "year": "1991",
@@ -35735,7 +35735,7 @@
       "paymentDate": "06/29/2026",
       "growthRate": "-106.1%",
       "growthSource": "Analyst Forecast",
-      "description": "Gilead Sciences, Inc. is a biopharmaceutical company that has pursued and achieved breakthroughs in medicine for more than three decades, with the goal of creating a healthier world for all people. The company is committed to advancing innovative medicines to prevent and treat life-threatening diseases, including HIV, viral hepatitis, COVID-19, and cancer. Gilead operates in more than 35 countries worldwide, with headquarters in Foster City, California.",
+      "description": "Gilead Sciences, Inc. is a biopharmaceutical company that has pursued and achieved breakthroughs in medicine for more than three decades, with the goal of creating a healthier world for all people. The company is committed to advancing innovative medicines to prevent and treat life-threatening diseases, including HIV, viral hepatitis, COVID-19, cancer and inflammation. In 2025, Gilead announced a planned $32 billion investment to further strengthen its U.S. footprint to power the next era of discovery, job creation and public health preparedness - while continuing to invest globally to ensure patients everywhere benefit from its scientific innovation. Gilead operates in more than 35 countries worldwide, with headquarters in Foster City, Calif.",
       "dividendHistory": [
         {
           "year": "2015",
@@ -37659,7 +37659,7 @@
       "paymentDate": "08/25/2026",
       "growthRate": "8.11%",
       "growthSource": "Analyst Forecast",
-      "description": "Cognizant (NASDAQ: CTSH) is an AI builder and technology services provider, building the bridge between AI investment and enterprise value by building full-stack AI solutions for our clients. Our deep industry, process and engineering expertise enables us to build an organization's unique context into technology systems that amplify human potential, realize tangible returns and keep global enterprises ahead in a fast-changing world. See how at www.cognizant.ai or @cognizant.",
+      "description": "Cognizant (NASDAQ: CTSH) is an AI builder and technology services provider, building the bridge between AI investment and enterprise value by building full-stack AI solutions for our clients. Our deep industry, process and engineering expertise enables us to build an organization's unique context into technology systems that amplify human potential, realize tangible returns and keep global enterprises ahead in a fast-changing world. See how at www.cognizant.ai.",
       "dividendHistory": [
         {
           "year": "2017",
