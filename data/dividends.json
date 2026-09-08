@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": "2026-09-06T23:51:42.518Z",
+  "lastUpdated": "2026-09-08T00:16:49.716Z",
   "count": 804,
   "totalScanned": 7133,
   "stats": {
@@ -9,7 +9,7 @@
     "withoutGrowthData": 36,
     "withDividendHistory": 804,
     "avgDividendYears": "13.2",
-    "durationMinutes": "12.83"
+    "durationMinutes": "11.71"
   },
   "sectors": [
     {
@@ -10311,7 +10311,7 @@
       "annualDividend": "$1.56",
       "exDividendDate": "07/02/2026",
       "paymentDate": "08/03/2026",
-      "growthRate": "-19.82%",
+      "growthRate": "-21%",
       "growthSource": "Analyst Forecast",
       "description": "For more than 155 years, The Campbell's Company (NASDAQ:CPB) has been connecting people through food they love. Headquartered in Camden, N.J. since 1869, generations of consumers have trusted Campbell's to provide delicious and affordable food and beverages. Today, the company is a North American focused brand powerhouse, generating fiscal 2026 net sales of $9.7 billion across two divisions: Meals & Beverages and Snacks. For more information, visit www.thecampbellscompany.com.",
       "dividendHistory": [
@@ -11467,7 +11467,7 @@
       "annualDividend": "$1.67",
       "exDividendDate": "07/31/2026",
       "paymentDate": "08/14/2026",
-      "growthRate": "15.15%",
+      "growthRate": "11.04%",
       "growthSource": "Analyst Forecast",
       "description": "PAA is a publicly traded master limited partnership that owns and operates midstream energy infrastructure and provides logistics services primarily for crude oil. PAA owns an extensive network of pipeline gathering and transportation systems, in addition to terminalling, storage, processing, fractionation and other infrastructure assets serving key producing basins, transportation corridors and major market hubs and export outlets in the United States and Canada.",
       "dividendHistory": [
@@ -12631,7 +12631,7 @@
       "annualDividend": "$2.68",
       "exDividendDate": "08/13/2026",
       "paymentDate": "08/20/2026",
-      "growthRate": "84.3%",
+      "growthRate": "93.26%",
       "growthSource": "Analyst Forecast",
       "description": "Viper is a corporation formed by Diamondback to own, acquire and exploit oil and natural gas properties in North America, with a focus on owning and acquiring mineral and royalty interests in oil-weighted basins, primarily the Permian Basin in West Texas.",
       "dividendHistory": [
@@ -13739,7 +13739,7 @@
       "annualDividend": "$2.422477",
       "exDividendDate": "05/04/2026",
       "paymentDate": "06/03/2026",
-      "growthRate": "13.81%",
+      "growthRate": "14.41%",
       "growthSource": "Analyst Forecast",
       "description": "Sanofi is an R&D driven, AI-powered biopharma company committed to improving people's lives and delivering compelling growth. We apply our deep understanding of the immune system to invent medicines and vaccines that treat and protect millions of people around the world, with an innovative pipeline that could benefit millions more. Our team is guided by one purpose: we chase the miracles of science to improve people's lives; this inspires us to drive progress and deliver positive impact for our people and the communities we serve, by addressing the most urgent healthcare, environmental, and societal challenges of our time.",
       "dividendHistory": [
@@ -17203,12 +17203,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.26"
+          "amount": "$0.39"
         }
       ],
       "dividendYears": 7,
       "dividendGrowth": {
-        "rate": "17.3%",
+        "rate": "25.5%",
         "years": 6
       }
     },
@@ -18317,12 +18317,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.13"
+          "amount": "$0.19"
         }
       ],
       "dividendYears": 5,
       "dividendGrowth": {
-        "rate": "-15.1%",
+        "rate": "-6.6%",
         "years": 4
       }
     },
@@ -19487,7 +19487,7 @@
       "annualDividend": "$1.68",
       "exDividendDate": "09/04/2026",
       "paymentDate": "09/15/2026",
-      "growthRate": "3.41%",
+      "growthRate": "3.34%",
       "growthSource": "Analyst Forecast",
       "description": "Exelon (Nasdaq: EXC) is a Fortune 200 company and one of the nation's largest utility companies, serving almost 11 million customers through six fully regulated transmission and distribution utilities - Atlantic City Electric, BGE, ComEd, Delmarva Power, PECO, and Pepco. Exelon's more than 20,000 employees dedicate their time and expertise to supporting our communities through reliable, affordable and efficient energy delivery, workforce development, economic development and volunteerism.",
       "dividendHistory": [
@@ -21055,7 +21055,7 @@
       "annualDividend": "$1.08",
       "exDividendDate": "08/10/2026",
       "paymentDate": "08/26/2026",
-      "growthRate": "-5.39%",
+      "growthRate": "-5.91%",
       "growthSource": "Analyst Forecast",
       "description": "SiriXM is the leading audio entertainment company in North America, with a portfolio of audio businesses including its flagship subscription entertainment service SiriusXM; the ad-supported and premium music streaming services of Pandora; an expansive podcast network; and a complete ecosystem of advertising solutions through SiriusXM Media and AdsWizz. SiriusXM offers live, on-demand, and human-curated programming across music, talk, news, sports, and podcasts, and the company reaches approximately 255 million monthly listeners across its platforms. With deep automotive manufacturer relationships and unique spectrum assets, SiriusXM is built to reach listeners wherever they are. The company connects fans to the voices, creators, and moments they love - creating communities where listeners engage, participate, and belong.",
       "dividendHistory": [
@@ -21195,12 +21195,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.23"
+          "amount": "$0.35"
         }
       ],
       "dividendYears": 18,
       "dividendGrowth": {
-        "rate": "3.7%",
+        "rate": "5.4%",
         "years": 26
       }
     },
@@ -22337,7 +22337,7 @@
       "annualDividend": "$5.2",
       "exDividendDate": "08/20/2026",
       "paymentDate": "09/04/2026",
-      "growthRate": "95.24%",
+      "growthRate": "102.83%",
       "growthSource": "Analyst Forecast",
       "description": "Chord Energy Corporation is an independent exploration and production company with quality and sustainable long-lived assets primarily in the Williston Basin. The Company is uniquely positioned with a best-in-class balance sheet and is focused on rigorous capital discipline and generating free cash flow by operating efficiently, safely and responsibly to develop its unconventional onshore oil-rich resources in the continental United States.",
       "dividendHistory": [
@@ -29469,7 +29469,7 @@
       "annualDividend": "$0.6",
       "exDividendDate": "06/05/2026",
       "paymentDate": "06/22/2026",
-      "growthRate": "20.6%",
+      "growthRate": "19.62%",
       "growthSource": "Analyst Forecast",
       "description": "Eastern Bankshares, Inc. is the holding company for Eastern Bank. Founded in 1818, Eastern Bank is Greater Boston's leading local bank with more than 125 branch locations serving communities in eastern Massachusetts, southern and coastal New Hampshire, and Rhode Island. As of June 30, 2026, Eastern had approximately $31.1 billion in assets. Eastern provides a full range of banking and wealth management solutions for consumers and businesses of all sizes including through its Cambridge Trust Wealth Management and Private Banking Divisions, which include the largest bank-owned independent investment adviser in Massachusetts with $10.6 billion in assets under management. Eastern takes pride in its advocacy and community support that includes more than $240 million in charitable giving since 1994. An inclusive company, Eastern is comprised of deeply committed professionals who value relationships with their customers, colleagues and communities.",
       "dividendHistory": [
@@ -29515,7 +29515,7 @@
       "annualDividend": "$0.8",
       "exDividendDate": "08/20/2026",
       "paymentDate": "09/01/2026",
-      "growthRate": "109.42%",
+      "growthRate": "110.87%",
       "growthSource": "Analyst Forecast",
       "description": "With a legacy extending back over 200 years, Warner Music Group today is home to an unparalleled family of creative artists, songwriters, and companies that are moving culture across the globe. At the core of WMG's Recorded Music division are four of the most iconic companies in history: Atlantic, Elektra, Parlophone and Warner Records. They are joined by renowned labels such as TenThousand Projects, 300 Entertainment, Asylum, Big Beat, Canvasback, East West, Erato, FFRR, Fueled by Ramen, Nonesuch, Reprise, Rhino, Roadrunner, Sire, Spinnin' Records, Warner Classics and Warner Records Nashville. Warner Chappell Music - which traces its origins back to the founding of Chappell & Company in 1811 - is one of the world's leading music publishers, with a catalog of more than one million copyrights spanning every musical genre from the standards of the Great American Songbook to the biggest hits of the 21st century.",
       "dividendHistory": [
@@ -34123,7 +34123,7 @@
       "annualDividend": "$2.4",
       "exDividendDate": "06/18/2026",
       "paymentDate": "07/07/2026",
-      "growthRate": "17.71%",
+      "growthRate": "22.8%",
       "growthSource": "Analyst Forecast",
       "description": "Hamilton Lane (Nasdaq: HLNE) is one of the largest private markets investment firms globally, providing innovative solutions to institutional and private wealth investors around the world. Dedicated exclusively to private markets investing for more than 30 years, the firm currently employs approximately 800 professionals operating in offices throughout North America, Europe, Asia Pacific and the Middle East. Hamilton Lane has $1.1 trillion in assets under management and supervision, composed of $146.3 billion in discretionary assets and $914.1 billion in non-discretionary assets, as of June 30, 2026. Hamilton Lane specializes in building flexible investment programs that provide clients access to the full spectrum of private markets strategies, sectors and geographies.",
       "dividendHistory": [
@@ -34945,7 +34945,7 @@
       "annualDividend": "$5.68",
       "exDividendDate": "07/31/2026",
       "paymentDate": "08/11/2026",
-      "growthRate": "54.42%",
+      "growthRate": "55.06%",
       "growthSource": "Analyst Forecast",
       "description": "Texas Instruments Incorporated (Nasdaq: TXN) is a global semiconductor company that designs, manufactures and sells analog and embedded processing chips for markets such as industrial, automotive, data center, personal electronics and communications equipment. At our core, we have a passion to create a better world by making electronics more affordable through semiconductors. This passion is alive today as each generation of innovation builds upon the last to make our technology more reliable, more affordable and lower power, making it possible for semiconductors to go into electronics everywhere.",
       "dividendHistory": [
@@ -36873,7 +36873,7 @@
       "annualDividend": "$1.04",
       "exDividendDate": "07/28/2026",
       "paymentDate": "08/25/2026",
-      "growthRate": "15.37%",
+      "growthRate": "15.48%",
       "growthSource": "Analyst Forecast",
       "description": "Organizations around the world rely on Fastenal to help them simplify and secure the supply chain for a broad range of industrial products. To understand our customers' challenges and provide services and solutions that fit their unique needs, we've built out the most extensive presence in our industry, with a vast network of local teams and embedded technology. At the heart of it all is a simple commitment: great people, close to the customer, backed by world-class logistics, technology, and resources.",
       "dividendHistory": [
@@ -42963,12 +42963,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.05"
+          "amount": "$0.08"
         }
       ],
       "dividendYears": 9,
       "dividendGrowth": {
-        "rate": "0.8%",
+        "rate": "2.6%",
         "years": 27
       }
     },
@@ -45147,7 +45147,7 @@
       "annualDividend": "$2.44",
       "exDividendDate": "09/04/2026",
       "paymentDate": "09/23/2026",
-      "growthRate": "6.19%",
+      "growthRate": "5.52%",
       "growthSource": "Analyst Forecast",
       "description": "Jack Henry (Nasdaq: JKHY) is a well-rounded financial technology company that strengthens connections between financial institutions and the people and businesses they serve. We are an S&P 500 company that prioritizes openness, collaboration, and user centricity - offering banks and credit unions a vibrant ecosystem of internally developed modern capabilities as well as the ability to integrate with leading fintechs. For 50 years, Jack Henry has provided technology solutions to enable clients to innovate faster, strategically differentiate, and successfully compete while serving the evolving needs of their accountholders. We empower more than 7,200 clients with people-inspired innovation, personal service, and insight-driven solutions that help reduce the barriers to financial health.",
       "dividendHistory": [
@@ -46187,7 +46187,7 @@
       "annualDividend": "$0.6",
       "exDividendDate": "06/18/2026",
       "paymentDate": "07/16/2026",
-      "growthRate": "9.51%",
+      "growthRate": "8.45%",
       "growthSource": "Analyst Forecast",
       "description": "Academy is a leading full-line sporting goods and outdoor recreation retailer in the United States. Originally founded in 1938 as a family business in Texas, Academy has grown to more than 300 stores across 21 states and counting. Academy's mission is to provide 'Fun for All' and Academy fulfills this mission with a localized merchandising strategy and value proposition that strongly connects with a broad range of consumers. Academy's product assortment focuses on key categories of outdoor, apparel, sports & recreation and footwear through both leading national brands and a portfolio of private label brands.",
       "dividendHistory": [
@@ -46209,12 +46209,12 @@
         },
         {
           "year": "2026",
-          "amount": "$0.30"
+          "amount": "$0.45"
         }
       ],
       "dividendYears": 5,
       "dividendGrowth": {
-        "rate": "0.0%",
+        "rate": "10.7%",
         "years": 4
       }
     },
@@ -47371,7 +47371,7 @@
       "annualDividend": "$0.48",
       "exDividendDate": "09/02/2026",
       "paymentDate": "09/23/2026",
-      "growthRate": "8.9%",
+      "growthRate": "8.54%",
       "growthSource": "Analyst Forecast",
       "description": "Phibro Animal Health Corporation is a diversified global developer, manufacturer and supplier of a broad range of animal health and mineral nutrition products for livestock, helping veterinarians and farmers produce healthy, affordable food while using fewer natural resources.",
       "dividendHistory": [
@@ -49031,7 +49031,7 @@
       "annualDividend": "$1.4",
       "exDividendDate": "08/12/2026",
       "paymentDate": "09/02/2026",
-      "growthRate": "17.49%",
+      "growthRate": "17.89%",
       "growthSource": "Analyst Forecast",
       "description": "Paccar is a leading manufacturer of medium- and heavy-duty trucks under the premium brands Kenworth and Peterbilt, which are primarily sold in the NAFTA region and Australia, and DAF trucks, which are sold in Europe and South America. Its trucks are sold through over 2,200 independent dealers globally. Paccar Financial Services provides retail and wholesale financing for customers and dealers, respectively. The company commands approximately 28% of the Class 8 market share in North America and 16% of the heavy-duty market share in Europe.",
       "dividendHistory": [
@@ -49667,7 +49667,7 @@
       "annualDividend": "$0.705864",
       "exDividendDate": "06/30/2026",
       "paymentDate": "07/14/2026",
-      "growthRate": "-17.91%",
+      "growthRate": "16.58%",
       "growthSource": "Analyst Forecast",
       "description": "BRP Inc. is a global leader in the world of powersports products and powertrains, built on over 80 years of ingenuity, innovation, and intensive consumer focus. Through its portfolio of industry-leading and distinctive brands featuring Ski-Doo and Lynx snowmobiles, Sea-Doo watercraft and pontoons, Can-Am on- and off-road vehicles, Quintrex boats as well as Rotax engines for karts, recreational aircraft and jet boats, BRP unlocks exhilarating adventures and provides access to experiences across different playgrounds. The Company completes its product lines with a dedicated parts, accessories and apparel portfolio to fully optimize the riding experience. Headquartered in Quebec, Canada, BRP had annual sales of CA$8.4 billion from over 110 countries and employed close to 17,000 driven, resourceful people as of January 31, 2026.",
       "dividendHistory": [
@@ -53633,7 +53633,7 @@
       "annualDividend": "$1.78",
       "exDividendDate": "06/09/2026",
       "paymentDate": "06/30/2026",
-      "growthRate": "23.26%",
+      "growthRate": "23.29%",
       "growthSource": "Analyst Forecast",
       "description": "Ross Stores, Inc. is an S&P 500, Fortune 500, and Nasdaq 100 (ROST) company headquartered in Dublin, California , with fiscal 2025 revenues of $22.8 billion. Currently, the Company operates Ross Dress for Less ® ('Ross'), the largest off-price apparel and home fashion chain in the United States with 1,952 locations in 44 states, the District of Columbia , Guam , and Puerto Rico. Ross offers first-quality, in-season, brand name and designer apparel, accessories, footwear, and home fashions for the entire family at savings of 20% to 60% off department and specialty store regular prices every day. The Company also operates 376 dd's DISCOUNTS® stores in 23 states that feature a more moderately-priced assortment of first-quality, in-season apparel, accessories, footwear, and home fashions for the entire family at savings of 20% to 70% off moderate department and discount store regular prices every day. Additional information is available at www.rossstores.com.",
       "dividendHistory": [
@@ -53895,7 +53895,7 @@
       "annualDividend": "$2.6",
       "exDividendDate": "06/22/2026",
       "paymentDate": "06/30/2026",
-      "growthRate": "82.02%",
+      "growthRate": "82.12%",
       "growthSource": "Analyst Forecast",
       "description": "Broadcom Inc. (NASDAQ: AVGO) is a technology leader that designs, develops, and supplies semiconductors and infrastructure software for global organizations' complex, mission-critical needs. Broadcom combines long-term R&D investment with superb execution to deliver the best technology, at scale. Broadcom is a Delaware corporation headquartered in Palo Alto, CA. For more information, visit www.broadcom.com.",
       "dividendHistory": [
@@ -54709,7 +54709,7 @@
       "annualDividend": "$5.88",
       "exDividendDate": "07/24/2026",
       "paymentDate": "08/07/2026",
-      "growthRate": "13.53%",
+      "growthRate": "13.52%",
       "growthSource": "Analyst Forecast",
       "description": "Costco Wholesale currently operates 928 warehouses worldwide and 115 warehouses across Canada.The first Canadian Costco Wholesale location opened in Burnaby, BC in October 1985.Costco Wholesale employs over 50,000 people in Canada.Its Canadian head office is located at 415 West Hunt Club Road in Ottawa.Revenues from corporate sales for the fiscal year ending August 31, 2025 , were $269.9 billion (US) (COST - NASDAQ).",
       "dividendHistory": [
@@ -58181,7 +58181,7 @@
       "annualDividend": "$2.6",
       "exDividendDate": "07/31/2026",
       "paymentDate": "08/14/2026",
-      "growthRate": "10.16%",
+      "growthRate": "10.29%",
       "growthSource": "Analyst Forecast",
       "description": "Casey's is a Fortune 500 company (Nasdaq: CASY) operating nearly 3000 convenience stores. Founded more than 50 years ago, the company has grown to become the third-largest convenience store retailer and the fifth-largest pizza chain in the United States. Casey's provides freshly prepared foods, quality fuel and friendly service at its locations. Guests can enjoy pizza, donuts, other assorted bakery items, and a wide selection of beverages and snacks. Learn more and order online at www.caseys.com, or in the mobile app.",
       "dividendHistory": [
@@ -58315,7 +58315,7 @@
       "annualDividend": "$0.2",
       "exDividendDate": "06/22/2026",
       "paymentDate": "07/07/2026",
-      "growthRate": "15.71%",
+      "growthRate": "15.66%",
       "growthSource": "Analyst Forecast",
       "description": "Bruker is enabling scientists and engineers to make breakthrough post-genomic discoveries and develop new applications that improve the quality of human life. Bruker's high-performance scientific instruments and high-value analytical and diagnostic solutions enable scientists to explore life and materials at molecular, cellular, and microscopic levels. In close cooperation with our customers, Bruker is enabling innovation, improved productivity, and customer success in post-genomic life science molecular and cell biology research, in applied and biopharma applications, in microscopy, as well as in industrial and cleantech research, and semiconductor metrology in support of AI. Bruker offers differentiated, high-value life science and diagnostics systems and solutions in preclinical imaging, proteomics and multiomics, spatial and single-cell biology, structural and condensate biology, as well as in clinical microbiology and molecular diagnostics.",
       "dividendHistory": [
@@ -58381,7 +58381,7 @@
       "annualDividend": "$0.0704",
       "exDividendDate": "07/10/2026",
       "paymentDate": "07/31/2026",
-      "growthRate": "54.17%",
+      "growthRate": "50.6%",
       "growthSource": "Analyst Forecast",
       "description": "VersaBank is a North American bank with a difference. Federally chartered in both Canada and the US, VersaBank has a branchless, digital, business-to-business model based on its proprietary state-of-the-art technology that enables it to profitably address underserved segments of the banking industry in a significantly risk mitigated manner. Because VersaBank obtains substantially all of its deposits and undertakes the majority of its funding activities electronically through financial intermediary partners, it benefits from significant operating leverage that drives efficiency and return on common equity. In August 2024, VersaBank launched its unique Structured Receivable Program funding solution for point-of-sale finance companies, which has been highly successful in Canada for over 15 years, to the underserved multi-trillion-dollar US market. VersaBank also owns Minnesota-based DRT Cyber Inc.",
       "dividendHistory": [
@@ -58931,7 +58931,7 @@
       "annualDividend": "$0.3",
       "exDividendDate": "06/30/2026",
       "paymentDate": "07/14/2026",
-      "growthRate": "19.02%",
+      "growthRate": "20.84%",
       "growthSource": "Analyst Forecast",
       "description": "Colliers (NASDAQ, TSX: CIGI) is a global diversified professional services and investment management company operating through three industry leading businesses: Commercial Real Estate, Engineering, and Investment Management. With greater than a 30-year track record of consistent growth and strong recurring cash flows, we scale complementary, high-value businesses that provide essential services across the full asset lifecycle. Our unique partnership philosophy empowers exceptional leaders, preserves our entrepreneurial culture, and ensures meaningful inside ownership - driving strong alignment and sustained value creation for our shareholders. With $6 billion in annual revenues, 28,000 professionals, and $110 billion in assets under management, Colliers is committed to accelerating the success of our clients, investors, and people worldwide. Learn more at corporate.colliers.com.",
       "dividendHistory": [
