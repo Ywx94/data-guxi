@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": "2026-09-19T00:16:19.471Z",
+  "lastUpdated": "2026-09-20T00:16:18.108Z",
   "count": 807,
   "totalScanned": 7137,
   "stats": {
@@ -9,7 +9,7 @@
     "withoutGrowthData": 37,
     "withDividendHistory": 807,
     "avgDividendYears": "13.1",
-    "durationMinutes": "14.56"
+    "durationMinutes": "17.82"
   },
   "sectors": [
     {
@@ -28717,7 +28717,7 @@
       "paymentDate": "04/07/2026",
       "growthRate": "40%",
       "growthSource": "Analyst Forecast",
-      "description": "Kamada Ltd. (the 'Company') is a global biopharmaceutical company with a portfolio of marketed products indicated for rare and serious conditions and a leader in the specialty plasma-derived therapies field. FIMI Opportunity Funds, the leading private equity firm in Israel, is the Companys controlling shareholder, beneficially owning approximately 38% of the outstanding ordinary shares. The Companys strategy is focused on driving profitable growth through four primary growth pillars: First, organic growth of its commercial portfolio, including continued investment in the commercialization and life cycle management of its proprietary products, consisting of six FDA-approved specialty plasma-derived products: KEDRAB, GLASSIA, CYTOGAM, VARIZIG, WINRHO SDF and HEPAGAM B, as well as KAMRAB, and two equine-based anti-snake venom products.",
+      "description": "Kamada Ltd. (the'Company') is a global biopharmaceutical company with a portfolio of marketed products indicated for rare and serious conditions and a leader in the specialty plasma-derived therapies field. FIMI Opportunity Funds, the leading private equity firm in Israel, is the Companys controlling shareholder, beneficially owning approximately 38% of the outstanding ordinary shares. The Companys strategy is focused on driving profitable growth through four primary growth pillars: First, organic growth of its commercial portfolio, including continued investment in the commercialization and life cycle management of its proprietary products, consisting of six FDA-approved specialty plasma-derived products: KEDRAB, GLASSIA, CYTOGAM, VARIZIG, WINRHO SDF and HEPAGAM B, as well as KAMRAB, and two equine-based anti-snake venom products.",
       "dividendHistory": [
         {
           "year": "2025",
@@ -32855,7 +32855,7 @@
       "paymentDate": "08/17/2026",
       "growthRate": "11.78%",
       "growthSource": "Analyst Forecast",
-      "description": "East West provides financial services that help customers reach further and connect to new opportunities. East West Bancorp, Inc. is a public company (Nasdaq: 'EWBC') with total assets of $84.8 billion as of June 30, 2026. The Company's wholly-owned subsidiary, East West Bank, is the largest independent bank headquartered in Southern California, and operates over 110 locations in the United States and Asia. The Bank's markets in the United States include California, Georgia, Illinois, Massachusetts, Nevada, New York, Texas, and Washington. For more information on East West, visit www.eastwestbank.com.",
+      "description": "East West provides financial services that help customers reach further and connect to new opportunities. East West Bancorp, Inc. is a public company (Nasdaq:'EWBC') with total assets of $84.8 billion as of June 30, 2026. The Company's wholly-owned subsidiary, East West Bank, is the largest independent bank headquartered in Southern California, and operates over 110 locations in the United States and Asia. The Bank's markets in the United States include California, Georgia, Illinois, Massachusetts, Nevada, New York, Texas, and Washington. For more information on East West, visit www.eastwestbank.com.",
       "dividendHistory": [
         {
           "year": "1999",
