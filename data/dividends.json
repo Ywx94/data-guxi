@@ -1,28 +1,28 @@
 {
   "success": true,
-  "lastUpdated": "2026-09-27T00:34:30.940Z",
-  "count": 798,
+  "lastUpdated": "2026-09-28T00:39:23.480Z",
+  "count": 807,
   "totalScanned": 7017,
   "stats": {
-    "totalDividendStocks": 798,
-    "withGrowthData": 761,
+    "totalDividendStocks": 807,
+    "withGrowthData": 770,
     "withoutGrowthData": 37,
-    "withDividendHistory": 798,
+    "withDividendHistory": 807,
     "avgDividendYears": "13.1",
-    "durationMinutes": "12.33"
+    "durationMinutes": "13.36"
   },
   "sectors": [
     {
       "name": "Finance",
-      "count": 376
+      "count": 382
     },
     {
       "name": "Consumer Discretionary",
-      "count": 118
+      "count": 119
     },
     {
       "name": "Technology",
-      "count": 74
+      "count": 75
     },
     {
       "name": "Industrials",
@@ -50,7 +50,7 @@
     },
     {
       "name": "Telecommunications",
-      "count": 12
+      "count": 13
     },
     {
       "name": "N/A",
@@ -68,7 +68,7 @@
   "industries": [
     {
       "name": "Major Banks",
-      "count": 202
+      "count": 206
     },
     {
       "name": "Real Estate Investment Trusts",
@@ -92,15 +92,19 @@
     },
     {
       "name": "Property-Casualty Insurers",
-      "count": 18
+      "count": 19
+    },
+    {
+      "name": "Industrial Machinery/Components",
+      "count": 16
     },
     {
       "name": "Computer Software: Prepackaged Software",
       "count": 15
     },
     {
-      "name": "Industrial Machinery/Components",
-      "count": 15
+      "name": "Real Estate",
+      "count": 12
     },
     {
       "name": "N/A",
@@ -112,10 +116,6 @@
     },
     {
       "name": "Telecommunications Equipment",
-      "count": 11
-    },
-    {
-      "name": "Real Estate",
       "count": 11
     },
     {
@@ -491,6 +491,10 @@
       "count": 1
     },
     {
+      "name": "Computer Communications Equipment",
+      "count": 1
+    },
+    {
       "name": "Aerospace",
       "count": 1
     },
@@ -500,6 +504,10 @@
     },
     {
       "name": "Building Products",
+      "count": 1
+    },
+    {
+      "name": "Specialty Chemicals",
       "count": 1
     },
     {
@@ -9491,6 +9499,56 @@
       }
     },
     {
+      "symbol": "MNSBP",
+      "name": "MainStreet Bancshares, Inc. Depositary Shares",
+      "price": "$24.73",
+      "marketCap": "176,104,209",
+      "sector": "Finance",
+      "industry": "Major Banks",
+      "dividendYield": "7.58%",
+      "annualDividend": "$1.875",
+      "exDividendDate": "09/15/2026",
+      "paymentDate": "09/30/2026",
+      "growthRate": "11.2%",
+      "growthSource": "4yr Revenue CAGR",
+      "description": "MainStreet operates seven branches in Herndon, Fairfax, McLean, Leesburg, Middleburg, Clarendon, and Washington, D.C. MainStreet Bank has over 55,000 free ATMs and a fully integrated online and mobile banking solution. The Bank is not restricted by a conventional branching system, as it can offer business customers the ability to Put Our Bank in Your Office ®. With robust and easy-to-use online business banking technology, MainStreet has 'put our bank' in thousands of businesses in the metropolitan area. MainStreet Bank has a robust line of business and professional lending products, including government contracting lines of credit, commercial lines and term loans, residential and commercial construction, and commercial real estate. MainStreet also works with the SBA to offer 7A and 504 lending solutions. From sophisticated cash management to enhanced mobile banking and instant-issue Debit cards, MainStreet Bank is always looking for ways to improve our customer's experience.",
+      "dividendHistory": [
+        {
+          "year": "2020",
+          "amount": "$0.55"
+        },
+        {
+          "year": "2021",
+          "amount": "$1.88"
+        },
+        {
+          "year": "2022",
+          "amount": "$1.88"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.88"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.88"
+        },
+        {
+          "year": "2025",
+          "amount": "$1.88"
+        },
+        {
+          "year": "2026",
+          "amount": "$1.41"
+        }
+      ],
+      "dividendYears": 7,
+      "dividendGrowth": {
+        "rate": "17.0%",
+        "years": 6
+      }
+    },
+    {
       "symbol": "SIGIP",
       "name": "Selective Insurance Group, Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 4.60% Non-Cumulative Preferred Stock, Series B",
       "price": "$15.2974",
@@ -14924,6 +14982,52 @@
       "dividendGrowth": {
         "rate": "2.1%",
         "years": 33
+      }
+    },
+    {
+      "symbol": "CNOBP",
+      "name": "ConnectOne Bancorp, Inc. Depositary Shares, each representing a 1/40th interest in a share of 5.25% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series A",
+      "price": "$25.28",
+      "marketCap": "1,372,587,206",
+      "sector": "Finance",
+      "industry": "Major Banks",
+      "dividendYield": "5.19%",
+      "annualDividend": "$1.3125",
+      "exDividendDate": "08/14/2026",
+      "paymentDate": "09/01/2026",
+      "growthRate": "15.1%",
+      "growthSource": "4yr Revenue CAGR",
+      "description": "ConnectOne Bancorp, Inc., is a modern financial services company that operates, through its subsidiary, ConnectOne Bank, and the Bank's fintech subsidiary, BoeFly, Inc. ConnectOne Bank is a high-performing commercial bank offering a full suite of banking & lending products and services that focus on small to middle-market businesses. BoeFly, Inc. is a fintech marketplace that connects borrowers in the franchise space with funding solutions through a network of partner banks. ConnectOne Bancorp, Inc. is traded on the Nasdaq Global Market under the trading symbol 'CNOB,' and information about ConnectOne may be found at https://www.connectonebank.com.",
+      "dividendHistory": [
+        {
+          "year": "2021",
+          "amount": "$0.37"
+        },
+        {
+          "year": "2022",
+          "amount": "$0.98"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.31"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.31"
+        },
+        {
+          "year": "2025",
+          "amount": "$1.31"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.98"
+        }
+      ],
+      "dividendYears": 6,
+      "dividendGrowth": {
+        "rate": "21.5%",
+        "years": 5
       }
     },
     {
@@ -29769,6 +29873,148 @@
       }
     },
     {
+      "symbol": "CTBI",
+      "name": "Community Trust Bancorp, Inc. Common Stock",
+      "price": "$75.29",
+      "marketCap": "1,367,865,257",
+      "sector": "Finance",
+      "industry": "Major Banks",
+      "dividendYield": "2.82%",
+      "annualDividend": "$2.12",
+      "exDividendDate": "06/15/2026",
+      "paymentDate": "07/01/2026",
+      "growthRate": "17.99%",
+      "growthSource": "Analyst Forecast",
+      "description": "Community Trust Bancorp Inc is a bank holding company. The Bank owns all the capital stock of one commercial bank and one trust company, serving small and mid-sized communities in eastern, north-eastern, central, and southcentral Kentucky, southern West Virginia, and north-eastern Tennessee. Through its subsidiaries, the Bank is engaged in commercial and personal banking and trust and wealth management activities, which include accepting time and demand deposits; making secured and unsecured loans to corporations, individuals, and others; providing cash management services to corporate and individual customers; issuing letters of credit; renting safe deposit boxes; and providing funds transfer services.",
+      "dividendHistory": [
+        {
+          "year": "1988",
+          "amount": "$0.23"
+        },
+        {
+          "year": "1989",
+          "amount": "$0.94"
+        },
+        {
+          "year": "1990",
+          "amount": "$1.02"
+        },
+        {
+          "year": "1991",
+          "amount": "$0.82"
+        },
+        {
+          "year": "1992",
+          "amount": "$0.86"
+        },
+        {
+          "year": "1993",
+          "amount": "$0.82"
+        },
+        {
+          "year": "1994",
+          "amount": "$0.45"
+        },
+        {
+          "year": "1995",
+          "amount": "$0.66"
+        },
+        {
+          "year": "1996",
+          "amount": "$0.74"
+        },
+        {
+          "year": "1997",
+          "amount": "$0.76"
+        },
+        {
+          "year": "1998",
+          "amount": "$0.81"
+        },
+        {
+          "year": "1999",
+          "amount": "$0.81"
+        },
+        {
+          "year": "2000",
+          "amount": "$0.78"
+        },
+        {
+          "year": "2001",
+          "amount": "$0.81"
+        },
+        {
+          "year": "2002",
+          "amount": "$0.84"
+        },
+        {
+          "year": "2003",
+          "amount": "$0.42"
+        },
+        {
+          "year": "2013",
+          "amount": "$0.96"
+        },
+        {
+          "year": "2014",
+          "amount": "$1.21"
+        },
+        {
+          "year": "2015",
+          "amount": "$1.22"
+        },
+        {
+          "year": "2016",
+          "amount": "$1.26"
+        },
+        {
+          "year": "2017",
+          "amount": "$1.30"
+        },
+        {
+          "year": "2018",
+          "amount": "$1.38"
+        },
+        {
+          "year": "2019",
+          "amount": "$1.48"
+        },
+        {
+          "year": "2020",
+          "amount": "$1.53"
+        },
+        {
+          "year": "2021",
+          "amount": "$1.57"
+        },
+        {
+          "year": "2022",
+          "amount": "$1.68"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.80"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.86"
+        },
+        {
+          "year": "2025",
+          "amount": "$2.00"
+        },
+        {
+          "year": "2026",
+          "amount": "$1.77"
+        }
+      ],
+      "dividendYears": 30,
+      "dividendGrowth": {
+        "rate": "5.5%",
+        "years": 38
+      }
+    },
+    {
       "symbol": "HLNE",
       "name": "Hamilton Lane Incorporated Class A Common Stock",
       "price": "$85.34",
@@ -44481,6 +44727,84 @@
       }
     },
     {
+      "symbol": "CSCO",
+      "name": "Cisco Systems, Inc. Common Stock (DE)",
+      "price": "$106.97",
+      "marketCap": "421,738,517,805",
+      "sector": "Telecommunications",
+      "industry": "Computer Communications Equipment",
+      "dividendYield": "1.57%",
+      "annualDividend": "$1.68",
+      "exDividendDate": "07/06/2026",
+      "paymentDate": "07/22/2026",
+      "growthRate": "21.73%",
+      "growthSource": "Analyst Forecast",
+      "description": "Cisco (NASDAQ: CSCO) is the worldwide technology leader that is revolutionizing the way organizations connect and protect in the AI era. For more than 40 years, Cisco has securely connected the world. With its industry leading AI-powered solutions and services, Cisco enables its customers, partners and communities to unlock innovation, enhance productivity and strengthen digital resilience. With purpose at its core, Cisco remains committed to creating a more connected and inclusive future for all.",
+      "dividendHistory": [
+        {
+          "year": "2013",
+          "amount": "$0.34"
+        },
+        {
+          "year": "2014",
+          "amount": "$0.74"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.82"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.99"
+        },
+        {
+          "year": "2017",
+          "amount": "$1.13"
+        },
+        {
+          "year": "2018",
+          "amount": "$1.28"
+        },
+        {
+          "year": "2019",
+          "amount": "$1.38"
+        },
+        {
+          "year": "2020",
+          "amount": "$1.43"
+        },
+        {
+          "year": "2021",
+          "amount": "$1.47"
+        },
+        {
+          "year": "2022",
+          "amount": "$1.51"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.55"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.59"
+        },
+        {
+          "year": "2025",
+          "amount": "$1.63"
+        },
+        {
+          "year": "2026",
+          "amount": "$1.67"
+        }
+      ],
+      "dividendYears": 14,
+      "dividendGrowth": {
+        "rate": "13.0%",
+        "years": 13
+      }
+    },
+    {
       "symbol": "FVCB",
       "name": "FVCBankcorp, Inc. Common Stock",
       "price": "$17.79",
@@ -44628,6 +44952,152 @@
       "dividendGrowth": {
         "rate": "16.8%",
         "years": 12
+      }
+    },
+    {
+      "symbol": "FBNC",
+      "name": "First Bancorp Common Stock",
+      "price": "$62.80",
+      "marketCap": "2,598,301,079",
+      "sector": "Finance",
+      "industry": "Major Banks",
+      "dividendYield": "1.53%",
+      "annualDividend": "$0.96",
+      "exDividendDate": "06/30/2026",
+      "paymentDate": "07/24/2026",
+      "growthRate": "17.71%",
+      "growthSource": "Analyst Forecast",
+      "description": "First Bancorp is a bank holding company headquartered in Southern Pines, North Carolina, with total assets of $13 billion. Its principal activity is the ownership and operation of First Bank, a state-chartered community bank that operates 113 branches in North Carolina and South Carolina. Since 1935, First Bank has taken a tailored approach to banking, combining best-in-class financial solutions, helpful local expertise, and technology to manage a home or business. First Bank also provides SBA loans to customers through its nationwide network of lenders. Member FDIC, Equal Housing Lender.",
+      "dividendHistory": [
+        {
+          "year": "1988",
+          "amount": "$0.11"
+        },
+        {
+          "year": "1989",
+          "amount": "$0.22"
+        },
+        {
+          "year": "1990",
+          "amount": "$0.28"
+        },
+        {
+          "year": "1991",
+          "amount": "$0.32"
+        },
+        {
+          "year": "1992",
+          "amount": "$0.42"
+        },
+        {
+          "year": "1993",
+          "amount": "$0.58"
+        },
+        {
+          "year": "1994",
+          "amount": "$0.65"
+        },
+        {
+          "year": "1995",
+          "amount": "$0.70"
+        },
+        {
+          "year": "1996",
+          "amount": "$0.66"
+        },
+        {
+          "year": "1997",
+          "amount": "$0.52"
+        },
+        {
+          "year": "1998",
+          "amount": "$0.60"
+        },
+        {
+          "year": "1999",
+          "amount": "$0.57"
+        },
+        {
+          "year": "2000",
+          "amount": "$0.70"
+        },
+        {
+          "year": "2001",
+          "amount": "$0.88"
+        },
+        {
+          "year": "2002",
+          "amount": "$0.90"
+        },
+        {
+          "year": "2003",
+          "amount": "$0.23"
+        },
+        {
+          "year": "2012",
+          "amount": "$0.08"
+        },
+        {
+          "year": "2013",
+          "amount": "$0.24"
+        },
+        {
+          "year": "2014",
+          "amount": "$0.32"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.32"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.32"
+        },
+        {
+          "year": "2017",
+          "amount": "$0.32"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.40"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.54"
+        },
+        {
+          "year": "2020",
+          "amount": "$0.72"
+        },
+        {
+          "year": "2021",
+          "amount": "$0.80"
+        },
+        {
+          "year": "2022",
+          "amount": "$0.88"
+        },
+        {
+          "year": "2023",
+          "amount": "$0.88"
+        },
+        {
+          "year": "2024",
+          "amount": "$0.88"
+        },
+        {
+          "year": "2025",
+          "amount": "$0.91"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.72"
+        }
+      ],
+      "dividendYears": 31,
+      "dividendGrowth": {
+        "rate": "5.1%",
+        "years": 38
       }
     },
     {
@@ -46922,6 +47392,76 @@
       "dividendGrowth": {
         "rate": "28.8%",
         "years": 2
+      }
+    },
+    {
+      "symbol": "KINS",
+      "name": "Kingstone Companies, Inc. Common Stock",
+      "price": "$18.30",
+      "marketCap": "264,913,234",
+      "sector": "Finance",
+      "industry": "Property-Casualty Insurers",
+      "dividendYield": "1.31%",
+      "annualDividend": "$0.24",
+      "exDividendDate": "08/11/2026",
+      "paymentDate": "08/26/2026",
+      "growthRate": "-5.02%",
+      "growthSource": "Analyst Forecast",
+      "description": "Kingstone is a regional property and casualty insurance holding company whose principal operating subsidiaries write business through retail and wholesale agents and brokers. Kingstone delivers tailored homeowners insurance solutions through its sophisticated product suite, Select, supported by a scalable and efficient operating platform that enables the Company to pursue significant market opportunities and strategic expansion. Kingstone was the 11th largest writer of homeowners insurance in New York in 2025 and also writes homeowners coverage in California on a non-admitted basis.",
+      "dividendHistory": [
+        {
+          "year": "2013",
+          "amount": "$0.08"
+        },
+        {
+          "year": "2014",
+          "amount": "$0.18"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.21"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.25"
+        },
+        {
+          "year": "2017",
+          "amount": "$0.30"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.40"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.33"
+        },
+        {
+          "year": "2020",
+          "amount": "$0.18"
+        },
+        {
+          "year": "2021",
+          "amount": "$0.16"
+        },
+        {
+          "year": "2022",
+          "amount": "$0.12"
+        },
+        {
+          "year": "2025",
+          "amount": "$0.10"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.16"
+        }
+      ],
+      "dividendYears": 12,
+      "dividendGrowth": {
+        "rate": "5.5%",
+        "years": 13
       }
     },
     {
@@ -52963,6 +53503,72 @@
       }
     },
     {
+      "symbol": "FCFS",
+      "name": "FirstCash Holdings, Inc. Common Stock",
+      "price": "$216.40",
+      "marketCap": "9,385,657,520",
+      "sector": "Consumer Discretionary",
+      "industry": "Other Specialty Stores",
+      "dividendYield": "0.78%",
+      "annualDividend": "$1.68",
+      "exDividendDate": "08/14/2026",
+      "paymentDate": "08/28/2026",
+      "growthRate": "35.27%",
+      "growthSource": "Analyst Forecast",
+      "description": "FirstCash is the leading international operator of pawn stores focused on serving cash and credit-constrained consumers. FirstCash operates more than 3,300 pawn stores in the U.S., Latin America and the U.K. Most of the stores buy and sell a wide variety of jewelry, electronics, tools, appliances, sporting goods, musical instruments and other merchandise, and make small non-recourse pawn loans secured by pledged personal property. FirstCash's pawn operations account for approximately 90% of net revenue, with the remainder provided by its wholly owned subsidiary, AFF, a leading provider of customer payment solutions at the point-of-sale for retailers of consumer goods and services.",
+      "dividendHistory": [
+        {
+          "year": "2016",
+          "amount": "$0.56"
+        },
+        {
+          "year": "2017",
+          "amount": "$0.77"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.91"
+        },
+        {
+          "year": "2019",
+          "amount": "$1.02"
+        },
+        {
+          "year": "2020",
+          "amount": "$1.08"
+        },
+        {
+          "year": "2021",
+          "amount": "$1.17"
+        },
+        {
+          "year": "2022",
+          "amount": "$1.26"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.36"
+        },
+        {
+          "year": "2024",
+          "amount": "$1.46"
+        },
+        {
+          "year": "2025",
+          "amount": "$1.60"
+        },
+        {
+          "year": "2026",
+          "amount": "$1.26"
+        }
+      ],
+      "dividendYears": 11,
+      "dividendGrowth": {
+        "rate": "8.4%",
+        "years": 10
+      }
+    },
+    {
       "symbol": "IMKTA",
       "name": "Ingles Markets, Incorporated Class A Common Stock",
       "price": "$84.11",
@@ -53360,72 +53966,6 @@
       "dividendGrowth": {
         "rate": "13.6%",
         "years": 13
-      }
-    },
-    {
-      "symbol": "FCFS",
-      "name": "FirstCash Holdings, Inc. Common Stock",
-      "price": "$216.40",
-      "marketCap": "9,385,657,520",
-      "sector": "Consumer Discretionary",
-      "industry": "Other Specialty Stores",
-      "dividendYield": "0.76%",
-      "annualDividend": "$1.68",
-      "exDividendDate": "08/14/2026",
-      "paymentDate": "08/28/2026",
-      "growthRate": "35.27%",
-      "growthSource": "Analyst Forecast",
-      "description": "FirstCash is the leading international operator of pawn stores focused on serving cash and credit-constrained consumers. FirstCash operates more than 3,300 pawn stores in the U.S., Latin America and the U.K. Most of the stores buy and sell a wide variety of jewelry, electronics, tools, appliances, sporting goods, musical instruments and other merchandise, and make small non-recourse pawn loans secured by pledged personal property. FirstCash's pawn operations account for approximately 90% of net revenue, with the remainder provided by its wholly owned subsidiary, AFF, a leading provider of customer payment solutions at the point-of-sale for retailers of consumer goods and services.",
-      "dividendHistory": [
-        {
-          "year": "2016",
-          "amount": "$0.56"
-        },
-        {
-          "year": "2017",
-          "amount": "$0.77"
-        },
-        {
-          "year": "2018",
-          "amount": "$0.91"
-        },
-        {
-          "year": "2019",
-          "amount": "$1.02"
-        },
-        {
-          "year": "2020",
-          "amount": "$1.08"
-        },
-        {
-          "year": "2021",
-          "amount": "$1.17"
-        },
-        {
-          "year": "2022",
-          "amount": "$1.26"
-        },
-        {
-          "year": "2023",
-          "amount": "$1.36"
-        },
-        {
-          "year": "2024",
-          "amount": "$1.46"
-        },
-        {
-          "year": "2025",
-          "amount": "$1.60"
-        },
-        {
-          "year": "2026",
-          "amount": "$1.26"
-        }
-      ],
-      "dividendYears": 11,
-      "dividendGrowth": {
-        "rate": "8.4%",
-        "years": 10
       }
     },
     {
@@ -54628,6 +55168,144 @@
       "dividendGrowth": {
         "rate": "35.7%",
         "years": 6
+      }
+    },
+    {
+      "symbol": "HWKN",
+      "name": "Hawkins, Inc. Common Stock",
+      "price": "$126.62",
+      "marketCap": "2,643,207,315",
+      "sector": "Consumer Discretionary",
+      "industry": "Specialty Chemicals",
+      "dividendYield": "0.63%",
+      "annualDividend": "$0.8",
+      "exDividendDate": "08/14/2026",
+      "paymentDate": "08/28/2026",
+      "growthRate": "4.18%",
+      "growthSource": "Analyst Forecast",
+      "description": "Hawkins, Inc. was founded in 1938 and is a leading water treatment and specialty ingredients company that formulates, manufactures, distributes and blends products for its Water Treatment, Food & Health Sciences and Industrial Solutions customers. Headquartered in Roseville, Minnesota, the Company has 66 facilities in 28 states and creates value for its customers through superb customer service and support, quality products and personalized applications. Hawkins, Inc. generated approximately $1.1 billion of revenue in fiscal 2026 and has approximately 1,200 employees.",
+      "dividendHistory": [
+        {
+          "year": "1989",
+          "amount": "$0.12"
+        },
+        {
+          "year": "1990",
+          "amount": "$0.08"
+        },
+        {
+          "year": "1991",
+          "amount": "$0.09"
+        },
+        {
+          "year": "1992",
+          "amount": "$0.10"
+        },
+        {
+          "year": "1993",
+          "amount": "$0.11"
+        },
+        {
+          "year": "1994",
+          "amount": "$0.14"
+        },
+        {
+          "year": "1995",
+          "amount": "$0.22"
+        },
+        {
+          "year": "1996",
+          "amount": "$0.16"
+        },
+        {
+          "year": "1997",
+          "amount": "$0.18"
+        },
+        {
+          "year": "1998",
+          "amount": "$0.20"
+        },
+        {
+          "year": "1999",
+          "amount": "$0.27"
+        },
+        {
+          "year": "2000",
+          "amount": "$0.32"
+        },
+        {
+          "year": "2001",
+          "amount": "$0.45"
+        },
+        {
+          "year": "2002",
+          "amount": "$0.30"
+        },
+        {
+          "year": "2003",
+          "amount": "$0.18"
+        },
+        {
+          "year": "2013",
+          "amount": "$0.70"
+        },
+        {
+          "year": "2014",
+          "amount": "$0.74"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.78"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.82"
+        },
+        {
+          "year": "2017",
+          "amount": "$0.86"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.89"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.92"
+        },
+        {
+          "year": "2020",
+          "amount": "$0.93"
+        },
+        {
+          "year": "2021",
+          "amount": "$0.63"
+        },
+        {
+          "year": "2022",
+          "amount": "$0.56"
+        },
+        {
+          "year": "2023",
+          "amount": "$0.62"
+        },
+        {
+          "year": "2024",
+          "amount": "$0.68"
+        },
+        {
+          "year": "2025",
+          "amount": "$0.74"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.58"
+        }
+      ],
+      "dividendYears": 29,
+      "dividendGrowth": {
+        "rate": "4.4%",
+        "years": 37
       }
     },
     {
@@ -56633,6 +57311,80 @@
       }
     },
     {
+      "symbol": "LRCX",
+      "name": "Lam Research Corporation Common Stock",
+      "price": "$307.16",
+      "marketCap": "384,355,758,360",
+      "sector": "Technology",
+      "industry": "Industrial Machinery/Components",
+      "dividendYield": "0.43%",
+      "annualDividend": "$1.32",
+      "exDividendDate": "09/23/2026",
+      "paymentDate": "10/14/2026",
+      "growthRate": "60.49%",
+      "growthSource": "Analyst Forecast",
+      "description": "Lam Research Corporation (NASDAQ: LRCX) is a global supplier of innovative wafer fabrication equipment and services to the semiconductor industry. Lam's equipment and services allow customers to build smaller and better performing devices. In fact, today, nearly every advanced chip is built with Lam technology. We combine superior systems engineering, technology leadership, and a strong values-based culture, with an unwavering commitment to our customers. Lam Research is a FORTUNE 500 company headquartered in Fremont, California, with operations around the globe.",
+      "dividendHistory": [
+        {
+          "year": "2014",
+          "amount": "$0.54"
+        },
+        {
+          "year": "2015",
+          "amount": "$1.08"
+        },
+        {
+          "year": "2016",
+          "amount": "$1.35"
+        },
+        {
+          "year": "2017",
+          "amount": "$1.85"
+        },
+        {
+          "year": "2018",
+          "amount": "$3.80"
+        },
+        {
+          "year": "2019",
+          "amount": "$4.50"
+        },
+        {
+          "year": "2020",
+          "amount": "$4.90"
+        },
+        {
+          "year": "2021",
+          "amount": "$5.60"
+        },
+        {
+          "year": "2022",
+          "amount": "$6.45"
+        },
+        {
+          "year": "2023",
+          "amount": "$7.45"
+        },
+        {
+          "year": "2024",
+          "amount": "$6.53"
+        },
+        {
+          "year": "2025",
+          "amount": "$0.98"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.85"
+        }
+      ],
+      "dividendYears": 13,
+      "dividendGrowth": {
+        "rate": "3.9%",
+        "years": 12
+      }
+    },
+    {
       "symbol": "CASY",
       "name": "Casey's General Stores, Inc. Common Stock",
       "price": "$598.85",
@@ -57906,6 +58658,84 @@
       "dividendGrowth": {
         "rate": "14.2%",
         "years": 22
+      }
+    },
+    {
+      "symbol": "CIGI",
+      "name": "Colliers International Group Inc. Subordinate Voting Shares",
+      "price": "$92.23",
+      "marketCap": "4,713,305,411",
+      "sector": "Finance",
+      "industry": "Real Estate",
+      "dividendYield": "0.33%",
+      "annualDividend": "$0.3",
+      "exDividendDate": "06/30/2026",
+      "paymentDate": "07/14/2026",
+      "growthRate": "20.84%",
+      "growthSource": "Analyst Forecast",
+      "description": "Colliers (NASDAQ, TSX: CIGI) is a global diversified professional services and investment management company operating through three industry leading businesses: Commercial Real Estate, Engineering, and Investment Management. With greater than a 30-year track record of consistent growth and strong recurring cash flows, we scale complementary, high-value businesses that provide essential services across the full asset lifecycle. Our unique partnership philosophy empowers exceptional leaders, preserves our entrepreneurial culture, and ensures meaningful inside ownership - driving strong alignment and sustained value creation for our shareholders. With $6 billion in annual revenues, 28,000 professionals, and $110 billion in assets under management, Colliers is committed to accelerating the success of our clients, investors, and people worldwide. Learn more at corporate.colliers.com.",
+      "dividendHistory": [
+        {
+          "year": "2013",
+          "amount": "$0.30"
+        },
+        {
+          "year": "2014",
+          "amount": "$0.40"
+        },
+        {
+          "year": "2015",
+          "amount": "$0.14"
+        },
+        {
+          "year": "2016",
+          "amount": "$0.10"
+        },
+        {
+          "year": "2017",
+          "amount": "$0.10"
+        },
+        {
+          "year": "2018",
+          "amount": "$0.10"
+        },
+        {
+          "year": "2019",
+          "amount": "$0.10"
+        },
+        {
+          "year": "2020",
+          "amount": "$0.10"
+        },
+        {
+          "year": "2021",
+          "amount": "$0.20"
+        },
+        {
+          "year": "2022",
+          "amount": "$0.30"
+        },
+        {
+          "year": "2023",
+          "amount": "$0.30"
+        },
+        {
+          "year": "2024",
+          "amount": "$0.30"
+        },
+        {
+          "year": "2025",
+          "amount": "$0.30"
+        },
+        {
+          "year": "2026",
+          "amount": "$0.15"
+        }
+      ],
+      "dividendYears": 14,
+      "dividendGrowth": {
+        "rate": "-5.2%",
+        "years": 13
       }
     },
     {
