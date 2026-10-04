@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": "2026-10-03T01:13:43.708Z",
+  "lastUpdated": "2026-10-04T00:40:44.482Z",
   "count": 809,
   "totalScanned": 7073,
   "stats": {
@@ -9,7 +9,7 @@
     "withoutGrowthData": 37,
     "withDividendHistory": 809,
     "avgDividendYears": "13.1",
-    "durationMinutes": "13.69"
+    "durationMinutes": "16.10"
   },
   "sectors": [
     {
@@ -3843,7 +3843,7 @@
       "paymentDate": "09/25/2026",
       "growthRate": "-17.77%",
       "growthSource": "Analyst Forecast",
-      "description": "SLR Investment Corp. is a closed-end investment company that has elected to be regulated as a business development company under the Investment Company Act of 1940. A specialty finance company with expertise in several niche markets, the Company primarily invests in leveraged, U.S. upper middle market companies in the form of cash flow, asset-based, and life sciences senior secured loans.",
+      "description": "SLR Investment Corp. is a closed-end investment company that has elected to be treated as a business development company under the Investment Company Act of 1940. A specialty finance company with expertise in several niche markets, the Company primarily invests directly and indirectly in leveraged, U. S. middle market companies in the form of cash flow senior secured loans including first lien and second lien debt instruments and asset-based loans including senior secured loans collateralized on a first lien basis primarily by current assets.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -10137,7 +10137,7 @@
       "paymentDate": "08/14/2026",
       "growthRate": "10.2%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "First Merchants Corporation is a financial holding company headquartered in Muncie, Indiana. The Corporation has one full-service bank charter, First Merchants Bank. The Bank also operates as First Merchants Private Wealth Advisors (as a division of First Merchants Bank).",
+      "description": "With approximately $21 billion in assets, First Merchants Corporation (NASDAQ: FRME) is a registered bank holding company offering a full line of commercial and consumer banking services and wealth management services through First Merchants Bank and First Merchants Private Wealth Advisors in Indiana, Michigan, and Ohio. With more than 130 years of enhancing the financial wellness of the diverse communities it serves, First Merchants makes meaningful contributions through employee empowerment, philanthropy, charitable giving, financial wellness, and community home and business lending. The company has been honored for its attentive and knowledgeable service and culture by Forbes, Time Magazine, American Banker, and S&P Global Intelligence 'Best Banks' awards. First Merchants attributes this recognition to a mission-driven team that is passionate about 'helping you prosper' through attentiveness as its genuine and unique approach to customer service.",
       "dividendHistory": [
         {
           "year": "2022",
@@ -12241,7 +12241,7 @@
       "paymentDate": "08/14/2026",
       "growthRate": "187.88%",
       "growthSource": "Analyst Forecast",
-      "description": "PAA is a publicly traded master limited partnership that owns and operates midstream energy infrastructure and provides logistics services for crude oil. PAA owns an extensive network of pipeline gathering and transportation systems, in addition to terminaling, storage, and other infrastructure assets serving key producing basins, transportation corridors and major market hubs and export outlets in the United States and Canada. PAGP is a publicly traded entity that owns an indirect, non-economic controlling general partner interest in PAA and an indirect limited partner interest in PAA, one of the largest energy infrastructure and logistics companies in North America.",
+      "description": "PAA is a publicly traded master limited partnership that owns and operates midstream energy infrastructure and provides logistics services primarily for crude oil. PAA owns an extensive network of pipeline gathering and transportation systems, in addition to terminalling, storage, and other infrastructure assets serving key producing basins, transportation corridors and major market hubs and export outlets in the United States and Canada. PAGP is a publicly traded entity that owns an indirect, non-economic controlling general partner interest in PAA and an indirect limited partner interest in PAA, one of the largest energy infrastructure and logistics companies in North America. PAA and PAGP are headquartered in Houston, Texas.",
       "dividendHistory": [
         {
           "year": "2014",
@@ -13027,7 +13027,7 @@
       "paymentDate": "07/22/2026",
       "growthRate": "-19.23%",
       "growthSource": "Analyst Forecast",
-      "description": "Comcast Corporation (Nasdaq: CMCSA) is a global media and technology company. From the connectivity and platforms we provide, to the content and experiences we create, our businesses reach hundreds of millions of customers, viewers, and guests worldwide. We deliver world-class broadband, wireless, and video through Xfinity, Comcast Business, and Sky; produce, distribute, and stream leading entertainment, sports and news through brands including NBC, Telemundo, Universal, Peacock, and Sky; and bring incredible theme parks and attractions to life through Universal Destinations & Experiences. Visit ComcastCorporation.com for more information.",
+      "description": "Comcast Advertising is the advertising division of Comcast. As a global leader in media, technology, and advertising, the company fosters powerful connections between brands and their audiences as well as among publishers, distributors, MVPDs, agencies, and other industry players. Comcast Advertising's Media Solutions team provides a streamlined way for advertisers to build brand relevancy and sustainable business outcomes through multiscreen TV advertising campaigns-powered by the media, data, and technology assets of Comcast. Reaching nearly 125 million households - including both Comcast and non-Comcast households - across all 210 DMAs, Comcast Advertising's Media Solutions delivers seamless, consolidated access to a wide range of premium video inventory and proof of performance using its media, data, and technology assets.",
       "dividendHistory": [
         {
           "year": "1988",
@@ -13191,7 +13191,7 @@
       "paymentDate": "10/01/2026",
       "growthRate": "10.6%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Popular, Inc. (NASDAQ: BPOP) is the leading financial institution by both assets and deposits in Puerto Rico and ranks among the top 50 U.S. bank holding companies by assets. Founded in 1893, Banco Popular de Puerto Rico, Popular's principal subsidiary, provides retail, mortgage and commercial banking services in Puerto Rico and the U.S. Virgin Islands. Popular also offers in Puerto Rico auto and equipment leasing and financing, investment banking, broker-dealer and insurance services through specialized subsidiaries. In the mainland United States, Popular provides retail, mortgage and commercial banking services through its New York -chartered banking subsidiary, Popular Bank, which has branches located in New York, New Jersey and Florida.",
+      "description": "Popular, Inc. is the leading financial institution by both assets and deposits in Puerto Rico and ranks among the top 50 U.S. bank holding companies by assets. Founded in 1893, Banco Popular de Puerto Rico, Popular's principal subsidiary, provides retail, mortgage and commercial banking services in Puerto Rico and the U.S. Virgin Islands. Popular also offers in Puerto Rico auto and equipment leasing and financing, investment banking, broker-dealer and insurance services through specialized subsidiaries. In the mainland United States, Popular provides retail, mortgage and commercial banking services through its New York-chartered banking subsidiary, Popular Bank, which has branches located in New York, New Jersey and Florida.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -13307,7 +13307,7 @@
       "paymentDate": "06/03/2026",
       "growthRate": "14.41%",
       "growthSource": "Analyst Forecast",
-      "description": "Sanofi is an R&D driven, AI-powered biopharma company committed to improving people's lives and delivering compelling growth. We apply our deep understanding of the immune system to invent medicines and vaccines that treat and protect millions of people around the world, with an innovative pipeline that could benefit millions more. Sanofi is the largest biopharma manufacturer in Canada, and is investing, innovating and operating across the full life sciences value chain. We are 2,000+ employees strong, invest 20% of our revenue annually in biopharma research, and are on track to deliver over $2 billion in new infrastructure investments by 2028. We also recently announced a $294 million investment to expand our AI Centre of Excellence in Toronto, enabling us to accelerate innovation for patients. Sanofi is committed to our community and is working with partners to foster a long-term sustainable ecosystem and build a healthier Canada.",
+      "description": "Sanofi is an R&D driven, AI-powered biopharma company committed to improving people's lives and delivering compelling growth. We apply our deep understanding of the immune system to invent medicines and vaccines that treat and protect millions of people around the world, with an innovative pipeline that could benefit millions more.Our team is guided by one purpose: we chase the miracles of science to improve people's lives; this inspires us to drive progress and deliver positive impact for our people and the communities we serve, by addressing the most urgent healthcare, environmental, and societal challenges of our time.",
       "dividendHistory": [
         {
           "year": "2004",
@@ -14319,7 +14319,7 @@
       "paymentDate": "08/24/2026",
       "growthRate": "-57.94%",
       "growthSource": "Analyst Forecast",
-      "description": "Matthews International Corporation operates through two core global businesses - Industrial Technologies and Memorialization. Both are focused on driving operational efficiency and long-term growth through continuous innovation and strategic expansion. The Industrial Technologies segment evolved from our original marking business, which today is a leading global innovator committed to empowering visionaries to transform industries through the application of precision technologies and intelligent processes. The Memorialization segment is a leading provider of memorialization products, including memorials, caskets and cremation and incineration equipment, primarily to cemetery and funeral home customers that help families move from grief to remembrance. In addition, the Company also has a significant investment in Propelis, a brand solutions business formed through the merger of SGK and SGS & Co.",
+      "description": "Matthews International Corporation operates through two core global businesses - Industrial Technologies and Memorialization. Both are focused on driving operational efficiency and long-term growth through continuous innovation and strategic expansion. The Industrial Technologies segment evolved from our original marking business, which today is a leading global innovator committed to empowering visionaries to transform industries through the application of precision technologies and intelligent processes. The Memorialization segment is a leading provider of memorialization products, including memorials, caskets, and cremation and incineration equipment, primarily to cemetery and funeral home customers that help families move from grief to remembrance. In addition, the Company also has a significant investment in Propelis, a brand solutions business formed through the merger of SGK and SGS & Co.",
       "dividendHistory": [
         {
           "year": "1994",
@@ -14475,7 +14475,7 @@
       "paymentDate": "10/02/2026",
       "growthRate": "-2.4%",
       "growthSource": "Analyst Forecast",
-      "description": "Kimberly-Clark (NASDAQ: KMB) and its trusted brands are an indispensable part of life for people in more than 175 countries and territories. Our portfolio of brands, including Huggies, Kleenex, Scott, Kotex, Cottonelle, Poise, Depend, Pull-Ups, Goodnites, Intimus, Plenitud, Sweety, Softex, Viva and WypAll, hold No. 1 or No. 2 share positions in approximately 70 countries. Our company's purpose is to deliver Better Care for a Better World. We are committed to using sustainable practices designed to support a healthy planet, build strong communities, and enable our business to thrive for decades to come.",
+      "description": "Kimberly-Clark (NASDAQ: KMB) and its trusted brands are an indispensable part of life for people in more than 175 countries and territories. Our portfolio of brands, including Huggies, Kleenex, Scott, Kotex, Cottonelle, Poise, Depend, Pull-Ups, Goodnites, Intimus, Plenitud, Sweety, Softex, Viva and WypAll, hold No. 1 or No. 2 share positions in approximately 70 countries. Our company's purpose is to deliver Better Care for a Better World. We are committed to using sustainable practices designed to support a healthy planet, build strong communities, and enable our business to thrive for decades to come. To keep up with the latest news and learn more about the company's more than 150-year history of innovation, visit the Kimberly-Clark website.",
       "dividendHistory": [
         {
           "year": "2000",
@@ -14597,7 +14597,7 @@
       "paymentDate": "04/06/2026",
       "growthRate": "8.14%",
       "growthSource": "Analyst Forecast",
-      "description": "Afya is a leading medical education group in Brazil based on the number of medical school seats, delivering an end-to-end physician-centric ecosystem that serves and empowers students and physicians to transform their ambitions into rewarding lifelong experiences from the moment they join us as medical students through their medical residency preparation, graduation program, continuing medical education activities and offering medical practice solutions to help doctors enhance their healthcare services through their whole career.",
+      "description": "Afya is a leading medical education group in Brazil, based on the number of medical school seats, delivering an end-to-end physician-centric ecosystem that serves and empowers students and physicians to transform their ambitions into rewarding lifelong experiences from the moment they join us as medical students through their medical residency preparation, graduation program, continuing medical education activities and offering medical practice solutions to help doctors enhance their healthcare services through their whole career.",
       "dividendHistory": [
         {
           "year": "2025",
@@ -15881,7 +15881,7 @@
       "paymentDate": "09/29/2026",
       "growthRate": "4.37%",
       "growthSource": "Analyst Forecast",
-      "description": "T. Rowe Price (NASDAQ-GS: TROW) is a leading global asset management firm, entrusted with managing $1.90 trillion in client assets as of August 31, 2026, about two-thirds of which are retirement-related. Renowned for over 85 years of investment excellence, retirement leadership, and independent proprietary research, the firm leverages its longstanding expertise to ask better questions that can drive better investment decisions. Built on a culture of integrity and prioritizing client interests, T. Rowe Price empowers millions of investors worldwide to thrive amidst evolving markets. Visit troweprice.com/newsroom for news and public policy commentary.",
+      "description": "T. Rowe Price (NASDAQ-GS: TROW) is a leading global asset management firm, entrusted with managing $1.90 trillion in client assets as of August 31, 2026, about two-thirds of which are retirement-related. Renowned for nearly 90 years of investment excellence, retirement leadership, and independent proprietary research, the firm leverages its longstanding expertise to ask better questions that can drive better investment decisions. Built on a culture of integrity and prioritizing client interests, T. Rowe Price empowers millions of investors worldwide to thrive amid evolving markets.",
       "dividendHistory": [
         {
           "year": "1988",
@@ -18541,7 +18541,7 @@
       "paymentDate": "08/20/2026",
       "growthRate": "27.53%",
       "growthSource": "Analyst Forecast",
-      "description": "Hope Bancorp, Inc. (NASDAQ: HOPE) is the holding company for Bank of Hope, with $18.99 billion in total assets as of June 30, 2026. Following the addition of Territorial Savings as a division of Bank of Hope, the Company became the largest regional bank serving multicultural customers across the continental United States and Hawaii. Headquartered in Los Angeles, California, Bank of Hope offers a comprehensive range of commercial, corporate, and consumer banking products and services, including commercial and commercial real estate lending, SBA lending, residential mortgage and consumer lending, treasury management, foreign exchange solutions, interest rate derivatives, and international trade finance. Bank of Hope operates 45 full-service branches in California, New York, New Jersey, Washington, Texas, Illinois, Alabama and Georgia under the Bank of Hope banner, and 28 branches in Hawaii under the Territorial Savings banner.",
+      "description": "Hope Bancorp, Inc. (NASDAQ: HOPE) is the holding company for Bank of Hope, a leading regional bank serving multicultural customers across the continental United States and Hawaii, with $18.99 billion in total assets as of June 30, 2026. Headquartered in Los Angeles, California, Bank of Hope offers a comprehensive range of commercial, corporate, and consumer banking products and services, including commercial and commercial real estate lending, SBA lending, residential mortgage and consumer lending, treasury management, foreign exchange solutions, interest rate derivatives, and international trade finance. Bank of Hope's branch network comprises 45 full-service branches operating under the Bank of Hope banner across California, New York, New Jersey, Washington, Texas, Illinois, Alabama and Georgia; seven additional locations in California following the acquisition of SMBC MANUBANK branches; and 28 branches in Hawaii under the Territorial Savings banner.",
       "dividendHistory": [
         {
           "year": "2001",
@@ -19977,7 +19977,7 @@
       "paymentDate": "09/28/2026",
       "growthRate": "105.97%",
       "growthSource": "Analyst Forecast",
-      "description": "JAKKS Pacific, Inc. is a leading designer, manufacturer and marketer of toys, costumes and consumer products sold throughout the world, with its headquarters in Santa Monica, California. JAKKS Pacific's popular proprietary brands include Disguise®, Fly Wheels®, Charming, KidTopia®, Moose Mountain®, Maui®, ReDo Skateboard Co.®, Sky Ball®, and Xtreme Power Dozer as well as a wide range of entertainment-inspired products featuring premier licensed properties. Through their products and charitable donations, JAKKS is helping to make a positive impact on the lives of children. Visit us at www.jakks.com and follow us on Instagram ( @jakkspacific.toys ), X (@jakkstoys), YouTube (@JAKKSPacific), Facebook ( @jakkspacific.toys ) and LinkedIn ( JAKKS Pacific ).",
+      "description": "JAKKS Pacific, Inc. is a leading designer, manufacturer and marketer of toys and consumer products sold throughout the world, with its headquarters in Santa Monica, California. JAKKS Pacific's popular proprietary brands include Disguise, Fly Wheels, Charming, Moose Mountain, Maui, ReDo Skateboard Co., Sky Ball and Xtreme Power Dozer as well as a wide range of entertainment-inspired products featuring premier licensed properties. Through their products and charitable donations, JAKKS is helping to make a positive impact on the lives of children. Visit us at www.jakks.com and follow us on Instagram ( @jakkspacific.toys ), X ( @jakkstoys ), YouTube ( @JAKKSPacific ), Facebook ( @jakkspacific.toys ) and LinkedIn ( JAKKS Pacific ).",
       "dividendHistory": [
         {
           "year": "2013",
@@ -20865,7 +20865,7 @@
       "paymentDate": "09/18/2026",
       "growthRate": "0.31%",
       "growthSource": "Analyst Forecast",
-      "description": "First Merchants Corporation is a financial holding company headquartered in Muncie, Indiana. The Corporation has one full-service bank charter, First Merchants Bank. The Bank also operates as First Merchants Private Wealth Advisors (as a division of First Merchants Bank).",
+      "description": "With approximately $21 billion in assets, First Merchants Corporation (NASDAQ: FRME) is a registered bank holding company offering a full line of commercial and consumer banking services and wealth management services through First Merchants Bank and First Merchants Private Wealth Advisors in Indiana, Michigan, and Ohio. With more than 130 years of enhancing the financial wellness of the diverse communities it serves, First Merchants makes meaningful contributions through employee empowerment, philanthropy, charitable giving, financial wellness, and community home and business lending. The company has been honored for its attentive and knowledgeable service and culture by Forbes, Time Magazine, American Banker, and S&P Global Intelligence 'Best Banks' awards. First Merchants attributes this recognition to a mission-driven team that is passionate about 'helping you prosper' through attentiveness as its genuine and unique approach to customer service.",
       "dividendHistory": [
         {
           "year": "1989",
@@ -28055,7 +28055,7 @@
       "paymentDate": "08/27/2026",
       "growthRate": "13.18%",
       "growthSource": "Analyst Forecast",
-      "description": "S&T Bancorp Inc. is a $9.9 billion bank holding company that is headquartered in Indiana, Pennsylvania, and trades on the NASDAQ Global Select Market under the symbol STBA. Its principal subsidiary, S&T Bank, was established in 1902 and operates in Pennsylvania and Ohio.",
+      "description": "S&T Bancorp, Inc. is a $9.9 billion bank holding company that is headquartered in Indiana, Pennsylvania and trades on the NASDAQ Global Select Market under the symbol STBA. Its principal subsidiary, S&T Bank, was established in 1902 and operates in Pennsylvania and Ohio.",
       "dividendHistory": [
         {
           "year": "1992",
@@ -28709,7 +28709,7 @@
       "paymentDate": "09/25/2026",
       "growthRate": "16.55%",
       "growthSource": "Analyst Forecast",
-      "description": "Principal Financial Group (Nasdaq: PFG) is a global financial company with approximately 19,000 employees1 passionate about improving the wealth and well-being of people and businesses. In business for 147 years, were helping 82 million customers1 plan, insure, invest, and retire, while working to support the communities where we do business, and build an inclusive workforce. Principal is proud to be recognized as one of the 2026 Worlds Most Ethical Companies2 and named as a'Best Places to Work in Money Management3.' Learn more about Principal and our commitment to building a better future at principal.com.",
+      "description": "Principal Financial Group (Nasdaq: PFG) is a global financial company with over 19,000 employees1 passionate about improving the wealth and well-being of people and businesses. In business for 147 years, we're helping 82 million customers1 plan, insure, invest, and retire, while working to support the communities where we do business, and building an inclusive workforce. Principal is proud to be recognized as one of the 2026 World's Most Ethical Companies2 and named as a 'Best Places to Work in Money Management3.' Learn more about Principal and our commitment to building a better future at principal.com.",
       "dividendHistory": [
         {
           "year": "2004",
@@ -28823,7 +28823,7 @@
       "paymentDate": "07/31/2026",
       "growthRate": "22.02%",
       "growthSource": "Analyst Forecast",
-      "description": "Camden National Corporation (NASDAQ: CAC ) is Northern New England's largest publicly traded bank holding company, with $7 billion in assets. Founded in 1875, Camden National Bank has 72 banking centers in Maine and New Hampshire and is a full-service community bank offering the latest digital banking, complemented by award-winning, personalized service. Additional information is available at CamdenNational. bank. Member FDIC. Equal Housing Lender. Comprehensive wealth management, investment, and financial planning services are delivered by Camden National Wealth Management.",
+      "description": "Camden National Corporation (NASDAQ: CAC) is Northern New England's largest publicly traded bank holding company, with $7 billion in assets. Founded in 1875, Camden National Bank, with 72 banking centers in Maine and New Hampshire, is a full-service community bank offering the latest in digital banking, complemented by award-winning, personalized service. Additional information is available at CamdenNational.bank. Member FDIC. Equal Housing Lender. Comprehensive wealth management, investment, and financial planning services are delivered by Camden National Wealth Management.",
       "dividendHistory": [
         {
           "year": "1999",
@@ -30855,7 +30855,7 @@
       "paymentDate": "10/09/2026",
       "growthRate": "8.9%",
       "growthSource": "Analyst Forecast",
-      "description": "Alerus Financial Corporation (Nasdaq: ALRS) is a commercial wealth bank and national retirement services provider with corporate offices in Grand Forks, North Dakota, and the Minneapolis-St. Paul, Minnesota metropolitan area. Through its subsidiary, Alerus Financial, National Association (the 'Bank'), Alerus provides diversified and comprehensive financial solutions to business and consumer clients, including banking, wealth services, and retirement and benefit plans and services. Alerus provides clients with a primary point of contact to help fully understand their unique needs and delivery channel preferences. Clients are provided with competitive products, valuable insight, and sound advice supported by digital solutions designed to meet their needs. Alerus operates 25 banking and commercial wealth offices, with locations in Grand Forks and Fargo, North Dakota; the Minneapolis-St.",
+      "description": "Alerus Financial Corporation (Nasdaq: ALRS) is a commercial wealth bank and national retirement services provider with corporate offices in Grand Forks, North Dakota, and the Minneapolis-St. Paul, Minnesota metropolitan area. Through its subsidiary, Alerus Financial, National Association, Alerus provides diversified and comprehensive financial solutions to business and consumer clients, including banking, wealth services, and retirement and benefit plans and services. Alerus provides clients with a primary point of contact to help fully understand their unique needs and delivery channel preferences. Clients are provided with competitive products, valuable insight, and sound advice supported by digital solutions designed to meet their needs. Alerus operates 25 banking and commercial wealth offices, with locations in Grand Forks and Fargo, North Dakota; the Minneapolis-St.",
       "dividendHistory": [
         {
           "year": "2019",
@@ -32279,7 +32279,7 @@
       "paymentDate": "09/10/2026",
       "growthRate": "12.53%",
       "growthSource": "Analyst Forecast",
-      "description": "Thomson Reuters (TSX/Nasdaq: TRI) informs the way forward by bringing together the trusted content and technology that people and organizations need to make the right decisions. The company serves professionals across legal, tax, audit, accounting, compliance, government, and media. Its products combine highly specialized software and insights to empower professionals with the data, intelligence, and solutions needed to make informed decisions, and to help institutions in their pursuit of justice, truth and transparency. Reuters, part of Thomson Reuters, is the world's leading provider of trusted journalism and news.",
+      "description": "Thomson Reuters (TSX/Nasdaq: TRI) informs the way forward by bringing together the trusted content and technology that people and organizations need to make the right decisions. The company serves professionals across legal, tax, audit, accounting, compliance, government, and media. Its products combine highly specialized software and insights to empower professionals with the data, intelligence, and solutions needed to make informed decisions, and to help institutions in their pursuit of justice, truth and transparency. Reuters, part of Thomson Reuters, is a world leading provider of trusted journalism and news.",
       "dividendHistory": [
         {
           "year": "2023",
@@ -33707,7 +33707,7 @@
       "paymentDate": "09/10/2026",
       "growthRate": "8.47%",
       "growthSource": "Analyst Forecast",
-      "description": "As the supercharged Un-carrier, T-Mobile US, Inc. (NASDAQ: TMUS) is powered by an award-winning nationwide 5G Advanced network that connects more people, in more places, than ever before. With T-Mobile's unique value proposition of best network, best value and best experiences, the Un-carrier is redefining connectivity and fueling competition while continuing to drive the next wave of innovation in wireless, broadband and beyond. Headquartered in Bellevue, Wash., T-Mobile provides services through its subsidiaries and operates its flagship brands, T-Mobile, Metro by T-Mobile and Mint Mobile.",
+      "description": "As the supercharged Un-carrier, T-Mobile US, Inc. (NASDAQ: TMUS) is powered by an award-winning 5G network that connects more people, in more places, than ever before. With T-Mobile 's unique value proposition of best network, best value and best experiences, the Un-carrier is redefining connectivity and fueling competition while continuing to drive the next wave of innovation in wireless and beyond. Headquartered in Bellevue, Wash., T-Mobile provides services through its subsidiaries and operates its flagship brands, T-Mobile, Metro by T-Mobile and Mint Mobile.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -35431,7 +35431,7 @@
       "paymentDate": "10/01/2026",
       "growthRate": "29.41%",
       "growthSource": "Analyst Forecast",
-      "description": "Popular, Inc. (NASDAQ: BPOP) is the leading financial institution by both assets and deposits in Puerto Rico and ranks among the top 50 U.S. bank holding companies by assets. Founded in 1893, Banco Popular de Puerto Rico, Popular's principal subsidiary, provides retail, mortgage and commercial banking services in Puerto Rico and the U.S. Virgin Islands. Popular also offers in Puerto Rico auto and equipment leasing and financing, investment banking, broker-dealer and insurance services through specialized subsidiaries. In the mainland United States, Popular provides retail, mortgage and commercial banking services through its New York -chartered banking subsidiary, Popular Bank, which has branches located in New York, New Jersey and Florida.",
+      "description": "Popular, Inc. is the leading financial institution by both assets and deposits in Puerto Rico and ranks among the top 50 U.S. bank holding companies by assets. Founded in 1893, Banco Popular de Puerto Rico, Popular's principal subsidiary, provides retail, mortgage and commercial banking services in Puerto Rico and the U.S. Virgin Islands. Popular also offers in Puerto Rico auto and equipment leasing and financing, investment banking, broker-dealer and insurance services through specialized subsidiaries. In the mainland United States, Popular provides retail, mortgage and commercial banking services through its New York-chartered banking subsidiary, Popular Bank, which has branches located in New York, New Jersey and Florida.",
       "dividendHistory": [
         {
           "year": "1988",
@@ -38543,7 +38543,7 @@
       "paymentDate": "08/14/2026",
       "growthRate": "122.22%",
       "growthSource": "Analyst Forecast",
-      "description": "Kaiser Aluminum Corporation, headquartered in Franklin, Tenn., is a leading producer of semi-fabricated specialty aluminum products, serving customers worldwide with highly-engineered solutions for aerospace and high-strength, packaging, general engineering, automotive extrusions, and other industrial applications. The Company's North American facilities produce value-added plate, sheet, coil, extrusions, rod, bar, tube, and wire products, adhering to traditions of quality, innovation, and service that have been key components of the culture since the Company was founded in 1946. The Company's stock is included in the Russell 2000® index and the S&P Small Cap 600® index.",
+      "description": "Kaiser Aluminum Corporation, headquartered in Franklin, Tenn., is a leading producer of semi-fabricated specialty aluminum products, serving customers worldwide with highly-engineered solutions for aerospace and high-strength, packaging, general engineering, and automotive extrusions. The Company's North American facilities produce value-added plate, sheet, coil, extrusions, rod, bar, tube, and wire products, adhering to traditions of quality, innovation, and service that have been key components of the culture since the Company was founded in 1946. The Company's stock is included in the Russell 2000 index and the S&P Small Cap 600 index.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -39717,7 +39717,7 @@
       "paymentDate": "09/22/2026",
       "growthRate": "4.62%",
       "growthSource": "Analyst Forecast",
-      "description": "Commerce Bancshares, Inc. (NASDAQ: CBSH) is a regional bank holding company with $35.3 billion in assets¹, offering banking, payment solutions, wealth management and securities brokerage through its subsidiaries. Commerce Bank, its primary subsidiary, brings over 160 years of experience helping individuals and businesses through high-touch service and sophisticated, personalized financial solutions. Commerce maintains an extensive network of banking centers, wealth offices, and ATMs throughout the Midwest, as well as commercial offices in 11 states and offers payment solutions nationwide. With its recent acquisition of FineMark Holdings, Inc., Commerce builds on its existing private banking and wealth management presence in Florida and adds wealth offices in Arizona and South Carolina. Customers can conveniently access their accounts 24/7 using mobile and online platforms, as well as a customer service line.",
+      "description": "Commerce Bancshares, Inc. (NASDAQ: CBSH) is a regional bank holding company with $35.3 billion in assets¹, offering banking, payment solutions, wealth management and securities brokerage through its subsidiaries. Commerce Bank, its primary subsidiary, brings over 160 years of experience helping individuals and businesses through high-touch service and sophisticated, personalized financial solutions. Commerce maintains an extensive network of banking centers, wealth offices, and ATMs throughout the Midwest, as well as commercial offices in 11 states and offers payment solutions nationwide. The company also delivers financial planning, private banking, investment management and trust services to clients through a network of dedicated wealth offices across the country. Customers can conveniently access their accounts 24/7 using mobile and online platforms, as well as a customer service line.",
       "dividendHistory": [
         {
           "year": "1988",
@@ -40217,7 +40217,7 @@
       "paymentDate": "08/31/2026",
       "growthRate": "5.89%",
       "growthSource": "Analyst Forecast",
-      "description": "Business First Bancshares, Inc., (Nasdaq: BFST) through its banking subsidiary b1BANK, has $8.9 billion in assets, $5.6 billion in assets under management through b1BANK's affiliate Smith Shellnut Wilson, LLC (SSW) (not including $1 billion of b1BANK assets managed by SSW) and operates Banking Centers and Loan Production Offices in markets across Louisiana and Texas providing commercial and personal banking products and services. b1BANK is a 2024 Mastercard 'Innovation Award' winner and multiyear winner of American Banker Magazine's 'Best Banks to Work For.' Visit b1BANK.com for more information.",
+      "description": "As of June 30, 2026, Business First Bancshares, Inc., (Nasdaq: BFST) through its banking subsidiary b1BANK, has $8.9 billion in assets, $5.6 billion in assets under management through b1BANK's affiliate Smith Shellnut Wilson, LLC (SSW) (not including $1 billion of b1BANK assets managed by SSW) and operates Banking Centers and Loan Production Offices in markets across Louisiana and Texas providing commercial and personal banking products and services. b1BANK is a 2024 Mastercard 'Innovation Award' winner and multiyear winner of American Banker's 'Best Banks to Work For.' Visit b1BANK.com for more information.",
       "dividendHistory": [
         {
           "year": "2018",
@@ -46511,7 +46511,7 @@
       "paymentDate": "09/25/2026",
       "growthRate": "19.17%",
       "growthSource": "Analyst Forecast",
-      "description": "Nasdaq (Nasdaq: NDAQ) is a leading technology platform that powers the world's economies. We architect the world's most modern markets, power the innovation economy, and build trust in the financial system. We empower economic opportunity by designing and deploying the technology, data, and advanced analytics that enable our clients to capture opportunities, navigate risk, and strengthen resilience.",
+      "description": "Nasdaq (Nasdaq: NDAQ) is a leading technology platform that powers the world's economies. We architect the infrastructure of the world's most modern markets, power the innovation economy, and build trust in the financial system. We empower economic opportunity by designing and deploying advanced technology, data, and intelligence solutions that enable our clients to capture opportunities, navigate risk, and strengthen resilience. To learn more about the company, technology solutions and career opportunities, visit us on LinkedIn, on X @Nasdaq, or at www.nasdaq.com.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -46915,7 +46915,7 @@
       "paymentDate": "10/15/2026",
       "growthRate": "15.99%",
       "growthSource": "Analyst Forecast",
-      "description": "At WTW (NASDAQ: WTW), we provide data-driven, insight-led solutions in the areas of people, risk and capital. Leveraging the global view and local expertise of our colleagues serving 140 countries and markets, we help organizations sharpen their strategy, enhance organizational resilience, motivate their workforce and maximize performance. Working shoulder to shoulder with our clients, we uncover opportunities for sustainable success-and provide perspective that moves you. Learn more at wtwco.com.",
+      "description": "At WTW (NASDAQ: WTW), we provide data-driven, insight-led solutions in the areas of people, risk, and capital. Leveraging the global view and local expertise of our colleagues serving 140 countries and markets, we help organizations sharpen their strategy, enhance organizational resilience, motivate their workforce, and maximize performance. Working shoulder to shoulder with our clients, we uncover opportunities for sustainable success-and provide perspective that moves you.",
       "dividendHistory": [
         {
           "year": "2004",
@@ -48963,7 +48963,7 @@
       "paymentDate": "09/30/2026",
       "growthRate": "7.65%",
       "growthSource": "Analyst Forecast",
-      "description": "Verisk Anti-Fraud Claims Solutions specializes in fraud detection within claims processes for the global insurance industry. Verisk's robust industry data and technology solutions help clients detect fraud and facilitate fast claim resolutions for insurers, (re)insurers and other stakeholders. Verisk's anti-fraud solutions integrate data from ClaimSearch, the industry's leading property and casualty claims intelligence network.",
+      "description": "Verisk (Nasdaq: VRSK) is a leading strategic data analytics and technology partner to the global insurance industry. It empowers clients to strengthen operating efficiency, improve underwriting and claims outcomes, combat fraud and make informed decisions about global risks, including climate change, catastrophic events, sustainability and political issues. Through advanced data analytics, software, scientific research and deep industry knowledge, Verisk helps build global resilience for individuals, communities and businesses. With teams across more than 20 countries, Verisk consistently earns certification by Great Place to Work. For more, visit Verisk.com.",
       "dividendHistory": [
         {
           "year": "2019",
@@ -50059,7 +50059,7 @@
       "paymentDate": "08/27/2026",
       "growthRate": "8.85%",
       "growthSource": "Analyst Forecast",
-      "description": "Verisign (NASDAQ: VRSN), a global provider of critical internet infrastructure and domain name registry services, enables internet navigation for many of the world's most recognized domain names. Verisign helps enable the security, stability, and resiliency of the Domain Name System and the internet by providing root zone maintainer services, operating two of the 13 global internet root servers, and providing registration services and authoritative resolution for the. com and. net top-level domains, which support the majority of global e-commerce. To learn more please visit verisign.com.",
+      "description": "Verisign (NASDAQ: VRSN), a global provider of critical internet infrastructure and domain name registry services, enables internet navigation for many of the world's most recognized domain names. Verisign helps enable the security, stability, and resiliency of the Domain Name System and the internet by providing root zone maintainer services, operating two of the 13 global internet root servers, and providing registration services and authoritative resolution for the. com and. net top-level domains, which support the majority of global e-commerce.",
       "dividendHistory": [
         {
           "year": "2025",
@@ -50089,7 +50089,7 @@
       "paymentDate": "08/25/2026",
       "growthRate": "20.21%",
       "growthSource": "Analyst Forecast",
-      "description": "The Cheesecake Factory Incorporated is a leader in experiential dining. We are culinary forward and relentlessly focused on hospitality. Delicious, memorable experiences created by passionate people-this defines who we are and where we are going. We currently own and operate 377 restaurants throughout the United States and Canada under brands including The Cheesecake Factory, North Italia, Flower Child and a collection of other FRC brands. Internationally, 35 The Cheesecake Factory restaurants operate under licensing agreements. Our bakery division operates two facilities that produce quality cheesecakes and other baked products for our restaurants, international licensees and third-party bakery customers. In 2026, we were named to the FORTUNE Magazine '100 Best Companies to Work For' list for the thirteenth consecutive year.",
+      "description": "The Cheesecake Factory is a leader in experiential dining. We are culinary forward and relentlessly focused on hospitality. Delicious, memorable experiences created by passionate people - this defines who we are and where we are going. We currently own and operate 380 restaurants throughout the United States and Canada under brands including The Cheesecake Factory, North Italia, Flower Child and a collection of other FRC brands. Internationally, 35 The Cheesecake Factory restaurants operate under licensing agreements. Our bakery division operates two facilities that produce quality cheesecakes and other baked products for our restaurants, international licensees and third-party bakery customers. In 2026, we were named to the FORTUNE Magazine '100 Best Companies to Work For' list for the thirteenth consecutive year.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -50615,7 +50615,7 @@
       "paymentDate": "07/21/2026",
       "growthRate": "32.34%",
       "growthSource": "Analyst Forecast",
-      "description": "CF Bankshares Inc. (the 'Company') is a bank holding company that owns 100% of the stock of CFBank, National Association ('CFBank'). CFBank is a nationally chartered boutique Commercial bank operating primarily in Five (5) Major Metro Markets: Columbus, Cleveland, Cincinnati, and Akron Ohio, and Indianapolis, Indiana. The current Leadership Team and Board recapitalized the Company and CFBank in 2012 during the financial crisis, repositioning CFBank as a full-service Commercial Bank model. CFBank focuses on serving the financial needs of closely held businesses and entrepreneurs, by providing a comprehensive Commercial, Retail, and Mortgage Lending services presence. In all regional markets, CFBank provides commercial loans and equipment leases, commercial and residential real estate loans and treasury management depository services, residential mortgage lending, and full-service commercial and retail banking services and products.",
+      "description": "CF Bankshares Inc. (the 'Company') is a holding company that owns 100% of the stock of CFBank, National Association ('CFBank'). CFBank is a nationally chartered boutique Commercial bank operating primarily in Five (5) Major Metro Markets: Columbus, Cleveland, Cincinnati, and Akron Ohio, and Indianapolis, Indiana. The current Leadership Team and Board recapitalized the Company and CFBank in 2012 during the financial crisis, repositioning CFBank as a full-service Commercial Bank model. CFBank focuses on serving the financial needs of closely held businesses and entrepreneurs, by providing a comprehensive Commercial, Retail, and Mortgage Lending services presence. In all regional markets, CFBank provides commercial loans and equipment leases, commercial and residential real estate loans and treasury management depository services, residential mortgage lending, and full-service commercial and retail banking services and products.",
       "dividendHistory": [
         {
           "year": "1999",
@@ -53511,7 +53511,7 @@
       "paymentDate": "08/21/2026",
       "growthRate": "23.89%",
       "growthSource": "Analyst Forecast",
-      "description": "J.B. Hunts vision is to create the most efficient transportation network in North America. The companys industry-leading solutions and mode-neutral approach generate value for customers by eliminating waste, reducing costs and enhancing supply chain visibility. Powered by one of the largest company-owned fleets in the country and third-party capacity through its J.B. Hunt 360° digital freight marketplace, J.B. Hunt can meet the unique shipping needs of any business, from first mile to final delivery, and every shipment in-between. Through disciplined investments in its people, technology and capacity, J.B. Hunt is delivering exceptional value and service that enable long-term growth for the company and its stakeholders.",
+      "description": "J.B. Hunt's vision is to create the most efficient transportation network in North America. The company's industry-leading solutions and mode-neutral approach generate value for customers by eliminating waste, reducing costs and enhancing supply chain visibility. Powered by one of the largest company-owned fleets in the country and third-party capacity through its J.B. Hunt 360° digital freight marketplace, J.B. Hunt can meet the unique shipping needs of any business, from first mile to final delivery, and every shipment in-between. Through disciplined investments in its people, technology and capacity, J.B. Hunt is delivering exceptional value and service that enable long-term growth for the company and its stakeholders.",
       "dividendHistory": [
         {
           "year": "1988",
@@ -58263,7 +58263,7 @@
       "paymentDate": "08/21/2026",
       "growthRate": "88.6%",
       "growthSource": "Analyst Forecast",
-      "description": "ArcBest (Nasdaq: ARCB) is a multibillion-dollar integrated logistics company delivering end-to-end supply chain solutions designed around how businesses operate. Partnering with 30,000+ customers across the globe, ArcBest combines the reliability and control of an asset-based LTL network, the reach and flexibility of a brokerage network, and innovative technology to help build stronger, more efficient supply chains. ArcBest View, the company's digital logistics platform, gives customers greater control and clarity by bringing quoting, booking, shipment visibility and reporting into one connected experience. With 14,000 employees, 250 campuses and service centers and over a century of expertise, ArcBest delivers a premium experience built on reliable service, clear visibility and responsive support.",
+      "description": "ArcBest (Nasdaq: ARCB) is a multibillion-dollar integrated logistics company that helps keep the global supply chain moving. Founded in 1923 and now with 14,000 employees across 250 campuses and service centers, the company is a logistics powerhouse, using its technology, expertise and scale to connect shippers with the solutions they need - from ground, air and ocean transportation to fully managed supply chains. ArcBest has a long history of innovation that is enriched by deep customer relationships. With a commitment to helping customers navigate supply chain challenges now and in the future, the company continues to invest in purpose-built technology such as ArcBest View , its digital logistics platform that brings quoting, booking, shipment visibility and reporting into one connected experience.",
       "dividendHistory": [
         {
           "year": "1992",
@@ -58877,7 +58877,7 @@
       "paymentDate": "07/31/2026",
       "growthRate": "40.48%",
       "growthSource": "Analyst Forecast",
-      "description": "VersaBank is a North American bank with a difference. Federally chartered in both Canada and the U.S., VersaBank has a branchless, digital, business-to-business model based on its proprietary technology designed to address underserved segments of the banking industry. VersaBank obtains substantially all of its deposits and undertakes the majority of its funding activities electronically through financial intermediary partners. In August 2024, VersaBank launched its unique Structured Receivable Program funding solution for point-of-sale finance companies, which has been deployed in Canada for over 15 years, to the U.S. market. VersaBank also owns Minnesota-based DRT Cyber Inc., which provides cyber security services to address the rapidly growing volume of cyber threats challenging financial institutions, multi-national corporations and government entities. Through DRT Cyber Inc.",
+      "description": "VersaBank is a North American bank with a difference. Federally chartered in both Canada and the U.S., VersaBank has a branchless, digital, business-to-business model based on its proprietary state-of-the-art technology that enables it to profitably address underserved segments of the banking industry in a significantly risk mitigated manner. Because VersaBank obtains substantially all of its deposits and undertakes the majority of its funding activities electronically through financial intermediary partners, it benefits from significant operating leverage that drives efficiency and return on common equity. In August 2024, VersaBank launched its unique Structured Receivable Program funding solution for point-of-sale finance companies, which has been highly successful in Canada for over 15 years, to the underserved multi-trillion-dollar U.S. market. VersaBank also owns Minnesota-based DRT Cyber Inc.",
       "dividendHistory": [
         {
           "year": "2021",
@@ -59055,7 +59055,7 @@
       "paymentDate": "10/01/2026",
       "growthRate": "0.7%",
       "growthSource": "Analyst Forecast",
-      "description": "Pathward Financial, Inc. (Nasdaq: CASH) is a U.S.-based financial holding company driven by its purpose to power financial inclusion. Through our subsidiary, Pathward®, N.A., we strive to increase financial availability, choice and opportunity through payments sponsorship and lending. These capabilities provide support to individuals and businesses. Learn more at pathwardfinancial.com.",
+      "description": "Pathward Financial, Inc. (Nasdaq: CASH) is a U.S.-based financial holding company driven by its purpose to power financial inclusion. Through our subsidiary, Pathward, N.A., we strive to increase financial availability, choice and opportunity through payments sponsorship and lending. These capabilities provide support to individuals and businesses.",
       "dividendHistory": [
         {
           "year": "1994",
