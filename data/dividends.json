@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": "2026-10-18T00:05:25.604Z",
+  "lastUpdated": "2026-10-19T00:15:56.017Z",
   "count": 803,
   "totalScanned": 7002,
   "stats": {
@@ -9,7 +9,7 @@
     "withoutGrowthData": 34,
     "withDividendHistory": 803,
     "avgDividendYears": "13.1",
-    "durationMinutes": "12.47"
+    "durationMinutes": "14.83"
   },
   "sectors": [
     {
@@ -15689,7 +15689,7 @@
       "paymentDate": "10/02/2026",
       "growthRate": "-2.4%",
       "growthSource": "Analyst Forecast",
-      "description": "Kimberly-Clark (NASDAQ: KMB) and its trusted brands are an indispensable part of life for people in more than 175 countries and territories. Our portfolio of brands, including Huggies, Kleenex, Scott, Kotex, Cottonelle, Poise, Depend, Pull-Ups, Goodnites, Intimus, Plenitud, Sweety, Softex, Viva and WypAll, hold No. 1 or No. 2 share positions in approximately 70 countries. Our company's purpose is to deliver Better Care for a Better World. We are committed to using sustainable practices designed to support a healthy planet, build strong communities, and enable our business to thrive for decades to come. To keep up with the latest news and learn more about the company's more than 150-year history of innovation, visit the Kimberly-Clark website.",
+      "description": "Kimberly-Clark de México, S. A. B. de C. V., together with its subsidiaries, manufactures, distributes, and sells disposable products in Mexico. It operates through Consumer Products and Professional segments. The company offers diapers, training pants, swim pants, wet wipes, shampoos, lotion, bar soaps, and feeding products. It also provides toilet paper, napkins, facial tissues, paper towels, feminine pads, panty liners, tampons, intimate wipes, and menstrual cups. In addition, the company offers pet food, shampoos, wet wipes, and training pads. Further, it provides bar soap, liquid hand soap, foaming liquid soap, and liquid body wash; and underwear, protectors, feminine napkins, pre-folded products for adults. Additionally, the company offers anti-bacterial gels; disinfectant sprays; face masks; dispensers; hand towels; and industrial cleaning cloths.",
       "dividendHistory": [
         {
           "year": "2000",
