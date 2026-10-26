@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": "2026-10-25T00:20:08.345Z",
+  "lastUpdated": "2026-10-26T00:10:26.653Z",
   "count": 802,
   "totalScanned": 6978,
   "stats": {
@@ -9,7 +9,7 @@
     "withoutGrowthData": 36,
     "withDividendHistory": 802,
     "avgDividendYears": "13.1",
-    "durationMinutes": "12.58"
+    "durationMinutes": "11.83"
   },
   "sectors": [
     {
@@ -16315,7 +16315,7 @@
       "paymentDate": "10/02/2026",
       "growthRate": "-9.36%",
       "growthSource": "Analyst Forecast",
-      "description": "Kimberly-Clark de México, S. A. B. de C. V., together with its subsidiaries, manufactures, distributes, and sells disposable products in Mexico. It operates through Consumer Products and Professional segments. The company offers diapers, training pants, swim pants, wet wipes, shampoos, lotion, bar soaps, and feeding products. It also provides toilet paper, napkins, facial tissues, paper towels, feminine pads, panty liners, tampons, intimate wipes, and menstrual cups. In addition, the company offers pet food, shampoos, wet wipes, and training pads. Further, it provides bar soap, liquid hand soap, foaming liquid soap, and liquid body wash; and underwear, protectors, feminine napkins, pre-folded products for adults. Additionally, the company offers anti-bacterial gels; disinfectant sprays; face masks; dispensers; hand towels; and industrial cleaning cloths.",
+      "description": "Kimberly-Clark (NASDAQ: KMB) and its trusted brands are an indispensable part of life for people in more than 175 countries and territories. Our portfolio of brands, including Huggies, Kleenex, Scott, Kotex, Cottonelle, Poise, Depend, Pull-Ups, Goodnites, Intimus, Plenitud, Sweety, Softex, Viva and WypAll, hold No. 1 or No. 2 share positions in approximately 70 countries. Our company's purpose is to deliver Better Care for a Better World. We are committed to using sustainable practices designed to support a healthy planet, build strong communities, and enable our business to thrive for decades to come. The KMB stock is a large cap growth and value stock and core S&P 500 equity held by more than 400 Exchange Traded Funds. Kimberly-Clark is considered a dividend aristocrat, having paid a cash dividend to shareholders for 92 consecutive years and increased its dividend for 54 consecutive years.",
       "dividendHistory": [
         {
           "year": "2000",
