@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": "2026-10-31T01:41:03.191Z",
+  "lastUpdated": "2026-11-01T01:01:52.301Z",
   "count": 803,
   "totalScanned": 6954,
   "stats": {
@@ -9,7 +9,7 @@
     "withoutGrowthData": 38,
     "withDividendHistory": 803,
     "avgDividendYears": "13.1",
-    "durationMinutes": "13.39"
+    "durationMinutes": "11.89"
   },
   "sectors": [
     {
@@ -1047,7 +1047,7 @@
       "paymentDate": "11/18/2026",
       "growthRate": "-44.12%",
       "growthSource": "Analyst Forecast",
-      "description": "Prospect is a business development company that invests in middle market privately-held companies. Prospect's investment objective is to generate both current income and long-term capital appreciation. Prospect has elected to be treated as a business development company under the Investment Company Act of 1940. Prospect has elected to be treated as a regulated investment company under the Internal Revenue Code of 1986.",
+      "description": "Prospect is a business development company that primarily lends to and invests in middle market privately-held companies. Prospect's investment objective is to generate both current income and long-term capital appreciation. Prospect has elected to be treated as a business development company under the Investment Company Act of 1940. Prospect has elected to be treated as a regulated investment company under the Internal Revenue Code of 1986.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -1565,7 +1565,7 @@
       "paymentDate": "10/05/2026",
       "growthRate": "-47.83%",
       "growthSource": "Analyst Forecast",
-      "description": "OFS Capital Corporation is an externally managed, closed-end, non-diversified management investment company that has elected to be regulated as a business development company. OFS Capital's investment objective is to provide stockholders with both current income and capital appreciation primarily through debt investments and, to a lesser extent, equity investments. OFS Capital invests primarily in privately held middle-market companies in the United States, including lower-middle-market companies, targeting investments of $3 million to $20 million in companies with annual EBITDA between $5 million and $50 million. OFS Capital offers flexible solutions through a variety of asset classes including senior secured loans, which includes first-lien, second-lien and unitranche loans, as well as subordinated loans and, to a lesser extent, warrants and other equity securities.",
+      "description": "The Company is an externally managed, closed-end, non-diversified management investment company that has elected to be regulated as a business development company. The Company's investment objective is to provide stockholders with both current income and capital appreciation primarily through debt investments and, to a lesser extent, equity investments. The Company invests primarily in privately held middle-market companies in the United States, including lower-middle-market companies, targeting investments of $3 million to $20 million in companies with annual EBITDA between $5 million and $50 million. The Company offers flexible solutions through a variety of asset classes including senior secured loans, which includes first-lien, second-lien and unitranche loans, as well as subordinated loans and, to a lesser extent, warrants and other equity securities.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -6823,7 +6823,7 @@
       "paymentDate": "09/15/2026",
       "growthRate": "17.1%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Atlanticus Holdings Corporation empowers better financial outcomes for Everyday Americans by enabling bank, retail, healthcare, and automotive partners to offer more inclusive financial solutions to consumers. Leveraging proprietary technology and advanced analytics, Atlanticus applies more than 30 years of operating experience, servicing over 23 million customers and more than $53 billion in consumer loans, to support lenders across a broad range of consumer credit products. These offerings span retail and healthcare private-label credit and general purpose credit cards, through an omnichannel platform, including strategic partnerships. Additionally, through its Auto Finance subsidiary, Atlanticus helps address the specific needs of automotive dealerships and non-prime automotive finance organizations with a range of financing and service programs.",
+      "description": "Atlanticus Holdings Corporation empowers better financial outcomes for Everyday Americans by enabling bank, retail, and healthcare partners to offer more inclusive financial solutions to consumers. Leveraging proprietary technology and advanced analytics, Atlanticus applies more than 30 years of operating experience, servicing over 23 million customers and more than $53 billion in consumer loans, to support lenders across a broad range of consumer credit products. These offerings span retail and healthcare private-label credit and general purpose credit cards, through an omnichannel platform, including strategic partnerships. Atlanticus is guided by the principles of responsible lending, smart innovation, and expanding access to credit for consumers working toward a stronger financial future.",
       "dividendHistory": [
         {
           "year": "2021",
@@ -7611,7 +7611,7 @@
       "paymentDate": "09/25/2026",
       "growthRate": "3.83%",
       "growthSource": "Analyst Forecast",
-      "description": "GLPI is engaged in the business of acquiring, financing, and owning real estate property to be leased to gaming operators in triple-net lease arrangements, pursuant to which the tenant is responsible for all facility maintenance, insurance required in connection with the leased properties and the business conducted on the leased properties, taxes levied on or with respect to the leased properties and all utilities and other services necessary or appropriate for the leased properties and the business conducted on the leased properties.",
+      "description": "GLPI is engaged in the business of acquiring, financing, and owning real estate property to be leased to gaming operators in triple-net lease arrangements, pursuant to which the tenant is responsible for all facility maintenance, insurance required in connection with the leased properties and the business conducted on the leased properties, including coverage of the landlord's interests, taxes levied on or with respect to the leased properties and all utilities and other services necessary or appropriate for the leased properties and the business conducted on the leased properties. The Company also extends loans that produce fixed or variable returns which may convert into leased rent upon project completion or stabilization.",
       "dividendHistory": [
         {
           "year": "2014",
@@ -12039,7 +12039,7 @@
       "paymentDate": "08/27/2026",
       "growthRate": "-30.59%",
       "growthSource": "Analyst Forecast",
-      "description": "Smithfield Foods, Inc. (Nasdaq: SFD) is an American food company with a leading position in packaged meats and fresh pork products. With a diverse brand portfolio and strong relationships with U.S. farmers and customers, we responsibly meet demand for quality protein around the world. For more information, please visit investors.smithfieldfoods.com.",
+      "description": "Smithfield Foods, Inc. (Nasdaq: SFD) is an American food company with a leading position in packaged meats and fresh pork products. With a diverse brand portfolio and strong relationships with U.S. farmers and customers, we responsibly meet demand for quality protein around the world.",
       "dividendHistory": [
         {
           "year": "2025",
@@ -12183,7 +12183,7 @@
       "paymentDate": "09/03/2026",
       "growthRate": "-24.92%",
       "growthSource": "Analyst Forecast",
-      "description": "LKQ Corporation ( www.lkqcorp.com) is a leading provider of alternative and specialty parts to repair and accessorize automobiles and other vehicles. LKQ has operations in North America, Europe and Taiwan. LKQ offers its customers a broad range of OE recycled and aftermarket parts, replacement systems, components, equipment, and services to repair and accessorize automobiles, trucks, and recreational and performance vehicles.",
+      "description": "LKQ Corporation ( www.lkqcorp.com ) is a leading provider of alternative and specialty parts to repair and accessorize automobiles and other vehicles. LKQ has operations in North America, Europe and Taiwan. LKQ offers its customers a broad range of OEM recycled and aftermarket parts, replacement systems, components, equipment, and services to repair and accessorize automobiles, trucks, and recreational and performance vehicles.",
       "dividendHistory": [
         {
           "year": "2021",
@@ -13103,7 +13103,7 @@
       "paymentDate": "10/30/2026",
       "growthRate": "128.33%",
       "growthSource": "Analyst Forecast",
-      "description": "Xerox is a global technology company with more than 120 years of innovation leadership. We design, manufacture, deliver, and support print, IT, and digital services for nearly 200,000 clients worldwide. Our integrated, AI-powered portfolio includes managed and production print, document management, workflow automation, cybersecurity, cloud managed services, IT infrastructure and collaboration technology. Serving clients from growing SMBs to 90 percent of the Fortune 500, Xerox supports leading healthcare, government, financial services, education, legal, retail and commercial organizations. Through direct sales and a global network of channel partners, we deliver the technology, expertise, and support organizations need to operate efficiently, securely and at scale.",
+      "description": "Xerox is a global technology company with more than 120 years of innovation leadership. We design, manufacture, deliver, and support print, IT, and digital services for nearly 200,000 clients worldwide. Our integrated, AI-powered portfolio includes managed and production print, document management, workflow automation, cybersecurity, cloud managed services, IT infrastructure, and collaboration technology. Serving clients from growing SMBs to 90 percent of the Fortune 500, Xerox supports leading healthcare, government, financial services, education, legal, retail, and commercial organizations. Through direct sales and a global network of channel partners, we deliver the technology, expertise, and support organizations need to operate efficiently, securely, and at scale.",
       "dividendHistory": [
         {
           "year": "2000",
@@ -14141,7 +14141,7 @@
       "paymentDate": "06/03/2026",
       "growthRate": "12.96%",
       "growthSource": "Analyst Forecast",
-      "description": "Sanofi is an R&D driven, AI-powered biopharma company committed to improving people's lives and delivering compelling growth. We apply our deep understanding of the immune system to invent medicines and vaccines that treat and protect millions of people around the world, with an innovative pipeline that could benefit millions more.Our team is guided by one purpose: we chase the miracles of science to improve people's lives; this inspires us to drive progress and deliver positive impact for our people and the communities we serve, by addressing the most urgent healthcare, environmental, and societal challenges of our time.",
+      "description": "Sanofi is an R&D driven, AI-powered biopharma company committed to improving people's lives and delivering compelling growth. We apply our deep understanding of the immune system to invent medicines and vaccines that treat and protect millions of people around the world, with an innovative pipeline that could benefit millions more. Sanofi is the largest biopharma manufacturer in Canada, and is investing, innovating and operating across the full life sciences value chain. We are 2,000+ employees strong, invest 20% of our revenue annually in biopharma research, and are on track to deliver over $2 billion in new infrastructure investments by 2028. Sanofi is committed to our community and is working with partners to foster a long-term sustainable ecosystem and build a healthier Canada.",
       "dividendHistory": [
         {
           "year": "2004",
@@ -15117,7 +15117,7 @@
       "paymentDate": "08/28/2026",
       "growthRate": "207.14%",
       "growthSource": "Analyst Forecast",
-      "description": "Built by Agents. Built for Agents. AGNT, Inc. (Nasdaq: AGNT) is the global parent company of eXp Realty, the most agent-centric real estate brokerage on the planet, NextHome, Inc., an award-winning national real estate franchise, FrameVR.io, a virtual collaboration platform, and SUCCESS Enterprises, a leading personal development and media brand for entrepreneurs. Together, the AGNT platform provides a world-class multi-model operating system empowering independent agents, franchise owners, and team leaders across the Americas, Europe, the Middle East, Asia Pacific, and South Africa. As a publicly traded company, AGNT prioritizes transparency, innovation, and long-term value for agents, franchise owners, staff, and shareholders.",
+      "description": "AGNT, Inc. (Nasdaq: AGNT) is the holding company for eXp Commercial, a nationwide cloud-based commercial real estate brokerage. As a publicly traded company, it offers commercial advisors the unique opportunity to earn equity awards for meeting production goals and driving company growth. With advanced technology and a global network, eXp Commercial helps advisors grow their businesses and serve clients across commercial sectors like office, industrial, retail, multifamily, land, specialty properties and more.",
       "dividendHistory": [
         {
           "year": "2021",
@@ -15205,7 +15205,7 @@
       "paymentDate": "09/15/2026",
       "growthRate": "200%",
       "growthSource": "Analyst Forecast",
-      "description": "Pangaea Logistics Solutions Ltd. (NASDAQ: PANL) and its subsidiaries (collectively, 'Pangaea' or the 'Company') provides seaborne drybulk logistics and transportation services as well as terminal and stevedoring services. Pangaea utilizes its logistics expertise to service a broad base of industrial customers who require the transportation of a wide variety of drybulk cargoes, including grains, coal, iron ore, pig iron, hot briquetted iron, bauxite, alumina, cement clinker, dolomite and limestone. The Company addresses the logistics needs of its customers by undertaking a comprehensive set of services and activities, including cargo loading, cargo discharge, port and terminal operations, vessel chartering, voyage planning, and vessel technical management.",
+      "description": "Pangaea Logistics Solutions Ltd. (Nasdaq: PANL) provides logistics services to a broad base of industrial customers who require the transportation of a wide variety of dry bulk cargoes, including grains, pig iron, hot briquetted iron, bauxite, alumina, cement clinker, dolomite, and limestone. The Company addresses the transportation needs of its customers with a comprehensive set of services and activities, including cargo loading, cargo discharge, vessel chartering, and voyage planning.",
       "dividendHistory": [
         {
           "year": "2019",
@@ -15333,7 +15333,7 @@
       "paymentDate": "08/28/2026",
       "growthRate": "15.49%",
       "growthSource": "Analyst Forecast",
-      "description": "TPG is a leading global alternative asset management firm, founded in San Francisco in 1992, with $327 billion of assets under management and investment and operational teams around the world. TPG invests across a broadly diversified set of strategies, including private equity, impact, credit, real estate, and market solutions, and our unique strategy is driven by collaboration, innovation, and inclusion. Our teams combine deep product and sector experience with broad capabilities and expertise to develop differentiated insights and add value for our fund investors, portfolio companies, management teams, and communities.",
+      "description": "TPG is a leading global alternative asset management firm, founded in San Francisco in 1992, with $346 billion of assets under management and investment and operational teams around the world. TPG invests across a broadly diversified set of strategies, including private equity, impact, credit, real estate, and market solutions, and our unique strategy is driven by collaboration, innovation, and inclusion. Our teams combine deep product and sector experience with broad capabilities and expertise to develop differentiated insights and add value for our fund investors, portfolio companies, management teams, and communities.",
       "dividendHistory": [
         {
           "year": "2022",
@@ -15453,7 +15453,7 @@
       "paymentDate": "09/29/2026",
       "growthRate": "3.75%",
       "growthSource": "Analyst Forecast",
-      "description": "T. Rowe Price (NASDAQ-GS: TROW) is a leading global asset management firm, entrusted with managing $1.86 trillion in client assets as of September 30, 2026, about two-thirds of which are retirement-related. Renowned for nearly 90 years of investment excellence, retirement leadership, and independent proprietary research, the firm leverages its longstanding expertise to ask better questions that can drive better investment decisions. Built on a culture of integrity and prioritizing client interests, T. Rowe Price empowers millions of investors worldwide to thrive amidst evolving markets. Visit troweprice.com/newsroom for news and public policy commentary.",
+      "description": "T. Rowe Price (NASDAQ-GS: TROW) is a leading global asset management firm, entrusted with managing $1.86 trillion in client assets as of September 30, 2026, about two-thirds of which are retirement-related. Renowned for over 85 years of investment excellence, retirement leadership, and independent proprietary research, the firm leverages its longstanding expertise to ask better questions that can drive better investment decisions. Built on a culture of integrity and prioritizing client interests, T. Rowe Price empowers millions of investors worldwide to thrive amidst evolving markets.",
       "dividendHistory": [
         {
           "year": "1988",
@@ -15741,7 +15741,7 @@
       "paymentDate": "09/03/2026",
       "growthRate": "-57.54%",
       "growthSource": "Analyst Forecast",
-      "description": "Founded in 2002, Jefferson Capital is an analytically driven purchaser and manager of charged-off, insolvency and active consumer accounts with operations in the United States, Canada, the United Kingdom and Latin America. It purchases and services both secured and unsecured assets, and its growing client base includes Fortune 500 creditors, banks, fintech origination platforms, telecommunications providers, credit card issuers and auto finance companies. Jefferson Capital is headquartered in Minneapolis, Minnesota with additional offices and operations located in Sartell, Minnesota, Denver, Colorado and San Antonio, Texas (United States); Basingstoke, England; London, England and Paisley, Scotland (United Kingdom); London, Ontario and Toronto, Ontario (Canada); as well as Bogota (Colombia).",
+      "description": "Founded in 2002, Jefferson Capital is an analytically driven purchaser and manager of charged-off, insolvency and active consumer accounts with operations in the United States, Canada, the United Kingdom and Latin America. It purchases and services both secured and unsecured assets, and its growing client base includes Fortune 500 creditors, banks, fintech origination platforms, telecommunications providers, credit card issuers and auto finance companies. Jefferson Capital is headquartered in Minneapolis, Minnesota with additional offices and operations located in Sartell, Minnesota, Denver, Colorado and San Antonio, Texas (United States); Basingstoke, England, London, England and Paisley, Scotland (United Kingdom); London, Ontario and Toronto, Ontario (Canada); as well as Bogota (Colombia).",
       "dividendHistory": [
         {
           "year": "2025",
@@ -15771,7 +15771,7 @@
       "paymentDate": "08/31/2026",
       "growthRate": "-35.53%",
       "growthSource": "Analyst Forecast",
-      "description": "Medallion Financial Corp. (NASDAQ: MFIN) and its subsidiaries originate and service a growing portfolio of consumer loans and mezzanine loans in various industries. Key industries served include recreation (towable RVs and marine) and home improvement (swimming pools, replacement roofs, and windows. Medallion Financial Corp. is headquartered in New York City, New York, and its largest subsidiary, Medallion Bank, is headquartered in Salt Lake City, Utah. For more information, please visit www.medallion.com.",
+      "description": "Medallion Financial Corp. (NASDAQ: MFIN) and its subsidiaries originate and service a portfolio of consumer loans and mezzanine loans in various industries. Key industries served include recreation (towable RVs and marine) and home improvement (swimming pools, replacement roofs, and windows). Medallion Financial Corp. is headquartered in New York City, NY, and its largest subsidiary, Medallion Bank, is headquartered in Salt Lake City, Utah. For more information, please visit www.medallion.com.",
       "dividendHistory": [
         {
           "year": "1996",
@@ -16237,7 +16237,7 @@
       "paymentDate": "10/02/2026",
       "growthRate": "-9.36%",
       "growthSource": "Analyst Forecast",
-      "description": "Kimberly-Clark (NASDAQ: KMB) and its trusted brands are an indispensable part of life for people in more than 175 countries and territories. Our portfolio of brands, including Huggies, Kleenex, Scott, Kotex, Cottonelle, Poise, Depend, Pull-Ups, Goodnites, Intimus, Plenitud, Sweety, Softex, Viva and WypAll, hold No. 1 or No. 2 share positions in approximately 70 countries. Our company's purpose is to deliver Better Care for a Better World. We are committed to using sustainable practices designed to support a healthy planet, build strong communities, and enable our business to thrive for decades to come. The KMB stock is a large cap growth and value stock and core S&P 500 equity held by more than 400 Exchange Traded Funds. Kimberly-Clark is considered a dividend aristocrat, having paid a cash dividend to shareholders for 92 consecutive years and increased its dividend for 54 consecutive years.",
+      "description": "Kimberly-Clark (NASDAQ: KMB ) and its trusted brands are an indispensable part of life for people in more than 175 countries and territories. Our portfolio of brands, including Huggies, Kleenex, Scott, Kotex, Cottonelle, Poise, Depend, Pull-Ups, Goodnites, Intimus, Plenitud, Sweety, Softex, Viva and WypAll, hold No. 1 or No. 2 share positions in approximately 70 countries. Our company's purpose is to deliver Better Care for a Better World. We are committed to using sustainable practices designed to support a healthy planet, build strong communities, and enable our business to thrive for decades to come. The KMB stock is a large cap growth and value stock and core S&P 500 equity held by more than 400 Exchange Traded Funds. Kimberly-Clark is considered a dividend aristocrat, having paid a cash dividend to shareholders for 92 consecutive years and increased its dividend for 54 consecutive years.",
       "dividendHistory": [
         {
           "year": "2000",
@@ -17979,7 +17979,7 @@
       "paymentDate": "08/14/2026",
       "growthRate": "-19.35%",
       "growthSource": "Analyst Forecast",
-      "description": "Donegal Group Inc. is an insurance holding company whose insurance subsidiaries and affiliates offer property and casualty lines of insurance in 21 Mid-Atlantic, Midwestern, Southern and Southwestern states. Donegal Mutual Insurance Company and its insurance subsidiaries conduct business together with the insurance subsidiaries of Donegal Group Inc. as the Donegal Insurance Group. The Donegal Insurance Group has an A.M. Best rating of A (Excellent). The Class A common stock and Class B common stock of Donegal Group Inc. trade on the NASDAQ Global Select Market under the symbols DGICA and DGICB, respectively. The Company is focused on several primary strategies, including achieving sustained excellent financial performance, advancing its operational and digital capabilities, capitalizing on opportunities to grow profitably and providing superior experiences to its agents, customers and employees.",
+      "description": "Donegal Group Inc. is an insurance holding company whose insurance subsidiaries and affiliates offer property and casualty lines of insurance in certain Mid-Atlantic, Midwestern, Southern and Southwestern states. Donegal Mutual Insurance Company and the insurance subsidiaries of Donegal Group Inc. conduct business together as the Donegal Insurance Group. The Donegal Insurance Group has an A.M. Best rating of A (Excellent).",
       "dividendHistory": [
         {
           "year": "2001",
@@ -18755,7 +18755,7 @@
       "paymentDate": "08/31/2026",
       "growthRate": "-2.44%",
       "growthSource": "Analyst Forecast",
-      "description": "Reynolds Consumer Products is a leading provider of household essentials designed to simplify daily life so consumers can enjoy what matters most. Found in 95% of U.S. homes, the Company offers trusted solutions for cooking, serving, clean-up and storage. Its portfolio features iconic brands like Reynolds and Hefty, along with store brand products tailored to retail partners. Reynolds Consumer Products holds the No. 1 or No. 2 market share in most of the categories it serves.",
+      "description": "Reynolds Consumer Products is a leading provider of household essentials designed to simplify daily life, so consumers can enjoy what matters most. Found in 95% of U.S. homes, the Company offers trusted solutions for cooking, serving, clean-up, and storage. Its portfolio features iconic brands like Reynolds and Hefty, along with store brand products tailored to retail partners. Reynolds holds the No. 1 or No. 2 market share in most of the categories it serves.",
       "dividendHistory": [
         {
           "year": "2020",
@@ -22743,7 +22743,7 @@
       "paymentDate": "09/15/2026",
       "growthRate": "-31.58%",
       "growthSource": "Analyst Forecast",
-      "description": "LifeVantage Corporation (Nasdaq: LFVN), the Activation company, is a pioneer in nutrigenomics-the study of how nutrition and naturally occurring compounds can unlock your genes and the health coded within. Our products work with your unique biology and help your body make what it needs for health. The line of scientifically validated activators includes the flagship Protandim family of products, TrueScience Liquid Collagen, the MindBody GLP-1 System, the comprehensive gut activator P84, the Activation-supporting nutrients such as Omega, D3+, and the Rise AM & Reset PM System, as well as AXIO nootropic energy drink mixes, the full TrueScience line of skin and hair care products, and Petandim, a pet supplement formulated to combat oxidative stress in dogs. Our independent Consultants sell our products to Customers and share the business opportunity with entrepreneurs seeking to begin their own business. LifeVantage was founded in 2003 and is headquartered in Lehi, Utah.",
+      "description": "LifeVantage Corporation (Nasdaq: LFVN), is a pioneer in nutrigenomics-the study of how nutrition and naturally occurring compounds can unlock your genes and the health coded within. Its products work with your unique biology and help your body make what it needs for health. The line of scientifically validated activators includes the flagship Protandim family of products, TrueScience Liquid Collagen, MindBody GLP-1 System, and the comprehensive gut activator, P84, and activation-supporting nutrients such as Omega, D3+, and the Rise AM & Reset PM System, as well as AXIO nootropic energy drink mixes, the full TrueScience line of skin and hair care products, and Petandim, a pet supplement formulated to combat oxidative stress in dogs.* LifeVantage was founded in 2003 and is headquartered in Lehi, Utah. For more information, visit www.lifevantage.com.",
       "dividendHistory": [
         {
           "year": "2022",
@@ -22929,7 +22929,7 @@
       "paymentDate": "08/19/2026",
       "growthRate": "27.36%",
       "growthSource": "Analyst Forecast",
-      "description": "Headquartered in Los Angeles, California , Hanmi Financial Corporation owns Hanmi Bank , which serves multi-ethnic communities through its network of 32 full-service branches and eight loan production offices in California , Texas , Illinois , Virginia , New Jersey , New York , Colorado , Washington and Georgia . Hanmi Bank specializes in real estate, commercial, SBA and trade finance lending to small and middle market businesses. Additional information is available at www.hanmi.com .",
+      "description": "Headquartered in Los Angeles, California, Hanmi Financial Corporation owns Hanmi Bank, which serves multi-ethnic communities through its network of 32 full-service branches and eight loan production offices in California, Texas, Illinois, Virginia, New Jersey, New York, Colorado, Washington and Georgia. Hanmi Bank specializes in real estate, commercial, SBA and trade finance lending to small and middle market businesses.",
       "dividendHistory": [
         {
           "year": "2003",
@@ -24407,7 +24407,7 @@
       "paymentDate": "10/02/2026",
       "growthRate": "16.62%",
       "growthSource": "Analyst Forecast",
-      "description": "Financial Institutions, Inc. (NASDAQ: FISI) is a financial holding company with approximately $6.3 billion in assets as of June 30, 2026, offering banking and wealth management products and services. Its Five Star Bank subsidiary provides consumer and commercial banking and lending services to individuals, municipalities and businesses through banking locations spanning Western and Central New York and a commercial loan production office serving the Mid-Atlantic region. Courier Capital, LLC offers customized investment management, financial planning and consulting services to individuals and families, businesses, institutions, non-profits and retirement plans. Learn more at Five-StarBank.com and FISI-Investors.com.",
+      "description": "Financial Institutions, Inc. (NASDAQ: FISI) is a financial holding company with approximately $6.5 billion in assets offering banking and wealth management products and services. Its Five Star Bank subsidiary provides consumer and commercial banking and lending services to individuals, municipalities and businesses through banking locations spanning Western and Central New York and a commercial loan production office serving the Mid-Atlantic region. Its Courier Capital, LLC subsidiary offers customized investment management, consulting and retirement plan services to individuals, businesses, institutions, foundations and retirement plans.",
       "dividendHistory": [
         {
           "year": "1999",
@@ -24925,7 +24925,7 @@
       "paymentDate": "08/25/2026",
       "growthRate": "30.56%",
       "growthSource": "Analyst Forecast",
-      "description": "Arrow Financial Corporation is a bank holding company headquartered in Glens Falls, New York, providing banking, insurance and wealth management services across northeastern New York and into the Mohawk Valley through its full-service commercial bank Arrow Bank National Association. Arrow Bank, celebrating its 175th anniversary throughout 2026, provides a broad range of financial products, including online and mobile banking, mortgages, commercial loans, investments and more. Other subsidiaries include an insurance company, Upstate Agency, LLC. Arrow's common stock is traded on the Nasdaq Global Select under the symbol 'AROW.' Visit arrowfinancial.com for more information.",
+      "description": "Arrow Financial Corporation is a holding company headquartered in Glens Falls, New York, serving the financial needs of northeastern and central New York. The Company is the parent of Arrow Bank, a full-service commercial bank, and Upstate Agency, LLC, a comprehensive insurance agency.",
       "dividendHistory": [
         {
           "year": "1988",
@@ -25893,7 +25893,7 @@
       "paymentDate": "11/16/2026",
       "growthRate": "6.37%",
       "growthSource": "Analyst Forecast",
-      "description": "Alliant Energy is the parent company of two public utility companies - Interstate Power and Light Company and Wisconsin Power and Light Company - and of Alliant Energy Finance, LLC, the parent company of Alliant Energy's non-utility operations. Alliant Energy, whose core purpose is to serve customers and build stronger communities, is an energy-services provider with utility subsidiaries serving approximately 1,010,000 electric and 435,000 natural gas customers. Providing its customers in the Midwest with regulated electricity and natural gas service is the Company's primary focus. Alliant Energy, headquartered in Madison, Wisconsin, is a component of the S&P 500 and is traded on the Nasdaq Global Select Market under the symbol LNT. For more information, visit the Company's website at www.alliantenergy.com.",
+      "description": "Alliant Energy is the parent company of two public utility companies - Interstate Power and Light Company and Wisconsin Power and Light Company - and of Alliant Energy Finance, LLC, the parent company of Alliant Energy's non-utility operations. Alliant Energy, whose core purpose is to serve customers and build stronger communities, is an energy-services provider with utility subsidiaries serving approximately 1,015,000 electric and 435,000 natural gas customers. Providing its customers in the Midwest with regulated electricity and natural gas service is the Company's primary focus.",
       "dividendHistory": [
         {
           "year": "2000",
@@ -27161,7 +27161,7 @@
       "paymentDate": "09/25/2026",
       "growthRate": "22.61%",
       "growthSource": "Analyst Forecast",
-      "description": "ISG ( Information Services Group ) (Nasdaq: III) is a leading global technology research and advisory firm. A trusted business partner to more than 900 clients, including more than 75 of the world's top 100 enterprises, ISG is committed to helping corporations, public sector organizations, and service and technology providers achieve operational excellence and faster growth. The firm specializes in digital transformation services, including automation, cloud and data analytics; sourcing advisory; managed governance and risk services; network carrier services; strategy and operations design; change management; market intelligence and technology research and analysis. Founded in 2006, and based in Stamford, Conn.",
+      "description": "ISG (Nasdaq: III ) is a global AI-centered technology research and advisory firm. A trusted partner to more than 900 clients, including 75 of the world's top 100 enterprises, ISG is a long-time leader in technology and business services that is now at the forefront of leveraging AI to help organizations achieve operational excellence and faster growth. The firm, founded in 2006, is known for its proprietary market data and research, in-depth knowledge and governance of provider ecosystems, and the expertise of its 1,500 professionals worldwide working together to help clients maximize the value of their technology investments.",
       "dividendHistory": [
         {
           "year": "2015",
@@ -30831,7 +30831,7 @@
       "paymentDate": "09/22/2026",
       "growthRate": "20.9%",
       "growthSource": "Analyst Forecast",
-      "description": "Eastern Bankshares, Inc. is the holding company for Eastern Bank. Founded in 1818, Eastern Bank is Greater Boston's leading local bank with more than 125 branch locations serving communities in eastern Massachusetts, southern and coastal New Hampshire, and Rhode Island. As of September 30, 2026, Eastern had approximately $31.7 billion in assets. Eastern provides a full range of banking and wealth management solutions for consumers and businesses of all sizes including through its Cambridge Trust Wealth Management and Private Banking Divisions, which include the largest bank-owned independent investment adviser in Massachusetts with $10.8 billion in assets under management. Eastern takes pride in its advocacy and community support that includes more than $240 million in charitable giving since 1994. An inclusive company, Eastern is comprised of deeply committed professionals who value relationships with their customers, colleagues and communities.",
+      "description": "Founded in 1818, Eastern Bank is Greater Boston's leading local bank with more than 125 branch locations serving communities in eastern Massachusetts, southern and coastal New Hampshire, and Rhode Island. As of September 30, 2026, Eastern had approximately $31.7 billion in assets. Eastern provides a full range of banking and wealth management solutions for consumers and businesses of all sizes including through its Cambridge Trust Wealth Management and Private Banking Divisions, which include the largest bank-owned independent investment adviser in Massachusetts with $10.8 billion in assets under management. Eastern takes pride in its advocacy and community support that includes more than $240 million in charitable giving since 1994. An inclusive company, Eastern is comprised of deeply committed professionals who value relationships with their customers, colleagues and communities.",
       "dividendHistory": [
         {
           "year": "2021",
@@ -31087,7 +31087,7 @@
       "paymentDate": "10/09/2026",
       "growthRate": "12.13%",
       "growthSource": "Analyst Forecast",
-      "description": "Keurig Dr Pepper (Nasdaq: KDP) is a leading beverage company with more than 150 owned, licensed and partner brands that meet a wide range of needs and occasions. Our North American refreshment beverage business holds leadership positions across carbonated soft drinks, water, juice and mixers with a portfolio of iconic brands such as Dr Pepper, Canada Dry, Mott's, A&W, Penafiel, GHOST, 7UP, Snapple, Clamato and Core Hydration. Our global coffee business spans more than 100 markets and includes the leading Keurig single-serve brewing system in the U.S. and Canada, along with powerhouse brands such as Peet's, L'OR and Jacobs, and other regional coffee leaders. Our more than 50,000 employees aim to enhance the experience of every beverage and coffee occasion while making a positive impact for people, communities and the planet.",
+      "description": "Keurig Dr Pepper (Nasdaq: KDP) is a leading beverage company with more than 150 owned, licensed and partner brands serving a wide range of needs and occasions. Its North American refreshment beverage business holds leadership positions across carbonated soft drinks, water, juice and mixers, with iconic brands including Dr Pepper, Canada Dry, Mott's, A&W, Penafiel, GHOST, 7UP, Snapple, Clamato and Core Hydration. Its global coffee business spans more than 100 markets and includes the leading Keurig single-serve brewing system in the U.S. and Canada, along with brands such as Peet's, L'OR and Jacobs and other regional coffee leaders. More than 50,000 employees work to enhance every beverage and coffee occasion while making a positive impact on people, communities and the planet. Learn more at Keurig Dr Pepper and follow @KeurigDrPepper on LinkedIn and Instagram.",
       "dividendHistory": [
         {
           "year": "2009",
@@ -31503,7 +31503,7 @@
       "paymentDate": "09/04/2026",
       "growthRate": "-15.59%",
       "growthSource": "Analyst Forecast",
-      "description": "OneSpan helps organizations build secure, seamless, and trusted digital experiences through two solution portfolios: Cybersecurity and Digital Agreements. Our cybersecurity solutions protect identities, secure mobile apps, and safeguard access through advanced high-assurance authentication, threat intelligence, fraud prevention, and robust mobile app protection, defending users, devices, and applications against sophisticated attacks. Our digital agreements solutions streamline agreement workflows with secure e-signatures, identity verification, and smart digital forms, built to enable speed, compliance, and exceptional customer experiences. Trusted by leading global enterprises, including more than 60% of the world's 100 largest banks, OneSpan processes over 100 million digital agreements and billions of secure authentication transactions across more than 120 countries each year.",
+      "description": "OneSpan helps organizations build secure, seamless, and trusted digital experiences through two solution portfolios: Cybersecurity and Digital Agreements. Our cybersecurity solutions protect identities, secure mobile apps, and safeguard access through advanced high-assurance authentication, threat intelligence, fraud prevention, and robust mobile app protection, defending users, devices, and applications against sophisticated attacks. Our digital agreement solutions streamline agreement workflows with secure e-signatures, identity verification, and smart digital forms, built to enable speed, compliance and exceptional customer experiences. Trusted by leading global enterprises, including more than 60% of the world's 100 largest banks, OneSpan processes over 100 million digital agreements and billions of secure authentication transactions across more than 120 countries each year.",
       "dividendHistory": [
         {
           "year": "2025",
@@ -35207,7 +35207,7 @@
       "paymentDate": "09/15/2026",
       "growthRate": "225%",
       "growthSource": "Analyst Forecast",
-      "description": "MVB Financial Corp. (Nasdaq: MVBF) is an innovative bank powering Fintech solutions in payments, card issuance, sponsorship lending and online gaming programs for leading Fintech companies nationwide, while providing traditional retail and commercial banking services within established markets. MVB's comprehensive platform includes money movement solutions across all modalities and embedded finance capabilities. MVB combines proven Fintech builder/incubator capabilities, innovative culture, regulatory expertise, core banking and AI-driven operational efficiency to enable Fintech partners to navigate complex regulatory requirements while accelerating time-to-market.",
+      "description": "MVB Financial Corp. (Nasdaq: MVBF) is an innovative bank powering Fintech solutions in payments, card issuance and online gaming programs for leading Fintech companies nationwide, while providing traditional retail and commercial banking services within established markets. MVB's comprehensive platform includes money movement solutions across all modalities and embedded finance capabilities. MVB combines proven Fintech builder/incubator capabilities, innovative culture, regulatory expertise, core banking and AI-driven operational efficiency to enable Fintech partners to navigate complex regulatory requirements while accelerating time-to-market.",
       "dividendHistory": [
         {
           "year": "2018",
@@ -36895,7 +36895,7 @@
       "paymentDate": "08/28/2026",
       "growthRate": "15.74%",
       "growthSource": "Analyst Forecast",
-      "description": "Newmark Group, Inc. (Nasdaq: NMRK), together with its subsidiaries (\"Newmark\"), is a world leading commercial real estate advisor and service provider to large institutional investors and other owners, global corporations and other occupiers, and lenders. Built with purpose and driven by excellence, Newmark's comprehensive platform is uniquely tailored to provide superior outcomes to clients. For the twelve months ended June 30, 2026, Newmark generated revenues of more than $3.6 billion. As of June 30, 2026, Newmark and its business partners together operated from over 195 offices with more than 10,000 professionals across four continents.",
+      "description": "Newmark Group, Inc. (Nasdaq: NMRK), together with its subsidiaries ('Newmark'), is a world leading commercial real estate advisor and service provider to large institutional investors and other owners, global corporations and other occupiers, and lenders. Built with purpose and driven by excellence, Newmark's comprehensive platform is uniquely tailored to provide superior outcomes to clients. For the twelve months ended September 30, 2026, Newmark generated revenues of over $3.7 billion. As of September 30, 2026, Newmark and its business partners together operated from approximately 200 offices with 10,500 professionals across four continents.",
       "dividendHistory": [
         {
           "year": "2018",
@@ -38193,7 +38193,7 @@
       "paymentDate": "10/21/2026",
       "growthRate": "3246.61%",
       "growthSource": "Analyst Forecast",
-      "description": "Werner Enterprises, Inc. ('Werner') (Nasdaq: WERN) delivers superior truckload transportation and logistics services to customers across the United States, Mexico and Canada. With Werner 2025 revenues of nearly $3 billion, a modern truck and trailer fleet, more than 14,800 talented associates and our innovative Werner EDGE technology, we are an essential solutions provider for customers who value the integrity of their supply chain and require safe and exceptional on-time service. In January 2026, Werner acquired FirstEnterprises, Inc. ('FirstFleet'), which generated more than $600 million in unaudited 2025 revenues. Werner provides Dedicated and One-Way Truckload services as well as Logistics services that include truckload brokerage, freight management, intermodal and final mile. Werner embraces inclusion as a core value and manages key risks and opportunities through a balanced sustainability strategy.",
+      "description": "Werner Enterprises, Inc. ('Werner') delivers superior truckload transportation and logistics services to customers across the United States, Mexico and Canada. With Werner 2025 revenues of nearly $3 billion, a modern truck and trailer fleet, more than 14,500 talented associates and our innovative Werner EDGE technology, we are an essential solutions provider for customers who value the integrity of their supply chain and require safe and exceptional on-time service. In January 2026, Werner acquired FirstEnterprises, Inc. ('FirstFleet'), which generated more than $600 million in unaudited 2025 revenues. Werner provides Dedicated and One-Way Truckload services as well as Logistics services that include truckload brokerage, freight management, intermodal and final mile. Werner embraces inclusion as a core value and manages key risks and opportunities through a balanced sustainability strategy.",
       "dividendHistory": [
         {
           "year": "1988",
@@ -38335,7 +38335,7 @@
       "paymentDate": "09/01/2026",
       "growthRate": "18.99%",
       "growthSource": "Analyst Forecast",
-      "description": "First Mid Bancshares, Inc. ('First Mid') is the parent company of First Mid Bank & Trust, N.A., First Mid Insurance Group, Inc., and First Mid Wealth Management Co. First Mid is a $9.2 billion community-focused organization that provides a full-suite of financial services including banking, wealth management, brokerage, Ag services, and insurance through a sizeable network of locations throughout Illinois, Missouri, Texas, Wisconsin, and Iowa and a loan production office in the greater Indianapolis area. Together, our First Mid team takes great pride in providing solutions and services to the customers and communities and has done so over the last 160 years.",
+      "description": "First Mid Bancshares, Inc. ('First Mid') is the parent company of First Mid Bank & Trust, N.A., First Mid Insurance Group, Inc., and First Mid Wealth Management Co. First Mid is a $9.4 billion community-focused organization that provides a full suite of financial services including banking, wealth management, brokerage, Ag services and insurance through a sizeable network of locations throughout Illinois, Iowa, Missouri, Texas and Wisconsin, and a loan production office in the greater Indianapolis area. Together, our First Mid team takes great pride in providing solutions and services to our customers and communities and has done so for more than 160 years.",
       "dividendHistory": [
         {
           "year": "2000",
@@ -38833,7 +38833,7 @@
       "paymentDate": "09/10/2026",
       "growthRate": "4.4%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Perella Weinberg is a leading global independent advisory firm, providing strategic and financial advice to a broad client base, including corporations, financial sponsors, governments, and sovereign wealth funds. The Firm offers a wide range of advisory services to clients in some of the most active industry sectors and global markets. With approximately 700 employees, Perella Weinberg currently maintains offices in New York, London, Houston, Los Angeles, San Francisco, Paris, Chicago, Munich, Palm Beach, Denver, Calgary, and Greenwich.",
+      "description": "Perella Weinberg is a leading global independent advisory firm, providing strategic and financial advice to a broad client base, including corporations, financial sponsors, governments, and sovereign wealth funds. The Firm offers a wide range of advisory services to clients in some of the most active industry sectors and global markets. With approximately 700 employees, Perella Weinberg currently maintains offices in New York, London, Houston, Los Angeles, San Francisco, Paris, Chicago, Munich, Palm Beach, Calgary, and Greenwich. The financial information of Perella Weinberg herein refers to the business operations of PWP Holdings LP and Subsidiaries.",
       "dividendHistory": [
         {
           "year": "2021",
@@ -39047,7 +39047,7 @@
       "paymentDate": "09/29/2026",
       "growthRate": "-105.87%",
       "growthSource": "Analyst Forecast",
-      "description": "Gilead Sciences, Inc. is a biopharmaceutical company that has pursued and achieved breakthroughs in medicine for more than three decades, with the goal of creating a healthier world for all people. The company is committed to advancing innovative medicines to prevent and treat life-threatening diseases, including HIV, viral hepatitis, COVID-19, cancer, and inflammation. Gilead operates in more than 35 countries worldwide, with headquarters in Foster City, Calif.",
+      "description": "Gilead Sciences, Inc. is a biopharmaceutical company that has pursued and achieved breakthroughs in medicine for more than three decades, with the goal of creating a healthier world for all people. The company is committed to advancing innovative medicines to prevent and treat life-threatening diseases, including HIV, viral hepatitis, COVID-19, cancer and inflammation. Gilead operates in more than 35 countries worldwide, with headquarters in Foster City, California.",
       "dividendHistory": [
         {
           "year": "2015",
@@ -40081,7 +40081,7 @@
       "paymentDate": "08/31/2026",
       "growthRate": "6.54%",
       "growthSource": "Analyst Forecast",
-      "description": "Business First Bancshares, Inc. (Nasdaq: BFST), through its banking subsidiary b1BANK, has $8.9 billion in assets, $5.5 billion in assets under management through b1BANK's affiliate Smith Shellnut Wilson, LLC (SSW) (not including $1 billion of b1BANK assets managed by SSW) and operates Banking Centers and Loan Production Offices in markets across Louisiana and Texas, providing commercial and personal banking products and services. b1BANK is a 2024 Mastercard 'Innovation Award' winner and multiyear winner of American Banker Magazine's 'Best Banks to Work For.' Visit b1BANK.com for more information.",
+      "description": "Business First Bancshares, Inc. (Nasdaq: BFST), through its banking subsidiary b1BANK, has $8.9 billion in assets, $5.5 billion in assets under management through b1BANK's affiliate Smith Shellnut Wilson, LLC (SSW) (not including $1 billion of b1BANK assets managed by SSW) and operates Banking Centers and Loan Production Offices in markets across Louisiana and Texas, providing commercial and personal banking products and services. b1BANK is a 2024 Mastercard 'Innovation Award' winner and multiyear winner of American Banker Magazine's 'Best Banks to Work .",
       "dividendHistory": [
         {
           "year": "2018",
@@ -40243,7 +40243,7 @@
       "paymentDate": "09/03/2026",
       "growthRate": "-3.79%",
       "growthSource": "Analyst Forecast",
-      "description": "Columbia, the flagship brand of Portland, Oregon-based Columbia Sportswear Company, has been creating innovative apparel, footwear, accessories, and equipment for outdoor enthusiasts since 1938. Columbia has become a leading global brand by channeling the company's innovative spirit and passion for the outdoors into technologies and performance products that keep people warm, dry, cool and protected year-round.",
+      "description": "Columbia Sportswear Company connects active people with their passions and is a global multi-brand leading innovator in outdoor, active and lifestyle products including apparel, footwear, accessories, and equipment. Founded in 1938 in Portland, Oregon, the Company's brands are sold in 122 countries. In addition to the Columbia brand, Columbia Sportswear Company also owns the Mountain Hard Wear, SOREL and prAna brands.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -40943,7 +40943,7 @@
       "paymentDate": "08/26/2026",
       "growthRate": "147.5%",
       "growthSource": "Analyst Forecast",
-      "description": "The consolidated financial results include the accounts of Columbia Financial, Inc., its wholly-owned subsidiary Columbia Bank (the 'Bank') and the Bank's wholly-owned subsidiaries. Columbia Financial, Inc. is a Maryland corporation organized as Columbia Bank's parent stock holding company. Columbia Bank is a federally chartered savings bank headquartered in Fair Lawn, New Jersey that operates more than 100 full-service banking offices and offers traditional financial services to consumers and businesses in its market area.",
+      "description": "The consolidated financial results include the accounts of Columbia Financial, Inc., its wholly-owned subsidiary Columbia Bank (the 'Bank') and the Bank's wholly-owned subsidiaries. Columbia Financial, Inc. is a Maryland corporation organized as Columbia Bank's parent stock holding company. Columbia Bank is a federally chartered savings bank headquartered in Fair Lawn, New Jersey that operates more than 100 full-service banking offices and offers traditional financial services to consumers and businesses in its market area, including select counties in New Jersey, and Brooklyn and Staten Island New York.",
       "dividendHistory": [
         {
           "year": "2026",
@@ -41093,7 +41093,7 @@
       "paymentDate": "09/02/2026",
       "growthRate": "-12.7%",
       "growthSource": "Analyst Forecast",
-      "description": "At Kelly (Nasdaq: KELYA, KELYB), we don't just understand the future of work, we're defining it. For over 80 years, we've sourced specialized talent, built agile workforces, and shaped growth strategies for employers around the world. Today, our recruiting, outsourcing, and consulting services provide the talent and solutions organizations need to move faster and grow smarter. We deliver meaningful impact by connecting people to work that enriches their lives, and companies to people who drive innovation and growth. Each year, we place more than 375,000 job seekers in new roles spanning science, engineering, technology, telecom, education, manufacturing, and more. Revenue in 2025 was $4.3 billion.",
+      "description": "At Kelly (Nasdaq: KELYA, KELYB), we don't just understand the future of work, we're defining it. For over 80 years, we've sourced specialized talent, built agile workforces, and shaped growth strategies for employers around the world. Today, our recruiting, outsourcing, and consulting services provide the talent and solutions organizations need to move faster and grow smarter. We deliver meaningful impact by connecting people to work that enriches their lives, and companies to people who drive innovation and growth. Each year, we place more than 375,000 job seekers in new roles spanning science, engineering, technology, telecom, education, manufacturing, and more.",
       "dividendHistory": [
         {
           "year": "1988",
@@ -43259,7 +43259,7 @@
       "paymentDate": "10/16/2026",
       "growthRate": "36.63%",
       "growthSource": "Analyst Forecast",
-      "description": "Intuit is the global financial technology platform that powers prosperity for the consumers, businesses and accountants we serve, with products including TurboTax , Credit Karma , QuickBooks , Mailchimp , Intuit Enterprise Suite and Intuit Accountant Suite . Intuit's financial intelligence brings together decades of trusted data, deep financial expertise, AI, and human experts to help customers at every stage of their financial journey. This puts more money in their pockets, saves time by reducing manual work, and ensures they have complete confidence in every financial decision.",
+      "description": "Intuit is the global financial technology platform that powers prosperity for the consumers, businesses, and accountants we serve, with products including TurboTax, Credit Karma, QuickBooks, Mailchimp, Intuit Enterprise Suite, and Intuit Accountant Suite. Intuit's financial intelligence brings together decades of trusted data, deep financial expertise, AI, and human experts to help customers at every stage of their financial journey. This puts more money in their pockets, saves time by reducing manual work, and ensures they have complete confidence in every financial decision.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -44205,7 +44205,7 @@
       "paymentDate": "09/18/2026",
       "growthRate": "11.35%",
       "growthSource": "Analyst Forecast",
-      "description": "Exponent brings together 90+ technical disciplines and 950+ consultants to help our clients navigate the increasing complexity of more than a dozen industries, connecting decades of pioneering work in failure analysis to develop solutions for a safer, healthier, more sustainable world. Exponent's consultants deliver the highest value by leveraging multidisciplinary expertise and resources from across Exponent's offices in North America, Asia, and Europe. Exponent's consultants, laboratories, and integrated technical platform work seamlessly together around the globe, enabling us to produce the breakthrough insights needed to help multinational companies, startups, law firms, insurance companies, governments, and society respond to incidents and push their products and processes forward at speed.",
+      "description": "Exponent brings together 90+ technical disciplines and 950+ consultants to help our clients navigate the increasing complexity of more than a dozen industries, connecting decades of pioneering work in failure analysis to develop solutions for a safer, healthier, more sustainable world. Exponent's consultants deliver the highest value by leveraging multidisciplinary expertise and resources from across Exponent's offices in North America, Asia, and Europe. Exponent's consultants, laboratories, databases, and computing resources work seamlessly together around the globe, enabling us to produce the breakthrough insights needed to help multinational companies, startups, law firms, insurance companies, governments, and society respond to incidents and push their products and processes forward.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -45441,7 +45441,7 @@
       "paymentDate": "09/15/2026",
       "growthRate": "23.55%",
       "growthSource": "Analyst Forecast",
-      "description": "A differentiated technology leader, Garrett Motion has a 70-year history of innovation in the automotive sector (cars, trucks) and beyond (off-highway equipment, marine, power generators). Its well-recognized expertise in turbocharging has enabled significant reductions in engine size, fuel consumption, and CO2 emissions. Garrett is committed to advancing turbo applications while leveraging its unique technology solutions, such as fuel cell compressors for hydrogen fuel cell vehicles, as well as electric propulsion and thermal management systems for automotive and industrial applications. Garrett has six R&D centers, 13 manufacturing facilities, and a team of more than 8,700 employees in more than 20 countries.",
+      "description": "A differentiated technology leader, Garrett Motion has a 70-year history of innovation in the automotive sector (cars, trucks) and beyond (off-highway equipment, marine, power generators). Its well-recognized expertise in turbocharging has enabled significant reductions in engine size, fuel consumption, and CO2 emissions. Garrett is committed to advancing turbo applications while leveraging its unique technology solutions, such as fuel cell compressors for hydrogen fuel cell vehicles, as well as electric propulsion and thermal management systems for automotive and industrial applications. Garrett has six R&D centers, 13 manufacturing facilities and a team of more than 8,700 employees in more than 20 countries.",
       "dividendHistory": [
         {
           "year": "2025",
@@ -47835,7 +47835,7 @@
       "paymentDate": "10/15/2026",
       "growthRate": "15.83%",
       "growthSource": "Analyst Forecast",
-      "description": "At WTW (NASDAQ: WTW), we provide data-driven, insight-led solutions in the areas of people, risk and capital. Leveraging the global view and local expertise of our colleagues serving 140 countries and markets, we help organizations sharpen their strategy, enhance organizational resilience, motivate their workforce and maximize performance. Working shoulder to shoulder with our clients, we uncover opportunities for sustainable success, and provide perspective that moves you.",
+      "description": "At WTW (NASDAQ: WTW), we provide data-driven, insight-led solutions in the areas of people, risk and capital. Leveraging the global view and local expertise of our colleagues serving more than 140 countries and markets, we help organizations sharpen their strategy, enhance organizational resilience, motivate their workforce and maximize performance. Working shoulder to shoulder with our clients, we uncover opportunities for sustainable success-and provide perspective that moves you.",
       "dividendHistory": [
         {
           "year": "2004",
@@ -48019,7 +48019,7 @@
       "paymentDate": "09/30/2026",
       "growthRate": "353.08%",
       "growthSource": "Analyst Forecast",
-      "description": "Methanex is a Vancouver-based, publicly traded company and is the world's largest supplier of methanol globally. Methanex shares are listed for trading on the Toronto Stock Exchange in Canada under the trading symbol 'MX' and on the Nasdaq Stock Market in the United States under the trading symbol 'MEOH'. Methanex can be visited online at www.methanex.com.",
+      "description": "Methanex is a Vancouver -based, publicly traded company and is the world's largest producer and supplier of methanol to customers globally. Methanex shares are listed for trading on the Toronto Stock Exchange in Canada under the trading symbol 'MX' and on the Nasdaq Global Market in the United States under the trading symbol 'MEOH'.",
       "dividendHistory": [
         {
           "year": "2002",
@@ -49281,7 +49281,7 @@
       "paymentDate": "09/02/2026",
       "growthRate": "-3.8%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "At Kelly (Nasdaq: KELYA, KELYB), we don't just understand the future of work, we're defining it. For over 80 years, we've sourced specialized talent, built agile workforces, and shaped growth strategies for employers around the world. Today, our recruiting, outsourcing, and consulting services provide the talent and solutions organizations need to move faster and grow smarter. We deliver meaningful impact by connecting people to work that enriches their lives, and companies to people who drive innovation and growth. Each year, we place more than 375,000 job seekers in new roles spanning science, engineering, technology, telecom, education, manufacturing, and more. Revenue in 2025 was $4.3 billion.",
+      "description": "At Kelly (Nasdaq: KELYA, KELYB), we don't just understand the future of work, we're defining it. For over 80 years, we've sourced specialized talent, built agile workforces, and shaped growth strategies for employers around the world. Today, our recruiting, outsourcing, and consulting services provide the talent and solutions organizations need to move faster and grow smarter. We deliver meaningful impact by connecting people to work that enriches their lives, and companies to people who drive innovation and growth. Each year, we place more than 375,000 job seekers in new roles spanning science, engineering, technology, telecom, education, manufacturing, and more.",
       "dividendHistory": [
         {
           "year": "1988",
@@ -50223,7 +50223,7 @@
       "paymentDate": "09/11/2026",
       "growthRate": "17.31%",
       "growthSource": "Analyst Forecast",
-      "description": "eBay Inc. (Nasdaq: EBAY ) is a global commerce leader that connects people and builds communities to create economic opportunity for all. Our technology empowers millions of buyers and sellers in more than 190 markets around the world, providing everyone the opportunity to grow and thrive. Founded in 1995 in San Jose, California , eBay is one of the world's largest and most vibrant marketplaces for discovering great value and unique selection. In 2025, eBay enabled nearly $80 billion of gross merchandise volume.",
+      "description": "eBay Inc. (Nasdaq: EBAY) is a global commerce leader that connects people and builds communities to create economic opportunity for all. Our technology empowers millions of buyers and sellers in more than 190 markets around the world, providing everyone the opportunity to grow and thrive. Founded in 1995 in San Jose, California, eBay is one of the world's largest and most vibrant marketplaces for discovering great value and unique selection. In 2025, eBay enabled nearly $80 billion of gross merchandise volume.",
       "dividendHistory": [
         {
           "year": "2019",
@@ -52207,7 +52207,7 @@
       "paymentDate": "10/15/2026",
       "growthRate": "457.58%",
       "growthSource": "Analyst Forecast",
-      "description": "First Internet Bancorp is a bank holding company with assets of $5.6 billion as of June 30, 2026. The Company's subsidiary, First Internet Bank, opened for business in 1999 as an industry pioneer in the branchless delivery of banking services. First Internet Bank provides consumer and small business deposits, commercial real estate and construction financing, SBA financing, public finance, consumer loans, and specialty finance services nationally, as well as commercial and industrial loans and treasury management services on a regional basis. First Internet Bancorp's common stock trades on the Nasdaq Global Select Market under the symbol 'INBK' and is a component of the Russell 2000 Index.",
+      "description": "First Internet Bancorp is a bank holding company with assets of $5.9 billion as of September 30, 2026. The Company's subsidiary, First Internet Bank, opened for business in 1999 as an industry pioneer in the branchless delivery of banking services. First Internet Bank provides consumer and small business deposits, commercial real estate and construction financing, SBA financing, public finance, consumer loans, and specialty finance services nationally, as well as commercial and industrial loans and treasury management services on a regional basis. First Internet Bancorp's common stock trades on the Nasdaq Global Select Market under the symbol 'INBK' and is a component of the Russell 2000 Index.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -53899,7 +53899,7 @@
       "paymentDate": "09/30/2026",
       "growthRate": "17.12%",
       "growthSource": "Analyst Forecast",
-      "description": "Marriott International, Inc. (Nasdaq: MAR) is based in Bethesda, Maryland , USA, and encompasses a portfolio of compelling brands across luxury, premium, select, midscale, extended stay, and all-inclusive, with over 10,000 properties in 148 countries and territories, as of June 30, 2026 . Marriott franchises, operates, and licenses hotel, residential, timeshare, yacht, outdoor, and other lodging products all around the world. The company offers Marriott Bonvoy , its highly awarded travel platform.",
+      "description": "Marriott International, Inc. (Nasdaq: MAR) is based in Bethesda, Maryland, USA, and encompasses a portfolio of compelling brands across luxury, premium, select, midscale, extended stay, and all-inclusive, with approximately 10,000 properties in 146 countries and territories, as of June 11, 2026. Marriott franchises, operates, and licenses hotel, residential, timeshare, yacht, outdoor, and other lodging products all around the world. The company offers Marriott Bonvoy, its highly awarded travel platform. For more information, please visit our website at www.marriott.com, and for the latest company news, visit www.marriottnewscenter.com. In addition, connect with us on Facebook and @MarriottIntl on X and Instagram.",
       "dividendHistory": [
         {
           "year": "2000",
@@ -54385,7 +54385,7 @@
       "paymentDate": "10/15/2026",
       "growthRate": "87.26%",
       "growthSource": "Analyst Forecast",
-      "description": "Monolithic Power Systems, Inc. ('MPS') is a fabless global company that provides high-performance, semiconductor-based power electronics solutions. MPS's mission is to reduce energy and material consumption to improve all aspects of quality of life and create a sustainable future. Founded in 1997 by our CEO Michael Hsing, MPS has three core strengths: deep system-level knowledge, strong semiconductor design expertise, and innovative proprietary technologies in the areas of semiconductor processes, system integration, and packaging. These combined advantages enable MPS to deliver reliable, compact, and monolithic solutions that are highly energy-efficient, cost-effective, and environmentally responsible while providing a consistent return on investment to our stockholders. MPS can be contacted through its website at www.monolithicpower.com or its support offices around the world.",
+      "description": "MPS is a fabless global company that provides high-performance, semiconductor-based power electronics solutions. MPS's mission is to reduce energy and material consumption to improve all aspects of quality of life and create a sustainable future. Founded in 1997 by our CEO Michael Hsing, MPS has three core strengths: deep system-level knowledge, strong semiconductor design expertise, and innovative proprietary technologies in the areas of semiconductor processes, system integration, and packaging. These combined advantages enable MPS to deliver reliable, compact, and monolithic solutions that are highly energy-efficient, cost-effective, and environmentally responsible, while providing a consistent return on investment to our stockholders. MPS can be contacted through its website at www.monolithicpower.com or its support offices around the world.",
       "dividendHistory": [
         {
           "year": "2014",
@@ -55061,7 +55061,7 @@
       "paymentDate": "09/03/2026",
       "growthRate": "113.08%",
       "growthSource": "Analyst Forecast",
-      "description": "For over 40 years, Cognex has been making advanced machine vision easy, paving the way for manufacturing and distribution companies to become faster, smarter, and more efficient through automation. Innovative technology in our vision sensors and systems solves critical manufacturing and distribution challenges, providing unparalleled performance for industries from automotive to consumer electronics to packaged goods. Cognex makes these tools more capable and easier to deploy thanks to a longstanding focus on AI, helping factories and warehouses improve quality and maximize efficiency without needing highly technical expertise. We are headquartered near Boston, USA, with locations in over 30 countries and more than 30,000 customers worldwide.",
+      "description": "For over 40 years, Cognex has been making advanced machine vision easy, paving the way for manufacturing and distribution companies to become faster, smarter, and more efficient through automation. Innovative technology in our vision sensors and systems solves critical manufacturing and distribution challenges, providing unparalleled performance across a diverse set of end markets, including logistics, consumer electronics, automotive, packaging, and semiconductor. Cognex makes these tools more capable and easier to deploy thanks to a longstanding focus on AI, helping factories and warehouses improve quality and maximize efficiency without needing highly technical expertise. We are headquartered near Boston, USA, with locations in over 30 countries and more than 30,000 customers worldwide.",
       "dividendHistory": [
         {
           "year": "2015",
@@ -56635,7 +56635,7 @@
       "paymentDate": "09/15/2026",
       "growthRate": "16.02%",
       "growthSource": "Analyst Forecast",
-      "description": "Tradeweb Markets Inc. (Nasdaq: TW) is a leading global operator of electronic marketplaces for rates, credit, equities, and money markets. Founded in 1996, Tradeweb provides access to markets, data and analytics, electronic trading, straight-through-processing, and reporting for more than 50 products to clients in the institutional, wholesale, retail, and corporates markets. Advanced technologies developed by Tradeweb enhance price discovery, order execution, and trade workflows while allowing for greater scale and helping to reduce risks in client trading operations. Tradeweb serves more than 3,000 clients in more than 85 countries. On average, Tradeweb facilitated more than $3 trillion in notional value traded per day over the past four fiscal quarters. For more information, please go to www.tradeweb.com.",
+      "description": "Tradeweb Markets Inc. (Nasdaq: TW) is a leading, global operator of electronic marketplaces for rates, credit, equities and money markets. Founded in 1996, Tradeweb provides access to markets, data and analytics, electronic trading, straight-through-processing and reporting for more than 50 products to clients in the institutional, wholesale, retail and corporates markets. Advanced technologies developed by Tradeweb enhance price discovery, order execution and trade workflows while allowing for greater scale and helping to reduce risks in client trading operations. Tradeweb serves more than 3,000 clients in more than 85 countries. On average, Tradeweb facilitated more than $3 trillion in notional value traded per day over the past four fiscal quarters.",
       "dividendHistory": [
         {
           "year": "2019",
@@ -57059,7 +57059,7 @@
       "paymentDate": "08/28/2026",
       "growthRate": "16.98%",
       "growthSource": "Analyst Forecast",
-      "description": "LPL Financial Holdings Inc. (Nasdaq: LPLA) is among the fastest growing wealth management firms in the U.S . As a leader in the financial advisor-mediated marketplace(4), LPL supports more than 32,000 financial advisors and the wealth management practices of approximately 1,100 financial institutions, servicing and custodying approximately $2.6 trillion in brokerage and advisory assets on behalf of approximately 8 million Americans. The firm provides a wide range of advisor affiliation models, investment solutions, fintech tools and practice management services, ensuring that advisors and institutions have the flexibility to choose the business model, services, and technology resources they need to run thriving businesses. For further information about LPL, please visit www.lpl.com .",
+      "description": "LPL Financial Holdings Inc. (Nasdaq: LPLA) is among the fastest growing wealth management firms in the U.S. As a leader in the financial advisor-mediated marketplace, LPL supports more than 32,000 financial advisors and the wealth management practices of approximately 1,100 financial institutions, servicing and custodying approximately $2.6 trillion in brokerage and advisory assets on behalf of approximately 8 million Americans. The firm provides a wide range of advisor affiliation models, investment solutions, fintech tools and practice management services, ensuring that advisors and institutions have the flexibility to choose the business model, services, and technology resources they need to run thriving businesses. For further information about LPL, please visit www.lpl.com.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -57409,7 +57409,7 @@
       "paymentDate": "08/13/2026",
       "growthRate": "-20.41%",
       "growthSource": "Analyst Forecast",
-      "description": "TriMas designs, manufactures and supplies a broad range of innovative and high-quality products for the consumer packaging, life sciences and industrial markets through its TriMas Packaging and Specialty Products groups. With approximately 2,500 employees in 12 countries, TriMas is committed to empowering customer success through deep partnerships, strong technical expertise, focused innovation, and exceptional quality and service. Guided by a culture of continuous improvement and operational excellence, TriMas invests in its people and capabilities to deliver long-term value for all stakeholders. TriMas is publicly traded on NASDAQ under the ticker 'TRS' and is headquartered in Bloomfield Hills, Michigan.",
+      "description": "TriMas designs, manufactures and supplies a broad range of innovative and high-quality products for the consumer packaging, life sciences and industrial markets through its TriMas Packaging and Specialty Products groups. With approximately 2,500 employees in 12 countries, TriMas is committed to empowering customer success through deep partnerships, strong technical expertise, focused innovation, and exceptional quality and service. Guided by a culture of continuous improvement and operational excellence, TriMas invests in its people and capabilities to deliver long-term value for all stakeholders. Headquartered in Bloomfield Hills, Michigan, TriMas is publicly traded on NASDAQ under the ticker symbol 'TRS.' For more information, please visit www.trimas.com.",
       "dividendHistory": [
         {
           "year": "2021",
@@ -59165,7 +59165,7 @@
       "paymentDate": "11/18/2026",
       "growthRate": "43.01%",
       "growthSource": "Analyst Forecast",
-      "description": "Entegris is a leading supplier of critical advanced materials and process solutions for the semiconductor and other high-tech industries. Entegris has approximately 7,700 employees throughout its global operations and is ISO 9001 certified. It has manufacturing, customer service and/or research facilities in the United States, Canada, China, Germany, Israel, Japan, Malaysia, Singapore, South Korea, and Taiwan.",
+      "description": "Entegris is a leading supplier of critical advanced materials and process solutions for the semiconductor and other high-technology industries. Entegris has approximately 7,700 employees throughout its global operations and is ISO 9001 certified. It has manufacturing, customer service and/or research facilities in the United States, Canada, China, Germany, Israel, Japan, Malaysia, Singapore, South Korea, and Taiwan.",
       "dividendHistory": [
         {
           "year": "2017",
