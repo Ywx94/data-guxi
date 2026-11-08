@@ -1,15 +1,15 @@
 {
   "success": true,
-  "lastUpdated": "2026-11-07T01:55:31.720Z",
-  "count": 806,
+  "lastUpdated": "2026-11-08T01:24:47.918Z",
+  "count": 807,
   "totalScanned": 7062,
   "stats": {
-    "totalDividendStocks": 806,
-    "withGrowthData": 768,
+    "totalDividendStocks": 807,
+    "withGrowthData": 769,
     "withoutGrowthData": 38,
-    "withDividendHistory": 806,
+    "withDividendHistory": 807,
     "avgDividendYears": "13.1",
-    "durationMinutes": "12.13"
+    "durationMinutes": "12.18"
   },
   "sectors": [
     {
@@ -26,7 +26,7 @@
     },
     {
       "name": "Industrials",
-      "count": 69
+      "count": 70
     },
     {
       "name": "Real Estate",
@@ -187,6 +187,10 @@
       "count": 6
     },
     {
+      "name": "Major Chemicals",
+      "count": 6
+    },
+    {
       "name": "Hotels/Resorts",
       "count": 6
     },
@@ -224,10 +228,6 @@
     },
     {
       "name": "Auto Parts:O.E.M.",
-      "count": 5
-    },
-    {
-      "name": "Major Chemicals",
       "count": 5
     },
     {
@@ -1309,7 +1309,7 @@
       "paymentDate": "08/31/2026",
       "growthRate": "-10.19%",
       "growthSource": "Analyst Forecast",
-      "description": "Runway Growth Capital LLC is the investment adviser to investment funds, including Runway Growth Finance Corp. (Nasdaq: RWAY), a business development company, and other private funds, which are lenders of growth capital to companies seeking an alternative to raising equity. Led by industry veterans David Spreng and Michael Rovner , these funds provide senior term loans of a target of $10 million to $150 million to fast-growing companies largely based in the United States and Canada .",
+      "description": "Runway Growth is a specialty finance company focused on providing flexible capital solutions to late- and growth-stage companies seeking an alternative to raising equity. Runway Growth is a closed-end investment fund that has elected to be regulated as a business development company under the Investment Company Act of 1940, as amended. Runway Growth is externally managed by Runway Growth Capital LLC, an affiliate of BC Partners Advisors L.P. and led by industry veterans David Spreng and Michael Rovner.",
       "dividendHistory": [
         {
           "year": "2021",
@@ -2099,7 +2099,7 @@
       "paymentDate": "09/30/2026",
       "growthRate": "-48.83%",
       "growthSource": "Analyst Forecast",
-      "description": "BlackRock TCP Capital Corp. (NASDAQ: TCPC) is a specialty finance company focused on direct lending to middle-market companies as well as small businesses. TCPC lends primarily to companies with established market positions, strong regional or national operations, differentiated products and services and sustainable competitive advantages, investing across industries in which it has significant knowledge and expertise. TCPC's investment objective is to achieve high total returns through current income and capital appreciation, with an emphasis on principal protection. TCPC is a publicly traded business development company, or BDC, regulated under the Investment Company Act of 1940 and is externally managed by its advisor, a wholly owned, indirect subsidiary of BlackRock, Inc. For more information, visit www.tcpcapital.com.",
+      "description": "BlackRock TCP Capital Corp. (NASDAQ: TCPC) is a specialty finance company focused on direct lending to middle-market companies as well as small businesses. TCPC lends primarily to companies with established market positions, strong regional or national operations, differentiated products and services and sustainable competitive advantages, investing across industries in which it has significant knowledge and expertise. TCPC's investment objective is to achieve high total returns through current income and capital appreciation, with an emphasis on principal protection. TCPC is a publicly-traded business development company, or BDC, regulated under the Investment Company Act of 1940 and is externally managed by its advisor, an indirect subsidiary of BlackRock, Inc.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -2729,7 +2729,7 @@
       "paymentDate": "09/25/2026",
       "growthRate": "-0.4%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Brighthouse Financial, Inc. ( Brighthouse Financial ) (Nasdaq: BHF) is on a mission to help people achieve financial security. As one of the largest providers of annuities and life insurance in the U.S., 1 we specialize in products designed to help people protect what they've earned and ensure it lasts. Learn more at brighthousefinancial.com.",
+      "description": "Brighthouse Financial, Inc. ( Brighthouse Financial ) (Nasdaq: BHF) is on a mission to help people achieve financial security. As one of the largest providers of annuities and life insurance in the U.S .,(1) we specialize in products designed to help people protect what they've earned and ensure it lasts.",
       "dividendHistory": [
         {
           "year": "2019",
@@ -2783,7 +2783,7 @@
       "paymentDate": "09/25/2026",
       "growthRate": "-0.4%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Brighthouse Financial, Inc. ( Brighthouse Financial ) (Nasdaq: BHF) is on a mission to help people achieve financial security. As one of the largest providers of annuities and life insurance in the U.S., 1 we specialize in products designed to help people protect what they've earned and ensure it lasts. Learn more at brighthousefinancial.com.",
+      "description": "Brighthouse Financial, Inc. ( Brighthouse Financial ) (Nasdaq: BHF) is on a mission to help people achieve financial security. As one of the largest providers of annuities and life insurance in the U.S .,(1) we specialize in products designed to help people protect what they've earned and ensure it lasts.",
       "dividendHistory": [
         {
           "year": "2020",
@@ -3043,7 +3043,7 @@
       "paymentDate": "09/25/2026",
       "growthRate": "-0.4%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Brighthouse Financial, Inc. ( Brighthouse Financial ) (Nasdaq: BHF) is on a mission to help people achieve financial security. As one of the largest providers of annuities and life insurance in the U.S., 1 we specialize in products designed to help people protect what they've earned and ensure it lasts. Learn more at brighthousefinancial.com.",
+      "description": "Brighthouse Financial, Inc. ( Brighthouse Financial ) (Nasdaq: BHF) is on a mission to help people achieve financial security. As one of the largest providers of annuities and life insurance in the U.S .,(1) we specialize in products designed to help people protect what they've earned and ensure it lasts.",
       "dividendHistory": [
         {
           "year": "2021",
@@ -3293,7 +3293,7 @@
       "paymentDate": "09/25/2026",
       "growthRate": "-0.4%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Brighthouse Financial, Inc. ( Brighthouse Financial ) (Nasdaq: BHF) is on a mission to help people achieve financial security. As one of the largest providers of annuities and life insurance in the U.S., 1 we specialize in products designed to help people protect what they've earned and ensure it lasts. Learn more at brighthousefinancial.com.",
+      "description": "Brighthouse Financial, Inc. ( Brighthouse Financial ) (Nasdaq: BHF) is on a mission to help people achieve financial security. As one of the largest providers of annuities and life insurance in the U.S .,(1) we specialize in products designed to help people protect what they've earned and ensure it lasts.",
       "dividendHistory": [
         {
           "year": "2022",
@@ -3733,7 +3733,7 @@
       "paymentDate": "09/15/2026",
       "growthRate": "-2.0%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Liberty Latin America is a leading communications company operating in over 20 countries across Latin America and the Caribbean under the consumer brands BTC, Flow, Liberty, and Mas Movil. The communications and entertainment services that we offer to our residential and business customers in the region include digital video, broadband internet, telephony, and mobile services. Our business products and services include enterprise-grade connectivity, data center, hosting and managed solutions, as well as information technology solutions with customers ranging from small and medium enterprises to international companies and governmental agencies. In addition, Liberty Latin America operates a subsea and terrestrial fiber optic cable network that connects over 30 markets in the region.",
+      "description": "Liberty Latin America is a leading communications company operating in over 20 countries across Latin America and the Caribbean under the consumer brands BTC, Flow, Liberty and Mas Movil. The communications and entertainment services that we offer to our residential and business customers in the region include digital video, broadband internet, telephony and mobile services. Our business products and services include enterprise-grade connectivity, data center, hosting and managed solutions, as well as information technology solutions with customers ranging from small and medium enterprises to international companies and governmental agencies. In addition, Liberty Latin America operates a subsea and terrestrial fiber optic cable network that connects over 30 markets in the region.",
       "dividendHistory": [
         {
           "year": "2026",
@@ -4881,7 +4881,7 @@
       "paymentDate": "10/15/2026",
       "growthRate": "13.0%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "LifeMD is a leading virtual care company making high-quality healthcare more accessible, convenient, and affordable. Through its vertically integrated platform, LifeMD connects patients with a 50-state affiliated medical group, laboratory services, a state-of-the-art nationwide pharmacy with home delivery, and a U.S.-based patient care center. Together, these capabilities support care across more than 200 conditions, including primary care, men's and women's health, weight management, and hormone therapy.",
+      "description": "LifeMD is a leading provider of virtual primary care. LifeMD offers telemedicine, access to laboratory and pharmacy services, and specialized treatment across more than 200 conditions, including primary care, men's and women's health, weight management, and hormone therapy. The Company leverages a vertically integrated, proprietary digital care platform, a 50-state affiliated medical group, a state-of-the-art affiliated pharmacy, and a U.S.-based patient care center to increase access to high-quality and affordable care. For more information, please visit lifemd.com.",
       "dividendHistory": [
         {
           "year": "2022",
@@ -5071,7 +5071,7 @@
       "paymentDate": "09/15/2026",
       "growthRate": "-0.4%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Brighthouse Financial, Inc. ( Brighthouse Financial ) (Nasdaq: BHF) is on a mission to help people achieve financial security. As one of the largest providers of annuities and life insurance in the U.S., 1 we specialize in products designed to help people protect what they've earned and ensure it lasts. Learn more at brighthousefinancial.com.",
+      "description": "Brighthouse Financial, Inc. ( Brighthouse Financial ) (Nasdaq: BHF) is on a mission to help people achieve financial security. As one of the largest providers of annuities and life insurance in the U.S .,(1) we specialize in products designed to help people protect what they've earned and ensure it lasts.",
       "dividendHistory": [
         {
           "year": "2018",
@@ -8851,7 +8851,7 @@
       "paymentDate": "09/30/2026",
       "growthRate": "16.0%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "First Internet Bancorp is a bank holding company with assets of $5.9 billion as of September 30, 2026. The Company's subsidiary, First Internet Bank, opened for business in 1999 as an industry pioneer in the branchless delivery of banking services. First Internet Bank provides consumer and small business deposits, commercial real estate and construction financing, SBA financing, public finance, consumer loans, and specialty finance services nationally, as well as commercial and industrial loans and treasury management services on a regional basis. First Internet Bancorp's common stock trades on the Nasdaq Global Select Market under the symbol 'INBK' and is a component of the Russell 2000 Index.",
+      "description": "First Internet Bancorp is a bank holding company with assets of $5.9 billion as of September 30, 2026. The Company's subsidiary, First Internet Bank, opened for business in 1999 as an industry pioneer in the branchless delivery of banking services. First Internet Bank provides consumer and small business deposits, commercial real estate and construction financing, SBA financing, public finance, consumer loans, and specialty finance services nationally, as well as commercial and industrial loans and treasury management services on a regional basis. First Internet Bancorp's common stock trades on the Nasdaq Global Select Market under the symbol 'INBK' and is a component of the Russell 2000 Index. Additional information about the Company is available at www.firstinternetbancorp.com and additional information about First Internet Bank, including its products and services, is available at www.firstib.com.",
       "dividendHistory": [
         {
           "year": "2019",
@@ -11071,7 +11071,7 @@
       "paymentDate": "09/01/2026",
       "growthRate": "1.0%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Runway Growth Capital LLC is the investment adviser to investment funds, including Runway Growth Finance Corp. (Nasdaq: RWAY), a business development company, and other private funds, which are lenders of growth capital to companies seeking an alternative to raising equity. Led by industry veterans David Spreng and Michael Rovner , these funds provide senior term loans of a target of $10 million to $150 million to fast-growing companies largely based in the United States and Canada .",
+      "description": "Runway Growth is a specialty finance company focused on providing flexible capital solutions to late- and growth-stage companies seeking an alternative to raising equity. Runway Growth is a closed-end investment fund that has elected to be regulated as a business development company under the Investment Company Act of 1940, as amended. Runway Growth is externally managed by Runway Growth Capital LLC, an affiliate of BC Partners Advisors L.P. and led by industry veterans David Spreng and Michael Rovner.",
       "dividendHistory": [
         {
           "year": "2022",
@@ -11151,7 +11151,7 @@
       "paymentDate": "09/01/2026",
       "growthRate": "1.0%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Runway Growth Capital LLC is the investment adviser to investment funds, including Runway Growth Finance Corp. (Nasdaq: RWAY), a business development company, and other private funds, which are lenders of growth capital to companies seeking an alternative to raising equity. Led by industry veterans David Spreng and Michael Rovner , these funds provide senior term loans of a target of $10 million to $150 million to fast-growing companies largely based in the United States and Canada .",
+      "description": "Runway Growth is a specialty finance company focused on providing flexible capital solutions to late- and growth-stage companies seeking an alternative to raising equity. Runway Growth is a closed-end investment fund that has elected to be regulated as a business development company under the Investment Company Act of 1940, as amended. Runway Growth is externally managed by Runway Growth Capital LLC, an affiliate of BC Partners Advisors L.P. and led by industry veterans David Spreng and Michael Rovner.",
       "dividendHistory": [
         {
           "year": "2026",
@@ -12155,7 +12155,7 @@
       "paymentDate": "10/15/2026",
       "growthRate": "781.25%",
       "growthSource": "Analyst Forecast",
-      "description": "AFC (Nasdaq: AFCG) is a publicly traded business development company that provides flexible credit solutions to lower middle-market companies. The company primarily originates, structures, invests and manages direct senior debt investments, targeting companies generating annual EBITDA of $5 to $50 million. The company seeks to maximize risk-adjusted returns for its stockholders with an opportunistic approach across all industries. AFC is headquartered in West Palm Beach, Florida.",
+      "description": "AFC (Nasdaq: AFCG) is a publicly traded business development company that provides flexible credit solutions to lower middle-market companies. The company primarily originates, structures, invests and manages direct senior debt investments, targeting companies generating annual EBITDA of $5 to $50 million . The company seeks to maximize risk-adjusted returns for its stockholders with an opportunistic approach across all industries. AFC is headquartered in West Palm Beach, Florida .",
       "dividendHistory": [
         {
           "year": "2021",
@@ -12357,7 +12357,7 @@
       "paymentDate": "08/20/2026",
       "growthRate": "106.79%",
       "growthSource": "Analyst Forecast",
-      "description": "Viper is a corporation formed by Diamondback to own, acquire and exploit oil and natural gas properties in North America, with a focus on owning and acquiring mineral and royalty interests in oil-weighted basins, primarily the Permian Basin in West Texas.",
+      "description": "Viper is a corporation formed by Diamondback to own, acquire and exploit oil and natural gas properties in North America , with a focus on owning and acquiring mineral and royalty interests in oil-weighted basins, primarily the Permian Basin .",
       "dividendHistory": [
         {
           "year": "2014",
@@ -12597,7 +12597,7 @@
       "paymentDate": "09/15/2026",
       "growthRate": "-13.6%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Microchip Technology Inc. is a broadline supplier of semiconductors committed to making innovative design easier through total system solutions that address critical challenges at the intersection of emerging technologies and durable end markets. Its easy-to-use development tools and comprehensive product portfolio supports customers throughout the design process, from concept to completion. Headquartered in Chandler, Arizona, Microchip offers outstanding technical support and delivers solutions across the industrial, automotive, consumer, aerospace and defense, communications and computing markets.",
+      "description": "Microchip Technology Inc. is a broadline supplier of semiconductors committed to making innovative design easier through total system solutions that address critical challenges at the intersection of emerging technologies and durable end markets. Its easy-to-use development tools and comprehensive product portfolio support customers throughout the design process, from concept to completion. Headquartered in Chandler, Arizona, Microchip offers outstanding technical support and delivers solutions across the industrial, automotive, consumer, aerospace and defense, communications and computing markets.",
       "dividendHistory": [
         {
           "year": "2025",
@@ -12897,7 +12897,7 @@
       "paymentDate": "01/09/2026",
       "growthRate": "-13.33%",
       "growthSource": "Analyst Forecast",
-      "description": "Dentsply Sirona is the world's largest diversified manufacturer of professional dental products and technologies, with over a century of innovation and service to the dental industry and patients worldwide. Dentsply Sirona develops, manufactures, and markets a comprehensive solutions offering including dental and oral health products as well as other consumable medical devices under a strong portfolio of world-class brands. Dentsply Sirona's innovative products provide high-quality, effective and connected solutions to advance patient care and deliver better and safer dental care. Dentsply Sirona is headquartered in Charlotte, North Carolina. The Company's shares are listed in the United States on Nasdaq under the symbol XRAY. Visit www.dentsplysirona.com for more information about Dentsply Sirona and its products.",
+      "description": "Dentsply Sirona is the world's largest diversified manufacturer of professional dental products and technologies, with over a century of innovation and service to the dental industry and patients worldwide. Dentsply Sirona develops, manufactures, and markets a comprehensive solutions offering, including dental and oral health products as well as other consumable medical devices under a strong portfolio of world-class brands. Dentsply Sirona's innovative products provide high-quality, effective and connected solutions to advance patient care and deliver better and safer dental care. Dentsply Sirona is headquartered in Charlotte, North Carolina. The Company's shares are listed in the United States on Nasdaq under the symbol XRAY. Visit www.dentsplysirona.com for more information about Dentsply Sirona and its products.",
       "dividendHistory": [
         {
           "year": "1994",
@@ -13209,7 +13209,7 @@
       "paymentDate": "09/01/2026",
       "growthRate": "53.0%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Supermicro (NASDAQ: SMCI) is a global leader in Application-Optimized Total IT Solutions. Founded and operating in San Jose, California , Supermicro is committed to delivering first-to-market innovation for Enterprise, Cloud, AI, and 5G/Edge IT Infrastructure. We are a Total IT Solutions provider with server, AI, storage, IoT, switch systems, software, and support services. Supermicro's motherboard, power, and chassis design expertise further enables our development and production, enabling next-generation innovation from cloud to edge for our global customers. Our products are designed and manufactured in-house (in the US, Taiwan , Malaysia , and the Netherlands ), leveraging global operations for scale and efficiency and optimized to improve TCO and reduce environmental impact (Green Computing).",
+      "description": "Supermicro (NASDAQ: SMCI) is a global leader in Application-Optimized Total IT Solutions. Founded and operating in San Jose, California, Supermicro is committed to delivering first-to-market innovation for Enterprise, Cloud, AI, and 5G Telco/Edge IT Infrastructure. We are a Total IT Solutions provider with server, AI, storage, IoT, switch systems, software, and support services. Supermicro's motherboard, power, and chassis design expertise further enables our development and production, enabling next-generation innovation from cloud to edge for our global customers. Our products are designed and manufactured in-house (in the US, Taiwan, and the Netherlands), leveraging global operations for scale and efficiency and optimized to improve TCO and reduce environmental impact (Green Computing).",
       "dividendHistory": [
         {
           "year": "2026",
@@ -13445,7 +13445,7 @@
       "paymentDate": "04/30/2026",
       "growthRate": "-5.1%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "We are a leading player in Asia's online social networking space. Through Momo, Tantan and other properties within our product portfolio, we enable users to discover new relationships, expand their social connections and build meaningful interactions. Momo is a mobile application that connects people and facilitates social interactions based on location, interests and a variety of online recreational activities. Tantan, which was added into our family of applications through acquisition in May 2018, is a leading social and dating application. Tantan is designed to help its users find and establish romantic connections as well as meet interesting people. Since 2019, we have continuously expanded our portfolio through internal incubation and strategic acquisitions, adding apps such as Hertz, Soulchill, and Happn. These products target more niche markets and selective user demographics both domestically and internationally, further strengthening our global presence.",
+      "description": "We are a leading player in Asia's online social networking space. Through Momo, Tantan and other properties within our product portfolio, we enable users to discover new relationships, expand their social connections and build meaningful interactions. Momo is a mobile application that connects people and facilitates social interactions based on location, interests and a variety of online recreational activities. Tantan, which we added to our family of applications through acquisition in May 2018 , is a leading social and dating application. Tantan is designed to help its users find and establish romantic connections as well as meet interesting people. Since 2019, we have continuously expanded our portfolio through internal incubation and strategic acquisitions, adding apps such as Hertz , Soulchill, and Happn. These products target more niche markets and selective user demographics both domestically and internationally, further strengthening our global presence.",
       "dividendHistory": [
         {
           "year": "2019",
@@ -14439,7 +14439,7 @@
       "paymentDate": "07/15/2026",
       "growthRate": "27.06%",
       "growthSource": "Analyst Forecast",
-      "description": "Opera is a user-centric and innovative software company focused on enabling the best possible internet browsing experience across devices. Hundreds of millions worldwide use Opera's mobile and desktop browsers for their speed, security, and unique features, enhanced with integrated AI that enables users to navigate and interact with the web in new transformative ways. Founded in 1995 and headquartered in Oslo, Norway, Opera is listed on the Nasdaq stock exchange under the ticker symbol 'OPRA'.",
+      "description": "Opera is an independent browser company founded in Norway in 1995. Opera's browsers are designed to provide innovative, feature-rich experiences across devices. Its portfolio includes Opera One, Opera GX, Opera Air and Opera Neon on PC, alongside its mobile browser products.",
       "dividendHistory": [
         {
           "year": "2023",
@@ -15345,7 +15345,7 @@
       "paymentDate": "08/28/2026",
       "growthRate": "207.14%",
       "growthSource": "Analyst Forecast",
-      "description": "AGNT, Inc. (Nasdaq: AGNT) is the holding company for eXp Commercial, a nationwide cloud-based commercial real estate brokerage. As a publicly traded company, it offers commercial advisors the unique opportunity to earn equity awards for meeting production goals and driving company growth. With advanced technology and a global network, eXp Commercial helps advisors grow their businesses and serve clients across commercial sectors like office, industrial, retail, multifamily, land, specialty properties and more.",
+      "description": "Built by Agents. Built for Agents. AGNT, Inc. (Nasdaq: AGNT) is the global parent company of eXp Realty, the most agent-centric real estate brokerage on the planet, NextHome, Inc. , an award-winning national real estate franchise, FrameVR.io, a virtual collaboration platform, and SUCCESS Enterprises, a leading personal development and media brand for entrepreneurs. Together, the AGNT platform provides a world-class multi-model operating system empowering independent agents, franchise owners, and team leaders across the Americas , Europe , the Middle East , Asia Pacific , and South Africa . As a publicly traded company, AGNT prioritizes transparency, innovation, and long-term value for agents, franchise owners, staff, and shareholders.",
       "dividendHistory": [
         {
           "year": "2021",
@@ -16217,7 +16217,7 @@
       "paymentDate": "10/02/2026",
       "growthRate": "2.3%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Founded in 1957, Crown Crafts, Inc. designs, markets, and distributes infant, toddler, and juvenile consumer products including infant bedding, toddler bedding, diaper bags, bibs, toys, and disposable products. The Company primarily operates through its wholly owned subsidiaries, NoJo Baby & Kids, Inc. and Sassy Baby, Inc., which market a variety of infant, toddler, and juvenile products under Company-owned trademarks (Sassy®, NoJo®, Manhattan Toy®, Baby Boom® and Neat Solutions®), as well as licensed collections and exclusive private label programs. Sales are made directly to retailers such as mass merchants, large chain stores, juvenile specialty stores, value channel stores, grocery and drug stores, restaurants, wholesale clubs, internet-based retailers and direct-to-consumers through the Company's websites.",
+      "description": "Founded in 1957, Crown Crafts, Inc. designs, markets, and distributes infant, toddler, and juvenile consumer products including infant bedding, toddler bedding, diaper bags, bibs, toys and disposable products. The Company primarily operates through its wholly owned subsidiaries, Sassy Baby, Inc. and NoJo Baby & Kids, Inc., which market a variety of infant, toddler, and juvenile products under Company-owned trademarks (Sassy, Manhattan Toy, NoJo, Baby Boom and Neat Solutions), as well as licensed collections and exclusive private label programs. Sales are made to retailers such as mass merchants, large chain stores, juvenile specialty stores, value channel stores, grocery and drug stores, restaurants, wholesale clubs, internet-based retailers and directly to consumers through the Company's websites.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -16389,7 +16389,7 @@
       "paymentDate": "10/02/2026",
       "growthRate": "-1.98%",
       "growthSource": "Analyst Forecast",
-      "description": "Kimberly-Clark (NASDAQ: KMB) is the preeminent global health and wellness leader, built to deliver extraordinary care. Our portfolio of iconic personal care and consumer health brands, including Huggies, Listerine, Cottonelle, Neutrogena, Depend, Tylenol, Kleenex, Johnson's Baby, Kotex and Scott, serves consumers across every stage of life in more than 175 countries. We combine consumer-led innovation, leading brand-building and commercial capabilities, and a fast and agile operating model to raise the standard of care for billions of people around the world. We are committed to using sustainable practices designed to support a healthy planet, build strong communities, and enable our business to thrive for decades to come. The KMB stock is a large cap growth and value stock and core S&P 500 equity held by more than 400 Exchange Traded Funds.",
+      "description": "Kimberly-Clark de México, S. A. B. de C. V., together with its subsidiaries, manufactures, distributes, and sells disposable products in Mexico. It operates through Consumer Products and Professional segments. The company offers diapers, training pants, swim pants, wet wipes, shampoos, lotion, bar soaps, and feeding products. It also provides toilet paper, napkins, facial tissues, paper towels, feminine pads, panty liners, tampons, intimate wipes, and menstrual cups. In addition, the company offers pet food, shampoos, wet wipes, and training pads. Further, it provides bar soap, liquid hand soap, foaming liquid soap, and liquid body wash; and underwear, protectors, feminine napkins, pre-folded products for adults. Additionally, the company offers anti-bacterial gels; disinfectant sprays; face masks; dispensers; hand towels; and industrial cleaning cloths.",
       "dividendHistory": [
         {
           "year": "2000",
@@ -17111,7 +17111,7 @@
       "paymentDate": "09/18/2026",
       "growthRate": "-10.58%",
       "growthSource": "Analyst Forecast",
-      "description": "OpenText is a global leader in data management for enterprise AI, helping organizations protect, govern, and activate their data with confidence.",
+      "description": "OpenText is a global leader in data management for enterprise AI, helping organizations protect, govern, and activate their data with confidence. Our technologies turn data into information with context to form the knowledge base for enterprise AI. Learn more at www.opentext.com .",
       "dividendHistory": [
         {
           "year": "2013",
@@ -18261,7 +18261,7 @@
       "paymentDate": "09/08/2026",
       "growthRate": "17.7%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "FTAI Infrastructure Inc. primarily invests in critical infrastructure with high barriers to entry across the rail, ports and terminals, and power and gas sectors that, on a combined basis, generate strong and stable cash flows with the potential for earnings growth and asset appreciation. FTAI Infrastructure Inc. is externally managed by an affiliate of Fortress Investment Group LLC, a leading, diversified global investment firm.",
+      "description": "FTAI Infrastructure primarily invests in critical infrastructure with high barriers to entry across the rail, ports and terminals, and power and gas sectors that, on a combined basis, generate strong and stable cash flows with the potential for earnings growth and asset appreciation. FTAI Infrastructure is externally managed by an affiliate of Fortress Investment Group LLC , a leading, diversified global investment firm.",
       "dividendHistory": [
         {
           "year": "2022",
@@ -18303,7 +18303,7 @@
       "paymentDate": "09/14/2026",
       "growthRate": "16.99%",
       "growthSource": "Analyst Forecast",
-      "description": "Strategic Education, Inc. (NASDAQ: STRA) ( www.strategiceducation.com ) is dedicated to helping advance economic mobility through higher education. We primarily serve working adult students globally through our core focus areas: 1) Education Technology Services, developing and maintaining relationships with employers to build education benefits programs providing employees access to affordable and industry-relevant training, certificate, and degree programs, including through Workforce Edge, a full-service education benefits administration solution for employers, and Sophia Learning, which offers low-cost online general education-level courses that are ACE-recommended for college credit; 2) U.S. Higher Education, including Capella University and Strayer University, each institutionally accredited, and collectively offering flexible and affordable associate, bachelor's, master's, and doctoral programs; and 3) Australia/New Zealand, comprised primarily of Torrens University.",
+      "description": "Strategic Education, Inc. (NASDAQ: STRA) ( www.strategiceducation.com ) is dedicated to helping advance economic mobility through higher education. We primarily serve working adult students globally through our core focus areas: 1) Education Technology Services, developing and maintaining relationships with employers to build education benefits programs providing employees access to affordable and industry-relevant training, certificate, and degree programs, including through Workforce Edge, a full-service education benefits administration solution for employers, and Sophia Learning , which offers low-cost online general education-level courses that are ACE-recommended for college credit; 2) U.S . Higher Education, including Capella University and Strayer University , each institutionally accredited, and collectively offering flexible and affordable associate, bachelor's, master's, and doctoral programs; and 3) Australia / New Zealand , comprised primarily of Torrens University .",
       "dividendHistory": [
         {
           "year": "1996",
@@ -18397,7 +18397,7 @@
       "paymentDate": "08/28/2026",
       "growthRate": "132.45%",
       "growthSource": "Analyst Forecast",
-      "description": "Aura is focused on mining in complete terms - thinking holistically about how its business impacts and benefits every one of our stakeholders: our company, our shareholders, our employees, and the countries and communities we serve. We call this 360° Mining. Aura is a company focused on the development and operation of gold and base metal projects in the Americas. The Company's six operating assets include the Minosa gold mine in Honduras; the Almas, Apoena, Borborema and MSG gold mines in Brazil; and the Aranzazu copper, gold, and silver mine in Mexico. Additionally, the Company owns Era Dorada, a gold project in Guatemala; Tolda Fria, a gold project in Colombia; and two projects in Brazil: Matupa, which is under development; and the Carajas copper project in the Carajas region, in the exploration phase.",
+      "description": "Aura is focused on mining in complete terms - thinking holistically about how its business impacts and benefits every one of our stakeholders: our company, our shareholders, our employees, and the countries and communities we serve. We call this 360° Mining. Aura is a company focused on the development and operation of gold and base metal projects in the Americas. The Company's six operating assets include Minosa gold mine in Honduras; Almas, Apoena, Borborema and MSG gold mines in Brazil; and Aranzazu, a copper, gold, and silver mine in Mexico. Additionally, the Company owns Era Dorada, a gold project in Guatemala; Tolda Fria, a gold project in Colombia; and two projects in Brazil: Matupa, which is under development; and the Carajas copper project in the Carajas region, in the exploration phase.",
       "dividendHistory": [
         {
           "year": "2025",
@@ -20035,7 +20035,7 @@
       "paymentDate": "08/31/2026",
       "growthRate": "-2.44%",
       "growthSource": "Analyst Forecast",
-      "description": "Reynolds Consumer Products (REYN: Nasdaq) is a leading provider of household products that simplify daily life so you can enjoy what matters most. Our Reynolds and Hefty brand products help make mealtime easier with preparation, cooking, clean-up, and storage solutions. For more information, visit ReynoldsConsumerProducts.com and ReynoldsBrands.com.",
+      "description": "Reynolds Consumer Products (Nasdaq: REYN) is a leading provider of household products that simplify daily life so you can enjoy what matters most. Our Reynolds and Hefty brand products help make mealtime easier with preparation, cooking, cleanup, and storage solutions. For more information, visit ReynoldsConsumerProducts.com and ReynoldsBrands.com.",
       "dividendHistory": [
         {
           "year": "2020",
@@ -21389,7 +21389,7 @@
       "paymentDate": "10/02/2026",
       "growthRate": "108.93%",
       "growthSource": "Analyst Forecast",
-      "description": "The Hackett Group, Inc. (NASDAQ: HCKT) is an ROI-led, AI enabled enterprise transformation company that helps clients achieve and sustain AI World Class performance. Its experts and engineers leverage Hackett AI platforms, including XT , AIXelerator , Hackett AI XPLR , ZBrain and XDA , to accelerate and enhance the delivery of the company's solutions and services. The Hackett AI platforms are powered by the company's domain-specific Solution Language Model informed by Hackett Process and Performance Intelligence, including Digital World Class and AI World Class benchmark metrics, industry-specific best-practice process flows and service delivery and operating model frameworks. The Hackett Group's proprietary insights are based on benchmarking results from leading global organizations, including 98% of Dow Jones Global Titans, 97% of the Dow Jones Industrials and 90% of the Fortune 100.",
+      "description": "The Hackett Group, Inc. (NASDAQ: HCKT) is an ROI-led, AI enterprise transformation firm that helps clients enable AI World Class performance. Its experts and engineers leverage Hackett AI platforms, including XT, AIXelerator, Hackett AI XPLR, ZBrain and XDA, to accelerate and enhance the delivery of the company's solutions and services. The Hackett AI platforms are powered by the company's domain-specific Solution Language Model informed by Hackett Process and Performance Intelligence, including Digital World Class and AI World Class benchmark metrics, industry-specific best-practice process flows and service delivery model frameworks. The Hackett Group's proprietary insights are based on benchmarking results from leading global organizations, including 98% of Dow Jones Global Titans, 97% of the Dow Jones Industrials and 90% of the Fortune 100. Visit www.thehackettgroup.com .",
       "dividendHistory": [
         {
           "year": "2013",
@@ -22069,7 +22069,7 @@
       "paymentDate": "08/26/2026",
       "growthRate": "-12.26%",
       "growthSource": "Analyst Forecast",
-      "description": "Carlyle (NASDAQ: CG) is a global investment firm with deep industry expertise that deploys private capital across three business segments: Global Private Equity, Global Credit, and Carlyle AlpInvest. With $485 billion of assets under management as of June 30, 2026, Carlyle's purpose is to connect people, ideas, and capital to fuel growth for companies and performance for investors. Carlyle employs more than 2,500 people in 28 offices across four continents.",
+      "description": "Carlyle ('Carlyle,' or the 'Adviser') (NASDAQ: CG) is a global investment firm with deep industry expertise that deploys private capital across three business segments: Global Private Equity, Global Credit, and Carlyle AlpInvest. With $479 billion of assets under management as of September 30, 2026 , Carlyle's purpose is to connect people, ideas, and capital to fuel growth for companies and performance for investors. Carlyle employs more than 2,600 people in 28 offices across four continents.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -22777,7 +22777,7 @@
       "paymentDate": "08/24/2026",
       "growthRate": "4.8%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Jerash Holdings (US), Inc. manufactures and exports custom, ready-made, sportswear and outerwear for leading global brands and retailers, including VF Corporation (which owns brands such as The North Face, Timberland, and Vans), New Balance, G-III (which licenses brands such as Calvin Klein, Tommy Hilfiger, and Nautica), Urban Outfitters, American Eagle, and Acushnet Holdings Corp (which owns the brand FootJoy). Jerash's existing production facilities in Jordan comprise seven factory units and six warehouses, and Jerash currently employs approximately 6,600 people.",
+      "description": "Jerash Holdings (US), Inc. manufactures and exports custom, ready-made, sportswear and outerwear for leading global brands and retailers, including VF Corporation (which owns brands such as The North Face, Timberland, and Vans), New Balance, G-III (which licenses brands such as Calvin Klein, Tommy Hilfiger, and Nautica), Urban Outfitters, American Eagle, and Acushnet Holdings Corp (which owns the brand FootJoy). Jerash's existing production facilities in Jordan comprise eight factory units and six warehouses, and Jerash currently employs approximately 6,600 people. Additional information is available at www.jerashholdings.com.",
       "dividendHistory": [
         {
           "year": "2018",
@@ -23145,7 +23145,7 @@
       "paymentDate": "08/31/2026",
       "growthRate": "N/A",
       "growthSource": "",
-      "description": "Mount Logan Capital Inc. ('MLCI') is an integrated alternative asset management and insurance solutions firm focused on generating durable, fee-based revenue and long-term value creation. MLCI leverages differentiated investment strategies alongside permanent insurance capital to deliver attractive, risk-adjusted returns across market cycles. Through its subsidiaries, MLM and Ability Insurance Company, MLCI manages and invests across private and public credit markets in North America and operates an insurance platform that provides long-duration liabilities to support its credit investment strategies. This integrated platform is designed to provide stable earnings, downside protection, and a low risk of principal impairment through the credit cycle. As of June 30, 2026, MLCI had over $2 billion in assets under management.",
+      "description": "Mount Logan Capital Inc. is an integrated alternative asset management and insurance solutions firm focused on generating durable, fee-based revenue and long-term value creation. The Company leverages differentiated investment strategies alongside permanent insurance capital to deliver attractive, risk-adjusted returns across market cycles. Through its subsidiaries, Mount Logan Management LLC and Ability Insurance Company, Mount Logan manages and invests across private and public credit markets in North America and operates an insurance platform that provides long-duration liabilities to support its credit investment strategies. This integrated platform is designed to provide stable earnings, downside protection, and a low risk of principal impairment through the credit cycle.",
       "dividendHistory": [
         {
           "year": "2025",
@@ -24031,7 +24031,7 @@
       "paymentDate": "10/15/2026",
       "growthRate": "6.1%",
       "growthSource": "Analyst Forecast",
-      "description": "Host Hotels & Resorts, Inc. is an S&P 500 company and is the largest lodging real estate investment trust and one of the largest owners of luxury and upper-upscale hotels. The Company currently owns 70 properties in the United States and five properties internationally totaling approximately 41,300 rooms. The Company also holds non-controlling interests in seven domestic joint ventures.",
+      "description": "Host Hotels & Resorts, Inc. is an S&P 500 company and is the largest lodging real estate investment trust and one of the largest owners of luxury and upper-upscale hotels. The Company currently owns 72 properties in the United States and five properties internationally totaling approximately 41,800 rooms. The Company also holds non-controlling interests in seven domestic joint ventures.",
       "dividendHistory": [
         {
           "year": "2000",
@@ -25253,7 +25253,7 @@
       "paymentDate": "10/14/2026",
       "growthRate": "4.68%",
       "growthSource": "Analyst Forecast",
-      "description": "Mondelez International, Inc. (Nasdaq: MDLZ) empowers people to snack right in over 150 countries around the world. With 2025 net revenues of approximately $38.5 billion, MDLZ is leading the future of snacking with iconic global and local brands such as Oreo, Ritz, LU, Clif Bar and Tate's Bake Shop biscuits and baked snacks, as well as Cadbury Dairy Milk, Milka and Toblerone chocolate. Mondelez International is a proud member of the Dow Jones Best-in-Class North America and World Indices, formerly Dow Jones Sustainability Indices. Visit www.mondelezinternational.com or follow the company on X at x.",
+      "description": "Mondelez International, Inc. (Nasdaq: MDLZ) empowers people to snack right in over 150 countries around the world. With 2025 net revenues of approximately $38.5 billion, MDLZ is leading the future of snacking with iconic global and local brands such as OREO, RITZ, LU, CLIF BAR and TATE'S BAKE SHOP biscuits and baked snacks, as well as CADBURY DAIRY MILK, MILKA and TOBLERONE chocolate. Mondelez International is a proud member of the Dow Jones Best-in-Class North America and World Indices, formerly Dow Jones Sustainability Indices.",
       "dividendHistory": [
         {
           "year": "2004",
@@ -29487,7 +29487,7 @@
       "paymentDate": "09/09/2026",
       "growthRate": "175.6%",
       "growthSource": "Analyst Forecast",
-      "description": "Microchip Technology Inc. is a broadline supplier of semiconductors committed to making innovative design easier through total system solutions that address critical challenges at the intersection of emerging technologies and durable end markets. Its easy-to-use development tools and comprehensive product portfolio supports customers throughout the design process, from concept to completion. Headquartered in Chandler, Arizona, Microchip offers outstanding technical support and delivers solutions across the industrial, automotive, consumer, aerospace and defense, communications and computing markets.",
+      "description": "Microchip Technology Inc. is a broadline supplier of semiconductors committed to making innovative design easier through total system solutions that address critical challenges at the intersection of emerging technologies and durable end markets. Its easy-to-use development tools and comprehensive product portfolio support customers throughout the design process, from concept to completion. Headquartered in Chandler, Arizona, Microchip offers outstanding technical support and delivers solutions across the industrial, automotive, consumer, aerospace and defense, communications and computing markets.",
       "dividendHistory": [
         {
           "year": "2002",
@@ -31805,7 +31805,7 @@
       "paymentDate": "09/10/2026",
       "growthRate": "12.58%",
       "growthSource": "Analyst Forecast",
-      "description": "As the supercharged Un-carrier, T-Mobile US, Inc. (NASDAQ: TMUS) is powered by an award-winning 5G network that connects more people, in more places, than ever before. With T-Mobile's unique value proposition of best network, best value and best experiences, the Un-carrier is redefining connectivity and fueling competition while continuing to drive the next wave of innovation in wireless and beyond. Headquartered in Bellevue, Wash., T-Mobile provides services through its subsidiaries and operates its flagship brands, T-Mobile, Metro by T-Mobile and Mint Mobile.",
+      "description": "As the supercharged Un-carrier, T-Mobile US, Inc. (NASDAQ: TMUS) is powered by an award-winning nationwide 5G Advanced network that connects more people, in more places, than ever before. With T-Mobile's unique value proposition of best network, best value and best experiences, the Un-carrier is redefining connectivity and fueling competition while continuing to drive the next wave of innovation in wireless, broadband and beyond. Headquartered in Bellevue, Wash., T-Mobile provides services through its subsidiaries and operates its flagship brands, T-Mobile, Metro by T-Mobile and Mint Mobile.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -31909,7 +31909,7 @@
       "paymentDate": "09/16/2026",
       "growthRate": "6.81%",
       "growthSource": "Analyst Forecast",
-      "description": "Viatris Inc. (Nasdaq: VTRS) is a global healthcare company whose mission is to empower people worldwide to live healthier at every stage of life. We meet the needs of patients around the world by acting decisively with ingenuity and resolve. Whether we're developing new medicines, working to maintain a resilient supply of needed therapies, or pursuing bold innovation, we strive to deliver solutions that are effective at scale and built to endure. We're purpose-built to make an impact with a broad portfolio that spans generics, value-added medicines, established brands and innovative medicines that address areas of significant unmet need. We are headquartered in the U.S., with global centers in Pittsburgh, Shanghai and Hyderabad, India. Learn more at viatris.com and investor.viatris.com , and connect with us on LinkedIn , Instagram , YouTube and X .",
+      "description": "Viatris Inc . (Nasdaq: VTRS) is a global healthcare company whose mission is to empower people worldwide to live healthier at every stage of life. We meet the needs of patients around the world by acting decisively with ingenuity and resolve. Whether we're developing new medicines, working to maintain a resilient supply of needed therapies, or pursuing bold innovation, we strive to deliver solutions that are effective at scale and built to endure. We're purpose-built to make an impact with a broad portfolio that spans generics, value-added medicines, established brands and innovative medicines that address areas of significant unmet need. We are headquartered in the U.S., with global centers in Pittsburgh, Shanghai and Hyderabad, India. Learn more at viatris.com and investor.viatris.com , and connect with us on LinkedIn , Instagram , YouTube and X .",
       "dividendHistory": [
         {
           "year": "2021",
@@ -31955,7 +31955,7 @@
       "paymentDate": "09/10/2026",
       "growthRate": "19.92%",
       "growthSource": "Analyst Forecast",
-      "description": "Perdoceo's accredited academic institutions offer a quality postsecondary education to a diverse student population, with fully online, campus-based and hybrid learning programs. The Company's academic institutions - Colorado Technical University ('CTU'), the American InterContinental University System ('AIUS' or 'AIU System'), and University of St. Augustine for Health Sciences ('USAHS') - provide degree programs from the associate through doctoral level as well as non-degree seeking and professional development programs. Our academic institutions offer students industry-relevant and career-focused academic programs that are designed to meet the educational needs of today's busy adults. CTU and AIUS continue to show innovation in higher education, advancing personalized learning technologies like their intellipath learning platform and using data analytics and technology to serve and educate students while enhancing overall learning and academic experiences.",
+      "description": "Perdoceo's accredited academic institutions offer a quality postsecondary education to a diverse student population, with fully online, campus-based and hybrid learning programs. The Company's academic institutions - Colorado Technical University ('CTU'), the American InterContinental University System ('AIUS' or 'AIU System') and University of St. Augustine for Health Sciences ('USAHS') - provide degree programs from the associate through doctoral level as well as non-degree seeking and professional development programs. Our academic institutions offer students industry-relevant and career-focused academic programs that are designed to meet the educational needs of today's busy adults. CTU and AIUS continue to show innovation in higher education, advancing personalized learning technologies like their intellipath learning platform and using data analytics and technology to serve and educate students while enhancing overall learning and academic experiences.",
       "dividendHistory": [
         {
           "year": "2023",
@@ -32101,7 +32101,7 @@
       "paymentDate": "07/20/2026",
       "growthRate": "32.51%",
       "growthSource": "Analyst Forecast",
-      "description": "Farmers & Merchants Bancorp, Inc. (Nasdaq: FMAO) is a financial holding company headquartered in Archbold, Ohio, and the parent company of The Farmers & Merchants State Bank.",
+      "description": "F&M Bank is a local independent community bank that has been serving its communities since 1897. F&M Bank provides commercial banking, retail banking and other financial services. Our locations are in Butler, Champaign, Fulton, Defiance, Hancock, Henry, Lucas, Shelby, Williams, and Wood counties in Ohio. In Northeast Indiana, we have offices located in Adams, Allen, DeKalb, Jay, Steuben and Wells counties. The Michigan footprint includes Oakland County, and we have Loan Production Offices in Muncie, Indiana, and Perrysburg and Bryan, Ohio.",
       "dividendHistory": [
         {
           "year": "2017",
@@ -34223,7 +34223,7 @@
       "paymentDate": "08/26/2026",
       "growthRate": "733.33%",
       "growthSource": "Analyst Forecast",
-      "description": "Headquartered in Salt Lake City, Utah, Clarus Corporation is a global leader in the design and development of best-in-class equipment and lifestyle products for outdoor enthusiasts. Driven by our rich history of engineering and innovation, our objective is to provide safe, simple, effective and beautiful products so that our customers can maximize their outdoor pursuits and adventures. Each of our brands has a long history of continuous product innovation for core and everyday users alike. The Company's products are principally sold globally under the Black Diamond®, Rhino-Rack®, MAXTRAX®, RockyMounts®, and Onwrd® brand names through outdoor specialty and online retailers, our own websites, distributors, and original equipment manufacturers.",
+      "description": "Headquartered in Salt Lake City, Utah , Clarus Corporation is a global leader in the design and development of best-in-class equipment and lifestyle products for outdoor enthusiasts. Driven by our rich history of engineering and innovation, our objective is to provide safe, simple, effective and beautiful products so that our customers can maximize their outdoor pursuits and adventures. Each of our brands has a long history of continuous product innovation for core and everyday users alike. The Company's products are principally sold globally under the Black Diamond, Rhino-Rack, MAXTRAX, TRED Outdoors, RockyMounts, and Onwrd brand names through outdoor specialty and online retailers, our own websites, distributors, and original equipment manufacturers.",
       "dividendHistory": [
         {
           "year": "2018",
@@ -36361,7 +36361,7 @@
       "paymentDate": "10/15/2026",
       "growthRate": "-9.67%",
       "growthSource": "Analyst Forecast",
-      "description": "California BanCorp (NASDAQ: BCAL) is a registered bank holding company headquartered in San Diego, California. California Bank of Commerce, N.A., a national banking association chartered under the laws of the United States (the 'Bank') and regulated by the Office of the Comptroller of the Currency, is a wholly owned subsidiary of California BanCorp. Established in 2001 and headquartered in San Diego, California, the Bank offers a range of financial products and services to individuals, professionals, and small to medium-sized businesses through its 14 branch offices including 12 commercial banking offices serving California. The Bank's solutions-driven, relationship-based approach to banking provides accessibility to decision makers and enhances value through strong partnerships with its clients.",
+      "description": "California BanCorp (NASDAQ: BCAL) is a registered bank holding company headquartered in San Diego, California. California Bank of Commerce, N.A., a national banking association chartered under the laws of the United States (the 'Bank') and regulated by the Office of Comptroller of the Currency, is a wholly owned subsidiary of California BanCorp. Established in 2001 and headquartered in San Diego, California, the Bank offers a range of financial products and services to individuals, professionals, and small to medium-sized businesses through its 14 branch offices including 12 commercial banking offices serving California. The Bank's solutions-driven, relationship-based approach to banking provides accessibility to decision makers and enhances value through strong partnerships with its clients.",
       "dividendHistory": [
         {
           "year": "2025",
@@ -37005,7 +37005,7 @@
       "paymentDate": "10/16/2026",
       "growthRate": "3.87%",
       "growthSource": "Analyst Forecast",
-      "description": "Republic Bancorp, Inc. (the 'Company') is the parent company of Republic Bank & Trust Company (the 'Bank'). The Bank currently operates 47 banking centers within five metropolitan statistical areas ('MSAs') across five states: 22 banking centers in the Louisville MSA, serving Louisville, Prospect, Shelbyville, and Shepherdsville, Kentucky, and Floyds Knobs, Jeffersonville, and New Albany, Indiana; six banking centers in the Lexington MSA, serving Georgetown and Lexington, Kentucky; eight banking centers in the Cincinnati MSA, serving Cincinnati and West Chester, Ohio, and Bellevue, Covington, Crestview Hills, and Florence, Kentucky; seven banking centers in the Tampa MSA, serving Largo, New Port Richey, St. Petersburg, Seminole, and Tampa, Florida; and four banking centers in the Nashville MSA, serving Franklin, Murfreesboro, Nashville, and Spring Hill, Tennessee. The Bank also offers online banking at www.republicbank.com.",
+      "description": "Republic Bancorp, Inc. (the 'Company') is the parent company of Republic Bank & Trust Company (the 'Bank'). The Bank operates 47 banking centers across five metropolitan statistical areas ('MSAs') in five states. These include 22 banking centers in the Louisville MSA, serving Louisville, Prospect, Shelbyville, and Shepherdsville, Kentucky, and Floyds Knobs, Jeffersonville, and New Albany, Indiana; six banking centers in the Lexington MSA, serving Georgetown and Lexington, Kentucky; eight banking centers in the Cincinnati MSA, serving Kenwood, Norwood, and West Chester, Ohio, and Bellevue, Covington, Crestview Hills, and Florence, Kentucky; seven banking centers in the Tampa MSA, serving Largo, New Port Richey, Seminole, St. Petersburg, Tampa, and Temple Terrace, Florida; and four banking centers in the Nashville MSA, serving Cool Springs, Murfreesboro, Nashville, and Spring Hill, Tennessee. The Bank also offers online banking at www.republicbank.com .",
       "dividendHistory": [
         {
           "year": "1998",
@@ -37305,7 +37305,7 @@
       "paymentDate": "09/24/2026",
       "growthRate": "26.47%",
       "growthSource": "Analyst Forecast",
-      "description": "Steve Madden designs, sources and markets fashion-forward footwear, accessories and apparel. In addition to marketing products under its own brands including Steve Madden, Kurt Geiger London, Dolce Vita, Betsey Johnson, Carvela, Blondo and ATM, Steve Madden licenses footwear, handbags and other accessory categories for the Anne Klein brand. Steve Madden also designs and sources products under private label brand names for various retailers. Steve Madden's wholesale distribution includes department stores, mass merchants, off-price retailers, shoe chains, online retailers, national chains, specialty retailers and independent stores. Steve Madden also directly operates brick-and-mortar retail stores, e-commerce websites and concessions in certain international markets. In addition, Steve Madden licenses certain of its brands to third parties for the marketing and sale of certain products in the apparel, accessory and home categories.",
+      "description": "Steve Madden designs, sources and markets fashion-forward footwear, accessories and apparel. In addition to marketing products under its own brands including Steve Madden, Kurt Geiger London , Dolce Vita , Betsey Johnson , Carvela, Blondo and ATM, Steve Madden licenses footwear, handbags and other accessory categories for the Anne Klein brand. Steve Madden also designs and sources products under private label brand names for various retailers. Steve Madden's wholesale distribution includes department stores, mass merchants, off-price retailers, shoe chains, online retailers, national chains, specialty retailers and independent stores. Steve Madden also directly operates brick-and-mortar retail stores and e-commerce websites. In addition, Steve Madden licenses certain of its brands to third parties for the marketing and sale of certain products in the apparel, accessory and home categories.",
       "dividendHistory": [
         {
           "year": "2018",
@@ -37465,7 +37465,7 @@
       "paymentDate": "09/02/2026",
       "growthRate": "-12.7%",
       "growthSource": "Analyst Forecast",
-      "description": "At Kelly (Nasdaq: KELYA, KELYB), we don't just understand the future of work, we're defining it. For over 80 years, we've sourced specialized talent, built agile workforces, and shaped growth strategies for employers around the world. Today, our recruiting, outsourcing, and consulting services provide the talent and solutions organizations need to move faster and grow smarter. We deliver meaningful impact by connecting people to work that enriches their lives, and companies to people who drive innovation and growth. Each year, we place more than 375,000 job seekers in new roles spanning science, engineering, technology, telecom, education, manufacturing, and more.",
+      "description": "Kelly Services, Inc. (Nasdaq: KELYA, KELYB) helps companies recruit and manage skilled workers and helps job seekers find great work. Since inventing the staffing industry in 1946, we have become experts in the many industries and local and global markets we serve. With a network of suppliers and partners around the world, we connect approximately 375,000 people with work every year. Our suite of outsourcing and consulting services and solutions ensures companies have the people they need, when and where they are needed most. Headquartered in Troy, Michigan , we empower businesses and individuals to access limitless opportunities in industries such as science, engineering, technology, education, manufacturing, retail, finance, and energy. Revenue in 2025 was $4.3 billion . Learn more at kellyservices.com .",
       "dividendHistory": [
         {
           "year": "1988",
@@ -38413,7 +38413,7 @@
       "paymentDate": "09/25/2026",
       "growthRate": "11.8%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "First Capital Inc is the savings and loan holding company of First Harrison Bank. Through its subsidiary, it operates as a federally-chartered savings bank which provides banking services to individuals and business customers across locations in America. The bank offers various loans which include residential loans, construction loans, commercial real estate loans, commercial business loans. It also provides consumer loans such as home equity and second mortgage loans, and automobile and truck loans.",
+      "description": "First Capital, Inc. (NASDAQ: FCAP) is the holding company of First Harrison Bank , a community bank headquartered in Corydon, Indiana . First Harrison Bank operates 12 branches across Clark , Floyd , Harrison and Washington counties in Indiana , and 5 branches in Bullitt County, Kentucky . As of September 30, 2026 , First Capital had total assets of $1.3 billion , gross loans of $686 million and total deposits of $1.1 billion .",
       "dividendHistory": [
         {
           "year": "1999",
@@ -39173,7 +39173,7 @@
       "paymentDate": "08/28/2026",
       "growthRate": "14.81%",
       "growthSource": "Analyst Forecast",
-      "description": "Newmark Group, Inc. (Nasdaq: NMRK), together with its subsidiaries ('Newmark'), is a world leading commercial real estate advisor and service provider to large institutional investors and other owners, global corporations and other occupiers, and lenders. Built with purpose and driven by excellence, Newmark's comprehensive platform is uniquely tailored to provide superior outcomes to clients. For the twelve months ended September 30, 2026, Newmark generated revenues of over $3.7 billion. As of September 30, 2026, Newmark and its business partners together operated from approximately 200 offices with 10,500 professionals across four continents.",
+      "description": "Newmark Group, Inc. (Nasdaq: NMRK), together with its subsidiaries ('Newmark'), is a world leading commercial real estate advisor and service provider to large institutional investors and other owners, global corporations and other occupiers, and lenders. Built with purpose and driven by excellence, Newmark's comprehensive platform is uniquely tailored to provide superior outcomes to clients. For the twelve months ended September 30, 2026, Newmark generated revenues of over $3.7 billion. As of September 30, 2026, Newmark and its business partners together operated from approximately 200 offices with 10,500 professionals across four continents. Learn more at nmrk.com or follow @newmark.",
       "dividendHistory": [
         {
           "year": "2018",
@@ -40143,7 +40143,7 @@
       "paymentDate": "10/02/2026",
       "growthRate": "24.93%",
       "growthSource": "Analyst Forecast",
-      "description": "C.H. Robinson is the global leader in Lean AI supply chains. For more than a century, companies everywhere have looked to us to reimagine how goods move. Now, as we redefine what's next for the industry, that same drive fuels our commitment to Building Tomorrow's Supply Chains, Today. Trusted by 75,000 customers and 450,000 contract carriers, we manage 37 million shipments annually, representing $23 billion in freight. We deliver tailored solutions across the world via truckload, less-than-truckload, ocean, air, and more. With our unique combination of human insight and Lean AI working as one, supply chains move faster, smarter, and more sustainably. As a responsible global citizen, we proudly contribute millions to the causes that matter most to our employees.",
+      "description": "C.H. Robinson is the global leader in Lean AI supply chains. For more than a century, companies everywhere have looked to us to reimagine how goods move. Now, as we redefine what's next for the industry, that same drive fuels our commitment to Building Tomorrow's Supply Chains, Today. Trusted by 75,000 customers and 450,000 contract carriers, we manage 37 million shipments annually, representing $23 billion in freight. We deliver tailored solutions across the world via truckload, less-than-truckload, ocean, air, and more. With our unique combination of human insight and Lean AI working as one, supply chains move faster, smarter, and more sustainably. As a responsible global citizen, we proudly contribute millions to the causes that matter most to our employees. For more information, visit us at chrobinson.com (Nasdaq: CHRW).",
       "dividendHistory": [
         {
           "year": "1997",
@@ -40249,7 +40249,7 @@
       "paymentDate": "10/16/2026",
       "growthRate": "0.5%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "National Healthcare Properties, Inc. (Nasdaq: NHP) is a self-managed real estate investment trust focused on providing needs-based senior housing to serve a growing elderly population in the United States.",
+      "description": "National Healthcare Properties, Inc. (Nasdaq: NHP) is a self-managed real estate investment trust focused on providing needs-based senior housing to serve a growing elderly population in the United States . Additional information about the Company can be found on its website at nhpreit.com .",
       "dividendHistory": [
         {
           "year": "2026",
@@ -40275,7 +40275,7 @@
       "paymentDate": "09/29/2026",
       "growthRate": "-113.17%",
       "growthSource": "Analyst Forecast",
-      "description": "Gilead Sciences, Inc. is a biopharmaceutical company that has pursued and achieved breakthroughs in medicine for more than three decades, with the goal of creating a healthier world for all people. The company is committed to advancing innovative medicines to prevent and treat life-threatening diseases, including HIV, viral hepatitis, COVID-19, and cancer. Gilead operates in more than 35 countries worldwide, with headquarters in Foster City, California.",
+      "description": "Gilead Sciences, Inc. is a biopharmaceutical company that has pursued and achieved breakthroughs in medicine for more than three decades, with the goal of creating a healthier world for all people. The company is committed to advancing innovative medicines to prevent and treat life-threatening diseases, including HIV, viral hepatitis, COVID-19, cancer and inflammation. In 2025, Gilead announced a $32 billion investment to further strengthen its U.S. footprint to power the next era of discovery, job creation and public health preparedness - while continuing to invest globally to ensure patients everywhere benefit from its scientific innovation. Gilead operates in more than 35 countries worldwide, with headquarters in Foster City, Calif.",
       "dividendHistory": [
         {
           "year": "2015",
@@ -42751,7 +42751,7 @@
       "paymentDate": "09/04/2026",
       "growthRate": "17.63%",
       "growthSource": "Analyst Forecast",
-      "description": "Cogent (NASDAQ: CCOI) is a facilities-based provider of low cost, high speed Internet access and private network services to bandwidth intensive businesses. Cogent's facilities-based, all-optical IP network provides services in 308 markets globally.",
+      "description": "Cogent Communications (NASDAQ: CCOI) is a multinational, Tier 1 facilities-based ISP. Cogent specializes in providing businesses with high-speed Internet access, Ethernet transport, optical wavelength, optical transport and colocation services. Cogent's facilities-based, all-optical IP network backbone provides services in 309 markets globally.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -44389,7 +44389,7 @@
       "paymentDate": "09/16/2026",
       "growthRate": "-6.22%",
       "growthSource": "Analyst Forecast",
-      "description": "WillScot (Nasdaq: WSC) is a leading provider of innovative turnkey space solutions in North America, helping customers keep projects moving and operations running. The Company partners with critical industries including construction, manufacturing, healthcare, government, energy and education to deliver the right solutions coupled with a high level of customer service. WillScot's comprehensive portfolio of products - including modular complexes, dry and cold storage containers, blast-resistant buildings, clearspan industrial structures, fencing, and add-on furnishings and equipment - is customizable and flexible to support any project need. Headquartered in Scottsdale, Ariz., WillScot operates from a network of approximately 240 branch locations in the U.S., Canada, and Mexico.",
+      "description": "WillScot (Nasdaq: WSC) is a leading provider of innovative turnkey space solutions in North America , helping customers keep projects moving and operations running. The Company partners with critical industries including construction, manufacturing, healthcare, government, energy and education to deliver the right solutions coupled with a high level of customer service. WillScot's comprehensive portfolio of products - including modular complexes, dry and cold storage containers, blast-resistant buildings, clearspan industrial structures, fencing, and add-on furnishings and equipment - is customizable and flexible to support any project need. Headquartered in Scottsdale, Ariz. , WillScot operates from a network of approximately 230 branch locations in the U.S ., Canada , and Mexico .",
       "dividendHistory": [
         {
           "year": "2025",
@@ -44419,7 +44419,7 @@
       "paymentDate": "09/29/2026",
       "growthRate": "6.24%",
       "growthSource": "Analyst Forecast",
-      "description": "Texas Roadhouse is a growing restaurant company operating predominantly in the casual dining segment that first opened in 1993 and today has grown to over 840 restaurants system-wide in 49 states, one U.S. territory, and ten foreign countries.",
+      "description": "Texas Roadhouse, Inc. is a growing restaurant company operating predominantly in the casual dining segment that first opened in 1993 and today has grown to over 840 restaurants system-wide in 49 states, one U.S . territory, and ten foreign countries.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -45005,7 +45005,7 @@
       "paymentDate": "09/18/2026",
       "growthRate": "14.4%",
       "growthSource": "Analyst Forecast",
-      "description": "NetEase Cloud Music (' Cloud Music Inc., ' HKEX: 9899) is one of the leading online music platforms in China with over 200 million monthly active users, featuring an interactive content community for music enthusiasts in terms of user scale and engagement. NCM is also the leading original music platform in China, hosting more than 1.25 million independent musicians. NCM has built a large-scale, robust and rapidly growing business to provide community-centric online music services to its users. NCM empowers music enthusiasts with a wide variety of technology-driven tools to discover, enjoy, share and create diverse music and music-inspired content and to interact with each other.",
+      "description": "NetEase, Inc. (NASDAQ: NTES and HKEX: 9999, 'NetEase') is a leading internet and game services provider centered around premium content. With extensive offerings across its expanding gaming ecosystem, the Company develops and operates some of the most popular and longest-running mobile and PC games available in China and globally. Powered by one of the largest in-house game R&D teams focused on mobile, PC and console, NetEase creates superior gaming experiences, inspires players, and passionately delivers value for its thriving community worldwide. By infusing play with culture, and education with technology, NetEase transforms gaming into a meaningful vehicle to build a more entertaining and enlightened world.",
       "dividendHistory": [
         {
           "year": "2014",
@@ -46269,7 +46269,7 @@
       "paymentDate": "08/24/2026",
       "growthRate": "29.86%",
       "growthSource": "Analyst Forecast",
-      "description": "Headquartered in Martinsville, VA, Carter Bankshares, Inc. (NASDAQ:CARE) provides a full range of commercial banking, consumer banking, mortgage and services through its subsidiary Carter Bank. The Company has $4.7 billion in assets and 63 branches in Virginia and North Carolina as of September 30, 2026.",
+      "description": "Headquartered in Martinsville, Va., Carter Bank is a $4.7 billion, state-chartered community bank with branches in Virginia and North Carolina. Since 1974, Carter Bank has strived to create opportunities for more people and businesses to prosper. Additional information about Carter Bank is available at carterbank.com . Member FDIC. Equal Housing Lender.",
       "dividendHistory": [
         {
           "year": "2020",
@@ -46855,7 +46855,7 @@
       "paymentDate": "09/23/2026",
       "growthRate": "6.68%",
       "growthSource": "Analyst Forecast",
-      "description": "Jack Henry (Nasdaq: JKHY) is a well-rounded financial technology company that strengthens connections between financial institutions and the people and businesses they serve. We are an S&P 500 company that prioritizes openness, collaboration, and user centricity - offering banks and credit unions a vibrant ecosystem of internally developed modern capabilities as well as the ability to integrate with leading fintechs. For 50 years, Jack Henry has provided technology solutions to enable clients to innovate faster, strategically differentiate, and successfully compete while serving the evolving needs of their accountholders. We empower more than 7,200 clients with people-inspired innovation, personal service, and insight-driven solutions that help reduce the barriers to financial health.",
+      "description": "Jack Henry (Nasdaq: JKHY) is a well-rounded financial technology company that strengthens connections between financial institutions and the people and businesses they serve. We are an S&P 500 company that prioritizes openness, collaboration, and user centricity - offering banks and credit unions a vibrant ecosystem of internally developed modern capabilities as well as the ability to integrate with leading fintechs. For 50 years, Jack Henry has provided technology solutions to enable clients to innovate faster, strategically differentiate, and successfully compete while serving the evolving needs of their accountholders. We empower approximately 7,200 clients with people-inspired innovation, personal service, and insight-driven solutions that help reduce the barriers to financial health.",
       "dividendHistory": [
         {
           "year": "1990",
@@ -48729,7 +48729,7 @@
       "paymentDate": "10/14/2026",
       "growthRate": "800%",
       "growthSource": "Analyst Forecast",
-      "description": "Vox Royalty Corp. (NASDAQ: VOXR) (TSX: VOXR) is a returns-focused mining royalty and streaming company built on disciplined capital allocation and risk-adjusted value creation. The Company holds a diversified portfolio of over 70 royalties and streams, including 11 producing and 28 development stage assets, with primary exposure to gold and select industrial metals across top tier mining jurisdictions. Founded in 2014, Vox combines a technically driven team, early catalyst identification, and a proprietary royalty database to target convex, long-term returns for shareholders. Vox is a constituent of the Russell 2000 and Russell 3000 Indexes and is included in the MVIS Global Junior Gold Miners Index and VanEck Junior Gold Miners ETF (GDXJ).",
+      "description": "Vox Royalty Corp. (NASDAQ:VOXR)(TSX:VOXR) is a returns-focused mining royalty and streaming company built on disciplined capital allocation and risk-adjusted value creation. The Company holds a diversified portfolio of over 70 royalties and streams, including 11 producing and 29 development stage assets, with primary exposure to gold and select industrial metals across top tier mining jurisdictions. Founded in 2014, Vox combines a technically driven team, early catalyst identification, and a proprietary royalty database to target convex, long-term returns for shareholders. Vox is a constituent of the Russell 2000 and Russell 3000 Indexes and is included in the MVIS Global Junior Gold Miners Index and VanEck Junior Gold Miners ETF (GDXJ).",
       "dividendHistory": [
         {
           "year": "2022",
@@ -49503,7 +49503,7 @@
       "paymentDate": "10/15/2026",
       "growthRate": "15.93%",
       "growthSource": "Analyst Forecast",
-      "description": "At WTW (NASDAQ: WTW), we provide data-driven, insight-led solutions in the areas of people, risk and capital. Leveraging the global view and local expertise of our colleagues serving more than 140 countries and markets, we help organizations sharpen their strategy, enhance organizational resilience, motivate their workforce and maximize performance. Working shoulder to shoulder with our clients, we uncover opportunities for sustainable success-and provide perspective that moves you.",
+      "description": "At WTW (NASDAQ: WTW), we provide data-driven, insight-led solutions in the areas of people, risk, and capital. Leveraging the global view and local expertise of our colleagues serving 140 countries and markets, we help organizations sharpen their strategy, enhance organizational resilience, motivate their workforce, and maximize performance. Working shoulder to shoulder with our clients, we uncover opportunities for sustainable success-and provide perspective that moves you.",
       "dividendHistory": [
         {
           "year": "2004",
@@ -49773,7 +49773,7 @@
       "paymentDate": "09/14/2026",
       "growthRate": "2.46%",
       "growthSource": "Analyst Forecast",
-      "description": "Charles River Associates is a leading global consulting firm specializing in economic, financial, and management consulting services . CRA advises clients on economic and financial matters pertaining to litigation and regulatory proceedings, and guides corporations through critical business strategy and performance-related issues. Since 1965, clients have engaged CRA for its unique combination of functional expertise and industry knowledge, and for its objective solutions to complex problems. Headquartered in Boston, CRA has offices throughout the world.",
+      "description": "Charles River Associates is a leading global consulting firm specializing in economic, financial, and management consulting services . CRA advises clients on economic and financial matters pertaining to litigation and regulatory proceedings, and guides corporations through critical business strategy and performance-related issues. Since 1965, clients have engaged CRA for its unique combination of functional expertise and industry knowledge, and for its objective solutions to complex problems. Headquartered in Boston , CRA has offices throughout the world. Detailed information about Charles River Associates , a trade name of CRA International, Inc. , is available at www.crai.com .",
       "dividendHistory": [
         {
           "year": "2016",
@@ -49873,7 +49873,7 @@
       "paymentDate": "09/02/2026",
       "growthRate": "-3.8%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "At Kelly (Nasdaq: KELYA, KELYB), we don't just understand the future of work, we're defining it. For over 80 years, we've sourced specialized talent, built agile workforces, and shaped growth strategies for employers around the world. Today, our recruiting, outsourcing, and consulting services provide the talent and solutions organizations need to move faster and grow smarter. We deliver meaningful impact by connecting people to work that enriches their lives, and companies to people who drive innovation and growth. Each year, we place more than 375,000 job seekers in new roles spanning science, engineering, technology, telecom, education, manufacturing, and more.",
+      "description": "Kelly Services, Inc. (Nasdaq: KELYA, KELYB) helps companies recruit and manage skilled workers and helps job seekers find great work. Since inventing the staffing industry in 1946, we have become experts in the many industries and local and global markets we serve. With a network of suppliers and partners around the world, we connect approximately 375,000 people with work every year. Our suite of outsourcing and consulting services and solutions ensures companies have the people they need, when and where they are needed most. Headquartered in Troy, Michigan , we empower businesses and individuals to access limitless opportunities in industries such as science, engineering, technology, education, manufacturing, retail, finance, and energy. Revenue in 2025 was $4.3 billion . Learn more at kellyservices.com .",
       "dividendHistory": [
         {
           "year": "1988",
@@ -51165,7 +51165,7 @@
       "paymentDate": "08/28/2026",
       "growthRate": "29.65%",
       "growthSource": "Analyst Forecast",
-      "description": "PC Connection, Inc. and its subsidiaries, dba Connection, ( www.connection.com ; NASDAQ: CNXN) is a Fortune 1000 company headquartered in Merrimack, NH . With offices throughout the United States , Connection delivers custom-configured IT solutions from its ISO 9001:2015 SOC 2 Type 2 certified Technology Integration and Distribution Center in Wilmington, OH . In addition, the Company has more than 5,000 professional certifications to ensure that it can solve the most complex issues of its customers. Connection also services international customers through its GlobalServe subsidiary, a global IT procurement and service management company.",
+      "description": "Connection , a Fortune 1000 company, calms the confusion of IT by delivering customers industry-leading technology solutions to enhance growth, elevate productivity, and empower innovation. Since 1982, Connection has set new standards for customer service and loyalty, earning the industry's highest accolades. The Company offers expertise across multiple technology areas, including AI, cybersecurity, data center, digital workspace, multicloud, and technology services.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -51879,7 +51879,7 @@
       "paymentDate": "09/30/2026",
       "growthRate": "7.61%",
       "growthSource": "Analyst Forecast",
-      "description": "Verisk (Nasdaq: VRSK) is a leading strategic data analytics and technology partner to the global insurance industry. It empowers clients to strengthen operating efficiency, improve underwriting and claims outcomes, combat fraud and make informed decisions about global risks, including climate change, catastrophic events, sustainability and political issues. Through advanced data analytics, software, scientific research and deep industry knowledge, Verisk helps build global resilience for individuals, communities and businesses. With teams across more than 20 countries, Verisk consistently earns certification by Great Place to Work .",
+      "description": "Verisk (Nasdaq: VRSK) is a leading strategic data analytics and technology partner to the global insurance industry. It empowers clients to strengthen operating efficiency, improve underwriting and claims outcomes, combat fraud and make informed decisions about global risks, including climate change, catastrophic events, sustainability and political issues. Through advanced data analytics, software, scientific research and deep industry knowledge, Verisk helps build global resilience for individuals, communities and businesses. With teams across more than 20 countries, Verisk consistently earns certification by Great Place to Work.",
       "dividendHistory": [
         {
           "year": "2019",
@@ -51975,7 +51975,7 @@
       "paymentDate": "10/15/2026",
       "growthRate": "430.3%",
       "growthSource": "Analyst Forecast",
-      "description": "First Internet Bancorp is a bank holding company with assets of $5.9 billion as of September 30, 2026. The Company's subsidiary, First Internet Bank, opened for business in 1999 as an industry pioneer in the branchless delivery of banking services. First Internet Bank provides consumer and small business deposits, commercial real estate and construction financing, SBA financing, public finance, consumer loans, and specialty finance services nationally, as well as commercial and industrial loans and treasury management services on a regional basis. First Internet Bancorp's common stock trades on the Nasdaq Global Select Market under the symbol 'INBK' and is a component of the Russell 2000 Index.",
+      "description": "First Internet Bancorp is a bank holding company with assets of $5.9 billion as of September 30, 2026. The Company's subsidiary, First Internet Bank, opened for business in 1999 as an industry pioneer in the branchless delivery of banking services. First Internet Bank provides consumer and small business deposits, commercial real estate and construction financing, SBA financing, public finance, consumer loans, and specialty finance services nationally, as well as commercial and industrial loans and treasury management services on a regional basis. First Internet Bancorp's common stock trades on the Nasdaq Global Select Market under the symbol 'INBK' and is a component of the Russell 2000 Index. Additional information about the Company is available at www.firstinternetbancorp.com and additional information about First Internet Bank, including its products and services, is available at www.firstib.com.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -53137,7 +53137,7 @@
       "paymentDate": "10/07/2026",
       "growthRate": "6.39%",
       "growthSource": "Analyst Forecast",
-      "description": "FirstService Residential is simplifying property management. Its hospitality-minded teams serve residential communities across the United States and Canada. The organization partners with boards, owners, and developers to enhance the value of every property and the life of every resident.Leveraging unique expertise and scale, FirstService serves its clients with proven solutions and a service-first philosophy. Residents can count on 24/7 customer care and tailored lifestyle programming, amenity activation, and technology for their community's specific needs. Market-leading programs with FirstService Financial, FirstService Energy, and special districts teams deliver additional levels of support.Boards and developers select FirstService Residential to support their vision and drive positive change in the communities in their trusted care.",
+      "description": "FirstService Residential is simplifying property management. Its hospitality-minded teams serve residential communities across the United States and Canada. The organization partners with boards, owners, and developers to enhance the value of every property and the life of every resident. Leveraging unique expertise and scale, FirstService serves its clients with proven solutions and a service-first philosophy. Residents can count on 24/7 customer care and tailored lifestyle programming, amenity activation, and technology for their community's specific needs. Market-leading programs with FirstService Financial, FirstService Energy, and special districts teams deliver additional levels of support. Boards and developers select FirstService Residential to realize their vision and drive positive change for residents in the communities in their trusted care.",
       "dividendHistory": [
         {
           "year": "2015",
@@ -53693,7 +53693,7 @@
       "paymentDate": "09/02/2026",
       "growthRate": "20.76%",
       "growthSource": "Analyst Forecast",
-      "description": "BGC Group, Inc. (Nasdaq: BGC) is a leading global marketplace, data, and financial technology services company for a broad range of products, including fixed income, foreign exchange, energy, commodities, shipping, equities, and now includes the FMX Futures Exchange. BGC's clients are many of the world's largest banks, broker-dealers, investment banks, trading firms, hedge funds, governments, corporations, and investment firms.",
+      "description": "BGC Group, Inc. (Nasdaq: BGC) is a leading global marketplace, data, and financial technology services company for a broad range of products, including fixed income, foreign exchange, energy, commodities, shipping, equities, and now includes the FMX Futures Exchange. BGC's clients are many of the world's largest banks, broker-dealers, investment banks, trading firms, hedge funds, governments, corporations, and investment firms. BGC and leading global investment banks and market making firms have partnered to create FMX, part of the BGC Group of companies, which includes a U.S. interest rate futures exchange, spot foreign exchange platform and the world's fastest growing U.S. cash treasuries platform.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -54279,7 +54279,7 @@
       "paymentDate": "10/14/2026",
       "growthRate": "65.02%",
       "growthSource": "Analyst Forecast",
-      "description": "Lam Research Corporation (NASDAQ: LRCX) is a global supplier of innovative wafer fabrication equipment and services to the semiconductor industry. Lam's equipment and services allow customers to build smaller and better performing devices. In fact, today, nearly every advanced chip is built with Lam technology. We combine superior systems engineering, technology leadership, and a strong values-based culture, with an unwavering commitment to our customers. Lam Research is a FORTUNE 500 company headquartered in Fremont, California, with operations around the globe. Learn more at www.lamresearch.com (LRCX).",
+      "description": "Lam Research Corporation is a global supplier of innovative wafer fabrication equipment and services to the semiconductor industry. Lam's equipment and services allow customers to build smaller and better performing devices. In fact, today, nearly every advanced chip is built with Lam technology. We combine superior systems engineering, technology leadership, and a strong values-based culture, with an unwavering commitment to our customers. Lam Research (Nasdaq: LRCX) is a FORTUNE 500 company headquartered in Fremont, Calif., with operations around the globe.",
       "dividendHistory": [
         {
           "year": "2014",
@@ -54543,7 +54543,7 @@
       "paymentDate": "09/30/2026",
       "growthRate": "20.75%",
       "growthSource": "Analyst Forecast",
-      "description": "Marriott International, Inc. (Nasdaq: MAR) is based in Bethesda, Maryland , USA, and encompasses a portfolio of compelling brands across luxury, premium, select, midscale, extended stay, and all-inclusive, with over 10,200 properties in 148 countries and territories, as of September 30, 2026 . Marriott franchises, operates, and licenses hotel, residential, timeshare, yacht, outdoor, and other lodging products all around the world. The company offers Marriott Bonvoy, its highly awarded travel platform.",
+      "description": "Marriott International, Inc. (Nasdaq: MAR) is based in Bethesda, Maryland, USA, and encompasses a portfolio of compelling brands across luxury, premium, select, midscale, extended stay, and all-inclusive, with over 10,200 properties in 148 countries and territories, as of September 30, 2026. Marriott franchises, operates, and licenses hotel, residential, timeshare, yacht, outdoor, and other lodging products all around the world. The company offers Marriott Bonvoy, its highly awarded travel platform.",
       "dividendHistory": [
         {
           "year": "2000",
@@ -54661,7 +54661,7 @@
       "paymentDate": "09/17/2026",
       "growthRate": "30.01%",
       "growthSource": "Analyst Forecast",
-      "description": "Expedia Group, Inc. (NASDAQ: EXPE) is the global travel marketplace with one purpose: to help travelers explore the world, one journey at a time. Expedia Group connects travelers, partners, and advertisers through its trusted brands, leading technology, and rich first-party data, delivering predictive, personalized experiences that shape the future of travel. Expedia Group's ecosystem includes three flagship consumer brands - Expedia, Hotels.com, and Vrbo - the largest B2B travel business, and a premier advertising network. Guided by an experienced and passionate global team, Expedia Group helps millions of travelers in more than 70 countries explore the world with confidence and ease.",
+      "description": "Expedia is an all-in-one travel shop where travelers can plan and book everything they need for their trip while saving on flights, hotels, vacation rentals, car rentals, and activities. Expedia delivers personalized, easy-to-use travel tools that make it easy to build a complete trip without juggling multiple sites, while allowing travelers to search, compare, and book multiple trip elements side by side. Expedia also unlocks more value with Bundle & Save deals, giving travelers amazing savings when they book more than one part of their trip. With One Key, Expedia's cross-brand loyalty program, every eligible booking earns OneKeyCash, while also giving travelers access to member-only prices and perks, making trips even more rewarding. In 2026, Expedia marks its 30th anniversary. As one of the first online travel agencies, it continues to be the one place you go to go places.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -55183,7 +55183,7 @@
       "paymentDate": "09/02/2026",
       "growthRate": "22.47%",
       "growthSource": "Analyst Forecast",
-      "description": "Headquartered in Nassau, Bahamas, OneSpaWorld is one of the largest health and wellness services companies in the world. OneSpaWorld's distinguished health and wellness centers offer guests a comprehensive suite of premium health, wellness, aesthetics and fitness services, treatments, and products, currently on-board 208 cruise ships and at 12 destination resorts around the world. OneSpaWorld holds the leading market position within the cruise industry segment of the international leisure market, which it has earned over six decades based on its exceptional service; expansive global recruitment, training and logistics platforms; irreplicable operating infrastructure; powerful team; and product innovation, delivering tens of millions of extraordinary guest experiences and outstanding service to its cruise line and destination resort partners.",
+      "description": "Headquartered in Nassau, Bahamas, OneSpaWorld is one of the largest health and wellness services companies in the world. OneSpaWorld's distinguished health and wellness centers offer guests a comprehensive suite of premium health, wellness, fitness and beauty services, treatments, and products, currently onboard 208 cruise ships and at 12 destination resorts around the world. OneSpaWorld holds the leading market position within the cruise industry segment of the international leisure market, which it has earned over six decades upon its exceptional service; expansive global recruitment, training and logistics platforms; irreplicable operating infrastructure; powerful team; and product innovation, delivering tens of millions of extraordinary guest experiences and outstanding service to its cruise line and destination resort partners.",
       "dividendHistory": [
         {
           "year": "2020",
@@ -55719,7 +55719,7 @@
       "paymentDate": "10/09/2026",
       "growthRate": "4.43%",
       "growthSource": "Analyst Forecast",
-      "description": "ICF (NASDAQ:ICFI) is a leading global solutions and technology provider. At ICF, business analysts and policy specialists work together with digital strategists, data scientists and creatives. We combine unmatched industry expertise with cutting-edge engagement capabilities to help organizations solve their most complex challenges. Since 1969, public and private sector clients have worked with ICF to navigate change and shape the future. Learn more at icf.com.",
+      "description": "ICF is a leading global solutions and technology provider. At ICF, business analysts and policy specialists work together with digital strategists, data scientists and creatives. We combine unmatched industry expertise with cutting-edge engagement capabilities to help organizations solve their most complex challenges. Since 1969, public and private sector clients have worked with ICF to navigate change and shape the future. Learn more at icf.com.",
       "dividendHistory": [
         {
           "year": "2018",
@@ -56118,6 +56118,32 @@
       "dividendGrowth": {
         "rate": "18.6%",
         "years": 13
+      }
+    },
+    {
+      "symbol": "SOLS",
+      "name": "Solstice Advanced Materials Inc. Common Stock ",
+      "price": "$54.92",
+      "marketCap": "8,634,029,877",
+      "sector": "Industrials",
+      "industry": "Major Chemicals",
+      "dividendYield": "0.55%",
+      "annualDividend": "$0.3",
+      "exDividendDate": "08/27/2026",
+      "paymentDate": "09/10/2026",
+      "growthRate": "95.17%",
+      "growthSource": "Analyst Forecast",
+      "description": "Solstice Advanced Materials is a prominent global specialty materials company dedicated to advancing science for smarter outcomes. They offer high-performance solutions that are integral to various industries, such as refrigerants, semiconductor manufacturing, data center cooling, alternative energy, protective fibers, and healthcare packaging. The company is known for developing next-generation materials under renowned brands like Solstice, Genetron, Aclar, Spectra, Fluka, and Hydranal. Solstice partners with over 3,000 customers across more than 120 countries and territories, supported by a portfolio of over 5,700 patents. With approximately 4,000 employees worldwide, Solstice is a leading innovator in materials science.",
+      "dividendHistory": [
+        {
+          "year": "2026",
+          "amount": "$0.30"
+        }
+      ],
+      "dividendYears": 1,
+      "dividendGrowth": {
+        "rate": "N/A",
+        "years": 0
       }
     },
     {
@@ -58035,7 +58061,7 @@
       "paymentDate": "10/15/2026",
       "growthRate": "0.88%",
       "growthSource": "Analyst Forecast",
-      "description": "Pega delivers the platform to reimagine, run, and evolve the processes and decisions an enterprise can't afford to get wrong. We combine AI with proven architecture to keep mission-critical operations governed, scalable, and continuously adaptable. Since 1983, the world's largest organizations have trusted Pega to turn transformation ambition into durable results.",
+      "description": "Pega delivers the platform to reimagine, run, and evolve the processes and decisions an enterprise can't afford to get wrong. We combine AI with proven architecture to keep mission-critical operations governed, scalable, and continuously adaptable. Since 1983, the world's largest organizations have trusted Pega to turn transformation ambition into durable results. Learn more at pega.com.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -58549,7 +58575,7 @@
       "paymentDate": "11/18/2026",
       "growthRate": "59.22%",
       "growthSource": "Analyst Forecast",
-      "description": "Entegris is a leading supplier of critical advanced materials and process solutions for the semiconductor and other high-tech industries. Entegris has approximately 9,000 employees throughout its global operations and is ISO 9001 certified. It has manufacturing, customer service and/or research facilities in the United States, Canada, China, Germany, Israel, Japan, Malaysia, Singapore, South Korea, and Taiwan.",
+      "description": "Entegris is a leading supplier of critical advanced materials and process solutions for the semiconductor and other high-tech industries. Entegris has approximately 9,000 employees throughout its global operations and is ISO 9001 certified. It has manufacturing, customer service and/or research facilities in the United States , Canada , China , Germany , Israel , Japan , Malaysia , Singapore , South Korea , and Taiwan . Additional information can be found at www.entegris.com .",
       "dividendHistory": [
         {
           "year": "2017",
@@ -58927,7 +58953,7 @@
       "paymentDate": "07/14/2026",
       "growthRate": "20.28%",
       "growthSource": "Analyst Forecast",
-      "description": "Colliers (TSX, NASDAQ: CIGI) is a global diversified professional services and investment management company operating through three industry-leading businesses: Commercial Real Estate, Engineering and Investment Management. With greater than a 30-year track record of consistent growth and strong recurring cash flows, we scale complementary, high-value businesses that provide essential services across the full asset lifecycle. Our unique partnership philosophy empowers exceptional leaders, preserves our entrepreneurial culture, and ensures meaningful inside ownership - driving strong alignment and sustained value creation for our shareholders. With $6 billion in annual revenues, 28,000 professionals, and $110 billion in assets under management, Colliers is committed to accelerating the success of our clients, investors, and people worldwide.",
+      "description": "Colliers (NASDAQ, TSX: CIGI) is a global diversified professional services and investment management company operating through three industry leading businesses: Commercial Real Estate, Engineering, and Investment Management. With greater than a 30-year track record of consistent growth and strong recurring cash flows, we scale complementary, high-value businesses that provide essential services across the full asset lifecycle. Our unique partnership philosophy empowers exceptional leaders, preserves our entrepreneurial culture, and ensures meaningful inside ownership - driving strong alignment and sustained value creation for our shareholders. With $6.1 billion in annual revenues, 28,000 professionals, and $110 billion in assets under management, Colliers is committed to accelerating the success of our clients, investors, and people worldwide.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -59891,7 +59917,7 @@
       "paymentDate": "09/30/2026",
       "growthRate": "13.1%",
       "growthSource": "Analyst Forecast",
-      "description": "Hilton (NYSE: HLT) is a leading global hospitality company with a portfolio of 28 world-class brands comprising more than 9,600 properties and over 1.4 million rooms, in 144 countries and territories. Dedicated to fulfilling its founding vision to fill the earth with the light and warmth of hospitality, Hilton has welcomed over 4 billion guests in its more than 100-year history. Named as the No. 1 World's Best Workplace by Great Place to Work and Fortune, Hilton aims to create the best culture for its 500,000 team members around the world. Hilton has introduced industry-leading technology enhancements to improve the guest experience, including Digital Key Share, automated complimentary room upgrades and the ability to book confirmed connecting rooms. Through the award-winning guest loyalty program Hilton Honors, the 270 million Hilton Honors members who book directly with Hilton can earn Points for hotel stays and experiences money can't buy.",
+      "description": "Hilton (Nasdaq: HLT) is a leading global hospitality company with a portfolio of 28 world-class brands comprising more than 9,600 properties and over 1.4 million rooms, in 144 countries and territories. Dedicated to fulfilling its founding vision to fill the earth with the light and warmth of hospitality, Hilton has welcomed over 4 billion guests in its more than 100-year history. Named as the No. 1 World's Best Workplace by Great Place to Work and Fortune, Hilton aims to create the best culture for its 500,000 team members around the world. Hilton has introduced industry-leading technology enhancements to improve the guest experience, including Digital Key Share, automated complimentary room upgrades and the ability to book confirmed connecting rooms. Through the award-winning guest loyalty program Hilton Honors, the more than 270 million Hilton Honors members who book directly with Hilton can earn Points for hotel stays and experiences money can't buy.",
       "dividendHistory": [
         {
           "year": "2017",
@@ -60265,7 +60291,7 @@
       "paymentDate": "10/29/2026",
       "growthRate": "134.06%",
       "growthSource": "Analyst Forecast",
-      "description": "Micron Technology, Inc., is a global leader in semiconductor memory and storage, powering AI and compute-intensive applications from cloud to edge. With a relentless focus on our customers, technology and product leadership, and manufacturing and operational excellence, Micron's comprehensive portfolio of high-performance DRAM, NAND and NOR solutions delivers the speed, efficiency and scale today's workloads demand, accelerating intelligence to enrich life for all. To learn more about Micron Technology, Inc. (Nasdaq: MU), visit micron.com.",
+      "description": "Micron Technology, Inc. is a global leader in semiconductor memory and storage, powering AI and compute-intensive applications from cloud to edge. With a relentless focus on our customers, technology and product leadership, and manufacturing and operational excellence, Micron's comprehensive portfolio of high-performance DRAM, NAND and NOR solutions deliver the speed, efficiency, and scale today's workloads demand, accelerating intelligence to enrich life for all.",
       "dividendHistory": [
         {
           "year": "2021",
