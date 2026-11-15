@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": "2026-11-14T02:19:07.478Z",
+  "lastUpdated": "2026-11-15T01:49:17.254Z",
   "count": 809,
   "totalScanned": 7252,
   "stats": {
@@ -9,7 +9,7 @@
     "withoutGrowthData": 38,
     "withDividendHistory": 809,
     "avgDividendYears": "13.0",
-    "durationMinutes": "13.55"
+    "durationMinutes": "12.07"
   },
   "sectors": [
     {
@@ -1133,7 +1133,7 @@
       "paymentDate": "09/24/2026",
       "growthRate": "-1.9%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "TORM is one of the world's leading carriers of refined oil products. TORM operates a fleet of product tanker vessels with a strong commitment to safety. environmental responsibility and customer service. TORM was founded in 1889 and conducts business worldwide. TORM's shares are listed on Nasdaq in Copenhagen and on Nasdaq in New York (NASDAQ: TRMD A) (NASDAQ: TRMD) (ISIN: GB00BZ3CNK81). For further information, please visit www.torm.com.",
+      "description": "TORM is one of the world's leading carriers of refined oil products. TORM operates a fleet of product tanker vessels with a strong commitment to safety. environmental responsibility and customer service. TORM was founded in 1889 and conducts business worldwide. TORM's shares are listed on Nasdaq in Copenhagen and on Nasdaq in New York (ticker: TRMD A and TRMD. ISIN: GB00BZ3CNK81).",
       "dividendHistory": [
         {
           "year": "2020",
@@ -3005,7 +3005,7 @@
       "paymentDate": "10/09/2026",
       "growthRate": "13.5%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "United Maritime Corporation is an international shipping company specializing in worldwide seaborne transportation services. The Company operates a fleet of six dry bulk vessels, comprising two Capesize, one Kamsarmax and three Panamax vessels, with an aggregate cargo carrying capacity of 666,260 dwt. Upon completion of the aforementioned sale of the M/V Exelixsea, the Company's operating fleet will consist of five vessels (two Capesize, one Kamsarmax and two Panamax vessels), with an aggregate cargo carrying capacity of 589,899 dwt. The Company is incorporated under the laws of the Republic of the Marshall Islands and has executive offices in Glyfada, Greece. The Company's common shares trade on the Nasdaq Capital Market under the symbol 'USEA'.",
+      "description": "United Maritime Corporation is an international shipping company specializing in worldwide seaborne transportation services. The Company operates a fleet of five dry bulk vessels, comprising two Capesize, one Kamsarmax and two Panamax vessels, with an aggregate cargo carrying capacity of 589,899 dwt. Upon completion of the aforementioned acquisition of the M/V Friendship, the Company's operating fleet will consist of six vessels (three Capesize, one Kamsarmax and two Panamax vessels), with an aggregate cargo carrying capacity of 766,851 dwt. The Company is incorporated under the laws of the Republic of the Marshall Islands and has executive offices in Glyfada, Greece. The Company's common shares trade on the Nasdaq Capital Market under the symbol 'USEA'.",
       "dividendHistory": [
         {
           "year": "2023",
@@ -12811,7 +12811,7 @@
       "paymentDate": "12/23/2025",
       "growthRate": "-5.6%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Deswell manufactures injection-molded plastic parts and components, electronic products and subassemblies, and metallic molds and accessory parts for original equipment manufacturers (\"OEMs\") and contract manufacturers at its factories in the People's Republic of China. The Company produces a wide variety of plastic parts and components used in the manufacture of consumer and industrial products; printed circuit board assemblies using surface mount (\"SMT\") and finished products such as telephones, professional audio equipment, home audio products, and Internet-of-Things (IoT) products.",
+      "description": "Deswell manufactures injection-molded plastic parts and components, electronic products and subassemblies, and metallic molds and accessory parts for original equipment manufacturers ('OEMs') and contract manufacturers at its factories in the People's Republic of China. The Company produces a wide variety of plastic parts and components used in the manufacture of consumer and industrial products; printed circuit board assemblies using surface mount ('SMT') and finished products such as telephones, telephone answering machines, sophisticated studio-quality audio equipment and computer peripherals.",
       "dividendHistory": [
         {
           "year": "1996",
@@ -25303,7 +25303,7 @@
       "paymentDate": "09/15/2026",
       "growthRate": "12.31%",
       "growthSource": "Analyst Forecast",
-      "description": "Since the late 1800s, Hancock Whitney has embodied core values of Honor & Integrity, Strength & Stability, Commitment to Service, Teamwork, and Personal Responsibility. Hancock Whitney offices and financial centers in Mississippi, Alabama, Florida, Louisiana, and Texas offer comprehensive financial products and services, including traditional and online banking; commercial and small business banking; private banking; trust and investment services; healthcare banking; and mortgage services. The company also operates combined loan and deposit production offices in the greater metropolitan areas of Nashville, Tennessee, and Atlanta, Georgia. More information is available at www.hancockwhitney.com.",
+      "description": "Since the late 1800s, Hancock Whitney has embodied core values of Honor & Integrity, Strength & Stability, Commitment to Service, Teamwork, and Personal Responsibility. Hancock Whitney offices and financial centers in Mississippi, Alabama, Florida, Louisiana, and Texas offer comprehensive financial products and services, including traditional and online banking; commercial and small business banking; private banking; trust and investment services; healthcare banking; and mortgage services. The company also operates combined loan and deposit production offices in the greater metropolitan areas of Nashville, Tennessee, and Atlanta, Georgia.",
       "dividendHistory": [
         {
           "year": "1991",
@@ -53419,7 +53419,7 @@
       "paymentDate": "09/08/2026",
       "growthRate": "8.91%",
       "growthSource": "Analyst Forecast",
-      "description": "Walmart Inc. (Nasdaq: WMT) is a people-led, tech-powered omnichannel retailer helping people save money and live better - anytime and anywhere - in stores, online, and through their mobile devices. Each week, approximately 280 million customers and members visit more than 10,900 stores and numerous eCommerce websites in 19 countries. With fiscal year 2026 revenue of $713 billion, Walmart employs approximately 2.1 million associates worldwide. Walmart continues to be a leader in sustainability, corporate philanthropy, and employment opportunity. Additional information about Walmart can be found by visiting corporate.walmart.com, on Facebook at facebook.com/walmart, on X (formerly known as Twitter) at twitter.com/walmart, and on LinkedIn at linkedin.com/company/walmart.",
+      "description": "Walmart Inc. (Nasdaq: WMT) is a people-led, tech-powered omnichannel retailer helping people save money and live better - anytime and anywhere - in stores, online, and through their mobile devices. Each week, approximately 280 million customers and members visit more than 10,900 stores and numerous eCommerce websites in 19 countries. With fiscal year 2026 revenue of $713 billion, Walmart employs approximately 2.1 million associates worldwide. Walmart continues to be a leader in sustainability, corporate philanthropy, and employment opportunity.",
       "dividendHistory": [
         {
           "year": "2000",
@@ -57179,7 +57179,7 @@
       "paymentDate": "09/14/2026",
       "growthRate": "22.7%",
       "growthSource": "Analyst Forecast",
-      "description": "Interactive Brokers Group, Inc. (NASDAQ: IBKR) is a member of the S&P 500. Its affiliates provide automated trade execution and custody of securities, commodities, foreign exchange, and prediction markets around the clock on over 175 markets in numerous countries and currencies from a single unified platform to clients worldwide. We serve individual investors, hedge funds, proprietary trading groups, financial advisors and introducing brokers. Our four decades of focus on technology and automation have enabled us to equip our clients with a uniquely sophisticated platform to manage their investment portfolios. We strive to provide our clients with advantageous execution prices and trading, risk and portfolio management tools, research facilities and investment products, all at low or no cost, positioning them to achieve superior returns on investments.",
+      "description": "Interactive Brokers Group, Inc. (NASDAQ: IBKR) is a member of the S&P 500. Its affiliates provide automated trade execution and custody of securities, commodities, foreign exchange, and prediction markets around the clock on over 175 markets in numerous countries and currencies from a single unified platform to clients worldwide. We serve individual investors, hedge funds, proprietary trading groups, financial advisors and introducing brokers.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -57971,7 +57971,7 @@
       "paymentDate": "11/13/2026",
       "growthRate": "12.76%",
       "growthSource": "Analyst Forecast",
-      "description": "Casey's is a Fortune 500 company (Nasdaq: CASY) operating nearly 3,000 convenience stores. Founded more than 50 years ago, the company has grown to become the third-largest convenience store retailer and the fifth-largest pizza chain in the United States. Casey's provides freshly prepared foods, quality fuel and friendly service at its locations. Guests can enjoy pizza, donuts, other assorted bakery items, and a wide selection of beverages and snacks. Learn more and order online at www.caseys.com, or in the mobile app.",
+      "description": "Casey's is a Fortune 500 company (Nasdaq: CASY) operating nearly 3,000 convenience stores. Founded more than 50 years ago, the company has grown to become the third-largest convenience store retailer and the fifth-largest pizza chain in the United States. Casey's provides freshly prepared foods, quality fuel and friendly service at its locations. Guests can enjoy pizza, donuts, other assorted bakery items, and a wide selection of beverages and snacks.",
       "dividendHistory": [
         {
           "year": "1990",
