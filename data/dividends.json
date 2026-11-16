@@ -1,15 +1,15 @@
 {
   "success": true,
-  "lastUpdated": "2026-11-15T01:49:17.254Z",
+  "lastUpdated": "2026-11-16T01:51:12.894Z",
   "count": 809,
   "totalScanned": 7252,
   "stats": {
     "totalDividendStocks": 809,
-    "withGrowthData": 771,
-    "withoutGrowthData": 38,
+    "withGrowthData": 770,
+    "withoutGrowthData": 39,
     "withDividendHistory": 809,
     "avgDividendYears": "13.0",
-    "durationMinutes": "12.07"
+    "durationMinutes": "10.41"
   },
   "sectors": [
     {
@@ -16245,7 +16245,7 @@
       "paymentDate": "10/02/2026",
       "growthRate": "-8.02%",
       "growthSource": "Analyst Forecast",
-      "description": "Kimberly-Clark (NASDAQ: KMB) is the preeminent global health and wellness leader, built to deliver extraordinary care. Our portfolio of iconic personal care and consumer health brands, including Huggies, Listerine, Cottonelle, Neutrogena, Depend, Tylenol, Kleenex, Johnson's Baby, Kotex and Scott, serves consumers across every stage of life in more than 175 countries. We combine consumer-led innovation, leading brand-building and commercial capabilities, and a fast and agile operating model to raise the standard of care for billions of people around the world. We are committed to using sustainable practices designed to support a healthy planet, build strong communities, and enable our business to thrive for decades to come. To keep up with the latest news and learn more about the company's more than 150-year history, visit the Kimberly-Clark website.",
+      "description": "Kimberly-Clark de México, S. A. B. de C. V., together with its subsidiaries, manufactures, distributes, and sells disposable products in Mexico. It operates through Consumer Products and Professional segments. The company offers diapers, training pants, swim pants, wet wipes, shampoos, lotion, bar soaps, and feeding products. It also provides toilet paper, napkins, facial tissues, paper towels, feminine pads, panty liners, tampons, intimate wipes, and menstrual cups. In addition, the company offers pet food, shampoos, wet wipes, and training pads. Further, it provides bar soap, liquid hand soap, foaming liquid soap, and liquid body wash; and underwear, protectors, feminine napkins, pre-folded products for adults. Additionally, the company offers anti-bacterial gels; disinfectant sprays; face masks; dispensers; hand towels; and industrial cleaning cloths.",
       "dividendHistory": [
         {
           "year": "2000",
@@ -46063,8 +46063,8 @@
       "annualDividend": "$0.24",
       "exDividendDate": "09/08/2026",
       "paymentDate": "09/22/2026",
-      "growthRate": "15.4%",
-      "growthSource": "4yr Revenue CAGR",
+      "growthRate": "N/A",
+      "growthSource": "",
       "description": "Texas Community Bancshares, Inc. is headquartered in Mineola, Texas. It is the bank holding company for Broadstreet Bank, SSB, a Texas -chartered savings bank also headquartered in Mineola ('Broadstreet'). Broadstreet offers a range of deposit products, including checking, money market, savings and certificate of deposit accounts. Its lending covers residential real estate, commercial real estate, construction and land, and municipal loans, along with commercial, consumer and other loans. Broadstreet serves customers through its main office and six branch offices in Franklin, Hopkins, Smith, Van Zandt and Wood Counties in East Texas.",
       "dividendHistory": [
         {
