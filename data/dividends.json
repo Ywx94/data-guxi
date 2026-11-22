@@ -1,20 +1,20 @@
 {
   "success": true,
-  "lastUpdated": "2026-11-21T03:14:17.873Z",
-  "count": 811,
+  "lastUpdated": "2026-11-22T02:14:24.052Z",
+  "count": 810,
   "totalScanned": 7301,
   "stats": {
-    "totalDividendStocks": 811,
-    "withGrowthData": 773,
+    "totalDividendStocks": 810,
+    "withGrowthData": 772,
     "withoutGrowthData": 38,
-    "withDividendHistory": 811,
+    "withDividendHistory": 810,
     "avgDividendYears": "13.0",
-    "durationMinutes": "12.97"
+    "durationMinutes": "15.87"
   },
   "sectors": [
     {
       "name": "Finance",
-      "count": 383
+      "count": 382
     },
     {
       "name": "Consumer Discretionary",
@@ -76,7 +76,7 @@
     },
     {
       "name": "Finance: Consumer Services",
-      "count": 36
+      "count": 35
     },
     {
       "name": "Investment Managers",
@@ -1734,52 +1734,6 @@
       "dividendGrowth": {
         "rate": "34.7%",
         "years": 5
-      }
-    },
-    {
-      "symbol": "NSLR",
-      "name": "Neostellar Capital Corp. Common Stock",
-      "price": "$5.24",
-      "marketCap": "138,719,683",
-      "sector": "Finance",
-      "industry": "Finance: Consumer Services",
-      "dividendYield": "19.08%",
-      "annualDividend": "$1",
-      "exDividendDate": "11/21/2025",
-      "paymentDate": "12/05/2025",
-      "growthRate": "25.1%",
-      "growthSource": "4yr Revenue CAGR",
-      "description": "Neostellar Capital Corp. (Nasdaq: NSLR ), formerly SuRo Capital Corp. (Nasdaq: SSSS), has been a publicly traded investment company focused on investing in private, venture-backed businesses for over 15 years. In simple terms, Neostellar invests in companies that are not yet listed on a public stock exchange. By owning shares of Neostellar, investors can gain exposure to a portfolio of VC-backed companies through a publicly traded stock. Neostellar is externally managed by Neostellar Advisors LLC, a joint venture owned by certain Neostellar Advisors employees and Magnetar Holdings LLC. Together, the platform combines experience in private company investing with institutional investment management capabilities. Neostellar Capital Corp. is headquartered in New York, NY and has an office in San Francisco, CA. Connect with the Company on X, LinkedIn, and at neostellar.vc .",
-      "dividendHistory": [
-        {
-          "year": "2016",
-          "amount": "$2.80"
-        },
-        {
-          "year": "2019",
-          "amount": "$0.32"
-        },
-        {
-          "year": "2020",
-          "amount": "$0.87"
-        },
-        {
-          "year": "2021",
-          "amount": "$8.00"
-        },
-        {
-          "year": "2022",
-          "amount": "$0.11"
-        },
-        {
-          "year": "2025",
-          "amount": "$0.50"
-        }
-      ],
-      "dividendYears": 6,
-      "dividendGrowth": {
-        "rate": "-17.4%",
-        "years": 9
       }
     },
     {
@@ -6321,7 +6275,7 @@
       "paymentDate": "10/01/2026",
       "growthRate": "14.4%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Medallion Bank specializes in providing consumer loans for the purchase of recreational vehicles, boats, and home improvements, and offering loan origination services to fintech partners. The Bank works directly with thousands of dealers, contractors and financial service providers serving their customers throughout the United States. Medallion Bank is a Utah-chartered, FDIC-insured industrial bank headquartered in Salt Lake City, and is a wholly owned subsidiary of Medallion Financial Corp. (NASDAQ:MFIN).",
+      "description": "Medallion Financial Corp. (NASDAQ: MFIN) and its subsidiaries originate and service a portfolio of consumer loans and mezzanine loans in various industries. Key industries served include recreation (towable RVs and marine) and home improvement (swimming pools, replacement roofs, and windows). Medallion Financial Corp. is headquartered in New York City, NY, and its largest subsidiary, Medallion Bank, is headquartered in Salt Lake City, Utah. For more information, please visit www.medallion.com.",
       "dividendHistory": [
         {
           "year": "2025",
@@ -7993,7 +7947,7 @@
       "paymentDate": "10/01/2026",
       "growthRate": "22.5%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Merchants Bancorp is a diversified bank holding company headquartered in Carmel, Indiana operating multiple segments, including Multi-family Mortgage Banking that primarily offers multi-family housing and healthcare facility financing and servicing (through this segment it also serves as a syndicator of low-income housing tax credit and debt funds); Mortgage Warehousing that offers mortgage warehouse financing, commercial loans, and deposit services; and Banking that offers retail and correspondent residential mortgage banking, agricultural lending, and traditional community banking. Merchants Bancorp, with $20.9 billion in assets and $15 billion in deposits as of September 30, 2026, conducts its business primarily through its direct and indirect subsidiaries, Merchants Bank of Indiana, Merchants Capital Corp., Merchants Capital Investments, LLC, Merchants Capital Servicing, LLC, Merchants Investment Partners, LLC, and Merchants Mortgage, a division of Merchants Bank of Indiana.",
+      "description": "Merchants Bancorp is a diversified bank holding company headquartered in Carmel, Indiana operating multiple segments, including Multifamily Mortgage Banking, that primarily offers multifamily housing and healthcare facility financing and servicing (through this segment it also serves as a syndicator of low-income housing tax credit and debt funds); Mortgage Warehousing that offers mortgage warehouse financing, commercial loans, and deposit services; and Banking that offers retail and correspondent residential mortgage banking, agricultural lending, and traditional community banking. Merchants Bancorp , with $20.9 billion in assets and $15 billion in deposits as of September 30, 2026 , conducts its business primarily through its direct and indirect subsidiaries, Merchants Bank of Indiana , Merchants Capital Corp.",
       "dividendHistory": [
         {
           "year": "2024",
@@ -14277,7 +14231,7 @@
       "paymentDate": "07/15/2026",
       "growthRate": "27.06%",
       "growthSource": "Analyst Forecast",
-      "description": "Opera is a user-centric and innovative software company focused on enabling the best possible internet browsing experience across devices. Hundreds of millions worldwide use Opera's mobile and desktop browsers for their speed, security, and unique features, enhanced with integrated AI that enables users to navigate and interact with the web in new transformative ways.",
+      "description": "Opera is a user-centric and innovative software company focused on enabling the best possible internet browsing experience across all devices. Hundreds of millions worldwide use Opera's mobile and desktop browsers for their speed, security, and unique features, enhanced with integrated AI that enables users to navigate and interact with the web in new transformative ways.",
       "dividendHistory": [
         {
           "year": "2023",
@@ -15129,7 +15083,7 @@
       "paymentDate": "08/24/2026",
       "growthRate": "24.34%",
       "growthSource": "Analyst Forecast",
-      "description": "Matthews International Corporation is a global provider of memorialization products, industrial technologies, and brand solutions. Matthews International Corporation operates through two core global businesses - Industrial Technologies and Memorialization. Both are focused on driving operational efficiency and long-term growth through continuous innovation and strategic expansion. The Industrial Technologies segment evolved from our original marking business, which today is a leading global innovator committed to empowering visionaries to transform industries through the application of precision technologies and intelligent processes. The Memorialization segment is a leading provider of memorialization products, including memorials, caskets and cremation and incineration equipment, principally to cemetery and funeral home customers that help families move from grief to remembrance.",
+      "description": "Matthews International Corporation operates through two core global businesses - Memorialization and Industrial Technologies . Both are focused on driving operational efficiency and long-term growth through continuous innovation and strategic expansion. The Memorialization segment is a leading provider of memorialization products, including memorials, caskets and cremation and incineration equipment, principally to cemetery and funeral home customers that help families move from grief to remembrance. The Industrial Technologies segment evolved from our original marking business, which today is a leading global innovator committed to empowering visionaries to transform industries through the application of precision technologies and intelligent processes. In addition, the Company also has a significant investment in Propelis, a brand solutions business formed through the merger of SGK and SGS & Co.",
       "dividendHistory": [
         {
           "year": "1994",
@@ -15247,7 +15201,7 @@
       "paymentDate": "06/03/2026",
       "growthRate": "14.49%",
       "growthSource": "Analyst Forecast",
-      "description": "Sanofi is an R&D driven, AI-powered biopharma company committed to improving people's lives and delivering compelling growth. We apply our deep understanding of the immune system to invent medicines and vaccines that treat and protect millions of people around the world, with an innovative pipeline that could benefit millions more.Our team is guided by one purpose: we chase the miracles of science to improve people's lives; this inspires us to drive progress and deliver positive impact for our people and the communities we serve, by addressing the most urgent healthcare, environmental, and societal challenges of our time.",
+      "description": "Sanofi is an R&D driven, AI-powered biopharma company committed to improving people's lives and delivering compelling growth. We apply our deep understanding of the immune system to invent medicines and vaccines that treat and protect millions of people around the world, with an innovative pipeline that could benefit millions more. Our team is guided by one purpose: we chase the miracles of science to improve people's lives; this inspires us to drive progress and deliver positive impact for our people and the communities we serve, by addressing the most urgent healthcare, environmental, and societal challenges of our time.",
       "dividendHistory": [
         {
           "year": "2004",
@@ -16615,7 +16569,7 @@
       "paymentDate": "10/02/2026",
       "growthRate": "-8.77%",
       "growthSource": "Analyst Forecast",
-      "description": "Kimberly-Clark (NASDAQ: KMB) is the preeminent global health and wellness leader, built to deliver extraordinary care. Our portfolio of iconic personal care and consumer health brands, including Huggies, Listerine, Cottonelle, Neutrogena, Depend, Tylenol, Kleenex, Johnson's Baby, Kotex and Scott, serves consumers across every stage of life in more than 175 countries. We combine consumer-led innovation, leading brand-building and commercial capabilities, and a fast and agile operating model to raise the standard of care for billions of people around the world. We are committed to using sustainable practices designed to support a healthy planet, build strong communities, and enable our business to thrive for decades to come. To keep up with the latest news and learn more about the company's more than 150-year history, visit the Kimberly-Clark website.",
+      "description": "Kimberly-Clark de México, S. A. B. de C. V., together with its subsidiaries, manufactures, distributes, and sells disposable products in Mexico. It operates through Consumer Products and Professional segments. The company offers diapers, training pants, swim pants, wet wipes, shampoos, lotion, bar soaps, and feeding products. It also provides toilet paper, napkins, facial tissues, paper towels, feminine pads, panty liners, tampons, intimate wipes, and menstrual cups. In addition, the company offers pet food, shampoos, wet wipes, and training pads. Further, it provides bar soap, liquid hand soap, foaming liquid soap, and liquid body wash; and underwear, protectors, feminine napkins, pre-folded products for adults. Additionally, the company offers anti-bacterial gels; disinfectant sprays; face masks; dispensers; hand towels; and industrial cleaning cloths.",
       "dividendHistory": [
         {
           "year": "2000",
@@ -18669,7 +18623,7 @@
       "paymentDate": "09/30/2026",
       "growthRate": "3.1%",
       "growthSource": "Analyst Forecast",
-      "description": "PepsiCo products are enjoyed by consumers more than one billion times a day in more than 200 countries and territories around the world. PepsiCo generated nearly $94 billion in net revenue in 2025, driven by a complementary beverage and convenient foods portfolio that includes Lay's, Doritos, Cheetos, Gatorade, Pepsi-Cola, Mountain Dew, Quaker, and SodaStream. PepsiCo's product portfolio includes a wide range of enjoyable foods and beverages, including many iconic brands that generate more than $1 billion each in estimated annual retail sales. Guiding PepsiCo is our vision to Be the Global Leader in Beverages and Convenient Foods by Winning with pep+ (PepsiCo Positive). pep+ is our strategic end-to-end transformation that puts sustainability and human capital at the center of how we will create value and growth by operating within planetary boundaries and inspiring positive change for planet and people.",
+      "description": "PepsiCo products are enjoyed by consumers more than one billion times a day in more than 200 countries and territories around the world. PepsiCo generated nearly $94 billion in net revenue in 2025, driven by a complementary beverage and convenient foods portfolio that includes Lay's, Doritos, Cheetos, Gatorade, Pepsi-Cola, Mountain Dew, Quaker and SodaStream. PepsiCo's product portfolio includes a wide range of enjoyable foods and beverages, including many iconic brands that generate more than $1 billion each in estimated annual retail sales. Guiding PepsiCo is our vision to Be the Global Leader in Beverages and Convenient Foods by Winning with pep+ (PepsiCo Positive). pep+ is our strategic end-to-end transformation that places sustainability at the center of our business strategy, seeking to drive growth and build a stronger, more resilient future for PepsiCo and the communities where we operate.",
       "dividendHistory": [
         {
           "year": "2000",
@@ -19869,7 +19823,7 @@
       "paymentDate": "10/08/2026",
       "growthRate": "1.38%",
       "growthSource": "Analyst Forecast",
-      "description": "The Company, through its wholly owned operating subsidiary, United Business Bank, offers a full range of loans, including SBA, CalCAP, FSA and USDA guaranteed loans, and deposit products and services to businesses and their affiliates in California, Washington, New Mexico, Colorado and Nevada. The Bank is an Equal Housing Lender and a member of FDIC. The Company's common stock is listed on the NASDAQ Global Select Market under the symbol 'BCML'. For more information, go to www.unitedbusinessbank.com.",
+      "description": "The Company, through its wholly owned operating subsidiary, United Business Bank, offers a full range of loans, including SBA, CalCAP, FSA and USDA guaranteed loans, and deposit products and services to businesses and their affiliates in California, Nevada, Washington, New Mexico and Colorado. The Bank is an Equal Housing Lender and a member of FDIC. The Company's common stock is traded on the NASDAQ under the symbol 'BCML'.",
       "dividendHistory": [
         {
           "year": "2022",
@@ -24323,7 +24277,7 @@
       "paymentDate": "10/02/2026",
       "growthRate": "14.13%",
       "growthSource": "Analyst Forecast",
-      "description": "Financial Institutions, Inc. (NASDAQ: FISI) is a financial holding company with approximately $6.5 billion in assets offering banking and wealth management products and services. Its Five Star Bank subsidiary provides consumer and commercial banking and lending services to individuals, municipalities and businesses through banking locations spanning Western and Central New York and a commercial loan production office serving the Mid-Atlantic region. Its Courier Capital, LLC subsidiary offers customized investment management, consulting and retirement plan services to individuals, businesses, institutions, foundations and retirement plans.",
+      "description": "Financial Institutions, Inc. (NASDAQ: FISI) is a financial holding company with approximately $6.5 billion in assets as of September 30, 2026, offering banking and wealth management products and services. Its Five Star Bank subsidiary provides consumer and commercial banking and lending services to individuals, municipalities and businesses through banking locations spanning Western and Central New York and a commercial loan production office serving the Mid-Atlantic region. Courier Capital, LLC offers customized investment management, financial planning and consulting services to individuals and families, businesses, institutions, non-profits and retirement plans.",
       "dividendHistory": [
         {
           "year": "1999",
@@ -24539,7 +24493,7 @@
       "paymentDate": "10/01/2026",
       "growthRate": "53.66%",
       "growthSource": "Analyst Forecast",
-      "description": "Smith & Wesson Brands, Inc. (NASDAQ Global Select: SWBI) is a U.S. -based leader in firearm manufacturing and design, delivering a broad portfolio of quality handgun, long gun, and suppressor products to the global consumer and professional markets under the iconic Smith & Wesson and Gemtech brands. Additionally, the company provides manufacturing services such as forging and machining to third parties and offers world-class firearm training programs to Law Enforcement/Military departments and civilians at the Smith & Wesson Academy in Maryville, Tennessee.",
+      "description": "Smith & Wesson Brands, Inc. (NASDAQ: SWBI) is a U.S.-based leader in firearm manufacturing and design, delivering a broad portfolio of quality handgun, long gun, and suppressor products to the global consumer and professional markets under the iconic Smith & Wesson, Savage, and Gemtech brands.",
       "dividendHistory": [
         {
           "year": "2020",
@@ -30711,7 +30665,7 @@
       "paymentDate": "11/23/2026",
       "growthRate": "4.8%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "Jerash Holdings (US), Inc. manufactures and exports custom, ready-made, sportswear and outerwear for leading global brands and retailers, including VF Corporation (which owns brands such as The North Face, Timberland, and Vans), New Balance, G-III (which licenses brands such as Calvin Klein, Tommy Hilfiger, and Nautica), Urban Outfitters, American Eagle, and Acushnet Holdings Corp (which owns the brand FootJoy). Jerash's existing production facilities in Jordan comprise eight factory units and six warehouses, and Jerash currently employs approximately 6,600 people. Additional information is available at www.jerashholdings.com.",
+      "description": "Jerash Holdings (US), Inc. manufactures and exports custom, ready-made, sportswear and outerwear for leading global brands and retailers, including VF Corporation (which owns brands such as The North Face, Timberland, and Vans), New Balance, G-III (which licenses brands such as Calvin Klein , Tommy Hilfiger , and Nautica), Urban Outfitters, American Eagle, and Acushnet Holdings Corp (which owns the brand FootJoy). Jerash Holdings' existing production facilities in Jordan comprise eight factory units and six warehouses, and Jerash Holdings currently employs approximately 6,600 people.",
       "dividendHistory": [
         {
           "year": "2018",
@@ -31543,7 +31497,7 @@
       "paymentDate": "10/09/2026",
       "growthRate": "12.47%",
       "growthSource": "Analyst Forecast",
-      "description": "Keurig Dr Pepper (Nasdaq: KDP) is a leading beverage company with more than 150 owned, licensed and partner brands that meet a wide range of needs and occasions. Our North American refreshment beverage business holds leadership positions across carbonated soft drinks, water, juice and mixers with a portfolio of iconic brands such as Dr Pepper, Canada Dry, Mott's, A&W, Penafiel, GHOST, 7UP, Snapple, Clamato and Core Hydration. Our global coffee business spans more than 100 markets and includes the leading Keurig single-serve brewing system in the U.S . and Canada , along with powerhouse brands such as Peet's, L'OR and Jacobs, and other regional coffee leaders. Our more than 50,000 employees aim to enhance the experience of every beverage and coffee occasion while making a positive impact for people, communities and the planet.",
+      "description": "Keurig Dr Pepper (Nasdaq: KDP ) is a leading beverage company in North America, with a portfolio of more than 125 owned, licensed and partner brands and powerful distribution capabilities to provide a beverage for every need, anytime, anywhere. With annual revenue of more than $15 billion, we hold leadership positions in beverage categories including carbonated soft drinks, coffee, tea, water, juice and mixers, and have the #1 single serve coffee brewing system in the U.S. and Canada. Our innovative partnership model builds emerging growth platforms in categories such as premium coffee, energy, sports hydration and ready-to-drink coffee. Our brands include Keurig, Dr Pepper, Canada Dry, Mott's, A&W, Penafiel, Snapple, 7UP, Green Mountain Coffee Roasters, GHOST, Clamato, Core Hydration and The Original Donut Shop. Driven by a purpose to Drink Well. Do Good.",
       "dividendHistory": [
         {
           "year": "2009",
@@ -34213,7 +34167,7 @@
       "paymentDate": "12/01/2026",
       "growthRate": "27.92%",
       "growthSource": "Analyst Forecast",
-      "description": "Warner Music Group (WMG) brings together artists, songwriters, entrepreneurs, and technology that are moving entertainment culture across the globe. WMG's Recorded Music division includes renowned labels such as 10K Projects, 300 Entertainment, Asylum, Atlantic, Big Beat, EastWest, Elektra, Erato, Fueled By Ramen, Nonesuch, Parlophone, Reprise, Rhino, Roadrunner, Sire, Spinnin', Warner Records, Warner Classics, and Warner Records Nashville. WMG's music publishing arm, Warner Chappell Music, has a catalog of over one million copyrights spanning every musical genre, from the standards of the Great American Songbook to the biggest hits of the 21st century. Warner Music Group is also home to ADA, which supports the independent community, as well as artist services division WMX. Follow WMG on Instagram, X, TikTok, LinkedIn, and Facebook.",
+      "description": "With a legacy extending back over 200 years, Warner Music Group today is home to an unparalleled family of creative artists, songwriters, and companies that are moving culture across the globe. At the core of WMG's Recorded Music division are four of the most iconic companies in history: Atlantic, Elektra, Parlophone and Warner Records. They are joined by renowned labels such as TenThousand Projects, 300 Entertainment, Asylum, Big Beat, Canvasback, East West, Erato, FFRR, Fueled by Ramen, Nonesuch, Reprise, Rhino, Roadrunner, Sire, Spinnin' Records, Warner Classics and Warner Records Nashville. Warner Chappell Music - which traces its origins back to the founding of Chappell & Company in 1811 - is one of the world's leading music publishers, with a catalog of more than one million copyrights spanning every musical genre from the standards of the Great American Songbook to the biggest hits of the 21st century.",
       "dividendHistory": [
         {
           "year": "2020",
@@ -38269,7 +38223,7 @@
       "paymentDate": "09/22/2026",
       "growthRate": "3.33%",
       "growthSource": "Analyst Forecast",
-      "description": "Capital City Bank Group, Inc. (NASDAQ: CCBG) is one of the largest publicly traded financial holding companies headquartered in Florida and has approximately $4.4 billion in assets. We provide a full range of banking services, including traditional deposit and credit services, mortgage banking, asset management, trust, merchant services, bankcards, and securities brokerage services. Our bank subsidiary, Capital City Bank, was founded in 1895 and has 62 banking offices and 107 ATMs/ITMs in Florida, Georgia and Alabama.",
+      "description": "Capital City Bank Group, Inc. (NASDAQ: CCBG) is one of the largest publicly traded financial holding companies headquartered in Florida and has approximately $4.4 billion in assets. We provide a full range of banking services, including traditional deposit and credit services, mortgage banking, asset management, trust, merchant services, bankcards, and securities brokerage services. Our bank subsidiary, Capital City Bank, was founded in 1895 and has 62 banking offices, 27 mortgage offices and 107 ATMs/ITMs in Florida, Georgia and Alabama.",
       "dividendHistory": [
         {
           "year": "1997",
@@ -42331,7 +42285,7 @@
       "paymentDate": "09/18/2026",
       "growthRate": "13.73%",
       "growthSource": "Analyst Forecast",
-      "description": "NetEase Cloud Music (' Cloud Music Inc., ' HKEX: 9899) is one of the leading online music platforms in China with over 200 million monthly active users, featuring an interactive content community for music enthusiasts in terms of user scale and engagement. NCM is also the leading original music platform in China, hosting more than 1.25 million independent musicians. NCM has built a large-scale, robust and rapidly growing business to provide community-centric online music services to its users. NCM empowers music enthusiasts with a wide variety of technology-driven tools to discover, enjoy, share and create diverse music and music-inspired content and to interact with each other.",
+      "description": "NetEase, Inc. (NASDAQ: NTES and HKEX: 9999, ' NetEase ') is a leading internet and game services provider centered around premium content. With extensive offerings across its expanding gaming ecosystem, the Company develops and operates some of the most popular and longest-running mobile and PC games available in China and globally. Powered by one of the largest in-house game R&D teams focused on mobile, PC and console, NetEase creates superior gaming experiences, inspires players, and passionately delivers value for its thriving community worldwide. By infusing play with culture, and education with technology, NetEase transforms gaming into a meaningful vehicle to build a more entertaining and enlightened world.",
       "dividendHistory": [
         {
           "year": "2014",
@@ -42743,7 +42697,7 @@
       "paymentDate": "10/16/2026",
       "growthRate": "36.65%",
       "growthSource": "Analyst Forecast",
-      "description": "Intuit is the global financial technology platform that powers prosperity for the consumers, businesses, and accountants we serve, with products including TurboTax, Credit Karma, QuickBooks, Mailchimp, Intuit Enterprise Suite, and Intuit Accountant Suite. Intuit's financial intelligence brings together decades of trusted data, deep financial expertise, AI, and human experts to help customers at every stage of their financial journey. This puts more money in their pockets, saves time by reducing manual work, and ensures they have complete confidence in every financial decision.",
+      "description": "Intuit is the global financial technology platform that powers prosperity for the consumers, businesses, and accountants we serve, with products including TurboTax , Credit Karma , QuickBooks , Mailchimp , Intuit Enterprise Suite , and Intuit Accountant Suite . Intuit 's financial intelligence brings together decades of trusted data, deep financial expertise, AI, and human experts to help customers at every stage of their financial journey. This puts more money in their pockets, saves time by reducing manual work, and ensures they have complete confidence in every financial decision.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -45447,7 +45401,7 @@
       "paymentDate": "09/10/2026",
       "growthRate": "11.31%",
       "growthSource": "Analyst Forecast",
-      "description": "CDW Corporation (Nasdaq: CDW) is the strategic end-to-end technology partner that cuts through complexity to turn customer ambition into outcomes. Working with organizations across the business, government, education and healthcare sectors in the United States, the United Kingdom and Canada, CDW enables organizations to navigate an increasingly complex technology market and turn their technology investments into lasting value.",
+      "description": "CDW Corporation (Nasdaq: CDW) is the strategic end-to-end technology partner that cuts through complexity to turn customer ambition into outcomes. Working with organizations across the business, government, education and healthcare sectors in the United States , the United Kingdom and Canada , CDW enables organizations to navigate an increasingly complex technology market and turn their technology investments into lasting value.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -50065,7 +50019,7 @@
       "paymentDate": "12/02/2026",
       "growthRate": "31.31%",
       "growthSource": "Analyst Forecast",
-      "description": "Palomar Holdings, Inc. is the holding company of subsidiaries Palomar Specialty Insurance Company ('PSIC'), Palomar Specialty Reinsurance Company Bermuda Ltd. ('PSRE'), Palomar Insurance Agency, Inc., Palomar Excess and Surplus Insurance Company ('PESIC'), Palomar Underwriters Exchange Organization, Inc. ('PUEO'), First Indemnity of America Insurance Co. ('FIA'), Palomar Crop Insurance Services, Inc. ('PCIS'), and Palomar Casualty and Surety Company ('PCSC'), formerly known as The Gray Casualty & Surety Company. Palomar's consolidated results also include Laulima Exchange ('Laulima'), a variable interest entity for which the Company is the primary beneficiary. Palomar is an innovative specialty insurer serving residential and commercial clients in five product categories: Earthquake, Inland Marine and Other Property, Casualty, Fronting, and Crop.",
+      "description": "Palomar Holdings, Inc. is the holding company of subsidiaries Palomar Specialty Insurance Company ('PSIC'), Palomar Specialty Reinsurance Company Bermuda Ltd. ('PSRE'), Palomar Insurance Agency, Inc., Palomar Excess and Surplus Insurance Company ('PESIC'), Palomar Underwriters Exchange Organization, Inc. ('PUEO'), First Indemnity of America Insurance Co. ('FIA'), Palomar Crop Insurance Services, Inc. ('PCIS'), and Palomar Casualty and Surety Company ('PCSC'). Palomar's consolidated results also include Laulima Exchange ('Laulima'), a variable interest entity for which the Company is the primary beneficiary. Palomar is an innovative specialty insurer serving residential and commercial clients in five product categories: Earthquake, Inland Marine and Property, Casualty, Surety & Credit, and Crop.",
       "dividendHistory": [
         {
           "year": "2026",
@@ -51395,7 +51349,7 @@
       "paymentDate": "10/23/2026",
       "growthRate": "0.2%",
       "growthSource": "Analyst Forecast",
-      "description": "SAIC is a premier mission integrator focused on advancing the power of technology and innovation to serve and protect our world. Our robust portfolio of offerings across the defense, space, civilian and intelligence markets includes secure high-end solutions in mission IT, enterprise IT, engineering services and professional services. We integrate emerging technology, rapidly and securely, into mission critical operations that modernize and enable critical national imperatives. We are approximately 23,000 strong; driven by mission, united by purpose, and inspired by opportunities. Headquartered in Reston, Virginia, SAIC has annual revenues of approximately $7.3 billion.",
+      "description": "SAIC is a premier mission integrator focused on advancing the power of technology and innovation to serve and protect our world. Our robust portfolio of offerings across the defense, space, intelligence, and civilian markets includes secure high-end solutions in mission IT, enterprise IT, engineering services, and professional services. We integrate emerging technology, rapidly and securely, into mission critical operations that modernize and enable critical national imperatives. We are approximately 23,000 strong; driven by mission, united by purpose, and inspired by opportunities. Headquartered in Reston, Virginia, SAIC has annual revenues of approximately $7.3 billion.",
       "dividendHistory": [
         {
           "year": "2013",
@@ -52749,7 +52703,7 @@
       "paymentDate": "10/01/2026",
       "growthRate": "64.2%",
       "growthSource": "Analyst Forecast",
-      "description": "Merchants Bancorp is a diversified bank holding company headquartered in Carmel, Indiana operating multiple segments, including Multi-family Mortgage Banking that primarily offers multi-family housing and healthcare facility financing and servicing (through this segment it also serves as a syndicator of low-income housing tax credit and debt funds); Mortgage Warehousing that offers mortgage warehouse financing, commercial loans, and deposit services; and Banking that offers retail and correspondent residential mortgage banking, agricultural lending, and traditional community banking. Merchants Bancorp, with $20.9 billion in assets and $15 billion in deposits as of September 30, 2026, conducts its business primarily through its direct and indirect subsidiaries, Merchants Bank of Indiana, Merchants Capital Corp., Merchants Capital Investments, LLC, Merchants Capital Servicing, LLC, Merchants Investment Partners, LLC, and Merchants Mortgage, a division of Merchants Bank of Indiana.",
+      "description": "Merchants Bancorp is a diversified bank holding company headquartered in Carmel, Indiana operating multiple segments, including Multifamily Mortgage Banking, that primarily offers multifamily housing and healthcare facility financing and servicing (through this segment it also serves as a syndicator of low-income housing tax credit and debt funds); Mortgage Warehousing that offers mortgage warehouse financing, commercial loans, and deposit services; and Banking that offers retail and correspondent residential mortgage banking, agricultural lending, and traditional community banking. Merchants Bancorp , with $20.9 billion in assets and $15 billion in deposits as of September 30, 2026 , conducts its business primarily through its direct and indirect subsidiaries, Merchants Bank of Indiana , Merchants Capital Corp.",
       "dividendHistory": [
         {
           "year": "2017",
@@ -52997,7 +52951,7 @@
       "paymentDate": "08/31/2026",
       "growthRate": "7.4%",
       "growthSource": "4yr Revenue CAGR",
-      "description": "PriceSmart, headquartered in San Diego, owns and operates U.S. -style membership shopping warehouse clubs in Latin America and the Caribbean, selling high quality merchandise and services at low prices to PriceSmart Members. PriceSmart operates 59 warehouse clubs in 12 countries and one U.S. territory (ten each in Colombia and Costa Rica ; seven each in Panama and Guatemala ; six in Dominican Republic ; four each in Trinidad and El Salvador ; three each in Jamaica and Honduras ; two in Nicaragua ; and one each in Aruba, Barbados and the United States Virgin Islands ). In addition, the Company plans to open one new warehouse club on South Camp Road ( Kingston ), Jamaica in December of 2026, one warehouse club in Villa Nueva, Guatemala in late winter of 2027, one warehouse club in Santo Tomas de Santo Domingo (Heredia), Costa Rica in the spring of 2027, and one warehouse in Comuna Las Condes, Santiago, Chile in the spring of 2027.",
+      "description": "PriceSmart , headquartered in San Diego , owns and operates U.S .-style membership shopping warehouse clubs in Latin America and the Caribbean , selling high-quality merchandise and services at low prices to PriceSmart Members. PriceSmart operates 59 warehouse clubs in 12 countries and one U.S . territory (ten each in Colombia and Costa Rica ; seven each in Panama and Guatemala ; six in Dominican Republic ; four each in Trinidad and El Salvador ; three each in Jamaica and Honduras ; two in Nicaragua ; and one each in Aruba , Barbados and the United States Virgin Islands ). In addition, the Company plans to open one new warehouse club on South Camp Road ( Kingston ), Jamaica in January 2027 , one warehouse club in Villa Nueva, Guatemala in late winter of 2027, one warehouse club in Santo Tomas de Santo Domingo (Heredia), Costa Rica in the spring of 2027, and one warehouse in Comuna Las Condes, Santiago, Chile in the spring of 2027.",
       "dividendHistory": [
         {
           "year": "2014",
@@ -56223,7 +56177,7 @@
       "paymentDate": "11/13/2026",
       "growthRate": "11.15%",
       "growthSource": "Analyst Forecast",
-      "description": "Costco Wholesale currently operates 946 warehouses worldwide and 116 warehouses across Canada. This NE Edmonton location is the first of 4 new warehouse openings this week across Canada. NE Edmonton, Alberta - November 18th, Lloydminster, Alberta - November 19th, East Windsor, Ontario - November 20th, Wasaga Beach, Ontario - November 21st. The first Costco Wholesale location in Canada opened in Burnaby, BC in October 1985. Costco Wholesale employs over 50,000 people in Canada. Its Canadian head office is located at 415 West Hunt Club Road in Ottawa. Revenues from corporate sales for the fiscal year ending August 30, 2026, were of $297.3 billion (US) (COST - NASDAQ).",
+      "description": "Costco Wholesale currently operates 947 warehouses worldwide and 117 warehouses across Canada. This Lloydminster location is the second of 4 new warehouse openings this week across Canada. NE Edmonton, Alberta - November 18th, Lloydminster, Alberta - November 19th, East Windsor, Ontario - November 20th, Wasaga Beach, Ontario - November 21st. The first Costco Wholesale location in Canada opened in Burnaby, BC in October 1985. Costco Wholesale employs over 50,000 people in Canada. Its Canadian head office is located at 415 West Hunt Club Road in Ottawa. Revenues from corporate sales for the fiscal year ending August 30, 2026, were of $297.3 billion (US) (COST - NASDAQ).",
       "dividendHistory": [
         {
           "year": "2013",
@@ -57571,7 +57525,7 @@
       "paymentDate": "11/30/2026",
       "growthRate": "17.1%",
       "growthSource": "Analyst Forecast",
-      "description": "LPL Financial Holdings Inc. (Nasdaq: LPLA) is among the fastest growing wealth management firms in the U.S. As a leader in the financial advisor-mediated marketplace, LPL supports over 32,000 financial advisors and the wealth management practices of approximately 1,100 financial institutions, servicing and custodying approximately $2.6 trillion in brokerage and advisory assets on behalf of approximately 8 million Americans. The firm provides a wide range of advisor affiliation models, investment solutions, fintech tools and practice management services, ensuring that advisors and institutions have the flexibility to choose the business model, services, and technology resources they need to run thriving businesses. For further information about LPL, please visit www.lpl.com.",
+      "description": "LPL Financial Holdings Inc. (Nasdaq: LPLA) is among the fastest growing wealth management firms in the U.S. As a leader in the financial advisor-mediated marketplace, LPL supports more than 32,000 financial advisors and the wealth management practices of approximately 1,100 financial institutions, servicing and custodying approximately $2.6 trillion in brokerage and advisory assets on behalf of approximately 8 million Americans. The firm provides a wide range of advisor affiliation models, investment solutions, fintech tools and practice management services, ensuring that advisors and institutions have the flexibility to choose the business model, services, and technology resources they need to run thriving businesses.",
       "dividendHistory": [
         {
           "year": "2013",
